@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>[[ti1:nonSort]]</nonSort>
+    <title>[[ti1:title]]</title>
+    <subTitle>[[ti1:subTitle]]</subTitle> 
+    <partNumber>[[ti1:partNumber]]</partNumber> 
+    <partName>[[ti1:partName]]</partName>
+  </titleInfo>
+  <titleInfo type="[[ti2:type]]">
+    <nonSort>[[ti2:nonSort]]</nonSort>
+    <title>[[ti2:title]]</title>
+    <subTitle>[[ti2:subTitle]]</subTitle> 
+    <partNumber>[[ti2:partNumber]]</partNumber> 
+    <partName>[[ti2:partName]]</partName>
+  </titleInfo>
+  <titleInfo type="[[ti3:type]]">
+    <nonSort>[[ti3:nonSort]]</nonSort>
+    <title>[[ti3:title]]</title>
+    <subTitle>[[ti3:subTitle]]</subTitle> 
+    <partNumber>[[ti3:partNumber]]</partNumber> 
+    <partName>[[ti3:partName]]</partName>
+  </titleInfo>
+  <name type="[[na1:nameType]]">
+    <namePart>[[na1:namePart]]</namePart>
+    <role>
+      <roleTerm authority="[[ro1:authority]]" type="code">[[ro1:roleCode]]</roleTerm>
+      <roleTerm authority="[[ro1:authority]]" type="text">[[ro1:roleText]]</roleTerm>
+    </role>
+  </name>
+  <name type="[[na2:nameType]]">
+    <namePart>[[na2:namePart]]</namePart>
+    <role>
+      <roleTerm authority="[[ro2:authority]]" type="code">[[ro2:roleCode]]</roleTerm>
+      <roleTerm authority="[[ro2:authority]]" type="text">[[ro2:roleText]]</roleTerm>
+    </role>
+  </name>
+  <name type="[[na3:nameType]]">
+    <namePart>[[na3:namePart]]</namePart>
+    <role>
+      <roleTerm authority="[[ro3:authority]]" type="code">[[ro3:roleCode]]</roleTerm>
+      <roleTerm authority="[[ro3:authority]]" type="text">[[ro3:roleText]]</roleTerm>
+    </role>
+  </name>
+  <name type="[[na4:nameType]]">
+    <namePart>[[na4:namePart]]</namePart>
+    <role>
+      <roleTerm authority="[[ro4:authority]]" type="code">[[ro4:roleCode]]</roleTerm>
+      <roleTerm authority="[[ro4:authority]]" type="text">[[ro4:roleText]]</roleTerm>
+    </role>
+  </name>
+  <name type="[[na5:nameType]]">
+    <namePart>[[na5:namePart]]</namePart>
+    <role>
+      <roleTerm authority="[[ro5:authority]]" type="code">[[ro5:roleCode]]</roleTerm>
+      <roleTerm authority="[[ro5:authority]]" type="text">[[ro5:roleText]]</roleTerm>
+    </role>
+  </name>
+  <typeOfResource collection="[[ty1:collection]]" manuscript="[[ty1:manuscript]]">[[ty1:typeOfResource]]</typeOfResource>
+  <typeOfResource collection="[[ty2:collection]]" manuscript="[[ty2:manuscript]]">[[ty2:typeOfResource]]</typeOfResource>
+  <typeOfResource collection="[[ty3:collection]]" manuscript="[[ty3:manuscript]]">[[ty3:typeOfResource]]</typeOfResource>
+  <genre type="[[ge1:type]]" authority="[[ge1:authority]]" valueURI="[[ge1:valueURI]]">[[ge1:genre]]</genre>
+  <genre type="[[ge2:type]]" authority="[[ge2:authority]]" valueURI="[[ge2:valueURI]]">[[ge2:genre]]</genre>
+  <genre type="[[ge3:type]]" authority="[[ge3:authority]]" valueURI="[[ge3:valueURI]]">[[ge3:genre]]</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="[[pl:authority]]">[[pl:placeCode]]</placeTerm>
+      <placeTerm type="text" authority="[[pl:authority]]">[[pl:placeText]]</placeTerm>
+    </place>
+    <publisher>[[or:publisher]]</publisher>
+    <dateCreated keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="start">[[dt:dateCreated]]</dateCreated>
+    <dateCreated keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="end">[[dt:dateCreated2]]</dateCreated>
+    <dateIssued keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="start">[[dt:dateIssued]]</dateIssued>
+    <dateIssued keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="end">[[dt:dateIssued2]]</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="[[la1:authority]]" type="code">[[la1:code]]</languageTerm>
+    <languageTerm authority="[[la1:authority]]" type="text">[[la1:text]]</languageTerm>
+  </language>
+  <language>
+    <languageTerm authority="[[la2:authority]]" type="code">[[la2:code]]</languageTerm>
+    <languageTerm authority="[[la2:authority]]" type="text">[[la2:text]]</languageTerm>
+  </language>
+  <language>
+    <languageTerm authority="[[la3:authority]]" type="code">[[la3:code]]</languageTerm>
+    <languageTerm authority="[[la3:authority]]" type="text">[[la3:text]]</languageTerm>
+  </language>
+  <abstract displayLabel="[[ab:displayLabel]]">[[ab:abstract]]</abstract>
+  <abstract displayLabel="[[tc:displayLabel]]">[[tc:tableOfContents]]</abstract>
+  <note type="no1:type" displayLabel="no1:displayLabel">[[no1:note]]</note>
+  <note type="no2:type" displayLabel="no2:displayLabel">[[no2:note]]</note>
+  <note type="no3:type" displayLabel="no3:displayLabel">[[no3:note]]</note>
+  <note type="no4:type" displayLabel="no4:displayLabel">[[no4:note]]</note>
+  <note type="no5:type" displayLabel="no5:displayLabel">[[no5:note]]</note>
+  <subject>
+    <topic>[[su1:subject]]</topic>
+  </subject>
+  <subject>
+    <topic>[[su2:subject]]</topic>
+  </subject>
+  <subject>
+    <topic>[[su3:subject]]</topic>
+  </subject>
+  <subject>
+    <topic>[[su4:subject]]</topic>
+  </subject>
+  <subject>
+    <topic>[[su5:subject]]</topic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>[[sc1:scale]]</scale>
+      <projection>[[sc1:projection]]</projection>
+      <coordinates>[[sc1:coordinates]]</coordinates>
+    </cartographics>
+  </subject>
+  <location>
+    <physicalLocation displayLabel="[[lo:displayLabel]]">[[lo:physicalLocation]]</physicalLocation>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>[[ri1:repository]]</title>
+    </titleInfo>
+  </relatedItem>
+</mods>
