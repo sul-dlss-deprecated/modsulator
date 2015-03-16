@@ -1,7 +1,8 @@
-# Normalizing MODS XML.
+# File "normalizer.rb" - defines a class for normalizing MODS XML according to the Stanford guidelines.
 
 require 'nokogiri'
 
+# This class provides methods to normalize MODS XML according to the Stanford guidelines.
 class Normalizer
   # Checks if a node has attributes that we make exeptions for. There are three such exceptions.
   #
@@ -47,8 +48,6 @@ class Normalizer
     attributes = node.attributes
 
     for key, value in attributes do
-      # puts("class of key is #{key.class()} and value class is #{value.class()}")
-      # puts("value of key #{key} is #{value}")
       if(value.to_s.strip.empty?)
         if(key != "valueURI")
           node.remove_attribute(key)
@@ -65,14 +64,11 @@ class Normalizer
   # @return [Void]                     This method doesn't return anything, but modifies the XML tree starting at the given node.
   def remove_empty_nodes(node)
     children = node.children
-    #  puts("visiting NODE: #{node.class} with name #{node.name}")
     
     if(node.text?)
       if(node.to_s.strip.empty?)
-        #      puts("now removing empty text")
         node.remove
       else
-        #      puts("NOT empty text: #{node.to_s}")
         return
       end
     elsif(children.length > 0)
@@ -82,13 +78,12 @@ class Normalizer
     end
 
     if(!exceptional?(node) && (node.children.length == 0))
-      #    puts("now removing no children")
       node.remove
     end
   end
 
 
-  # Removes leading and trailing spaces.
+  # Removes leading and trailing spaces from a text node.
   #
   # @param  [Nokogiri::XML::Element]  node An XML node.
   # @return [Void]                    This method doesn't return anything, but modifies the entire XML tree starting at the

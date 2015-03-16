@@ -1,21 +1,5 @@
-# File "modsulator.rb" - a pre-beta prototype script that takes a spreadsheet of MODS metadata and
-# an XML template as input, and produces MODS XML. For an example, run like this (on the command line):
-#
-#      ruby modsulator.rb SuperMODS-01-sample.xlsx SuperMods-01-template.xml
-#
-#      *** Warning: There were headers in the spreadsheet that did not appear in the XML template (is there a spreadsheet typo?):
-#      druid
-#      sourceId
-#      processed
-#       ...more warnings you can ignore for now...
-#
-# For each row in the input spreadsheet, this script produces an XML file, named after the value
-# of 'sourceId'.
-#
-# Note that this script was written by Darth Vader at 2am, so don't get your hopes up now :)
-#
-# Email bugs, questions, comments etc. to 'tommyi@stanford.edu'
-
+# File "modsulator.rb" - defines the Modsulator class, providing the main part of the API that lets you work
+# with metadata spreadsheets and MODS XML.
 
 require 'active_support/core_ext/hash/indifferent_access'   # Required for indifferent access to hashes
 require 'active_support/core_ext/object/blank.rb'           # Required for template calls to blank?()
@@ -25,8 +9,16 @@ require 'roo'
 require 'modsulator/normalizer'
 
 
+# The main class for the MODSulator API, which lets you work with metadata spreadsheets and MODS XML.
 class Modsulator
 
+  # Loads a spreadsheet into an array of hashes. The spreadsheet is expected to have two header rows. The first row
+  # is a kind of "super header", and the second row is the header row that names the fields. The data rows are in
+  # the third row onwards.
+  #
+  # @param [String] filename  The full path to a spreadsheet file (.csv or .xls or .xlsx)
+  # @return [Array<Hash>]     An array with one entry per data row in the spreadsheet. Each entry is a hash, indexed by
+  #                           the spreadsheet headers.
   def load_spreadsheet(filename)
     spreadsheet = open_spreadsheet(filename)
 
@@ -34,9 +26,7 @@ class Modsulator
     # column headers in the second row. The third row is the start of the actual data.
     header = spreadsheet.row(2)
 
-    # need to build up an array here and return it
     rows = []
-    
     (3..spreadsheet.last_row).each do |i|
       row = Hash[[header, spreadsheet.row(i)].transpose]
       rows.push(row)
@@ -46,7 +36,10 @@ class Modsulator
   end
 
 
-  # Open spreadsheet based on filename extension
+  # Opens a spreadsheet based on its filename extension.
+  #
+  # @param [String] filename  The full path to a spreadsheet file (.csv or .xls or .xlsx).
+  # @return [Roo::CSV, Roo::Excel, Roo::Excelx] A Roo object, whose type depends on the extension of the given filename.
   def open_spreadsheet(filename)
     case File.extname(filename)
     when ".csv" then Roo::CSV.new(filename)
@@ -58,8 +51,12 @@ class Modsulator
 
 
 
-  # Write XML to file
-  def generate_xml(mf, template_xml, row_number)
+  # Generates an XML string for a given row in a spreadsheet.
+  #
+  # @param [Hash]     mf            A single row in a MODS metadata spreadsheet, as provided by the {Modsulator#load_spreadsheet} method.
+  # @param [String]   template_xml  The XML template, as a big string.
+  # @return [String]  XML template, with data from the row substituted in.
+  def generate_xml(mf, template_xml)
     manifest_row = mf
     mods_template_xml = template_xml
     
@@ -82,13 +79,6 @@ class Modsulator
     # Here we replace those placeholders with the corresponding value
     # from the manifest row.
     manifest_row.each { |k,v| descriptive_metadata_xml.gsub! "[[#{k}]]", v.to_s.strip }
-    # manifest_row.each do |k,v|
-    #   replaced_xml = descriptive_metadata_xml.gsub!("[[#{k}]]", v.to_s.strip)
-    #   puts("rx = #{replaced_xml}")
-    #   if(replaced_xml == nil)
-    #     puts("*** Warning: On line #{row_number}, there were no matches for the header #{k} within the master template. Do you have an error in your spreadsheet?")
-    #   end
-    # end
     return descriptive_metadata_xml
   end
 
@@ -113,7 +103,7 @@ class Modsulator
       output_filename = output_directory + "/" + sourceid + ".xml"
         
       # Generate an XML string, then remove any text carried over from the template
-      generated_xml = generate_xml(spreadsheet_rows[i], mods_template_xml, i+1)
+      generated_xml = generate_xml(spreadsheet_rows[i], mods_template_xml)
       generated_xml.gsub!(/\[\[[^\]]+\]\]/, "")
       
       # Create an XML Document and normalize it
@@ -148,57 +138,4 @@ class Modsulator
 
     return missing_headers
   end
-
-
-
-  ### Main code ###
-  # mods_processor = Modsulator.new
-  # unless ARGV.length == 2
-  #   abort("Usage: ruby modsulator.rb <spreadsheet filename> <XML template filename>")
-  # end
-
-  # if(File.exists?(ARGV[0]) && File.readable?(ARGV[0]))
-  #   spreadsheet_rows = mods_processor.load_spreadsheet(ARGV[0])
-  # else abort "*** The file #{ARGV[0]} does not exist or is not readable to the current user?! - terminating"
-  # end
-
-  # if(File.exists?(ARGV[1]) && File.readable?(ARGV[1]))
-  #   mods_template_xml = IO.read(ARGV[1])
-  # else abort "*** The file #{ARGV[1]} does not exist or is not readable to the current user?! - terminating"
-  # end
-
-  # invalid_headers = mods_processor.validate_headers(spreadsheet_rows[0].keys, mods_template_xml)
-  # if(invalid_headers.length > 0)
-  #   puts("*** Warning: There were headers in the spreadsheet that did not appear in the XML template (is there a spreadsheet typo?):")
-  #   invalid_headers.each do |h|
-  #     puts(h)
-  #   end
-  # end
-
-  # # Write one XML file per data row in the input spreadsheet
-  # (0..(spreadsheet_rows.length-1)).each do |i|
-  #   sourceid=spreadsheet_rows[i]['sourceId']
-  #   output_filename = sourceid + ".xml"
-
-  #   # Generate an XML string, then remove any text carried over from the template
-  #   generated_xml = mods_processor.generate_xml(spreadsheet_rows[i], mods_template_xml, i+1)
-  #   generated_xml.gsub!(/\[\[[^\]]+\]\]/, "")
-
-  #   # Create an XML Document and normalize it
-  #   xml_doc = Nokogiri::XML(generated_xml)
-  #   root_node = xml_doc.root
-  #   normalizer = Normalizer.new
-  #   normalizer.remove_empty_nodes(root_node)
-
-  #   # Check that the resulting XML is well formed -- Does this still work after we've modified the tree??!!!!!!???!!
-  #   if(xml_doc.errors.length > 0)
-  #     puts("***There were errors on row #{i}:")
-  #     xml_doc.errors.each do |e|
-  #       puts("  #{e.to_s}")
-  #     end
-  #   end
-
-  #   File.open(output_filename, 'w') { |fh| fh.puts(root_node.to_s) }
-  #   puts("Just saved #{output_filename}")
-  # end
 end
