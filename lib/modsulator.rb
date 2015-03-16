@@ -98,6 +98,7 @@ class Modsulator
   # @param [String] template_filename      The full path to the desired template file (a spreadsheet).
   # @param [String] spreadsheet_filename   The full path to the input spreadsheet. One XML file will be generated per data row in this spreadsheet.
   # @param [String] output_directory       The directory where output files should be stored.
+  # @return [Void]
   def generate_normalized_mods(template_filename, spreadsheet_filename, output_directory)
 
     spreadsheet_rows = load_spreadsheet(spreadsheet_filename)
