@@ -21,8 +21,6 @@
   </name>
   <typeOfResource collection="" manuscript="">text</typeOfResource>
   <genre type="" authority="marcgt" valueURI="">novel</genre>
-  <genre type="" authority="" valueURI=""/>
-  <genre type="" authority="" valueURI=""/>
   <originInfo>
     <place>
       <placeTerm type="text" authority="">Paris</placeTerm>
