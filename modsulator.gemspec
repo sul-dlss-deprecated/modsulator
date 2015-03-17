@@ -11,4 +11,6 @@ Gem::Specification.new do |s|
   s.license     =  'Apache-2.0'
   s.platform    =  Gem::Platform.local
   s.executables << 'modsulator'
+
+  s.add_dependency 'roo'
 end
