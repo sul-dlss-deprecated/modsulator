@@ -3,3 +3,4 @@ lib/.yardoc
 lib/doc
 .yardoc
 doc/
+.DS_Store
