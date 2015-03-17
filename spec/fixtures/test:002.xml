@@ -20,6 +20,8 @@
     </role>
   </name>
   <typeOfResource collection="" manuscript="">text</typeOfResource>
+  <typeOfResource collection="yes" manuscript="yes"/>
+  <typeOfResource collection="yes" manuscript="yes"/>
   <genre type="" authority="marcgt" valueURI="">novel</genre>
   <originInfo>
     <place>

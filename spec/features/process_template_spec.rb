@@ -1,12 +1,6 @@
 require "modsulator"
 require "modsulator_helper.rb"
 
-# before delete tmp files
-# execute modsulator with test:002
-# check that the file tmp/test:002 exists
-# after delete tmp files
-
-
 describe Modsulator do
   before :all do
     # Create common variables shared across tests and clear out temp directory

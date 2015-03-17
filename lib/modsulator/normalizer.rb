@@ -24,13 +24,25 @@ class Normalizer
 
     for key, value in attributes do
       if(tag == "typeOfResource")
-        if((key == "collection" && value == "yes") ||
-           (key == "manuscript" && value == "yes"))
+        if((key == "collection" && value.to_s.downcase == "yes") ||
+           (key == "manuscript" && value.to_s.downcase == "yes"))
           return true
         end
       end
     end
     return false
+  end
+
+
+  # Cleans up the text of a node:
+  #
+  # * Removes extra whitespace at the beginning and end.
+  # * Removes any consecutive whitespace within the string.
+  #
+  # @param [String]   s   The text of an XML node.
+  # @return [String]  The cleaned string, as described.
+  def clean_text(s)
+    return s.gsub!(/\s+/, " ").strip!
   end
 
 
