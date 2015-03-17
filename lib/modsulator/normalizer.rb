@@ -3,10 +3,10 @@
 require 'nokogiri'
 
 # This class provides methods to normalize MODS XML according to the Stanford guidelines.
+# @see https://consul.stanford.edu/display/chimera/MODS+validation+and+normalization Requirements (Stanford Consul page)
 class Normalizer
-  # Checks if a node has attributes that we make exeptions for. There are three such exceptions.
+  # Checks if a node has attributes that we make exeptions for. There are two such exceptions.
   #
-  # * The presence of a valueURI attribute on any node.
   # * A "collection" attribute with the value "yes" <em>on a typeOfResource tag</em>.
   # * A "manuscript" attribute with the value "yes" <em>on a typeOfResource tag</em>.
   #
@@ -23,11 +23,6 @@ class Normalizer
     end
 
     for key, value in attributes do
-      if(key == "valueURI")
-        return true
-      end
-
-      # Do we care about accounting for spelling mistakes by lowercasing everything???
       if(tag == "typeOfResource")
         if((key == "collection" && value == "yes") ||
            (key == "manuscript" && value == "yes"))

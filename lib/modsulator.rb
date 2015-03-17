@@ -10,6 +10,7 @@ require 'modsulator/normalizer'
 
 
 # The main class for the MODSulator API, which lets you work with metadata spreadsheets and MODS XML.
+# @see https://consul.stanford.edu/display/chimera/MODS+bulk+loading Requirements (Stanford Consul page)
 class Modsulator
 
   # Loads a spreadsheet into an array of hashes. The spreadsheet is expected to have two header rows. The first row
