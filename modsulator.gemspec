@@ -13,4 +13,6 @@ Gem::Specification.new do |s|
   s.executables << 'modsulator'
 
   s.add_dependency 'roo'
+  s.add_dependency 'rspec', '>= 3.0'
+  s.add_dependency 'rails', '>= 3.0'   # For ActiveSupport::HashWithIndifferentAccess
 end

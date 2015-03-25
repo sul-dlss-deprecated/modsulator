@@ -15,6 +15,8 @@ class Normalizer
   # @param  [Nokogiri::XML::Element]   node    An XML node.
   # @return [Boolean]                  true if the node contains any of the exceptional attributes, false otherwise.
   def exceptional?(node)
+    return false unless node != nil
+    
     tag = node.name
     attributes = node.attributes
 
@@ -23,7 +25,7 @@ class Normalizer
     end
 
     for key, value in attributes do
-      if(tag == "typeOfResource")
+      if(tag == "typeOfResource")  # Note that according to the MODS schema, any other value than 'yes' for these attributes is invalid
         if((key == "collection" && value.to_s.downcase == "yes") ||
            (key == "manuscript" && value.to_s.downcase == "yes"))
           return true
@@ -40,8 +42,9 @@ class Normalizer
   # * Removes any consecutive whitespace within the string.
   #
   # @param [String]   s   The text of an XML node.
-  # @return [String]  The cleaned string, as described.
+  # @return [String]  The cleaned string, as described. Returns nil if the input is nil, or if the input is an empty string.
   def clean_text(s)
+    return nil unless s != nil && s != ""
     return s.gsub!(/\s+/, " ").strip!
   end
 
@@ -71,7 +74,7 @@ class Normalizer
   # @return [Void]                     This method doesn't return anything, but modifies the XML tree starting at the given node.
   def remove_empty_nodes(node)
     children = node.children
-    
+
     if(node.text?)
       if(node.to_s.strip.empty?)
         node.remove
@@ -94,7 +97,8 @@ class Normalizer
   #
   # @param  [Nokogiri::XML::Element]  node An XML node.
   # @return [Void]                    This method doesn't return anything, but modifies the entire XML tree starting at the
-  #                                   the given node, removing leading and trailing spaces from all text.
+  #                                   the given node, removing leading and trailing spaces from all text. If the input is nil,
+  #                                   an exception will be raised.
   def trim_text(node)
     children = node.children
 
