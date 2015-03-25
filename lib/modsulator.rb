@@ -84,7 +84,7 @@ class Modsulator
   end
 
 
-  # Generates normalized (Stanford) MODS XML, writing to files.
+  # Generates normalized (Stanford) MODS XML, writing output to files.
   #
   # @param [String] template_filename      The full path to the desired template file (a spreadsheet).
   # @param [String] spreadsheet_filename   The full path to the input spreadsheet. One XML file will be generated per data row in this spreadsheet.
@@ -113,7 +113,7 @@ class Modsulator
       normalizer = Normalizer.new
       normalizer.remove_empty_nodes(root_node)
 
-      # To do: notify of errors to the resulting XML
+      # To do: notify of errors in the resulting XML
       
       File.open(output_filename, 'w') { |fh| fh.puts(root_node.to_s) }
     end
