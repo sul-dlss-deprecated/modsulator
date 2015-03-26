@@ -55,14 +55,19 @@ class Normalizer
   # @param [Nokogiri::XML::Element]   node An XML node.
   # @return [Void]                    This method doesn't return anything, but modifies the XML tree starting at the given node.
   def remove_empty_attributes(node)
+    children = node.children
     attributes = node.attributes
-
+    
     for key, value in attributes do
       if(value.to_s.strip.empty?)
         if(key != "valueURI")
           node.remove_attribute(key)
         end
       end
+    end
+
+    children.each do |c|
+      remove_empty_attributes(c)
     end
   end
 

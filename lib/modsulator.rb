@@ -111,6 +111,7 @@ class Modsulator
       xml_doc = Nokogiri::XML(generated_xml)
       root_node = xml_doc.root
       normalizer = Normalizer.new
+      normalizer.remove_empty_attributes(root_node)
       normalizer.remove_empty_nodes(root_node)
 
       # To do: notify of errors in the resulting XML

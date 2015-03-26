@@ -5,7 +5,7 @@
   <titleInfo type="translated">
     <title>Remembrance of Things Past</title>
   </titleInfo>
-  <titleInfo type="">
+  <titleInfo>
     <title>In Search of Lost Time</title>
   </titleInfo>
   <name type="personal">
@@ -16,23 +16,23 @@
   </name>
   <name type="Krutch, Joseph Wood">
     <role>
-      <roleTerm authority="" type="text">translator</roleTerm>
+      <roleTerm type="text">translator</roleTerm>
     </role>
   </name>
-  <typeOfResource collection="" manuscript="">text</typeOfResource>
+  <typeOfResource>text</typeOfResource>
   <typeOfResource collection="yes" manuscript="yes"/>
   <typeOfResource collection="yes" manuscript="yes"/>
-  <genre type="" authority="marcgt" valueURI="">novel</genre>
+  <genre authority="marcgt" valueURI="">novel</genre>
   <originInfo>
     <place>
-      <placeTerm type="text" authority="">Paris</placeTerm>
+      <placeTerm type="text">Paris</placeTerm>
     </place>
-    <dateIssued keyDate="yes" encoding="iso-8601-b" qualifier="" point="start">1871.0</dateIssued>
+    <dateIssued keyDate="yes" encoding="iso-8601-b" point="start">1871.0</dateIssued>
   </originInfo>
   <language>
     <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
   </language>
-  <abstract displayLabel="">v. 1. Swann's way. Within a budding grove. The Guermantes way -- v. 2. Cities of the plain. The captive. The sweet cheat gone. The past recaptured</abstract>
+  <abstract>v. 1. Swann's way. Within a budding grove. The Guermantes way -- v. 2. Cities of the plain. The captive. The sweet cheat gone. The past recaptured</abstract>
   <note type="no1:type" displayLabel="no1:displayLabel">Original edition with translators annotations</note>
   <note type="no2:type" displayLabel="no2:displayLabel">Introduction by C.K. Scott Moncrieff</note>
   <note type="no3:type" displayLabel="no3:displayLabel">Translation of the seven-volume work, A la recherche du temps perdu.</note>
