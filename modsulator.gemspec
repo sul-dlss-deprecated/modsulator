@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        =  'MODSulator'
+  s.name        =  'modsulator'
   s.version     =  '0.0.0'
   s.summary     =  "Produces (Stanford) MODS XML from spreadsheets."
   s.description =  "Tools and libraries for working with metadata spreadsheets and MODS."

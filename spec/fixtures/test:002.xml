@@ -14,7 +14,8 @@
       <roleTerm authority="marcrelator" type="code">aut</roleTerm>
     </role>
   </name>
-  <name type="Krutch, Joseph Wood">
+  <name type="personal">
+    <namePart>Krutch, Joseph Wood</namePart>
     <role>
       <roleTerm type="text">translator</roleTerm>
     </role>
@@ -27,7 +28,7 @@
     <place>
       <placeTerm type="text">Paris</placeTerm>
     </place>
-    <dateIssued keyDate="yes" encoding="iso-8601-b" point="start">1871.0</dateIssued>
+    <dateIssued keyDate="yes" encoding="iso8601" point="start">1871.0</dateIssued>
   </originInfo>
   <language>
     <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
