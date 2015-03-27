@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.platform    =  Gem::Platform.local
   s.executables << 'modsulator'
 
-  s.add_dependency 'roo', '~> 1.1'
-  s.add_dependency 'rspec', '~> 3.0'
-  s.add_dependency 'activesupport', '~> 3.0'   # For ActiveSupport::HashWithIndifferentAccess
+  s.add_dependency 'roo', '>= 1.1'
+  s.add_dependency 'rspec', '>= 3.0'
+  s.add_dependency 'activesupport', '>= 3.0'   # For ActiveSupport::HashWithIndifferentAccess
 end
