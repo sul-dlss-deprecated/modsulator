@@ -87,11 +87,11 @@
   </language>
   <abstract displayLabel="[[ab:displayLabel]]">[[ab:abstract]]</abstract>
   <abstract displayLabel="[[tc:displayLabel]]">[[tc:tableOfContents]]</abstract>
-  <note type="no1:type" displayLabel="no1:displayLabel">[[no1:note]]</note>
-  <note type="no2:type" displayLabel="no2:displayLabel">[[no2:note]]</note>
-  <note type="no3:type" displayLabel="no3:displayLabel">[[no3:note]]</note>
-  <note type="no4:type" displayLabel="no4:displayLabel">[[no4:note]]</note>
-  <note type="no5:type" displayLabel="no5:displayLabel">[[no5:note]]</note>
+  <note type="[[no1:type]]" displayLabel="[[no1:displayLabel]]">[[no1:note]]</note>
+  <note type="[[no2:type]]" displayLabel="[[no2:displayLabel]]">[[no2:note]]</note>
+  <note type="[[no3:type]]" displayLabel="[[no3:displayLabel]]">[[no3:note]]</note>
+  <note type="[[no4:type]]" displayLabel="[[no4:displayLabel]]">[[no4:note]]</note>
+  <note type="[[no5:type]]" displayLabel="[[no5:displayLabel]]">[[no5:note]]</note>
   <subject>
     <topic>[[su1:subject]]</topic>
   </subject>
