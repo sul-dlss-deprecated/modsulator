@@ -18,7 +18,7 @@ describe Modsulator do
       'test_002.csv'  => 'CSV'
     }.each do |testfile, description|
       it "loads sample template 002 in #{description} format correctly" do
-        @mods_generator.generate_normalized_mods(File.join(@fixtures_dir, "SuperMods-01-template.xml"),
+        @mods_generator.generate_normalized_mods(File.join(@fixtures_dir, "modsulator_template.xml"),
                                                  File.join(@fixtures_dir, testfile),
                                                  @tmp_dir)
         expect(File).to be_readable(File.join(@tmp_dir, "test:002.xml"))
