@@ -128,16 +128,8 @@ class Modsulator
   # @return [Array<String>]                    A list of spreadsheet headers that did not appear in the XML template. This list
   #                                            will be empty if all the headers were present.
   def validate_headers(spreadsheet_headers, template_xml)
-    missing_headers = Array.new
-
-    spreadsheet_headers.each do |header|
-      if((header != nil) &&
-         !(header == "sourceId") &&
-         !(template_xml.include? header))
-        missing_headers.push(header)
-      end
+    spreadsheet_headers.reject do |header|
+      header.nil? || header == "sourceId" || template_xml.include?(header)
     end
-
-    return missing_headers
   end
 end
