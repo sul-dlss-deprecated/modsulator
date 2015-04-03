@@ -13,6 +13,11 @@ Gem::Specification.new do |s|
   s.executables << 'modsulator'
 
   s.add_dependency 'roo', '>= 1.1'
-  s.add_dependency 'rspec', '>= 3.0'
+  s.add_dependency 'equivalent-xml'
+  s.add_dependency 'nokogiri'
   s.add_dependency 'activesupport', '>= 3.0'   # For ActiveSupport::HashWithIndifferentAccess
+
+  s.add_development_dependency 'rake'
+  s.add_development_dependency 'rspec', '>= 3.0'
+  s.add_development_dependency 'yard'
 end
