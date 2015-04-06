@@ -5,6 +5,8 @@ require 'nokogiri'
 # This class provides methods to normalize MODS XML according to the Stanford guidelines.
 # @see https://consul.stanford.edu/display/chimera/MODS+validation+and+normalization Requirements (Stanford Consul page)
 class Normalizer
+  LINEFEED = '&#10;'
+  
   # Checks if a node has attributes that we make exeptions for. There are two such exceptions.
   #
   # * A "collection" attribute with the value "yes" <em>on a typeOfResource tag</em>.
@@ -33,6 +35,50 @@ class Normalizer
       end
     end
     return false
+  end
+
+
+  # Recursive helper method for {Normalizer#clean_linefeeds} to do string substitution.
+  #
+  # @param [Nokogiri::XML::Element]   node   An XML node
+  # @return [String]                  A string composed of the entire contents of the given node, with substitutions made as described for {#clean_linefeeds}.
+  def substitute_linefeeds(node)
+    new_text = String.new
+
+    # If we substitute in '&#10;' by itself, Nokogiri interprets that and then prints '&amp;#10;' when printing the document later. This
+    # is an ugly way to add linefeed characters in a way that we at least get well-formatted output in the end.
+    if(node.text?)
+      new_text = node.content.gsub(/\r\n/, Nokogiri::HTML(LINEFEED).text).gsub(/\n/, Nokogiri::HTML(LINEFEED).text).gsub(/\r/, Nokogiri::HTML(LINEFEED).text) 
+    else
+      if(node.node_name == "br")
+        new_text += Nokogiri::HTML(LINEFEED).text
+      elsif(node.node_name == "p")
+        new_text += Nokogiri::HTML(LINEFEED).text + Nokogiri::HTML(LINEFEED).text;
+      end
+      
+      node.children.each do |c|
+        new_text += substitute_linefeeds(c)
+      end
+    end
+    return new_text
+  end
+  
+
+  # Given a <tableOfContents>, <abstract> or <note> XML node, replaces linefeed characters by &#10;
+  # \n, \r, <br> and <br/> are all replaced by a single &#10;
+  # <p> is replaced by two &#10;
+  # </p> is removed
+  # \r\n is replaced by &#10;
+  # Any tags not listed above are removed. MODS 3.5 does not allow for anything other than text inside these three nodes.
+  #
+  # @param   [Nokogiri::XML::Element]    node  A <tableOfContents>, <abstract> or <note> XML node.
+  # @return  [Void]                      This method doesn't return anything, but introduces UTF-8 linefeed characters in place, as described above.
+  def clean_linefeeds(node)
+    return unless ['tableOfContents', 'abstract', 'note'].include? node.node_name
+
+    new_text = substitute_linefeeds(node)
+    node.children.remove
+    node.content = new_text
   end
 
 
@@ -98,7 +144,7 @@ class Normalizer
   end
 
 
-  # Removes leading and trailing spaces from a text node.
+  # Removes leading and trailing spaces from a node.
   #
   # @param  [Nokogiri::XML::Element]  node An XML node.
   # @return [Void]                    This method doesn't return anything, but modifies the entire XML tree starting at the

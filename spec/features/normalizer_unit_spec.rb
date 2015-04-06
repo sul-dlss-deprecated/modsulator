@@ -116,4 +116,39 @@ problem
       expect(EquivalentXml.equivalent?(mixed_doc, clean_doc)).to be_truthy
     end
   end
+
+  describe "clean_linefeeds" do
+    it "returns the given XML unchanged if there are no linefeed characters" do
+      start_doc = Nokogiri::XML("<tableOfContents> Some text that does not have any linefeed chars.  </tableOfContents>")
+      final_doc = Nokogiri::XML("<tableOfContents> Some text that does not have any linefeed chars.  </tableOfContents>")
+      @normalizer.clean_linefeeds(start_doc.root)
+      expect(EquivalentXml.equivalent?(start_doc, final_doc)).to be_truthy
+    end
+
+    it "returns the given XML node unchanged if it is not in the set { <tableOfContents>, <abstract>, <note> }" do
+      start_doc = Nokogiri::XML("<root> Some text that does not have any linefeed chars.  </root>")
+      final_doc = Nokogiri::XML("<root> Some text that does not have any linefeed chars.  </root>")
+      @normalizer.clean_linefeeds(start_doc.root)
+      expect(EquivalentXml.equivalent?(start_doc, final_doc)).to be_truthy
+    end
+
+    it "replaces <br> by &#10; and <p> by &#10;&#10;" do
+      start_doc = Nokogiri::XML("<note> How to present text: <br>Four chances.<p>Executive orders from tall managerial summits.</p> <br/>Exonerate...</note>")
+      final_doc = Nokogiri::XML("<note> How to present text: &#10;Four chances.&#10;&#10;Executive orders from tall managerial summits. &#10;Exonerate...</note>")
+      @normalizer.clean_linefeeds(start_doc.root)
+      new_str = @normalizer.substitute_linefeeds(Nokogiri::XML("<note> How to present text: <br>Four chances.<p>Executive orders from tall managerial summits.</p> <br/>Exonerate...</note>"))
+      expect(EquivalentXml.equivalent?(start_doc, final_doc)).to be_truthy
+    end
+
+    it "replaces both \n and \r by &#10; and replaces \r\n by &#10;" do
+      start_doc = Nokogiri::XML("<abstract>  Newsworthy dog:\n Bark. Adium \r\n Aquamacs \r\n Firefox \r Terminal</abstract>")
+      final_doc = Nokogiri::XML("<abstract>  Newsworthy dog:&#10; Bark. Adium &#10; Aquamacs &#10; Firefox &#10; Terminal</abstract>")
+      @normalizer.clean_linefeeds(start_doc.root)
+      expect(EquivalentXml.equivalent?(start_doc, final_doc)).to be_truthy
+    end
+
+    it "raises an exception given a null input" do
+      expect { @normalizer.clean_linefeeds(nil) }.to raise_error
+    end
+  end
 end
