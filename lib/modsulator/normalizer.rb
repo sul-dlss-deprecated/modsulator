@@ -106,9 +106,7 @@ class Normalizer
     
     for key, value in attributes do
       if(value.to_s.strip.empty?)
-        if(key != "valueURI")
-          node.remove_attribute(key)
-        end
+        node.remove_attribute(key)
       end
     end
 

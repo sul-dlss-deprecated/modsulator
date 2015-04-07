@@ -12,7 +12,6 @@ describe Modsulator do
   describe "initialized" do
     {
       'test_002.xlsx' => 'Excel Workbook',
-      'test_002.xls'  => 'Excel 97-2003 Workbook',
       'test_002.csv'  => 'CSV'
     }.each do |testfile, description|
       it "loads sample template 002 in #{description} format correctly" do

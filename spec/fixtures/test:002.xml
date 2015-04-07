@@ -5,13 +5,13 @@
   <titleInfo type="translated">
     <title>Remembrance of Things Past</title>
   </titleInfo>
-  <titleInfo>
+  <titleInfo type="alternative">
     <title>In Search of Lost Time</title>
   </titleInfo>
-  <name type="personal">
+  <name type="personal" authority="naf" valueURI="http://lccn.loc.gov/n79021736">
     <namePart>Proust, Marcel, 1871-1922</namePart>
     <role>
-      <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+      <roleTerm type="code" authority="marcrelator">aut</roleTerm>
     </role>
   </name>
   <name type="personal">
@@ -21,26 +21,32 @@
     </role>
   </name>
   <typeOfResource>text</typeOfResource>
-  <typeOfResource collection="yes" manuscript="yes"/>
-  <typeOfResource collection="yes" manuscript="yes"/>
-  <genre authority="marcgt" valueURI="">novel</genre>
+  <genre authority="marcgt">novel</genre>
   <originInfo>
     <place>
       <placeTerm type="text">Paris</placeTerm>
     </place>
-    <dateIssued keyDate="yes" encoding="iso8601-b" point="start">1871</dateIssued>
+    <dateIssued keyDate="yes" encoding="iso8601" point="start">1871</dateIssued>
   </originInfo>
   <language>
     <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
   </language>
-  <abstract>v. 1. Swann's way. Within a budding grove. The Guermantes way -- v. 2. Cities of the plain. The captive. The sweet cheat gone. The past recaptured</abstract>
+  <physicalDescription>
+    <form>print</form>
+    <extent>xvi, 387 p.. 28 cm.</extent>
+  </physicalDescription>
+  <abstract>A long hard night, punctuated by &lt;br/&gt; raining sleep.</abstract>
+  <tableOfContents>v. 1. Swann's way. Within a budding grove. The Guermantes way -- v. 2. Cities of the plain. The captive. The sweet cheat gone. The past recaptured</tableOfContents>
   <note>Original edition with translators annotations</note>
   <note type="statement of responsibility">Introduction by C.K. Scott Moncrieff</note>
   <note>Translation of the seven-volume work, A la recherche du temps perdu.</note>
-  <subject>
+  <subject authority="lcsh">
     <topic>France--Social life and customs--Fiction</topic>
   </subject>
-  <subject>
-    <topic>string</topic>
-  </subject>
+  <identifier type="isbn">057120760X</identifier>
+  <identifier type="isbn">9780571207602</identifier>
+  <location>
+    <physicalLocation type="repository" authority="lcsh">Repository22</physicalLocation>
+    <shelfLocator>VA.4221</shelfLocator>
+  </location>
 </mods>

@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-  <titleInfo>
+  <titleInfo authority="[[ti1:authority]]" valueURI="[[ti1:valueURI]]">
     <nonSort>[[ti1:nonSort]]</nonSort>
     <title>[[ti1:title]]</title>
     <subTitle>[[ti1:subTitle]]</subTitle> 
     <partNumber>[[ti1:partNumber]]</partNumber> 
     <partName>[[ti1:partName]]</partName>
   </titleInfo>
-  <titleInfo type="[[ti2:type]]">
+  <titleInfo type="[[ti2:type]]" authority="[[ti2:authority]]" valueURI="[[ti2:valueURI]]">
     <nonSort>[[ti2:nonSort]]</nonSort>
     <title>[[ti2:title]]</title>
     <subTitle>[[ti2:subTitle]]</subTitle> 
     <partNumber>[[ti2:partNumber]]</partNumber> 
     <partName>[[ti2:partName]]</partName>
   </titleInfo>
-  <titleInfo type="[[ti3:type]]">
+  <titleInfo type="[[ti3:type]]" authority="[[ti3:authority]]" valueURI="[[ti3:valueURI]]">
     <nonSort>[[ti3:nonSort]]</nonSort>
     <title>[[ti3:title]]</title>
     <subTitle>[[ti3:subTitle]]</subTitle> 
     <partNumber>[[ti3:partNumber]]</partNumber> 
     <partName>[[ti3:partName]]</partName>
   </titleInfo>
-  <name type="[[na1:nameType]]">
+  <name type="[[na1:type]]" authority="[[na1:authority]]" valueURI="[[na1:valueURI]]">
     <namePart>[[na1:namePart]]</namePart>
     <role>
-      <roleTerm authority="[[ro1:authority]]" type="code">[[ro1:roleCode]]</roleTerm>
-      <roleTerm authority="[[ro1:authority]]" type="text">[[ro1:roleText]]</roleTerm>
+      <roleTerm type="code" authority="[[ro1:authority]]" valueURI="[[ro1:valueURI]]">[[ro1:roleCode]]</roleTerm>
+      <roleTerm type="text" authority="[[ro1:authority]]" valueURI="[[ro1:valueURI]]">[[ro1:roleText]]</roleTerm>
     </role>
   </name>
-  <name type="[[na2:nameType]]">
+  <name type="[[na2:type]]" authority="[[na2:authority]]" valueURI="[[na2:valueURI]]">
     <namePart>[[na2:namePart]]</namePart>
     <role>
-      <roleTerm authority="[[ro2:authority]]" type="code">[[ro2:roleCode]]</roleTerm>
-      <roleTerm authority="[[ro2:authority]]" type="text">[[ro2:roleText]]</roleTerm>
+      <roleTerm type="code" authority="[[ro2:authority]]" valueURI="[[ro2:valueURI]]">[[ro2:roleCode]]</roleTerm>
+      <roleTerm type="text" authority="[[ro2:authority]]" valueURI="[[ro2:valueURI]]">[[ro2:roleText]]</roleTerm>
     </role>
   </name>
-  <name type="[[na3:nameType]]">
+  <name type="[[na3:type]]" authority="[[na3:authority]]" valueURI="[[na3:valueURI]]">
     <namePart>[[na3:namePart]]</namePart>
     <role>
-      <roleTerm authority="[[ro3:authority]]" type="code">[[ro3:roleCode]]</roleTerm>
-      <roleTerm authority="[[ro3:authority]]" type="text">[[ro3:roleText]]</roleTerm>
+      <roleTerm type="code" authority="[[ro3:authority]]" valueURI="[[ro3:valueURI]]">[[ro3:roleCode]]</roleTerm>
+      <roleTerm type="text" authority="[[ro3:authority]]" valueURI="[[ro3:valueURI]]">[[ro3:roleText]]</roleTerm>
     </role>
   </name>
-  <name type="[[na4:nameType]]">
+  <name type="[[na4:type]]" authority="[[na4:authority]]" valueURI="[[na4:valueURI]]">
     <namePart>[[na4:namePart]]</namePart>
     <role>
-      <roleTerm authority="[[ro4:authority]]" type="code">[[ro4:roleCode]]</roleTerm>
-      <roleTerm authority="[[ro4:authority]]" type="text">[[ro4:roleText]]</roleTerm>
+      <roleTerm type="code" authority="[[ro4:authority]]" valueURI="[[ro4:valueURI]]">[[ro4:roleCode]]</roleTerm>
+      <roleTerm type="text" authority="[[ro4:authority]]" valueURI="[[ro4:valueURI]]">[[ro4:roleText]]</roleTerm>
     </role>
   </name>
-  <name type="[[na5:nameType]]">
+  <name type="[[na5:type]]" authority="[[na5:authority]]" valueURI="[[na5:valueURI]]">
     <namePart>[[na5:namePart]]</namePart>
     <role>
-      <roleTerm authority="[[ro5:authority]]" type="code">[[ro5:roleCode]]</roleTerm>
-      <roleTerm authority="[[ro5:authority]]" type="text">[[ro5:roleText]]</roleTerm>
+      <roleTerm type="code" authority="[[ro5:authority]]" valueURI="[[ro5:valueURI]]">[[ro5:roleCode]]</roleTerm>
+      <roleTerm type="text" authority="[[ro5:authority]]" valueURI="[[ro5:valueURI]]">[[ro5:roleText]]</roleTerm>
     </role>
   </name>
-  <typeOfResource collection="[[ty1:collection]]" manuscript="[[ty1:manuscript]]">[[ty1:typeOfResource]]</typeOfResource>
-  <typeOfResource collection="[[ty2:collection]]" manuscript="[[ty2:manuscript]]">[[ty2:typeOfResource]]</typeOfResource>
-  <typeOfResource collection="[[ty3:collection]]" manuscript="[[ty3:manuscript]]">[[ty3:typeOfResource]]</typeOfResource>
+  <typeOfResource manuscript="[[ty1:manuscript]]">[[ty1:typeOfResource]]</typeOfResource>
+  <typeOfResource>[[ty2:typeOfResource]]</typeOfResource>
+  <typeOfResource>[[ty3:typeOfResource]]</typeOfResource>
   <genre type="[[ge1:type]]" authority="[[ge1:authority]]" valueURI="[[ge1:valueURI]]">[[ge1:genre]]</genre>
   <genre type="[[ge2:type]]" authority="[[ge2:authority]]" valueURI="[[ge2:valueURI]]">[[ge2:genre]]</genre>
   <genre type="[[ge3:type]]" authority="[[ge3:authority]]" valueURI="[[ge3:valueURI]]">[[ge3:genre]]</genre>
   <originInfo>
     <place>
-      <placeTerm type="code" authority="[[pl:authority]]">[[pl:placeCode]]</placeTerm>
-      <placeTerm type="text" authority="[[pl:authority]]">[[pl:placeText]]</placeTerm>
+      <placeTerm type="code" authority="[[pl:authority]]" valueURI="[[pl:valueURI]]">[[pl:placeCode]]</placeTerm>
+      <placeTerm type="text" authority="[[pl:authority]]" valueURI="[[pl:valueURI]]">[[pl:placeText]]</placeTerm>
     </place>
     <publisher>[[or:publisher]]</publisher>
     <dateCreated keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="start">[[dt:dateCreated]]</dateCreated>
@@ -74,38 +74,104 @@
     <dateIssued keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="end">[[dt:dateIssued2]]</dateIssued>
   </originInfo>
   <language>
-    <languageTerm authority="[[la1:authority]]" type="code">[[la1:code]]</languageTerm>
-    <languageTerm authority="[[la1:authority]]" type="text">[[la1:text]]</languageTerm>
+    <languageTerm authority="[[la1:authority]]" valueURI="[[la1:valueURI]]" type="code">[[la1:code]]</languageTerm>
+    <languageTerm authority="[[la1:authority]]" valueURI="[[la1:valueURI]]" type="text">[[la1:text]]</languageTerm>
   </language>
   <language>
-    <languageTerm authority="[[la2:authority]]" type="code">[[la2:code]]</languageTerm>
-    <languageTerm authority="[[la2:authority]]" type="text">[[la2:text]]</languageTerm>
+    <languageTerm authority="[[la2:authority]]" valueURI="[[la2:valueURI]]" type="code">[[la2:code]]</languageTerm>
+    <languageTerm authority="[[la2:authority]]" valueURI="[[la2:valueURI]]" type="text">[[la2:text]]</languageTerm>
   </language>
   <language>
-    <languageTerm authority="[[la3:authority]]" type="code">[[la3:code]]</languageTerm>
-    <languageTerm authority="[[la3:authority]]" type="text">[[la3:text]]</languageTerm>
+    <languageTerm authority="[[la3:authority]]" valueURI="[[la3:valueURI]]" type="code">[[la3:code]]</languageTerm>
+    <languageTerm authority="[[la3:authority]]" valueURI="[[la3:valueURI]]" type="text">[[la3:text]]</languageTerm>
   </language>
+  <physicalDescription>
+    <form>[[ph1:form]]</form>
+    <extent>[[ph1:extent]]</extent>
+    <digitalOrigin>[[ph1:digitalOrigin]]</digitalOrigin>
+    <note displayLabel="[[ph1:displayLabel]]">[[ph1:note]]</note>
+  </physicalDescription>
   <abstract displayLabel="[[ab:displayLabel]]">[[ab:abstract]]</abstract>
-  <abstract displayLabel="[[tc:displayLabel]]">[[tc:tableOfContents]]</abstract>
+  <tableOfContents displayLabel="[[tc:displayLabel]]">[[tc:tableOfContents]]</tableOfContents>
   <note type="[[no1:type]]" displayLabel="[[no1:displayLabel]]">[[no1:note]]</note>
   <note type="[[no2:type]]" displayLabel="[[no2:displayLabel]]">[[no2:note]]</note>
   <note type="[[no3:type]]" displayLabel="[[no3:displayLabel]]">[[no3:note]]</note>
   <note type="[[no4:type]]" displayLabel="[[no4:displayLabel]]">[[no4:note]]</note>
   <note type="[[no5:type]]" displayLabel="[[no5:displayLabel]]">[[no5:note]]</note>
-  <subject>
-    <topic>[[su1:subject]]</topic>
+  <subject authority="[[sn1:authority]]">
+    <name type="[[sn1:p1:nameType]]" authority="[[sn1:p1:authority]]" valueURI="[[sn1:p1:valueURI]]">
+      <namePart>[[sn1:p1:name]]</namePart>
+    </name>
+    <titleInfo>
+       <title>[[sn1:p1:title]]</title>
+    </titleInfo>
+    <[[sn1:p2:type]] authority="[[sn1:p2:authority]]" valueURI="[[sn1:p2:valueURI]]">[[sn1:p2:value]]</[[sn1:p2:type]]>
+    <[[sn1:p3:type]] authority="[[sn1:p3:authority]]" valueURI="[[sn1:p3:valueURI]]">[[sn1:p3:value]]</[[sn1:p3:type]]>
   </subject>
-  <subject>
-    <topic>[[su2:subject]]</topic>
+  <subject authority="[[sn2:authority]]">
+    <name type="[[sn2:p1:nameType]]" authority="[[sn2:p1:authority]]" valueURI="[[sn2:p1:valueURI]]">
+      <namePart>[[sn2:p1:name]]</namePart>
+    </name>
+    <titleInfo>
+       <title>[[sn2:p1:title]]</title>
+    </titleInfo>
+    <[[sn2:p2:type]] authority="[[sn2:p2:authority]]" valueURI="[[sn2:p2:valueURI]]">[[sn2:p2:value]]</[[sn2:p2:type]]>
+    <[[sn2:p3:type]] authority="[[sn2:p3:authority]]" valueURI="[[sn2:p3:valueURI]]">[[sn2:p3:value]]</[[sn2:p3:type]]>
   </subject>
-  <subject>
-    <topic>[[su3:subject]]</topic>
+  <subject authority="[[sn3:authority]]">
+    <name type="[[sn3:p1:nameType]]" authority="[[sn3:p1:authority]]" valueURI="[[sn3:p1:valueURI]]">
+      <namePart>[[sn3:p1:name]]</namePart>
+    </name>
+    <titleInfo>
+       <title>[[sn3:p1:title]]</title>
+    </titleInfo>
+    <[[sn3:p2:type]] authority="[[sn3:p2:authority]]" valueURI="[[sn3:p2:valueURI]]">[[sn3:p2:value]]</[[sn3:p2:type]]>
+    <[[sn3:p3:type]] authority="[[sn3:p3:authority]]" valueURI="[[sn3:p3:valueURI]]">[[sn3:p3:value]]</[[sn3:p3:type]]>
   </subject>
-  <subject>
-    <topic>[[su4:subject]]</topic>
+  <subject authority="[[sn4:authority]]">
+    <name type="[[sn4:p1:nameType]]" authority="[[sn4:p1:authority]]" valueURI="[[sn4:p1:valueURI]]">
+      <namePart>[[sn4:p1:name]]</namePart>
+    </name>
+    <titleInfo>
+       <title>[[sn4:p1:title]]</title>
+    </titleInfo>
+    <[[sn4:p2:type]] authority="[[sn4:p2:authority]]" valueURI="[[sn4:p2:valueURI]]">[[sn4:p2:value]]</[[sn4:p2:type]]>
+    <[[sn4:p3:type]] authority="[[sn4:p3:authority]]" valueURI="[[sn4:p3:valueURI]]">[[sn4:p3:value]]</[[sn4:p3:type]]>
   </subject>
-  <subject>
-    <topic>[[su5:subject]]</topic>
+  <subject authority="[[sn5:authority]]">
+    <name type="[[sn5:p1:nameType]]" authority="[[sn5:p1:authority]]" valueURI="[[sn5:p1:valueURI]]">
+      <namePart>[[sn5:p1:name]]</namePart>
+    </name>
+    <titleInfo>
+       <title>[[sn5:p1:title]]</title>
+    </titleInfo>
+    <[[sn5:p2:type]] authority="[[sn5:p2:authority]]" valueURI="[[sn5:p2:valueURI]]">[[sn5:p2:value]]</[[sn5:p2:type]]>
+    <[[sn5:p3:type]] authority="[[sn5:p3:authority]]" valueURI="[[sn5:p3:valueURI]]">[[sn5:p3:value]]</[[sn5:p3:type]]>
+  </subject>
+  <subject authority="[[su1:authority]]">
+    <[[su1:p1:type]] authority="[[su1:p1:authority]]" valueURI="[[su1:p1:valueURI]]">[[su1:p1:value]]</[[su1:p1:type]]>
+    <[[su1:p2:type]] authority="[[su1:p2:authority]]" valueURI="[[su1:p2:valueURI]]">[[su1:p2:value]]</[[su1:p2:type]]>
+    <[[su1:p3:type]] authority="[[su1:p3:authority]]" valueURI="[[su1:p3:valueURI]]">[[su1:p3:value]]</[[su1:p3:type]]>
+  </subject>
+  <subject authority="[[su2:authority]]">
+    <[[su2:p1:type]] authority="[[su2:p1:authority]]" valueURI="[[su2:p1:valueURI]]">[[su2:p1:value]]</[[su2:p1:type]]>
+    <[[su2:p2:type]] authority="[[su2:p2:authority]]" valueURI="[[su2:p2:valueURI]]">[[su2:p2:value]]</[[su2:p2:type]]>
+    <[[su2:p3:type]] authority="[[su2:p3:authority]]" valueURI="[[su2:p3:valueURI]]">[[su2:p3:value]]</[[su2:p3:type]]>
+  </subject>
+  <subject authority="[[su3:authority]]">
+    <[[su3:p1:type]] authority="[[su3:p1:authority]]" valueURI="[[su3:p1:valueURI]]">[[su3:p1:value]]</[[su3:p1:type]]>
+    <[[su3:p2:type]] authority="[[su3:p2:authority]]" valueURI="[[su3:p2:valueURI]]">[[su3:p2:value]]</[[su3:p2:type]]>
+    <[[su3:p3:type]] authority="[[su3:p3:authority]]" valueURI="[[su3:p3:valueURI]]">[[su3:p3:value]]</[[su3:p3:type]]>
+  </subject>
+  <subject authority="[[su4:authority]]">
+    <[[su4:p1:type]] authority="[[su4:p1:authority]]" valueURI="[[su4:p1:valueURI]]">[[su4:p1:value]]</[[su4:p1:type]]>
+    <[[su4:p2:type]] authority="[[su4:p2:authority]]" valueURI="[[su4:p2:valueURI]]">[[su4:p2:value]]</[[su4:p2:type]]>
+    <[[su4:p3:type]] authority="[[su4:p3:authority]]" valueURI="[[su4:p3:valueURI]]">[[su4:p3:value]]</[[su4:p3:type]]>
+  </subject>
+  <subject authority="[[su5:authority]]">
+    <[[su5:p1:type]] authority="[[su5:p1:authority]]" valueURI="[[su5:p1:valueURI]]">[[su5:p1:value]]</[[su5:p1:type]]>
+    <[[su5:p2:type]] authority="[[su5:p2:authority]]" valueURI="[[su5:p2:valueURI]]">[[su5:p2:value]]</[[su5:p2:type]]>
+    <[[su5:p3:type]] authority="[[su5:p3:authority]]" valueURI="[[su5:p3:valueURI]]">[[su5:p3:value]]</[[su5:p3:type]]>
   </subject>
   <subject>
     <cartographics>
@@ -114,12 +180,19 @@
       <coordinates>[[sc1:coordinates]]</coordinates>
     </cartographics>
   </subject>
+  <identifier type="[[id1:type]]" displayLabel="[[id1:displayLabel]]">[[id1:identifier]]</identifier>
+  <identifier type="[[id2:type]]" displayLabel="[[id2:displayLabel]]">[[id2:identifier]]</identifier>
+  <identifier type="[[id3:type]]" displayLabel="[[id3:displayLabel]]">[[id3:identifier]]</identifier>
+  <identifier type="[[id4:type]]" displayLabel="[[id4:displayLabel]]">[[id4:identifier]]</identifier>
+  <identifier type="[[id5:type]]" displayLabel="[[id5:displayLabel]]">[[id5:identifier]]</identifier>
   <location>
-    <physicalLocation displayLabel="[[lo:displayLabel]]">[[lo:physicalLocation]]</physicalLocation>
+    <physicalLocation type="repository" authority="[[lo:authority]]" valueURI="[[lo:valueURI]]">[[lo:repository]]</physicalLocation>
+    <shelfLocator>[[lo:callNumber]]</shelfLocator>
   </location>
-  <relatedItem type="host">
+  <relatedItem type="[[ri1:type]]">
     <titleInfo>
-      <title>[[ri1:repository]]</title>
+      <title>[[ri1:title]]</title>
     </titleInfo>
+    <url>[[ri1:url]]</url>
   </relatedItem>
 </mods>

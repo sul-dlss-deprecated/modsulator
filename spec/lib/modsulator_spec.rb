@@ -5,7 +5,7 @@ describe Modsulator do
     subject { Modsulator.new File.join(FIXTURES_DIR, "test_002.csv"), template: "" }
 
     it "should use the right header row" do
-      expect(subject.rows.first.keys).to include "druid", "sourceId", "status"
+      expect(subject.rows.first.keys).to include "druid", "sourceId"
     end
 
     it "should present each row as a hash" do

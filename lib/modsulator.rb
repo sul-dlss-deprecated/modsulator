@@ -55,7 +55,6 @@ class Modsulator
   # Generates an XML string for a given row in a spreadsheet.
   #
   # @param [Hash]     mf            A single row in a MODS metadata spreadsheet, as provided by the {Modsulator#load_spreadsheet} method.
-  # @param [String]   template_xml  The XML template, as a big string.
   # @return [String]  XML template, with data from the row substituted in.
   def generate_xml(mf)
     manifest_row = mf
@@ -83,11 +82,13 @@ class Modsulator
     descriptive_metadata_xml
   end
 
+  
   # Get the headers used in the spreadsheet
   def headers
     rows.first.keys
   end
 
+  
   # Generates normalized (Stanford) MODS XML, writing output to files.
   #
   # @param [String] output_directory       The directory where output files should be stored.
@@ -106,7 +107,10 @@ class Modsulator
       # Generate an XML string, then remove any text carried over from the template
       generated_xml = generate_xml(row)
       generated_xml.gsub!(/\[\[[^\]]+\]\]/, "")
-      
+
+      # Remove empty tags from when e.g. <[[sn1:p2:type]]> does not get filled in when [[sn1:p2:type]] has no value in the source spreadsheet
+      generated_xml.gsub!(/<\s[^>]+><\/>/, "")
+
       # Create an XML Document and normalize it
       xml_doc = Nokogiri::XML(generated_xml)
       root_node = xml_doc.root
