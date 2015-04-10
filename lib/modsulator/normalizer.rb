@@ -64,21 +64,21 @@ class Normalizer
   end
   
 
-  # Given a <tableOfContents>, <abstract> or <note> XML node, replaces linefeed characters by &#10;
+  # Given the root of an XML document, replaces linefeed characters inside <tableOfContents>, <abstract> and <note> XML nodeby &#10;
   # \n, \r, <br> and <br/> are all replaced by a single &#10;
   # <p> is replaced by two &#10;
   # </p> is removed
   # \r\n is replaced by &#10;
   # Any tags not listed above are removed. MODS 3.5 does not allow for anything other than text inside these three nodes.
   #
-  # @param   [Nokogiri::XML::Element]    node  A <tableOfContents>, <abstract> or <note> XML node.
+  # @param   [Nokogiri::XML::Element]    node  The root node of an XML document
   # @return  [Void]                      This method doesn't return anything, but introduces UTF-8 linefeed characters in place, as described above.
   def clean_linefeeds(node)
-    return unless ['tableOfContents', 'abstract', 'note'].include? node.node_name
-
-    new_text = substitute_linefeeds(node)
-    node.children.remove
-    node.content = new_text
+    node.xpath("//abstract | //tableOfContents | //note").each do |current_node|
+      new_text = substitute_linefeeds(current_node)
+      current_node.children.remove
+      current_node.content = new_text
+    end
   end
 
 
@@ -158,5 +158,24 @@ class Normalizer
         trim_text(c)
       end
     end
+  end
+
+
+  # Normalizes the given XML document according to the Stanford guidelines.
+  #
+  # @param  [Nokogiri::XML::Element]  root  The root of a MODS XML document.
+  # @return [Void]                    The given document is modified in place.
+  def normalize_document(root)
+    remove_empty_attributes(root)
+    remove_empty_nodes(root)
+    trim_text(root)
+    clean_linefeeds(root)
+  end
+
+
+  def normalize_xml_string(xml_string)
+    doc = Nokogiri::XML(xml_string)
+    normalize_document(doc.root)
+    doc.to_s
   end
 end

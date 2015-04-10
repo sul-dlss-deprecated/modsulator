@@ -15,7 +15,7 @@ describe Modsulator do
       'test_002.csv'  => 'CSV'
     }.each do |testfile, description|
       it "loads sample template 002 in #{description} format correctly" do
-        Modsulator.new(File.join(FIXTURES_DIR, testfile), file: File.join(FIXTURES_DIR, "modsulator_template.xml")).generate_normalized_mods(@tmp_dir)
+        Modsulator.new(File.join(FIXTURES_DIR, testfile), nil, template_file: File.join(FIXTURES_DIR, "modsulator_template.xml")).generate_normalized_mods(@tmp_dir)
         expect(File).to be_readable(File.join(@tmp_dir, "test:002.xml"))
         actual_result   = File.read(File.join(@tmp_dir, "test:002.xml"))
         expected_result = File.read(File.join(FIXTURES_DIR, "test:002.xml"))

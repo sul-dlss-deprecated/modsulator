@@ -12,52 +12,58 @@ require 'modsulator/normalizer'
 # The main class for the MODSulator API, which lets you work with metadata spreadsheets and MODS XML.
 # @see https://consul.stanford.edu/display/chimera/MODS+bulk+loading Requirements (Stanford Consul page)
 class Modsulator
-  attr_reader :filename, :template_xml
+  attr_reader :filename, :template_xml, :rows
 
-  # @param [String] spreadsheet_filename   The full path to the input spreadsheet. One XML file will be generated per data row in this spreadsheet.
-  # @param [Hash] options
-  # @option options [String] :file  The full path to the desired template file (a spreadsheet).
-  # @option options [String] :template  The template contents as a string
-  def initialize filename, options = {}
+  # Note that if neither :template_file nor :template_string are specified, the gem's built-in XML template is used.
+  # @param [String] spreadsheet_filename   The full path to the input spreadsheet.
+  # @param optional [Array] data_rows      An array of input rows, as loaded by {ModsulatorSheet#rows}.
+  # @param [Hash]   options
+  # @option options [String] :template_file    The full path to the desired template file (a spreadsheet).
+  # @option options [String] :template_string  The template contents as a string
+  def initialize filename = '', data_rows = [], options = {}
     @filename = filename
 
-    if options[:template]
-      @template_xml = options[:template]
-    elsif options[:file]
-      @template_xml = File.read(options[:file])
+    if @filename == ''
+      @rows = data_rows
+    else
+      @rows = ModsulatorSheet.new(filename).rows
+    end
+
+    if options[:template_string]
+      @template_xml = options[:template_string]
+    elsif options[:template_file]
+      @template_xml = File.read(options[:template_file])
+    else
+      @template_xml = File.read(File.join(File.expand_path("../../spec/fixtures", __FILE__), "modsulator_template.xml"))
     end
   end
 
-  # Loads a spreadsheet into an array of hashes. The spreadsheet is expected to have two header rows. The first row
-  # is a kind of "super header", and the second row is the header row that names the fields. The data rows are in
-  # the third row onwards.
-  #
-  # @param [String] filename  The full path to a spreadsheet file (.csv or .xls or .xlsx)
-  # @return [Array<Hash>]     An array with one entry per data row in the spreadsheet. Each entry is a hash, indexed by
-  #                           the spreadsheet headers.
-  def rows
-    @rows ||= spreadsheet.parse(clear: true, header_search: ["druid", "sourceId"]).drop(1)
-  end
 
-  # Opens a spreadsheet based on its filename extension.
-  #
-  # @param [String] filename  The full path to a spreadsheet file (.csv or .xls or .xlsx).
-  # @return [Roo::CSV, Roo::Excel, Roo::Excelx] A Roo object, whose type depends on the extension of the given filename.
-  def spreadsheet
-    @spreadsheet ||= case File.extname(filename)
-    when ".csv" then Roo::CSV.new(filename)
-    when ".xls" then Roo::Excel.new(filename)
-    when ".xlsx" then Roo::Excelx.new(filename)
-    else raise "Unknown file type: #{filename}"
+  def convert_rows()
+    xml_result = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
+    xml_result = xml_result + "<metadata>\n"
+    @rows.each do |row|
+      mods_xml = generate_xml(row)
+
+      mods_xml.gsub!(/\[\[[^\]]+\]\]/, "")
+      mods_xml.gsub!(/<\s[^>]+><\/>/, "")
+
+      xml_doc = Nokogiri::XML(mods_xml)
+      normalizer = Normalizer.new
+      normalizer.normalize_document(xml_doc.root)
+      
+      xml_result = xml_result + xml_doc.to_s + "\n"
     end
+    xml_result + "</metadata>" + "\n"
   end
+  
 
   # Generates an XML string for a given row in a spreadsheet.
   #
-  # @param [Hash]     mf            A single row in a MODS metadata spreadsheet, as provided by the {Modsulator#load_spreadsheet} method.
-  # @return [String]  XML template, with data from the row substituted in.
-  def generate_xml(mf)
-    manifest_row = mf
+  # @param [Hash]     metadata_row  A single row in a MODS metadata spreadsheet, as provided by the {ModsulatorSheet#rows} method.
+  # @return [String]                XML template, with data from the row substituted in.
+  def generate_xml(metadata_row)
+    manifest_row = metadata_row
 
     # XML escape all of the entries in the manifest row so they won't break the XML
     manifest_row.each {|k,v| manifest_row[k]=Nokogiri::XML::Text.new(v.to_s,Nokogiri::XML('')).to_s if v }
@@ -83,19 +89,13 @@ class Modsulator
   end
 
   
-  # Get the headers used in the spreadsheet
-  def headers
-    rows.first.keys
-  end
-
-  
   # Generates normalized (Stanford) MODS XML, writing output to files.
   #
   # @param [String] output_directory       The directory where output files should be stored.
   # @return [Void]
   def generate_normalized_mods(output_directory)
 
-    invalid_headers = validate_headers(rows.first.keys)
+#    invalid_headers = validate_headers(rows.first.keys)
 
     # To do: generate a warning if there are invalid headers
 
