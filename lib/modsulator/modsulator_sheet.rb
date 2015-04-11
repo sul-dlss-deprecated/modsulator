@@ -4,6 +4,7 @@
 require 'json'
 require 'roo'
 
+# This class provides methods to parse Stanford's MODS spreadsheets into either an array of hashes, or a JSON string.
 class ModsulatorSheet
   attr_reader :filename
 
@@ -13,11 +14,10 @@ class ModsulatorSheet
   end
   
 
-  # Loads a spreadsheet into an array of hashes. The spreadsheet is expected to have two header rows. The first row
-  # is a kind of "super header", and the second row is the header row that names the fields. The data rows are in
-  # the third row onwards.
+  # Loads the input spreadsheet into an array of hashes. This spreadsheet should conform to the Stanford MODS template format,
+  # which has three header rows. The first row is a kind of "super header", the second row is an intermediate header and the
+  # third row is the header row that names the fields. The data rows are in the fourth row onwards.
   #
-  # @param  [String] filename  The full path to a spreadsheet file (.csv or .xls or .xlsx)
   # @return [Array<Hash>]      An array with one entry per data row in the spreadsheet. Each entry is a hash, indexed by
   #                            the spreadsheet headers.
   def rows
@@ -30,7 +30,6 @@ class ModsulatorSheet
   
   # Opens a spreadsheet based on its filename extension.
   #
-  # @param  [String] filename                     The full path to a spreadsheet file (.csv or .xls or .xlsx).
   # @return [Roo::CSV, Roo::Excel, Roo::Excelx]   A Roo object, whose type depends on the extension of the given filename.
   def spreadsheet
     @spreadsheet ||= case File.extname(filename)
@@ -45,19 +44,6 @@ class ModsulatorSheet
    # Get the headers used in the spreadsheet
   def headers
     rows.first.keys
-  end
-
-
-  # Checks that all the headers in the spreadsheet has a corresponding entry in the XML template.
-  #
-  # @param [Array<String>] spreadsheet_headers A list of all the headers in the spreadsheet
-  # @param [String]        template_xml        The XML template in a single string
-  # @return [Array<String>]                    A list of spreadsheet headers that did not appear in the XML template. This list
-  #                                            will be empty if all the headers were present.
-  def validate_headers(spreadsheet_headers)
-    spreadsheet_headers.reject do |header|
-      header.nil? || header == "sourceId" || template_xml.include?(header)
-    end
   end
 
 

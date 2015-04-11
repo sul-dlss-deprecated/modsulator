@@ -14,9 +14,10 @@ require 'modsulator/normalizer'
 class Modsulator
   attr_reader :filename, :template_xml, :rows
 
+  # There are two ways to provide input data - either with a spreadsheet file or with an array of data rows.
   # Note that if neither :template_file nor :template_string are specified, the gem's built-in XML template is used.
-  # @param [String] spreadsheet_filename   The full path to the input spreadsheet.
-  # @param optional [Array] data_rows      An array of input rows, as loaded by {ModsulatorSheet#rows}.
+  # @param [String] filename               The full path to the input spreadsheet.
+  # @param [Array]  data_rows              An array of input rows, as produced by {ModsulatorSheet#rows}.
   # @param [Hash]   options
   # @option options [String] :template_file    The full path to the desired template file (a spreadsheet).
   # @option options [String] :template_string  The template contents as a string
@@ -39,6 +40,9 @@ class Modsulator
   end
 
 
+  # Generates a container XML document with one <mods> entry per input row.
+  #
+  # @return [String] An XML string containing all the <mods> elements within a <metadata> element.
   def convert_rows()
     xml_result = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
     xml_result = xml_result + "<metadata>\n"
@@ -128,7 +132,6 @@ class Modsulator
   # Checks that all the headers in the spreadsheet has a corresponding entry in the XML template.
   #
   # @param [Array<String>] spreadsheet_headers A list of all the headers in the spreadsheet
-  # @param [String]        template_xml        The XML template in a single string
   # @return [Array<String>]                    A list of spreadsheet headers that did not appear in the XML template. This list
   #                                            will be empty if all the headers were present.
   def validate_headers(spreadsheet_headers)

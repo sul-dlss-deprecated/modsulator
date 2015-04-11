@@ -3,8 +3,9 @@
 require 'nokogiri'
 
 # This class provides methods to normalize MODS XML according to the Stanford guidelines.
-# @see https://consul.stanford.edu/display/chimera/MODS+validation+and+normalization Requirements (Stanford Consul page)
+# @see https://consul.stanford.edu/display/chimera/MODS+validation+and+normalization Requirements (Stanford Consul page - requires login)
 class Normalizer
+  # Linefeed character entity reference
   LINEFEED = '&#10;'
   
   # Checks if a node has attributes that we make exeptions for. There are two such exceptions.
@@ -64,7 +65,7 @@ class Normalizer
   end
   
 
-  # Given the root of an XML document, replaces linefeed characters inside <tableOfContents>, <abstract> and <note> XML nodeby &#10;
+  # Given the root of an XML document, replaces linefeed characters inside <tableOfContents>, <abstract> and <note> XML node by &#10;
   # \n, \r, <br> and <br/> are all replaced by a single &#10;
   # <p> is replaced by two &#10;
   # </p> is removed
@@ -96,7 +97,7 @@ class Normalizer
 
 
 
-  # Removes empty attributes from a given node, except for <em>valueURI</em> attributes (see the exceptional? method).
+  # Removes empty attributes from a given node.
   #
   # @param [Nokogiri::XML::Element]   node An XML node.
   # @return [Void]                    This method doesn't return anything, but modifies the XML tree starting at the given node.
@@ -117,7 +118,7 @@ class Normalizer
 
 
 
-  # Removes empty nodes from an XML tree.
+  # Removes empty nodes from an XML tree. See {#exceptional?} for nodes that are kept even if empty.
   #
   # @param  [Nokogiri::XML::Element]   node An XML node.
   # @return [Void]                     This method doesn't return anything, but modifies the XML tree starting at the given node.
@@ -173,6 +174,10 @@ class Normalizer
   end
 
 
+  # Normalizes the given XML document string according to the Stanford guidelines.
+  #
+  # @param  [String]   xml_string    An XML document
+  # @return [String]                 The XML string, with normalizations applied.
   def normalize_xml_string(xml_string)
     doc = Nokogiri::XML(xml_string)
     normalize_document(doc.root)
