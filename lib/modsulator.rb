@@ -6,7 +6,9 @@ require 'active_support/core_ext/object/blank.rb'           # Required for templ
 require 'erb'                                               # Rails templating engine
 require 'nokogiri'
 require 'roo'
+require 'rubygems'
 require 'modsulator/normalizer'
+require 'modsulator/modsulator_sheet'
 
 
 # The main class for the MODSulator API, which lets you work with metadata spreadsheets and MODS XML.
@@ -43,7 +45,7 @@ class Modsulator
   # Generates a container XML document with one <mods> entry per input row.
   #
   # @return [String] An XML string containing all the <mods> elements within a <metadata> element.
-  def convert_rows()
+  def convert_rows
     xml_result = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
     xml_result = xml_result + "<metadata>\n"
     @rows.each do |row|
