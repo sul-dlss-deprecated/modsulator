@@ -42,25 +42,44 @@ class Modsulator
   end
 
 
-  # Generates a container XML document with one <mods> entry per input row.
+  # Generates an XML document with one <mods> entry per input row.
+  # Example output:
+  #  <xmlDocs datetime="2015-03-23 09:22:11AM" sourceFile="FitchMLK-v1.xlsx">
+  #       <xmlDoc id="descMetadata" objectId="druid:aa111aa1111">
+  #           <mods ... >
+  #               :
+  #           </mods>
+  #       </xmlDoc>
+  #       <xmlDoc id="descMetadata" objectId="druid:aa222aa2222">
+  #           <mods ... >
+  #               :
+  #           </mods>
+  #       </xmlDoc>
+  #  </xmlDocs>
   #
-  # @return [String] An XML string containing all the <mods> elements within a <metadata> element.
+  # @return [String] An XML string containing all the <mods> documents within a nested structure as shown in the example.
   def convert_rows
-    xml_result = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
-    xml_result = xml_result + "<metadata>\n"
+    time_stamp = Time.now.strftime("%Y-%m-%d %I:%M:%S%p")
+    header = "<xmlDocs datetime=\"#{time_stamp}\" sourceFile=\"#{@filename}\">"
+    full_doc = Nokogiri::XML(header)
+    root = full_doc.root
+
     @rows.each do |row|
       mods_xml = generate_xml(row)
 
       mods_xml.gsub!(/\[\[[^\]]+\]\]/, "")
       mods_xml.gsub!(/<\s[^>]+><\/>/, "")
 
-      xml_doc = Nokogiri::XML(mods_xml)
+      mods_xml_doc = Nokogiri::XML(mods_xml)
       normalizer = Normalizer.new
-      normalizer.normalize_document(xml_doc.root)
-      
-      xml_result = xml_result + xml_doc.to_s + "\n"
+      normalizer.normalize_document(mods_xml_doc.root)
+
+      sub_doc = full_doc.create_element('xmlDoc', :id => 'descMetadata', :objectId => "#{row['druid']}")
+      sub_doc.add_child(mods_xml_doc.root)
+      root.add_child(sub_doc)
     end
-    xml_result + "</metadata>" + "\n"
+
+    full_doc.to_s
   end
   
 
