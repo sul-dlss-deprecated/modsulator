@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://library.stanford.edu/modsulator_namespace" xmlns="http://library.stanford.edu/modsulator_namespace" elementFormDefault="qualified" attributeFormDefault="unqualified">
+  <!-- This XML Schema Definition defines the "xmlDocs" vocabulary that is produced by the MODSulator. -->
+  <!-- The main content of xmlDocs is full MODS 3.5 XML, as defined by the Library of Congress. Import their schema definition. -->
+  <xs:import namespace="http://www.loc.gov/mods/v3" schemaLocation="mods-3-5.xsd"/>
+    
+  <xs:element name="xmlDocs">
+    <xs:complexType>
+      <xs:sequence minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="xmlDoc"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="docsAttributeGroup"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="xmlDoc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="mods"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="docAttributeGroup"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:attributeGroup name="docsAttributeGroup">
+    <xs:attribute name="datetime" type="xs:string"/>
+    <xs:attribute name="sourceFile" type="xs:string"/>
+  </xs:attributeGroup>
+
+  <xs:attributeGroup name="docAttributeGroup">
+      <xs:attribute name="id" type="xs:string"/>
+      <xs:attribute name="objectId" type="xs:string"/>
+  </xs:attributeGroup>
+
+</xs:schema>
