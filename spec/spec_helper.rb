@@ -15,6 +15,7 @@
 
 require 'modsulator'
 FIXTURES_DIR = File.expand_path("../fixtures", __FILE__)
+XML_TEMPLATE = File.join(File.expand_path("../../lib/modsulator", __FILE__), "modsulator_template.xml")
 
 #
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration

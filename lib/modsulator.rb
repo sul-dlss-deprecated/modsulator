@@ -37,7 +37,7 @@ class Modsulator
     elsif options[:template_file]
       @template_xml = File.read(options[:template_file])
     else
-      @template_xml = File.read(File.join(File.expand_path("../../spec/fixtures", __FILE__), "modsulator_template.xml"))
+      @template_xml = File.read(File.expand_path("../modsulator/modsulator_template.xml", __FILE__))
     end
   end
 
