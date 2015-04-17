@@ -68,14 +68,7 @@ class Modsulator
     root = full_doc.root
 
     @rows.each do |row|
-      mods_xml = generate_xml(row)
-
-      mods_xml.gsub!(/\[\[[^\]]+\]\]/, "")
-      mods_xml.gsub!(/<\s[^>]+><\/>/, "")
-
-      mods_xml_doc = Nokogiri::XML(mods_xml)
-      normalizer = Normalizer.new
-      normalizer.normalize_document(mods_xml_doc.root)
+      mods_xml_doc = row_to_xml(row)
 
       sub_doc = full_doc.create_element('xmlDoc', :id => 'descMetadata', :objectId => "#{row['druid']}")
       sub_doc.add_child(mods_xml_doc.root)
@@ -122,33 +115,13 @@ class Modsulator
   # @param [String] output_directory       The directory where output files should be stored.
   # @return [Void]
   def generate_normalized_mods(output_directory)
-
-#    invalid_headers = validate_headers(rows.first.keys)
-
-    # To do: generate a warning if there are invalid headers
-
     # Write one XML file per data row in the input spreadsheet
     rows.each do |row|
       sourceid = row['sourceId']
       output_filename = output_directory + "/" + sourceid + ".xml"
-        
-      # Generate an XML string, then remove any text carried over from the template
-      generated_xml = generate_xml(row)
-      generated_xml.gsub!(/\[\[[^\]]+\]\]/, "")
 
-      # Remove empty tags from when e.g. <[[sn1:p2:type]]> does not get filled in when [[sn1:p2:type]] has no value in the source spreadsheet
-      generated_xml.gsub!(/<\s[^>]+><\/>/, "")
-
-      # Create an XML Document and normalize it
-      xml_doc = Nokogiri::XML(generated_xml)
-      root_node = xml_doc.root
-      normalizer = Normalizer.new
-      normalizer.remove_empty_attributes(root_node)
-      normalizer.remove_empty_nodes(root_node)
-
-      # To do: notify of errors in the resulting XML
-      
-      File.open(output_filename, 'w') { |fh| fh.puts(root_node.to_s) }
+      mods_doc = row_to_xml(row)
+      File.open(output_filename, 'w') { |fh| fh.puts(mods_doc.root.to_s) }
     end
   end
 
@@ -162,5 +135,26 @@ class Modsulator
     spreadsheet_headers.reject do |header|
       header.nil? || header == "sourceId" || template_xml.include?(header)
     end
+  end
+
+
+  # Converts a single data row into a normalized MODS XML document.
+  #
+  # @param row     A single row in a MODS metadata spreadsheet, as provided by the {ModsulatorSheet#rows} method.
+  # @return        An instance of Nokogiri::XML::Document that holds a normalized MODS XML instance.
+  def row_to_xml(row)
+
+    # Generate an XML string, then remove any text carried over from the template
+    mods_xml = generate_xml(row)
+    mods_xml.gsub!(/\[\[[^\]]+\]\]/, "")
+
+    # Remove empty tags from when e.g. <[[sn1:p2:type]]> does not get filled in when [[sn1:p2:type]] has no value in the source spreadsheet
+    mods_xml.gsub!(/<\s[^>]+><\/>/, "")
+
+    mods_xml_doc = Nokogiri::XML(mods_xml)
+    normalizer = Normalizer.new
+    normalizer.normalize_document(mods_xml_doc.root)
+
+    return mods_xml_doc
   end
 end
