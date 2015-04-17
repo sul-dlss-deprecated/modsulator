@@ -1,6 +1,8 @@
+version = File.read("VERSION").strip
+
 Gem::Specification.new do |s|
   s.name        =  'modsulator'
-  s.version     =  '0.0.0'
+  s.version     =  version
   s.summary     =  "Produces (Stanford) MODS XML from spreadsheets."
   s.description =  "Tools and libraries for working with metadata spreadsheets and MODS."
   s.authors     =  ["Tommy Ingulfsen"]
