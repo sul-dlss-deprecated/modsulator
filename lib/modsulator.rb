@@ -28,10 +28,10 @@ class Modsulator
 
     if @filename == ''
       @rows = data_rows
-    else
+    elsif
       @rows = ModsulatorSheet.new(filename).rows
     end
-
+    
     if options[:template_string]
       @template_xml = options[:template_string]
     elsif options[:template_file]
@@ -56,11 +56,14 @@ class Modsulator
   #           </mods>
   #       </xmlDoc>
   #  </xmlDocs>
-  #
-  # @return [String] An XML string containing all the <mods> documents within a nested structure as shown in the example.
-  def convert_rows
+  # @param  display_filename   The filename to be displayed in the output XML.
+  # @return [String]           An XML string containing all the <mods> documents within a nested structure as shown in the example.
+  def convert_rows(display_filename = '')
+    if(display_filename == '')
+      display_filename = @filename
+    end
     time_stamp = Time.now.strftime("%Y-%m-%d %I:%M:%S%p")
-    header = "<xmlDocs datetime=\"#{time_stamp}\" sourceFile=\"#{@filename}\">"
+    header = "<xmlDocs datetime=\"#{time_stamp}\" sourceFile=\"#{@display_filename}\">"
     full_doc = Nokogiri::XML(header)
     root = full_doc.root
 
