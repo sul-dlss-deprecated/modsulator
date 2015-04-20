@@ -51,7 +51,7 @@ class ModsulatorSheet
   # @return [String]  A JSON string.
   def to_json
     json_hash = Hash.new
-    json_hash["filename"] = filename
+    json_hash["filename"] = File.basename(filename)
     json_hash["rows"] = rows
     json_hash.to_json
   end

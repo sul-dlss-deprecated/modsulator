@@ -63,7 +63,7 @@ class Modsulator
       display_filename = @filename
     end
     time_stamp = Time.now.strftime("%Y-%m-%d %I:%M:%S%p")
-    header = "<xmlDocs datetime=\"#{time_stamp}\" sourceFile=\"#{@display_filename}\">"
+    header = "<xmlDocs datetime=\"#{time_stamp}\" sourceFile=\"#{display_filename}\">"
     full_doc = Nokogiri::XML(header)
     root = full_doc.root
 
