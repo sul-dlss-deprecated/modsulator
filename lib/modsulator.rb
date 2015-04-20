@@ -14,6 +14,8 @@ require 'modsulator/modsulator_sheet'
 # The main class for the MODSulator API, which lets you work with metadata spreadsheets and MODS XML.
 # @see https://consul.stanford.edu/display/chimera/MODS+bulk+loading Requirements (Stanford Consul page)
 class Modsulator
+  # We define our own namespace for <xmlDocs>
+  NAMESPACE = "http://library.stanford.edu/modsulator_namespace"
   attr_reader :filename, :template_xml, :rows
 
   # There are two ways to provide input data - either with a spreadsheet file or with an array of data rows.
@@ -63,7 +65,7 @@ class Modsulator
       display_filename = @filename
     end
     time_stamp = Time.now.strftime("%Y-%m-%d %I:%M:%S%p")
-    header = "<xmlDocs datetime=\"#{time_stamp}\" sourceFile=\"#{display_filename}\">"
+    header = "<xmlDocs xmlns=\"#{NAMESPACE}\" datetime=\"#{time_stamp}\" sourceFile=\"#{display_filename}\">"
     full_doc = Nokogiri::XML(header)
     root = full_doc.root
 
