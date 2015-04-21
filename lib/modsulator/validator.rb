@@ -9,9 +9,9 @@ class Validator
   # @param schema_file  Full path to the desired .xsd file. If none is given, the built-in file will be used.
   def initialize(schema_file = '')
     if(schema_file == '')
-      schema = Nokogiri::XML::Schema(File.read("modsulator.xsd"))
+      @schema = Nokogiri::XML::Schema(File.read("modsulator.xsd"))
     else
-      schema = Nokogiri::XML::Schema(File.read(schema_file))
+      @schema = Nokogiri::XML::Schema(File.read(schema_file))
     end
   end
 
@@ -21,6 +21,7 @@ class Validator
   # @return      An array containing holds Nokogiri::XML::SyntaxError elements. If this array has length zero, the document is valid.
   def validate_xml_string(xml)
     xml_doc = Nokogiri::XML(xml)
+    return validate_xml_doc(xml_doc)
   end
 
 
@@ -29,7 +30,7 @@ class Validator
   # @param doc   An instance of Nokogiri::XML::Document
   # @return      An array containing holds Nokogiri::XML::SyntaxError elements. If this array has length zero, the document is valid.
   def validate_xml_doc(doc)
-    return xmldoc.errors if(xmldoc.errors.length > 0)
-    return schema.validate(xml_doc)
+    return doc.errors if(doc.errors.length > 0)
+    return @schema.validate(doc)
   end
 end
