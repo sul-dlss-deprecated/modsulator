@@ -1,3 +1,4 @@
+require 'equivalent-xml'
 require "modsulator"
 require "modsulator_helper.rb"
 
@@ -15,11 +16,10 @@ describe Modsulator do
       'test_002.csv'  => 'CSV'
     }.each do |testfile, description|
       it "loads sample template 002 in #{description} format correctly" do
-        Modsulator.new(File.join(FIXTURES_DIR, testfile), testfile, template_file: XML_TEMPLATE).generate_normalized_mods(@tmp_dir)
-        expect(File).to be_readable(File.join(@tmp_dir, "test:002.xml"))
-        actual_result   = File.read(File.join(@tmp_dir, "test:002.xml"))
-        expected_result = File.read(File.join(FIXTURES_DIR, "test:002.xml"))
-        expect(actual_result).to eq(expected_result)
+        generated_xml_string = Modsulator.new(File.join(FIXTURES_DIR, testfile), testfile).convert_rows()
+        generated_xml = Nokogiri::XML(generated_xml_string)
+        expected_xml = Nokogiri::XML(File.read(File.join(FIXTURES_DIR, "test:002.xml")))
+        expect(generated_xml).to be_equivalent_to(expected_xml).ignoring_attr_values('datetime', 'sourceFile')
       end
     end
   end

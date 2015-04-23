@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2015-04-22 05:19:13PM" sourceFile="Fitch_King.xlsx">
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2015-04-23 02:27:47PM" sourceFile="Fitch_King.xlsx">
   <xmlDoc id="descMetadata" objectId="00001">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
@@ -13,7 +13,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -43,7 +43,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -73,7 +73,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -103,7 +103,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -133,7 +133,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -163,7 +163,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -193,7 +193,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -223,7 +223,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -253,7 +253,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1965.0</dateCreated>
+        <dateCreated keyDate="yes">1965</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -283,7 +283,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1965.0</dateCreated>
+        <dateCreated keyDate="yes">1965</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -313,7 +313,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1965.0</dateCreated>
+        <dateCreated keyDate="yes">1965</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -343,7 +343,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -373,7 +373,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -403,7 +403,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -433,7 +433,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1695.0</dateCreated>
+        <dateCreated keyDate="yes">1695</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -463,7 +463,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -498,7 +498,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -533,7 +533,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -578,7 +578,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -608,7 +608,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -638,7 +638,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -668,7 +668,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -708,7 +708,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -738,7 +738,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -768,7 +768,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -798,7 +798,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -838,7 +838,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -873,7 +873,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -913,7 +913,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -943,7 +943,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -978,7 +978,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1013,7 +1013,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1090,7 +1090,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1130,7 +1130,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1175,7 +1175,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1210,7 +1210,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1250,7 +1250,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1285,7 +1285,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1320,7 +1320,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1350,7 +1350,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1380,7 +1380,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1415,7 +1415,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1450,7 +1450,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1480,7 +1480,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1525,7 +1525,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1570,7 +1570,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1652,7 +1652,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1751,7 +1751,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1808,7 +1808,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1853,7 +1853,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">196.0</dateCreated>
+        <dateCreated keyDate="yes">196</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1883,7 +1883,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1918,7 +1918,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1958,7 +1958,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -1993,7 +1993,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -2023,7 +2023,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -2068,7 +2068,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -2113,7 +2113,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -2148,7 +2148,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -2178,7 +2178,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -2208,7 +2208,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -2243,7 +2243,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -2273,7 +2273,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -2303,7 +2303,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -2333,7 +2333,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -2385,7 +2385,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -2430,7 +2430,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -2475,7 +2475,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -2510,7 +2510,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
@@ -2540,7 +2540,7 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1966.0</dateCreated>
+        <dateCreated keyDate="yes">1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>

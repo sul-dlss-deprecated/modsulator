@@ -2,26 +2,15 @@
 
 require 'modsulator'
 
-unless ARGV.length == 3
-  abort "Usage: modsulator <spreadsheet filename> <XML template filename> <output directory>"
+unless ARGV.length == 1
+  abort "Usage: modsulator <spreadsheet>"
 end
 
 unless (File.exists?(ARGV[0]) && File.readable?(ARGV[0]))
   abort "*** The file #{ARGV[0]} does not exist or is not readable to the current user? - Terminating."
 end
 
-unless (File.exists?(ARGV[1]) && File.readable?(ARGV[1]))
-  abort "*** The file #{ARGV[1]} does not exist or is not readable to the current user? - Terminating."
-end
+modsulator = Modsulator.new(File.new(ARGV[0]), File.basename(ARGV[0]))
+xml_string = modsulator.convert_rows()
 
-modsulator = Modsulator.new ARGV[0], file: ARGV[1]
-
-invalid_headers = modsulator.validate_headers(modsulator.headers)
-if(invalid_headers.length > 0)
-  puts("*** Warning: There were headers in the spreadsheet that did not appear in the XML template (is there a spreadsheet typo?):")
-  invalid_headers.each do |h|
-    puts(h)
-  end
-end
-
-modsulator.generate_normalized_mods(ARGV[2])
+puts xml_string

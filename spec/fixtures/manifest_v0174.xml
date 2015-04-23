@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2015-04-22 05:23:47PM" sourceFile="manifest_v0174.csv">
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2015-04-23 02:29:47PM" sourceFile="manifest_v0174.csv">
   <xmlDoc id="descMetadata" objectId="ns905zh5886">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
@@ -15,7 +15,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">9/30/1987</dateCreated>
+        <dateCreated keyDate="yes">9/30/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -48,7 +48,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">10/2/1987</dateCreated>
+        <dateCreated keyDate="yes">10/2/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -81,7 +81,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">10/5/1987</dateCreated>
+        <dateCreated keyDate="yes">10/5/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -114,7 +114,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">10/7/1987</dateCreated>
+        <dateCreated keyDate="yes">10/7/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -147,7 +147,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">10/9/1987</dateCreated>
+        <dateCreated keyDate="yes">10/9/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -180,7 +180,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">10/12/1987</dateCreated>
+        <dateCreated keyDate="yes">10/12/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -213,7 +213,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">10/14/1987</dateCreated>
+        <dateCreated keyDate="yes">10/14/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -246,7 +246,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">10/16/1987</dateCreated>
+        <dateCreated keyDate="yes">10/16/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -279,7 +279,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">10/19/1987</dateCreated>
+        <dateCreated keyDate="yes">10/19/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -312,7 +312,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">10/21/1987</dateCreated>
+        <dateCreated keyDate="yes">10/21/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -345,7 +345,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">10/23/1987</dateCreated>
+        <dateCreated keyDate="yes">10/23/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -378,7 +378,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">10/26/1987</dateCreated>
+        <dateCreated keyDate="yes">10/26/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -411,7 +411,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">10/28/1987</dateCreated>
+        <dateCreated keyDate="yes">10/28/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -444,7 +444,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">10/30/1987</dateCreated>
+        <dateCreated keyDate="yes">10/30/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -477,7 +477,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">11/2/1987</dateCreated>
+        <dateCreated keyDate="yes">11/2/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -510,7 +510,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">11/4/1987</dateCreated>
+        <dateCreated keyDate="yes">11/4/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -543,7 +543,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">11/6/1987</dateCreated>
+        <dateCreated keyDate="yes">11/6/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -576,7 +576,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">11/9/1987</dateCreated>
+        <dateCreated keyDate="yes">11/9/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -609,7 +609,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">11/11/1987</dateCreated>
+        <dateCreated keyDate="yes">11/11/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -642,7 +642,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">11/13/1987</dateCreated>
+        <dateCreated keyDate="yes">11/13/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -675,7 +675,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">11/16/1987</dateCreated>
+        <dateCreated keyDate="yes">11/16/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -708,7 +708,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">11/18/1987</dateCreated>
+        <dateCreated keyDate="yes">11/18/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -741,7 +741,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">11/20/1987</dateCreated>
+        <dateCreated keyDate="yes">11/20/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -774,7 +774,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">11/23/1987</dateCreated>
+        <dateCreated keyDate="yes">11/23/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -807,7 +807,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">11/25/1987</dateCreated>
+        <dateCreated keyDate="yes">11/25/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -840,7 +840,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">11/30/1987</dateCreated>
+        <dateCreated keyDate="yes">11/30/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -873,7 +873,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">12/2/1987</dateCreated>
+        <dateCreated keyDate="yes">12/2/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -906,7 +906,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">12/4/1987</dateCreated>
+        <dateCreated keyDate="yes">12/4/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -939,7 +939,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">12/7/1987</dateCreated>
+        <dateCreated keyDate="yes">12/7/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -972,7 +972,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">12/9/1987</dateCreated>
+        <dateCreated keyDate="yes">12/9/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -1005,7 +1005,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026723">video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">12/11/1987</dateCreated>
+        <dateCreated keyDate="yes">12/11/1987</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>

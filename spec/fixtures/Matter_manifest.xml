@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2015-04-22 05:21:00PM" sourceFile="Matter_manifest.csv">
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2015-04-23 02:28:33PM" sourceFile="Matter_manifest.csv">
   <xmlDoc id="descMetadata" objectId="0001">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
@@ -8,7 +8,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1943</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1943</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
       <note displayLabel="Back of photo 1">Marked in pencil on back handwritten 7 circled: top Herbert Matter  MacDougal Alley address.</note>
@@ -22,7 +22,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1979</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1979</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
       <note displayLabel="Back of photo 1">Marked on back in blue ink 'Photograph by Herbert Matter 19 Macdougal Alley New York N.Y. 10011' and 'Composition with Two Limes 1979'.</note>
@@ -36,7 +36,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1978</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1978</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
       <note displayLabel="Back of photo 1">Marked on back in pencil '2/10 photography by Herbert Matter' with diagram showing print arrangement of images in series.</note>
@@ -61,7 +61,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1979</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1979</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
       <note displayLabel="Back of photo 1">Marked on front in black pen '1/50 Herbert Matter'</note>
@@ -76,7 +76,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1979</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1979</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
       <note displayLabel="Back of photo 1">Marked on front in black pen '2/50 Herbert Matter'</note>
@@ -113,7 +113,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1943</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1943</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
       <note displayLabel="Back of photo 1">Written on back in pencil '3'.</note>
@@ -281,7 +281,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1978</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1978</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
@@ -304,7 +304,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1960</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1960</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
       <note displayLabel="Back of photo 1">written in pencil on back is '1577-0'.</note>
@@ -318,7 +318,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1943</dateCreated>
+        <dateCreated keyDate="yes">1943</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
       <note displayLabel="Photographic processing techniques">Contact print of 2 negatives (b/w 12 images).</note>
@@ -337,7 +337,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1937</dateCreated>
+        <dateCreated keyDate="yes">1937</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 8"</note>
     </mods>
@@ -403,7 +403,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1950</dateCreated>
+        <dateCreated keyDate="yes">1950</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">9 3/4" x 12 3/4"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Photo' and 'Herbert Matter'</note>
@@ -417,7 +417,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1950</dateCreated>
+        <dateCreated keyDate="yes">1950</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Studio Associates' and 'Herbert Matter'</note>
@@ -453,7 +453,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1938</dateCreated>
+        <dateCreated keyDate="yes">1938</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Marked on back 'Alexander Calder photo: Hebert Matter'.</note>
@@ -522,7 +522,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1939</dateCreated>
+        <dateCreated keyDate="yes">1939</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
@@ -535,7 +535,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1936</dateCreated>
+        <dateCreated keyDate="yes">1936</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
@@ -548,7 +548,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1940</dateCreated>
+        <dateCreated keyDate="yes">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
@@ -561,7 +561,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1950</dateCreated>
+        <dateCreated keyDate="yes">1950</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
@@ -647,7 +647,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">2/5/1948</dateCreated>
+        <dateCreated keyDate="yes">2/5/1948</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Matter Vogue Studios'</note>
@@ -692,7 +692,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">6/28/1937</dateCreated>
+        <dateCreated keyDate="yes">6/28/1937</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
@@ -705,7 +705,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1948</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1948</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">15 3/4" x 19 3/4"</note>
     </mods>
@@ -718,7 +718,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1948</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1948</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
@@ -821,7 +821,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="questionable" point="start">1950</dateCreated>
+        <dateCreated keyDate="yes" qualifier="questionable">1950</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Marked on back in green ink '1950'.</note>
@@ -835,7 +835,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="questionable" point="start">1954</dateCreated>
+        <dateCreated keyDate="yes" qualifier="questionable">1954</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Marked on back in green ink '1954'.</note>
@@ -849,7 +849,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="questionable" point="start">1957</dateCreated>
+        <dateCreated keyDate="yes" qualifier="questionable">1957</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Marked on back in green ink '1957'.</note>
@@ -907,7 +907,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="questionable" point="start">1948</dateCreated>
+        <dateCreated keyDate="yes" qualifier="questionable">1948</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Marked on back in ink '1948'.</note>
@@ -921,7 +921,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="questionable" point="start">1950</dateCreated>
+        <dateCreated keyDate="yes" qualifier="questionable">1950</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Marked on back in ink '1950'.</note>
@@ -1981,7 +1981,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1937</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1937</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 8 1/2"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'photo'  'Herbert Matter'  written in pencil '12450'.</note>
@@ -2029,7 +2029,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1937</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1937</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">9" x 13 1/2"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Studio Associates' and 'Herbert Matter' with circled '2' in pencil.'</note>
@@ -2076,7 +2076,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1954</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1954</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Studio Associates' and 'Photography by Herbert Matter'.</note>
@@ -2254,7 +2254,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1940</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
@@ -2287,7 +2287,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1940</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
@@ -2370,7 +2370,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1940</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
@@ -2393,7 +2393,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1940</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">6 1/2" x 6 1/4"</note>
     </mods>
@@ -2406,7 +2406,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1940</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11 1/2" x 14 1/2"</note>
       <note>Group of 2 1/2" negatives mounted on board</note>
@@ -2420,7 +2420,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1940</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11 1/2" x 14 1/2"</note>
       <note>Group of 2 1/2" negatives mounted on board</note>
@@ -2434,7 +2434,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1940</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11 1/2" x 14 1/2"</note>
       <note>Group of 2 1/2" negatives mounted on board</note>
@@ -2459,7 +2459,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1940</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">10" x 10"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Studio Associates' and 'Herbert Matter'.</note>
@@ -2483,7 +2483,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1940</dateCreated>
+        <dateCreated keyDate="yes">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
@@ -2496,7 +2496,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1940</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">15 3/4" x 20"</note>
     </mods>
@@ -2509,7 +2509,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1940</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
@@ -2522,7 +2522,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1939</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1939</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
@@ -2535,7 +2535,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1940</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
@@ -2548,7 +2548,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1940</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">10 1/2" x 12 1/2"</note>
     </mods>
@@ -2561,7 +2561,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1940</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">10" x 12"</note>
     </mods>
@@ -2585,7 +2585,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1944</dateCreated>
+        <dateCreated keyDate="yes">1944</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note>1 1/2" tear on the bottom right hand side of image.</note>
@@ -2643,7 +2643,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">3/17/1948</dateCreated>
+        <dateCreated keyDate="yes">3/17/1948</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Written on back in pencil is 'Defective paper' and '15850-0-14'</note>
@@ -2703,7 +2703,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1943</dateCreated>
+        <dateCreated keyDate="yes">1943</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">5" x 3 1/2"</note>
     </mods>
@@ -2736,7 +2736,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1943</dateCreated>
+        <dateCreated keyDate="yes">1943</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
@@ -2790,7 +2790,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1942</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1942</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
       <note displayLabel="Back of photo 1">Marked in pencil on back '361'.</note>
@@ -2815,7 +2815,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1939</dateCreated>
+        <dateCreated keyDate="yes">1939</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 8"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'</note>
@@ -2829,7 +2829,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1937</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1937</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">7 " x 10"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'</note>
@@ -2843,7 +2843,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1937</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1937</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">7 " x 10"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'</note>
@@ -2857,7 +2857,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1942</dateCreated>
+        <dateCreated keyDate="yes">1942</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">13" x 11"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'</note>
@@ -2871,7 +2871,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1937</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1937</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">7 " x 10"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'</note>
@@ -2896,7 +2896,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">5/3/1949</dateCreated>
+        <dateCreated keyDate="yes">5/3/1949</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Matter: Vogue Studios'.</note>
@@ -2911,7 +2911,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1942</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1942</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Stamped on back: 'Herbert Matter'</note>
@@ -3015,7 +3015,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1941</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1941</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
@@ -3058,7 +3058,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1965</dateCreated>
+        <dateCreated keyDate="yes">1965</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
@@ -3071,7 +3071,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1948</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1948</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
@@ -3084,7 +3084,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1939</dateCreated>
+        <dateCreated keyDate="yes">1939</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
@@ -3127,7 +3127,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1942</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1942</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
@@ -3140,7 +3140,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1928</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1928</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
@@ -3163,7 +3163,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1942</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1942</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
@@ -3186,7 +3186,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1948</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1948</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
@@ -3229,7 +3229,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1942</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1942</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
@@ -3296,7 +3296,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate" point="start">1946</dateCreated>
+        <dateCreated keyDate="yes" qualifier="approximate">1946</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <subject>

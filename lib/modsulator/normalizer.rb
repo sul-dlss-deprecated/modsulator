@@ -162,6 +162,34 @@ class Normalizer
   end
 
 
+  # Removes the point attribute from single <dateCreated> and <dateIssued> elements.
+  #
+  # @param [Nokogiri::XML::Element]   root  The root of a MODS XML document.
+  # @return [Void]                    The given document is modified in place.
+  def clean_date_attributes(root)
+    
+    # Find all the <dateCreated> and <dateIssued> elements that are NOT immediately followed by another element with the same name
+    root.xpath('//mods:originInfo/mods:dateCreated[1][not(following-sibling::*[1][self::mods:dateCreated])] | //mods:originInfo/mods:dateIssued[1][not(following-sibling::*[1][self::mods:dateIssued])]', 'mods' => 'http://www.loc.gov/mods/v3').each do |current_element|
+      attributes = current_element.attributes
+      if(attributes.has_key?('point'))
+        current_element.remove_attribute('point')
+      end
+    end
+  end
+
+
+  # Sometimes there are spurious decimal digits within the date fields. This method removes any trailing decimal points within
+  # <dateCreated> and <dateIssued>.
+  #
+  # @param [Nokogiri::XML::Element]   root  The root of a MODS XML document.
+  # @return [Void]                    The given document is modified in place.
+  def clean_date_values(root)
+    root.xpath('//mods:dateCreated | //mods:dateIssued', 'mods' => 'http://www.loc.gov/mods/v3').each do |current_node|
+      current_node.content = current_node.content.sub(/(.*)\.\d+$/, '\1')
+    end
+  end
+
+
   # Normalizes the given XML document according to the Stanford guidelines.
   #
   # @param  [Nokogiri::XML::Element]  root  The root of a MODS XML document.
@@ -171,6 +199,8 @@ class Normalizer
     remove_empty_nodes(root)
     trim_text(root)
     clean_linefeeds(root)
+    clean_date_attributes(root)
+    clean_date_values(root)
   end
 
 
