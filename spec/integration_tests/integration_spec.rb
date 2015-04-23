@@ -21,7 +21,7 @@ describe Modsulator do
       'roman_coins_mods_manifest.csv' => 'roman_coins_mods_manifest.xml',
     }.each do |testfile, results_file|
       it "converts #{testfile} correctly to valid XML" do
-        generated_xml_string = Modsulator.new(File.join(FIXTURES_DIR, testfile), nil).convert_rows(testfile)
+        generated_xml_string = Modsulator.new(File.join(FIXTURES_DIR, testfile), testfile).convert_rows()
         error_list = Validator.new(File.expand_path("lib/modsulator/modsulator.xsd")).validate_xml_string(generated_xml_string)
         expect(error_list.length()).to eq(0)
 

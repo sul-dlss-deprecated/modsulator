@@ -58,7 +58,6 @@ class Modsulator
   #           </mods>
   #       </xmlDoc>
   #  </xmlDocs>
-  # @param  display_filename   The filename to be displayed in the output XML.
   # @return [String]           An XML string containing all the <mods> documents within a nested structure as shown in the example.
   def convert_rows()
     time_stamp = Time.now.strftime("%Y-%m-%d %I:%M:%S%p")
