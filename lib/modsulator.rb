@@ -15,24 +15,24 @@ require 'modsulator/modsulator_sheet'
 # @see https://consul.stanford.edu/display/chimera/MODS+bulk+loading Requirements (Stanford Consul page)
 class Modsulator
   # We define our own namespace for <xmlDocs>
-  NAMESPACE = "http://library.stanford.edu/modsulator_namespace"
-  attr_reader :filename, :template_xml, :rows
+  NAMESPACE = "http://library.stanford.edu/xmlDocs"
 
-  # There are two ways to provide input data - either with a spreadsheet file or with an array of data rows.
+  attr_reader :file, :template_xml, :rows
+  
+
+  # The reason for requiring both a file and filename is that within the API that is one of the users of this class,
+  # the file and filename exist separately.
   # Note that if neither :template_file nor :template_string are specified, the gem's built-in XML template is used.
-  # @param [String] filename               The full path to the input spreadsheet.
-  # @param [Array]  data_rows              An array of input rows, as produced by {ModsulatorSheet#rows}.
+  # @param [File]   file                       Input spreadsheet file. 
+  # @param [String] filename                   The filename for the input spreadsheet.
   # @param [Hash]   options
   # @option options [String] :template_file    The full path to the desired template file (a spreadsheet).
   # @option options [String] :template_string  The template contents as a string
-  def initialize filename = '', data_rows = [], options = {}
+  def initialize file, filename, options = {}
+    @file = file
     @filename = filename
 
-    if @filename == ''
-      @rows = data_rows
-    elsif
-      @rows = ModsulatorSheet.new(filename).rows
-    end
+    @rows = ModsulatorSheet.new(@file, @filename).rows
     
     if options[:template_string]
       @template_xml = options[:template_string]
@@ -43,7 +43,7 @@ class Modsulator
     end
   end
 
-
+  
   # Generates an XML document with one <mods> entry per input row.
   # Example output:
   #  <xmlDocs datetime="2015-03-23 09:22:11AM" sourceFile="FitchMLK-v1.xlsx">
@@ -60,12 +60,9 @@ class Modsulator
   #  </xmlDocs>
   # @param  display_filename   The filename to be displayed in the output XML.
   # @return [String]           An XML string containing all the <mods> documents within a nested structure as shown in the example.
-  def convert_rows(display_filename = '')
-    if(display_filename == '')
-      display_filename = @filename
-    end
+  def convert_rows()
     time_stamp = Time.now.strftime("%Y-%m-%d %I:%M:%S%p")
-    header = "<xmlDocs xmlns=\"#{NAMESPACE}\" datetime=\"#{time_stamp}\" sourceFile=\"#{display_filename}\">"
+    header = "<xmlDocs xmlns=\"#{NAMESPACE}\" datetime=\"#{time_stamp}\" sourceFile=\"#{@filename}\">"
     full_doc = Nokogiri::XML(header)
     root = full_doc.root
 

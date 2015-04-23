@@ -6,12 +6,19 @@ require 'roo'
 
 # This class provides methods to parse Stanford's MODS spreadsheets into either an array of hashes, or a JSON string.
 class ModsulatorSheet
-  attr_reader :filename
+  attr_reader :file, :filename
 
-  # @param [String]  filename   The full path to the input spreadsheet.
-  def initialize filename
+  # @param [File]    file        The input spreadsheet
+  # @param [String]  filename    The filename of the input spreadsheet.
+  def initialize file, filename
+    @file = file
     @filename = filename
   end
+
+  
+  # def initialize filename
+  #   @filename = filename
+  # end
   
 
   # Loads the input spreadsheet into an array of hashes. This spreadsheet should conform to the Stanford MODS template format,
@@ -32,13 +39,23 @@ class ModsulatorSheet
   #
   # @return [Roo::CSV, Roo::Excel, Roo::Excelx]   A Roo object, whose type depends on the extension of the given filename.
   def spreadsheet
-    @spreadsheet ||= case File.extname(filename)
-    when ".csv" then Roo::CSV.new(filename)
-    when ".xls" then Roo::Excel.new(filename)
-    when ".xlsx" then Roo::Excelx.new(filename)
-    else raise "Unknown file type: #{filename}"
+    @spreadsheet ||= case File.extname(@filename)
+    when ".csv" then Roo::Spreadsheet.open(@file, extension: :csv)
+    when ".xls" then Roo::Spreadsheet.open(@file, extension: :xls)
+    when ".xlsx" then Roo::Spreadsheet.open(@file, extension: :xlsx)
+    else raise "Unknown file type: #{@filename}"
     end
   end
+
+  
+  # def spreadsheet
+  #   @spreadsheet ||= case File.extname(filename)
+  #   when ".csv" then Roo::CSV.new(filename)
+  #   when ".xls" then Roo::Excel.new(filename)
+  #   when ".xlsx" then Roo::Excelx.new(filename)
+  #   else raise "Unknown file type: #{filename}"
+  #   end
+  # end
 
 
    # Get the headers used in the spreadsheet

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://library.stanford.edu/modsulator_namespace" xmlns="http://library.stanford.edu/modsulator_namespace" elementFormDefault="qualified" attributeFormDefault="unqualified">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://library.stanford.edu/xmlDocs" xmlns="http://library.stanford.edu/xmlDocs" elementFormDefault="qualified" attributeFormDefault="unqualified">
   <!-- This XML Schema Definition defines the "xmlDocs" vocabulary that is produced by the MODSulator. -->
   <!-- The main content of xmlDocs is full MODS 3.5 XML, as defined by the Library of Congress. Import their schema definition. -->
   <xs:import namespace="http://www.loc.gov/mods/v3" schemaLocation="mods-3-5.xsd"/>

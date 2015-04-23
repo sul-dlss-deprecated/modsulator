@@ -3,7 +3,7 @@ require 'modsulator/modsulator_sheet'
 
 describe ModsulatorSheet do
   describe "#rows" do
-    subject { ModsulatorSheet.new File.join(FIXTURES_DIR, "test_002.csv") }
+    subject { ModsulatorSheet.new File.join(FIXTURES_DIR, "test_002.csv"), "test_002.csv" }
 
     it "should use the right header row" do
       expect(subject.headers).to include "druid", "sourceId"
