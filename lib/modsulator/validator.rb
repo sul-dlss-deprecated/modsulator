@@ -9,7 +9,7 @@ class Validator
   # @param schema_file  Full path to the desired .xsd file. If none is given, the built-in file will be used.
   def initialize(schema_file = '')
     if(schema_file == '')
-      @schema = Nokogiri::XML::Schema(File.read("modsulator.xsd"))
+      @schema = Nokogiri::XML::Schema(File.read(File.expand_path("../modsulator.xsd", __FILE__)))
     else
       @schema = Nokogiri::XML::Schema(File.read(schema_file))
     end
