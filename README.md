@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sul-dlss/modsulator.svg?branch=master)](https://travis-ci.org/sul-dlss/modsulator)
+[![Build Status](https://travis-ci.org/sul-dlss/modsulator.svg?branch=master)](https://travis-ci.org/sul-dlss/modsulator) [![Coverage Status](https://coveralls.io/repos/sul-dlss/modsulator/badge.png)](https://coveralls.io/r/sul-dlss/modsulator)
 
 # modsulator
 Produce Stanford MODS from spreadsheets.
