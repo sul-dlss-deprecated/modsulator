@@ -21,4 +21,9 @@ end
 task :default  => :spec     # Default task is to just run shorter (unit) tests
 
 # Set up default Rake tasks for cutting gems etc.
+begin
+  require 'bundler/setup'
+rescue LoadError
+  puts 'You must `gem install bundler` and `bundle install` to run rake tasks'
+end
 Bundler::GemHelper.install_tasks
