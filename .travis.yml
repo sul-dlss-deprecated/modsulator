@@ -1,5 +1,5 @@
 language: ruby
-script: rake ci
+script: rake
 rvm:
   - ruby-head
   - 2.2.1
