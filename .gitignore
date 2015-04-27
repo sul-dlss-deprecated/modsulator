@@ -6,3 +6,4 @@ lib/doc
 doc/
 .DS_Store
 coverage/
+pkg/

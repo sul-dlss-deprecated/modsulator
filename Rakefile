@@ -1,4 +1,3 @@
-
 require 'rspec/core/rake_task'
 require 'yard'
 
@@ -20,3 +19,6 @@ YARD::Rake::YardocTask.new(:yard) do |t|
 end
 
 task :default  => :spec     # Default task is to just run shorter (unit) tests
+
+# Set up default Rake tasks for cutting gems etc.
+Bundler::GemHelper.install_tasks
