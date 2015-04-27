@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sul-dlss/modsulator.svg?branch=master)](https://travis-ci.org/sul-dlss/modsulator)
+
 # modsulator
 Produce Stanford MODS from spreadsheets.
 
