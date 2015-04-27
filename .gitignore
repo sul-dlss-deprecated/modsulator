@@ -5,3 +5,4 @@ lib/doc
 .yardoc
 doc/
 .DS_Store
+coverage/
