@@ -16,11 +16,6 @@ class ModsulatorSheet
   end
 
   
-  # def initialize filename
-  #   @filename = filename
-  # end
-  
-
   # Loads the input spreadsheet into an array of hashes. This spreadsheet should conform to the Stanford MODS template format,
   # which has three header rows. The first row is a kind of "super header", the second row is an intermediate header and the
   # third row is the header row that names the fields. The data rows are in the fourth row onwards.
@@ -48,16 +43,6 @@ class ModsulatorSheet
   end
 
   
-  # def spreadsheet
-  #   @spreadsheet ||= case File.extname(filename)
-  #   when ".csv" then Roo::CSV.new(filename)
-  #   when ".xls" then Roo::Excel.new(filename)
-  #   when ".xlsx" then Roo::Excelx.new(filename)
-  #   else raise "Unknown file type: #{filename}"
-  #   end
-  # end
-
-
    # Get the headers used in the spreadsheet
   def headers
     rows.first.keys
