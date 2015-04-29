@@ -18,7 +18,21 @@ YARD::Rake::YardocTask.new(:yard) do |t|
   t.stats_options = ['--list-undoc']         # optional
 end
 
+task :lint do
+  sh "ruby-lint lib/ bin/"
+end
+
 task :default  => :spec     # Default task is to just run shorter (unit) tests
+
+task :all do
+  Rake::Task["spec"].invoke
+  Rake::Task["yard"].invoke
+  Rake::Task["integration_tests"].invoke
+  Rake::Task["lint"].invoke
+end
+
+
+
 
 # Set up default Rake tasks for cutting gems etc.
 begin
