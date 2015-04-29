@@ -1,6 +1,5 @@
 require 'equivalent-xml'
 require "modsulator"
-require "modsulator_helper.rb"
 
 describe Modsulator do
   before :all do

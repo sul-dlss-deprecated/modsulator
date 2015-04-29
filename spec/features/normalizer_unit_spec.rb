@@ -1,5 +1,4 @@
 require 'equivalent-xml'
-require 'modsulator_helper.rb'
 require 'modsulator/normalizer'
 
 describe Normalizer do

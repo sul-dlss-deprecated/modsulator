@@ -1,6 +1,5 @@
 require 'equivalent-xml'
 require "modsulator/validator"
-require "modsulator_helper.rb"
 
 describe Validator do
   describe "initialize" do
