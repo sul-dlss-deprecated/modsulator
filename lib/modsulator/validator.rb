@@ -6,6 +6,7 @@ class Validator
   # The Nokogiri::XML::Schema instance used for validation.
   attr_reader :schema
 
+  # Creates a new Validator, using either a provided XML Schema file or the built-in one.
   # @param schema_file  Full path to the desired .xsd file. If none is given, the built-in file will be used.
   def initialize(schema_file = '')
     if(schema_file == '')

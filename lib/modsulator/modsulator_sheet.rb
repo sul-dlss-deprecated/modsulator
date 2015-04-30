@@ -8,6 +8,8 @@ require 'roo'
 class ModsulatorSheet
   attr_reader :file, :filename
 
+  # Creates a new ModsulatorSheet. When called with temporary files, the filename must be specified separately, hence the
+  # second argument.
   # @param [File]    file        The input spreadsheet
   # @param [String]  filename    The filename of the input spreadsheet.
   def initialize file, filename
