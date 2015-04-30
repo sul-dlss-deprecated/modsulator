@@ -1,12 +1,12 @@
 #!/usr/bin/env ruby
 
+# This is a command line script that generates <xmlDocs> using the modsulator methods.
+
 require 'modsulator'
 
-unless ARGV.length == 1
-  abort "Usage: modsulator <spreadsheet>"
-end
+abort 'Usage: modsulator <spreadsheet>' unless ARGV.length == 1
 
-unless (File.exists?(ARGV[0]) && File.readable?(ARGV[0]))
+unless File.exist?(ARGV[0]) && File.readable?(ARGV[0])
   abort "*** The file #{ARGV[0]} does not exist or is not readable to the current user? - Terminating."
 end
 
