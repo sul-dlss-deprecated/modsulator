@@ -7,7 +7,7 @@ require 'nokogiri'
 class Normalizer
   # Linefeed character entity reference
   LINEFEED = '&#10;'
-  
+
   # Checks if a node has attributes that we make exeptions for. There are two such exceptions.
   #
   # * A "collection" attribute with the value "yes" <em>on a typeOfResource tag</em>.
@@ -19,18 +19,16 @@ class Normalizer
   # @return [Boolean]                  true if the node contains any of the exceptional attributes, false otherwise.
   def exceptional?(node)
     return false unless node != nil
-    
+
     tag = node.name
     attributes = node.attributes
 
-    if(attributes.empty?)
-      return false
-    end
+    return false if(attributes.empty?)
 
-    for key, value in attributes do
-      if(tag == "typeOfResource")  # Note that according to the MODS schema, any other value than 'yes' for these attributes is invalid
-        if((key == "collection" && value.to_s.downcase == "yes") ||
-           (key == "manuscript" && value.to_s.downcase == "yes"))
+    attributes.each do |key, value|
+      if(tag == 'typeOfResource')  # Note that according to the MODS schema, any other value than 'yes' for these attributes is invalid
+        if((key == 'collection' && value.to_s.downcase == 'yes') ||
+           (key == 'manuscript' && value.to_s.downcase == 'yes'))
           return true
         end
       end
@@ -51,19 +49,19 @@ class Normalizer
     if(node.text?)
       new_text = node.content.gsub(/\r\n/, Nokogiri::HTML(LINEFEED).text).gsub(/\n/, Nokogiri::HTML(LINEFEED).text).gsub(/\r/, Nokogiri::HTML(LINEFEED).text) 
     else
-      if(node.node_name == "br")
+      if(node.node_name == 'br')
         new_text += Nokogiri::HTML(LINEFEED).text
-      elsif(node.node_name == "p")
-        new_text += Nokogiri::HTML(LINEFEED).text + Nokogiri::HTML(LINEFEED).text;
+      elsif(node.node_name == 'p')
+        new_text += Nokogiri::HTML(LINEFEED).text + Nokogiri::HTML(LINEFEED).text
       end
-      
+
       node.children.each do |c|
         new_text += substitute_linefeeds(c)
       end
     end
     return new_text
   end
-  
+
 
   # Given the root of an XML document, replaces linefeed characters inside <tableOfContents>, <abstract> and <note> XML node by &#10;
   # \n, \r, <br> and <br/> are all replaced by a single &#10;
@@ -75,7 +73,7 @@ class Normalizer
   # @param   [Nokogiri::XML::Element]    node  The root node of an XML document
   # @return  [Void]                      This method doesn't return anything, but introduces UTF-8 linefeed characters in place, as described above.
   def clean_linefeeds(node)
-    node.xpath("//abstract | //tableOfContents | //note").each do |current_node|
+    node.xpath('//abstract | //tableOfContents | //note').each do |current_node|
       new_text = substitute_linefeeds(current_node)
       current_node.children.remove
       current_node.content = new_text
@@ -91,10 +89,9 @@ class Normalizer
   # @param [String]   s   The text of an XML node.
   # @return [String]  The cleaned string, as described. Returns nil if the input is nil, or if the input is an empty string.
   def clean_text(s)
-    return nil unless s != nil && s != ""
-    return s.gsub!(/\s+/, " ").strip!
+    return nil unless s != nil && s != ''
+    return s.gsub!(/\s+/, ' ').strip!
   end
-
 
 
   # Removes empty attributes from a given node.
@@ -104,18 +101,15 @@ class Normalizer
   def remove_empty_attributes(node)
     children = node.children
     attributes = node.attributes
-    
-    for key, value in attributes do
-      if(value.to_s.strip.empty?)
-        node.remove_attribute(key)
-      end
+
+    attributes.each do |key, value|
+      node.remove_attribute(key) if(value.to_s.strip.empty?)
     end
 
     children.each do |c|
       remove_empty_attributes(c)
     end
   end
-
 
 
   # Removes empty nodes from an XML tree. See {#exceptional?} for nodes that are kept even if empty.
@@ -171,7 +165,7 @@ class Normalizer
     # Find all the <dateCreated> and <dateIssued> elements that are NOT immediately followed by another element with the same name
     root.xpath('//mods:originInfo/mods:dateCreated[1][not(following-sibling::*[1][self::mods:dateCreated])] | //mods:originInfo/mods:dateIssued[1][not(following-sibling::*[1][self::mods:dateIssued])]', 'mods' => 'http://www.loc.gov/mods/v3').each do |current_element|
       attributes = current_element.attributes
-      if(attributes.has_key?('point'))
+      if(attributes.key?('point'))
         current_element.remove_attribute('point')
       end
     end
