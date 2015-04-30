@@ -15,7 +15,7 @@ require 'modsulator/modsulator_sheet'
 # @see https://consul.stanford.edu/display/chimera/MODS+bulk+loading Requirements (Stanford Consul page)
 class Modsulator
   # We define our own namespace for <xmlDocs>
-  NAMESPACE = "http://library.stanford.edu/xmlDocs"
+  NAMESPACE = 'http://library.stanford.edu/xmlDocs'
 
   attr_reader :file, :template_xml, :rows
   
@@ -23,27 +23,27 @@ class Modsulator
   # The reason for requiring both a file and filename is that within the API that is one of the users of this class,
   # the file and filename exist separately.
   # Note that if neither :template_file nor :template_string are specified, the gem's built-in XML template is used.
-  # @param [File]   file                       Input spreadsheet file. 
+  # @param [File]   file                       Input spreadsheet file.
   # @param [String] filename                   The filename for the input spreadsheet.
   # @param [Hash]   options
   # @option options [String] :template_file    The full path to the desired template file (a spreadsheet).
   # @option options [String] :template_string  The template contents as a string
-  def initialize file, filename, options = {}
+  def initialize(file, filename, options = {})
     @file = file
     @filename = filename
 
     @rows = ModsulatorSheet.new(@file, @filename).rows
-    
+
     if options[:template_string]
       @template_xml = options[:template_string]
     elsif options[:template_file]
       @template_xml = File.read(options[:template_file])
     else
-      @template_xml = File.read(File.expand_path("../modsulator/modsulator_template.xml", __FILE__))
+      @template_xml = File.read(File.expand_path('../modsulator/modsulator_template.xml', __FILE__))
     end
   end
 
-  
+
   # Generates an XML document with one <mods> entry per input row.
   # Example output:
   #  <xmlDocs datetime="2015-03-23 09:22:11AM" sourceFile="FitchMLK-v1.xlsx">
@@ -59,8 +59,8 @@ class Modsulator
   #       </xmlDoc>
   #  </xmlDocs>
   # @return [String]           An XML string containing all the <mods> documents within a nested structure as shown in the example.
-  def convert_rows()
-    time_stamp = Time.now.strftime("%Y-%m-%d %I:%M:%S%p")
+  def convert_rows
+    time_stamp = Time.now.strftime('%Y-%m-%d %I:%M:%S%p')
     header = "<xmlDocs xmlns=\"#{NAMESPACE}\" datetime=\"#{time_stamp}\" sourceFile=\"#{@filename}\">"
     full_doc = Nokogiri::XML(header)
     root = full_doc.root
@@ -68,14 +68,14 @@ class Modsulator
     @rows.each do |row|
       mods_xml_doc = row_to_xml(row)
 
-      sub_doc = full_doc.create_element('xmlDoc', :id => 'descMetadata', :objectId => "#{row['druid']}")
+      sub_doc = full_doc.create_element('xmlDoc', { id: 'descMetadata', objectId: "#{row['druid']}" })
       sub_doc.add_child(mods_xml_doc.root)
       root.add_child(sub_doc)
     end
 
     full_doc.to_s
   end
-  
+
 
   # Generates an XML string for a given row in a spreadsheet.
   #
@@ -85,11 +85,11 @@ class Modsulator
     manifest_row = metadata_row
 
     # XML escape all of the entries in the manifest row so they won't break the XML
-    manifest_row.each {|k,v| manifest_row[k]=Nokogiri::XML::Text.new(v.to_s,Nokogiri::XML('')).to_s if v }
+    manifest_row.each { |k, v| manifest_row[k] = Nokogiri::XML::Text.new(v.to_s, Nokogiri::XML('')).to_s if v }
 
-    # Enable access with symbol or string keys 
+    # Enable access with symbol or string keys
     manifest_row = manifest_row.with_indifferent_access
-    
+
     # Run the XML template through ERB. This creates a new ERB object from the template XML,
     # NOT creating a separate thread, and omitting newlines for lines ending with '%>'
     template     = ERB.new(template_xml, nil, '>')
@@ -102,12 +102,12 @@ class Modsulator
     # double brackets: "blah [[column_name]] blah".
     # Here we replace those placeholders with the corresponding value
     # from the manifest row.
-    manifest_row.each { |k,v| descriptive_metadata_xml.gsub! "[[#{k}]]", v.to_s.strip }
+    manifest_row.each { |k, v| descriptive_metadata_xml.gsub!("[[#{k}]]", v.to_s.strip) }
 
     descriptive_metadata_xml
   end
 
-  
+
   # Generates normalized (Stanford) MODS XML, writing output to files.
   #
   # @param [String] output_directory       The directory where output files should be stored.
@@ -116,7 +116,7 @@ class Modsulator
     # Write one XML file per data row in the input spreadsheet
     rows.each do |row|
       sourceid = row['sourceId']
-      output_filename = output_directory + "/" + sourceid + ".xml"
+      output_filename = output_directory + '/' + sourceid + '.xml'
 
       mods_doc = row_to_xml(row)
       File.open(output_filename, 'w') { |fh| fh.puts(mods_doc.root.to_s) }
@@ -131,7 +131,7 @@ class Modsulator
   #                                            will be empty if all the headers were present.
   def validate_headers(spreadsheet_headers)
     spreadsheet_headers.reject do |header|
-      header.nil? || header == "sourceId" || template_xml.include?(header)
+      header.nil? || header == 'sourceId' || template_xml.include?(header)
     end
   end
 
@@ -144,10 +144,10 @@ class Modsulator
 
     # Generate an XML string, then remove any text carried over from the template
     mods_xml = generate_xml(row)
-    mods_xml.gsub!(/\[\[[^\]]+\]\]/, "")
+    mods_xml.gsub!(/\[\[[^\]]+\]\]/, '')
 
     # Remove empty tags from when e.g. <[[sn1:p2:type]]> does not get filled in when [[sn1:p2:type]] has no value in the source spreadsheet
-    mods_xml.gsub!(/<\s[^>]+><\/>/, "")
+    mods_xml.gsub!(/<\s[^>]+><\/>/, '')
 
     mods_xml_doc = Nokogiri::XML(mods_xml)
     normalizer = Normalizer.new
