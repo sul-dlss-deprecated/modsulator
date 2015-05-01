@@ -47,7 +47,7 @@ class Normalizer
     # If we substitute in '&#10;' by itself, Nokogiri interprets that and then prints '&amp;#10;' when printing the document later. This
     # is an ugly way to add linefeed characters in a way that we at least get well-formatted output in the end.
     if(node.text?)
-      new_text = node.content.gsub(/\r\n/, Nokogiri::HTML(LINEFEED).text).gsub(/\n/, Nokogiri::HTML(LINEFEED).text).gsub(/\r/, Nokogiri::HTML(LINEFEED).text) 
+      new_text = node.content.gsub(/\r\n/, Nokogiri::HTML(LINEFEED).text).gsub(/\n/, Nokogiri::HTML(LINEFEED).text).gsub(/\r/, Nokogiri::HTML(LINEFEED).text)
     else
       if(node.node_name == 'br')
         new_text += Nokogiri::HTML(LINEFEED).text
@@ -73,7 +73,14 @@ class Normalizer
   # @param   [Nokogiri::XML::Element]    node  The root node of an XML document
   # @return  [Void]                      This method doesn't return anything, but introduces UTF-8 linefeed characters in place, as described above.
   def clean_linefeeds(node)
-    node.xpath('//abstract | //tableOfContents | //note').each do |current_node|
+    node_list = []
+    if(node.namespace.nil?)
+      node_list = node.xpath('//abstract | //tableOfContents | //note')
+    else
+      node_list = node.xpath('//ns:abstract | //ns:tableOfContents | //ns:note', 'ns' => node.namespace.href)
+    end
+
+    node_list.each do |current_node|
       new_text = substitute_linefeeds(current_node)
       current_node.children.remove
       current_node.content = new_text
@@ -189,10 +196,10 @@ class Normalizer
   # @param  [Nokogiri::XML::Element]  root  The root of a MODS XML document.
   # @return [Void]                    The given document is modified in place.
   def normalize_document(root)
+    clean_linefeeds(root)   # Do this before deleting <br> and <p> with remove_empty_nodes()
     remove_empty_attributes(root)
     remove_empty_nodes(root)
     trim_text(root)
-    clean_linefeeds(root)
     clean_date_attributes(root)
     clean_date_values(root)
   end

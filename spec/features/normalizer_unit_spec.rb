@@ -135,7 +135,6 @@ problem
       start_doc = Nokogiri::XML("<note> How to present text: <br>Four chances.<p>Executive orders from tall managerial summits.</p> <br/>Exonerate...</note>")
       final_doc = Nokogiri::XML("<note> How to present text: &#10;Four chances.&#10;&#10;Executive orders from tall managerial summits. &#10;Exonerate...</note>")
       @normalizer.clean_linefeeds(start_doc.root)
-      new_str = @normalizer.substitute_linefeeds(Nokogiri::XML("<note> How to present text: <br>Four chances.<p>Executive orders from tall managerial summits.</p> <br/>Exonerate...</note>"))
       expect(EquivalentXml.equivalent?(start_doc, final_doc)).to be_truthy
     end
 
