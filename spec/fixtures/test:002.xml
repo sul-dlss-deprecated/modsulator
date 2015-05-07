@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2015-04-23 02:08:13PM" sourceFile="test_002.xlsx">
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2015-05-07 11:07:50AM" sourceFile="test_002.csv">
   <xmlDoc id="descMetadata" objectId="">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
@@ -38,10 +38,16 @@
         <form>print</form>
         <extent>xvi, 387 p.. 28 cm.</extent>
       </physicalDescription>
-      <abstract>A long hard night, punctuated by &lt;br/&gt; raining sleep.</abstract>
-      <tableOfContents>v. 1. Swann's way. Within a budding grove. The Guermantes way -- v. 2. Cities of the plain. The captive. The sweet cheat gone. The past recaptured</tableOfContents>
-      <note>Original edition with translators annotations</note>
-      <note type="statement of responsibility">Introduction by C.K. Scott Moncrieff</note>
+      <abstract>A long hard night, punctuated by
+ raining sleep.</abstract>
+      <tableOfContents>v. 1. Swann's way. Within a budding grove. The Guermantes way -- v. 2. Cities of the plain. The captive. The sweet cheat gone.
+The past recaptured</tableOfContents>
+      <note>Original edition with translators annotations.
+
+Further annotations not anticipated.</note>
+      <note type="statement of responsibility">Introduction by C.K. Scott Moncrieff.
+
+New paragraph added.</note>
       <note>Translation of the seven-volume work, A la recherche du temps perdu.</note>
       <subject authority="lcsh">
         <topic>France--Social life and customs--Fiction</topic>

@@ -47,7 +47,7 @@ class Normalizer
     # If we substitute in '&#10;' by itself, Nokogiri interprets that and then prints '&amp;#10;' when printing the document later. This
     # is an ugly way to add linefeed characters in a way that we at least get well-formatted output in the end.
     if(node.text?)
-      new_text = node.content.gsub(/\r\n/, Nokogiri::HTML(LINEFEED).text).gsub(/\n/, Nokogiri::HTML(LINEFEED).text).gsub(/\r/, Nokogiri::HTML(LINEFEED).text)
+      new_text = node.content.gsub(/\r\n/, Nokogiri::HTML(LINEFEED).text).gsub(/\n/, Nokogiri::HTML(LINEFEED).text).gsub(/\r/, Nokogiri::HTML(LINEFEED).text).gsub('\\n', Nokogiri::HTML(LINEFEED).text)
     else
       if(node.node_name == 'br')
         new_text += Nokogiri::HTML(LINEFEED).text
@@ -215,3 +215,4 @@ class Normalizer
     doc.to_s
   end
 end
+

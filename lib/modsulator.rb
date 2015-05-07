@@ -67,13 +67,32 @@ class Modsulator
 
     @rows.each do |row|
       mods_xml_doc = row_to_xml(row)
-
       sub_doc = full_doc.create_element('xmlDoc', { id: 'descMetadata', objectId: "#{row['druid']}" })
       sub_doc.add_child(mods_xml_doc.root)
       root.add_child(sub_doc)
     end
 
     full_doc.to_s
+  end
+
+
+  # Checks whether or not a string contains any <br> or <p> markup.
+  #
+  # @param  [String]   str  Any string.
+  # @return [Boolean]  true if the given string contains paragraph or line break HTML markup, false otherwise.
+  def has_whitespace_markup?(str)
+    str.match('<br>') || str.match('<br/>') || str.match('<p>') || str.match('<p/>')
+  end
+
+
+  # Transforms HTML paragraph and line break markup tags to newline characters. This should be run <b>before</b> escaping
+  # any XML characters.
+  #
+  # @param  [String]    str  String to transform.
+  # @return [String]    The given string, with a single newline character substituted for line break tags and two consecutive
+  #                     newline characters substituted for paragraph tags.
+  def transform_whitespace_markup(str)
+    str.gsub(/<br\/>/, '\n').gsub(/<br>/, '\n').gsub(/<p>/, '\n\n').gsub(/<p\/>/, '\n\n')
   end
 
 
@@ -84,8 +103,17 @@ class Modsulator
   def generate_xml(metadata_row)
     manifest_row = metadata_row
 
-    # XML escape all of the entries in the manifest row so they won't break the XML
-    manifest_row.each { |k, v| manifest_row[k] = Nokogiri::XML::Text.new(v.to_s, Nokogiri::XML('')).to_s if v }
+    # XML escape all of the entries in the manifest row so they won't break the XML. This will turn any '<' into &#lt;
+    # and international characters into their corresponding code point etc.
+    manifest_row.each do |k, v|
+      if(v)
+        if(v.instance_of?(String) && has_whitespace_markup?(v))
+          v = transform_whitespace_markup(v)
+        end
+        manifest_row[k] = Nokogiri::XML::Text.new(v.to_s, Nokogiri::XML('')).to_s
+      end
+    end
+    
 
     # Enable access with symbol or string keys
     manifest_row = manifest_row.with_indifferent_access
@@ -152,7 +180,6 @@ class Modsulator
     mods_xml_doc = Nokogiri::XML(mods_xml)
     normalizer = Normalizer.new
     normalizer.normalize_document(mods_xml_doc.root)
-
     return mods_xml_doc
   end
 end
