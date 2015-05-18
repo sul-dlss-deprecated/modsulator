@@ -182,4 +182,12 @@ class Modsulator
     normalizer.normalize_document(mods_xml_doc.root)
     return mods_xml_doc
   end
+
+
+  # Returns the template spreadsheet that's built into this gem.
+  #
+  # @return      The template spreadsheet, in binary form.
+  def self.get_template_spreadsheet
+    IO.read(File.expand_path('../modsulator/modsulator_template.xlsx', __FILE__), mode: 'rb')
+  end
 end
