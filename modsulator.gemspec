@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.test_files  =  Dir["spec/**/*"]
   s.homepage    =  'https://github.com/sul-dlss/modsulator'
   s.license     =  'Apache-2.0'
-  s.platform    =  Gem::Platform.local
+  s.platform    =  Gem::Platform::RUBY
   s.executables << 'modsulator'
 
   s.add_dependency 'roo', '>= 1.1'
