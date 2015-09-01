@@ -5,3 +5,17 @@ Produce Stanford MODS from spreadsheets.
 
 Note that only .xlsx and .csv formats work with the latest template, which has more columns than
 .xls allows (> 256).
+
+# Running on the console
+
+  bin/console
+
+# Normalizing an xml document
+
+  input_file='/Users/lyberadmin/bb936cg6081.xml' # starting mods document
+  output_file='/Users/lyberadmin/bb936cg6081-cleaned.xml' # cleaned up mods document
+  mods_xml=File.open(input_file) # read it in
+  mods_xml_doc = Nokogiri::XML(mods_xml) # create a nokogiri doc
+  normalizer = Normalizer.new 
+  normalizer.normalize_document(mods_xml_doc.root) # normalize it
+  File.write(output_file,mods_xml_doc.to_xml) # write it out
