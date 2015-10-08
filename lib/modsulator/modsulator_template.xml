@@ -86,7 +86,7 @@
     <languageTerm authority="[[la3:authority]]" valueURI="[[la3:valueURI]]" type="text">[[la3:text]]</languageTerm>
   </language>
   <physicalDescription>
-    <form>[[ph1:form]]</form>
+    <form authority="[[ph1:formAuthority]]" authorityURI="[[ph1:formAuthorityURI]]" valueURI="[[ph1:formValueURI]]">[[ph1:form]]</form>
     <extent>[[ph1:extent]]</extent>
     <digitalOrigin>[[ph1:digitalOrigin]]</digitalOrigin>
     <note displayLabel="[[ph1:displayLabel]]">[[ph1:note]]</note>
