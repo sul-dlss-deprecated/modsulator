@@ -79,13 +79,13 @@
   <typeOfResource manuscript="[[ty1:manuscript]]">[[ty1:typeOfResource]]</typeOfResource>
   <typeOfResource>[[ty2:typeOfResource]]</typeOfResource>
   <typeOfResource>[[ty3:typeOfResource]]</typeOfResource>
-  <genre type="[[ge1:type]]" authority="[[ge1:authority]]" valueURI="[[ge1:valueURI]]">[[ge1:genre]]</genre>
-  <genre type="[[ge2:type]]" authority="[[ge2:authority]]" valueURI="[[ge2:valueURI]]">[[ge2:genre]]</genre>
-  <genre type="[[ge3:type]]" authority="[[ge3:authority]]" valueURI="[[ge3:valueURI]]">[[ge3:genre]]</genre>
+  <genre type="[[ge1:type]]" authority="[[ge1:authority]]" authorityURI="[[ge1:authorityURI]]" valueURI="[[ge1:valueURI]]">[[ge1:genre]]</genre>
+  <genre type="[[ge2:type]]" authority="[[ge2:authority]]" authorityURI="[[ge2:authorityURI]]" valueURI="[[ge2:valueURI]]">[[ge2:genre]]</genre>
+  <genre type="[[ge3:type]]" authority="[[ge3:authority]]" authorityURI="[[ge3:authorityURI]]" valueURI="[[ge3:valueURI]]">[[ge3:genre]]</genre>
   <originInfo>
     <place>
-      <placeTerm type="code" authority="[[pl:authority]]" valueURI="[[pl:valueURI]]">[[pl:placeCode]]</placeTerm>
-      <placeTerm type="text" authority="[[pl:authority]]" valueURI="[[pl:valueURI]]">[[pl:placeText]]</placeTerm>
+      <placeTerm type="code" authority="[[pl:authority]]" authorityURI="[[pl:authorityURI]]" valueURI="[[pl:valueURI]]">[[pl:placeCode]]</placeTerm>
+      <placeTerm type="text" authority="[[pl:authority]]" authorityURI="[[pl:authorityURI]]" valueURI="[[pl:valueURI]]">[[pl:placeText]]</placeTerm>
     </place>
     <publisher>[[or:publisher]]</publisher>
     <dateCreated keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="start">[[dt:dateCreated]]</dateCreated>
@@ -94,16 +94,16 @@
     <dateIssued keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="end">[[dt:dateIssued2]]</dateIssued>
   </originInfo>
   <language>
-    <languageTerm authority="[[la1:authority]]" valueURI="[[la1:valueURI]]" type="code">[[la1:code]]</languageTerm>
-    <languageTerm authority="[[la1:authority]]" valueURI="[[la1:valueURI]]" type="text">[[la1:text]]</languageTerm>
+    <languageTerm authority="[[la1:authority]]" authorityURI="[[la1:authorityURI]]" valueURI="[[la1:valueURI]]" type="code">[[la1:code]]</languageTerm>
+    <languageTerm authority="[[la1:authority]]" authorityURI="[[la1:authorityURI]]" valueURI="[[la1:valueURI]]" type="text">[[la1:text]]</languageTerm>
   </language>
   <language>
-    <languageTerm authority="[[la2:authority]]" valueURI="[[la2:valueURI]]" type="code">[[la2:code]]</languageTerm>
-    <languageTerm authority="[[la2:authority]]" valueURI="[[la2:valueURI]]" type="text">[[la2:text]]</languageTerm>
+    <languageTerm authority="[[la2:authority]]" authorityURI="[[la2:authorityURI]]" valueURI="[[la2:valueURI]]" type="code">[[la2:code]]</languageTerm>
+    <languageTerm authority="[[la2:authority]]" authorityURI="[[la2:authorityURI]]" valueURI="[[la2:valueURI]]" type="text">[[la2:text]]</languageTerm>
   </language>
   <language>
-    <languageTerm authority="[[la3:authority]]" valueURI="[[la3:valueURI]]" type="code">[[la3:code]]</languageTerm>
-    <languageTerm authority="[[la3:authority]]" valueURI="[[la3:valueURI]]" type="text">[[la3:text]]</languageTerm>
+    <languageTerm authority="[[la3:authority]]" authorityURI="[[la3:authorityURI]]" valueURI="[[la3:valueURI]]" type="code">[[la3:code]]</languageTerm>
+    <languageTerm authority="[[la3:authority]]" authorityURI="[[la3:authorityURI]]" valueURI="[[la3:valueURI]]" type="text">[[la3:text]]</languageTerm>
   </language>
   <physicalDescription>
     <form authority="[[ph1:formAuthority]]" authorityURI="[[ph1:formAuthorityURI]]" valueURI="[[ph1:formValueURI]]">[[ph1:form]]</form>
