@@ -232,10 +232,103 @@
     <physicalLocation type="repository" authority="[[lo:authority]]" valueURI="[[lo:valueURI]]">[[lo:repository]]</physicalLocation>
     <shelfLocator>[[lo:callNumber]]</shelfLocator>
   </location>
-  <relatedItem type="[[ri1:type]]">
+  <relatedItem type="[[ri1:type]]" displayLabel="[[ri1:displayLabel]]">
     <titleInfo>
       <title>[[ri1:title]]</title>
     </titleInfo>
-    <url>[[ri1:url]]</url>
+    <name type="[[ri1:na1:type]]" authority="[[ri1:na1:authority]]" authorityURI="[[ri1:na1:authorityURI]]" valueURI="[[ri1:na1:valueURI]]">
+      <namePart>[[ri1:na1:namePart]]</namePart>
+      <role>
+        <roleTerm type="code" authority="[[ri1:ro1:authority]]" authorityURI="[[ri1:ro1:authorityURI]]" valueURI="[[ri1:ro1:valueURI]]">[[ri1:ro1:roleCode]]</roleTerm>
+        <roleTerm type="text" authority="[[ri1:ro1:authority]]" authorityURI="[[ri1:ro1:authorityURI]]" valueURI="[[ri1:ro1:valueURI]]">[[ri1:ro1:roleText]]</roleTerm>
+      </role>
+      <role>
+        <roleTerm type="code" authority="[[ri1:ro1:authority2]]" authorityURI="[[ri1:ro1:authorityURI2]]" valueURI="[[ri1:ro1:valueURI2]]">[[ri1:ro1:roleCode2]]</roleTerm>
+        <roleTerm type="text" authority="[[ri1:ro1:authority2]]" authorityURI="[[ri1:ro1:authorityURI2]]" valueURI="[[ri1:ro1:valueURI2]]">[[ri1:ro1:roleText2]]</roleTerm>
+      </role>
+    </name>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="[[ri1:pl:authority]]" authorityURI="[[ri1:pl:authorityURI]]" valueURI="[[ri1:pl:valueURI]]">[[ri1:pl:placeCode]]</placeTerm>
+        <placeTerm type="text" authority="[[ri1:pl:authority]]" authorityURI="[[ri1:pl:authorityURI]]" valueURI="[[ri1:pl:valueURI]]">[[ri1:pl:placeText]]</placeTerm>
+      </place>
+      <publisher>[[ri1:or:publisher]]</publisher>
+      <dateCreated keyDate="yes" encoding="[[ri1:dt:encoding]]" qualifier="[[ri1:dt:qualifier]]" point="start">[[ri1:dt:dateCreated]]</dateCreated>
+      <dateCreated keyDate="yes" encoding="[[ri1:dt:encoding]]" qualifier="[[ri1:dt:qualifier]]" point="end">[[ri1:dt:dateCreated2]]</dateCreated>
+      <dateIssued keyDate="yes" encoding="[[ri1:dt:encoding]]" qualifier="[[ri1:dt:qualifier]]" point="start">[[ri1:dt:dateIssued]]</dateIssued>
+      <dateIssued keyDate="yes" encoding="[[ri1:dt:encoding]]" qualifier="[[ri1:dt:qualifier]]" point="end">[[ri1:dt:dateIssued2]]</dateIssued>
+    </originInfo>
+    <identifier type="[[ri1:id1:type]]" displayLabel="[[ri1:id1:displayLabel]]">[[ri1:id1:identifier]]</identifier>
+    <identifier type="[[ri1:id2:type]]" displayLabel="[[ri1:id2:displayLabel]]">[[ri1:id2:identifier]]</identifier>
+    <identifier type="[[ri1:id3:type]]" displayLabel="[[ri1:id3:displayLabel]]">[[ri1:id3:identifier]]</identifier>
+    <location>
+      <url>[[ri1:url]]</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="[[ri2:type]]" displayLabel="[[ri2:displayLabel]]">
+    <titleInfo>
+      <title>[[ri2:title]]</title>
+    </titleInfo>
+    <name type="[[ri2:na1:type]]" authority="[[ri2:na1:authority]]" authorityURI="[[ri2:na1:authorityURI]]" valueURI="[[ri2:na1:valueURI]]">
+      <namePart>[[ri2:na1:namePart]]</namePart>
+      <role>
+        <roleTerm type="code" authority="[[ri2:ro1:authority]]" authorityURI="[[ri2:ro1:authorityURI]]" valueURI="[[ri2:ro1:valueURI]]">[[ri2:ro1:roleCode]]</roleTerm>
+        <roleTerm type="text" authority="[[ri2:ro1:authority]]" authorityURI="[[ri2:ro1:authorityURI]]" valueURI="[[ri2:ro1:valueURI]]">[[ri2:ro1:roleText]]</roleTerm>
+      </role>
+      <role>
+        <roleTerm type="code" authority="[[ri2:ro1:authority2]]" authorityURI="[[ri2:ro1:authorityURI2]]" valueURI="[[ri2:ro1:valueURI2]]">[[ri2:ro1:roleCode2]]</roleTerm>
+        <roleTerm type="text" authority="[[ri2:ro1:authority2]]" authorityURI="[[ri2:ro1:authorityURI2]]" valueURI="[[ri2:ro1:valueURI2]]">[[ri2:ro1:roleText2]]</roleTerm>
+      </role>
+    </name>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="[[ri2:pl:authority]]" authorityURI="[[ri2:pl:authorityURI]]" valueURI="[[ri2:pl:valueURI]]">[[ri2:pl:placeCode]]</placeTerm>
+        <placeTerm type="text" authority="[[ri2:pl:authority]]" authorityURI="[[ri2:pl:authorityURI]]" valueURI="[[ri2:pl:valueURI]]">[[ri2:pl:placeText]]</placeTerm>
+      </place>
+      <publisher>[[ri2:or:publisher]]</publisher>
+      <dateCreated keyDate="yes" encoding="[[ri2:dt:encoding]]" qualifier="[[ri2:dt:qualifier]]" point="start">[[ri2:dt:dateCreated]]</dateCreated>
+      <dateCreated keyDate="yes" encoding="[[ri2:dt:encoding]]" qualifier="[[ri2:dt:qualifier]]" point="end">[[ri2:dt:dateCreated2]]</dateCreated>
+      <dateIssued keyDate="yes" encoding="[[ri2:dt:encoding]]" qualifier="[[ri2:dt:qualifier]]" point="start">[[ri2:dt:dateIssued]]</dateIssued>
+      <dateIssued keyDate="yes" encoding="[[ri2:dt:encoding]]" qualifier="[[ri2:dt:qualifier]]" point="end">[[ri2:dt:dateIssued2]]</dateIssued>
+    </originInfo>
+    <identifier type="[[ri2:id1:type]]" displayLabel="[[ri2:id1:displayLabel]]">[[ri2:id1:identifier]]</identifier>
+    <identifier type="[[ri2:id2:type]]" displayLabel="[[ri2:id2:displayLabel]]">[[ri2:id2:identifier]]</identifier>
+    <identifier type="[[ri2:id3:type]]" displayLabel="[[ri2:id3:displayLabel]]">[[ri2:id3:identifier]]</identifier>
+    <location>
+      <url>[[ri2:url]]</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="[[ri3:type]]" displayLabel="[[ri3:displayLabel]]">
+    <titleInfo>
+      <title>[[ri3:title]]</title>
+    </titleInfo>
+    <name type="[[ri3:na1:type]]" authority="[[ri3:na1:authority]]" authorityURI="[[ri3:na1:authorityURI]]" valueURI="[[ri3:na1:valueURI]]">
+      <namePart>[[ri3:na1:namePart]]</namePart>
+      <role>
+        <roleTerm type="code" authority="[[ri3:ro1:authority]]" authorityURI="[[ri3:ro1:authorityURI]]" valueURI="[[ri3:ro1:valueURI]]">[[ri3:ro1:roleCode]]</roleTerm>
+        <roleTerm type="text" authority="[[ri3:ro1:authority]]" authorityURI="[[ri3:ro1:authorityURI]]" valueURI="[[ri3:ro1:valueURI]]">[[ri3:ro1:roleText]]</roleTerm>
+      </role>
+      <role>
+        <roleTerm type="code" authority="[[ri3:ro1:authority2]]" authorityURI="[[ri3:ro1:authorityURI2]]" valueURI="[[ri3:ro1:valueURI2]]">[[ri3:ro1:roleCode2]]</roleTerm>
+        <roleTerm type="text" authority="[[ri3:ro1:authority2]]" authorityURI="[[ri3:ro1:authorityURI2]]" valueURI="[[ri3:ro1:valueURI2]]">[[ri3:ro1:roleText2]]</roleTerm>
+      </role>
+    </name>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="[[ri3:pl:authority]]" authorityURI="[[ri3:pl:authorityURI]]" valueURI="[[ri3:pl:valueURI]]">[[ri3:pl:placeCode]]</placeTerm>
+        <placeTerm type="text" authority="[[ri3:pl:authority]]" authorityURI="[[ri3:pl:authorityURI]]" valueURI="[[ri3:pl:valueURI]]">[[ri3:pl:placeText]]</placeTerm>
+      </place>
+      <publisher>[[ri3:or:publisher]]</publisher>
+      <dateCreated keyDate="yes" encoding="[[ri3:dt:encoding]]" qualifier="[[ri3:dt:qualifier]]" point="start">[[ri3:dt:dateCreated]]</dateCreated>
+      <dateCreated keyDate="yes" encoding="[[ri3:dt:encoding]]" qualifier="[[ri3:dt:qualifier]]" point="end">[[ri3:dt:dateCreated2]]</dateCreated>
+      <dateIssued keyDate="yes" encoding="[[ri3:dt:encoding]]" qualifier="[[ri3:dt:qualifier]]" point="start">[[ri3:dt:dateIssued]]</dateIssued>
+      <dateIssued keyDate="yes" encoding="[[ri3:dt:encoding]]" qualifier="[[ri3:dt:qualifier]]" point="end">[[ri3:dt:dateIssued2]]</dateIssued>
+    </originInfo>
+    <identifier type="[[ri3:id1:type]]" displayLabel="[[ri3:id1:displayLabel]]">[[ri3:id1:identifier]]</identifier>
+    <identifier type="[[ri3:id2:type]]" displayLabel="[[ri3:id2:displayLabel]]">[[ri3:id2:identifier]]</identifier>
+    <identifier type="[[ri3:id3:type]]" displayLabel="[[ri3:id3:displayLabel]]">[[ri3:id3:identifier]]</identifier>
+    <location>
+      <url>[[ri3:url]]</url>
+    </location>
   </relatedItem>
 </mods>
