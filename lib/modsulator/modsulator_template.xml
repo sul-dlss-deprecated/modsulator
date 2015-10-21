@@ -110,6 +110,7 @@
     <extent>[[ph1:extent]]</extent>
     <reformattingQuality>[[ph1:reformattingQuality]]</reformattingQuality>
     <digitalOrigin>[[ph1:digitalOrigin]]</digitalOrigin>
+    <internetMediaType>[[ph1:internetMediaType]]</internetMediaType>
     <note displayLabel="[[ph1:displayLabel1]]">[[ph1:note1]]</note>
     <note displayLabel="[[ph1:displayLabel2]]">[[ph1:note2]]</note>
     <note displayLabel="[[ph1:displayLabel3]]">[[ph1:note3]]</note>
@@ -145,7 +146,7 @@
     <name type="[[sn1:p1:nameType]]" authority="[[sn1:p1:authority]]" authorityURI="[[sn1:p1:authorityURI]]" valueURI="[[sn1:p1:valueURI]]">
       <namePart>[[sn1:p1:name]]</namePart>
     </name>
-    <titleInfo>
+    <titleInfo type="[[sn1:p1:titleType]]">
        <title>[[sn1:p1:title]]</title>
     </titleInfo>
     <[[sn1:p2:type]] authority="[[sn1:p2:authority]]" authorityURI="[[sn1:p2:authorityURI]]" valueURI="[[sn1:p2:valueURI]]">[[sn1:p2:value]]</[[sn1:p2:type]]>
