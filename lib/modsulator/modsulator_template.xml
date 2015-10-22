@@ -21,7 +21,7 @@
     <partNumber>[[ti3:partNumber]]</partNumber> 
     <partName>[[ti3:partName]]</partName>
   </titleInfo>
-  <name type="[[na1:type]]" authority="[[na1:authority]]" authorityURI="[[na1:authorityURI]]" valueURI="[[na1:valueURI]]">
+  <name type="[[na1:type]]" usage="[[na1:usage]]" authority="[[na1:authority]]" authorityURI="[[na1:authorityURI]]" valueURI="[[na1:valueURI]]">
     <namePart>[[na1:namePart]]</namePart>
     <role>
       <roleTerm type="code" authority="[[ro1:authority]]" authorityURI="[[ro1:authorityURI]]" valueURI="[[ro1:valueURI]]">[[ro1:roleCode]]</roleTerm>
@@ -30,6 +30,10 @@
     <role>
       <roleTerm type="code" authority="[[ro1:authority2]]" authorityURI="[[ro1:authorityURI2]]" valueURI="[[ro1:valueURI2]]">[[ro1:roleCode2]]</roleTerm>
       <roleTerm type="text" authority="[[ro1:authority2]]" authorityURI="[[ro1:authorityURI2]]" valueURI="[[ro1:valueURI2]]">[[ro1:roleText2]]</roleTerm>
+    </role>
+    <role>
+      <roleTerm type="code" authority="[[ro1:authority3]]" authorityURI="[[ro1:authorityURI3]]" valueURI="[[ro1:valueURI3]]">[[ro1:roleCode3]]</roleTerm>
+      <roleTerm type="text" authority="[[ro1:authority3]]" authorityURI="[[ro1:authorityURI3]]" valueURI="[[ro1:valueURI3]]">[[ro1:roleText3]]</roleTerm>
     </role>
   </name>
   <name type="[[na2:type]]" authority="[[na2:authority]]" authorityURI="[[na2:authorityURI]]" valueURI="[[na2:valueURI]]">
@@ -42,6 +46,10 @@
       <roleTerm type="code" authority="[[ro2:authority2]]" authorityURI="[[ro2:authorityURI2]]" valueURI="[[ro2:valueURI2]]">[[ro2:roleCode2]]</roleTerm>
       <roleTerm type="text" authority="[[ro2:authority2]]" authorityURI="[[ro2:authorityURI2]]" valueURI="[[ro2:valueURI2]]">[[ro2:roleText2]]</roleTerm>
     </role>
+    <role>
+      <roleTerm type="code" authority="[[ro2:authority3]]" authorityURI="[[ro2:authorityURI3]]" valueURI="[[ro2:valueURI3]]">[[ro2:roleCode3]]</roleTerm>
+      <roleTerm type="text" authority="[[ro2:authority3]]" authorityURI="[[ro2:authorityURI3]]" valueURI="[[ro2:valueURI3]]">[[ro2:roleText3]]</roleTerm>
+    </role>
   </name>
   <name type="[[na3:type]]" authority="[[na3:authority]]" authorityURI="[[na3:authorityURI]]" valueURI="[[na3:valueURI]]">
     <namePart>[[na3:namePart]]</namePart>
@@ -52,6 +60,10 @@
     <role>
       <roleTerm type="code" authority="[[ro3:authority2]]" authorityURI="[[ro3:authorityURI2]]" valueURI="[[ro3:valueURI2]]">[[ro3:roleCode2]]</roleTerm>
       <roleTerm type="text" authority="[[ro3:authority2]]" authorityURI="[[ro3:authorityURI2]]" valueURI="[[ro3:valueURI2]]">[[ro3:roleText2]]</roleTerm>
+    </role>
+    <role>
+      <roleTerm type="code" authority="[[ro3:authority3]]" authorityURI="[[ro3:authorityURI3]]" valueURI="[[ro3:valueURI3]]">[[ro3:roleCode3]]</roleTerm>
+      <roleTerm type="text" authority="[[ro3:authority3]]" authorityURI="[[ro3:authorityURI3]]" valueURI="[[ro3:valueURI3]]">[[ro3:roleText3]]</roleTerm>
     </role>
   </name>
   <name type="[[na4:type]]" authority="[[na4:authority]]" authorityURI="[[na4:authorityURI]]" valueURI="[[na4:valueURI]]">
@@ -64,6 +76,10 @@
       <roleTerm type="code" authority="[[ro4:authority2]]" authorityURI="[[ro4:authorityURI2]]" valueURI="[[ro4:valueURI2]]">[[ro4:roleCode2]]</roleTerm>
       <roleTerm type="text" authority="[[ro4:authority2]]" authorityURI="[[ro4:authorityURI2]]" valueURI="[[ro4:valueURI2]]">[[ro4:roleText2]]</roleTerm>
     </role>
+    <role>
+      <roleTerm type="code" authority="[[ro4:authority3]]" authorityURI="[[ro4:authorityURI3]]" valueURI="[[ro4:valueURI3]]">[[ro4:roleCode3]]</roleTerm>
+      <roleTerm type="text" authority="[[ro4:authority3]]" authorityURI="[[ro4:authorityURI3]]" valueURI="[[ro4:valueURI3]]">[[ro4:roleText3]]</roleTerm>
+    </role>
   </name>
   <name type="[[na5:type]]" authority="[[na5:authority]]" authorityURI="[[na5:authorityURI]]" valueURI="[[na5:valueURI]]">
     <namePart>[[na5:namePart]]</namePart>
@@ -74,6 +90,10 @@
     <role>
       <roleTerm type="code" authority="[[ro5:authority2]]" authorityURI="[[ro5:authorityURI2]]" valueURI="[[ro5:valueURI2]]">[[ro5:roleCode2]]</roleTerm>
       <roleTerm type="text" authority="[[ro5:authority2]]" authorityURI="[[ro5:authorityURI2]]" valueURI="[[ro5:valueURI2]]">[[ro5:roleText2]]</roleTerm>
+    </role>
+    <role>
+      <roleTerm type="code" authority="[[ro5:authority3]]" authorityURI="[[ro5:authorityURI3]]" valueURI="[[ro5:valueURI3]]">[[ro5:roleCode3]]</roleTerm>
+      <roleTerm type="text" authority="[[ro5:authority3]]" authorityURI="[[ro5:authorityURI3]]" valueURI="[[ro5:valueURI3]]">[[ro5:roleText3]]</roleTerm>
     </role>
   </name>
   <typeOfResource manuscript="[[ty1:manuscript]]">[[ty1:typeOfResource]]</typeOfResource>
