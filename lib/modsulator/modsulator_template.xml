@@ -82,7 +82,7 @@
   <genre type="[[ge1:type]]" authority="[[ge1:authority]]" authorityURI="[[ge1:authorityURI]]" valueURI="[[ge1:valueURI]]">[[ge1:genre]]</genre>
   <genre type="[[ge2:type]]" authority="[[ge2:authority]]" authorityURI="[[ge2:authorityURI]]" valueURI="[[ge2:valueURI]]">[[ge2:genre]]</genre>
   <genre type="[[ge3:type]]" authority="[[ge3:authority]]" authorityURI="[[ge3:authorityURI]]" valueURI="[[ge3:valueURI]]">[[ge3:genre]]</genre>
-  <originInfo>
+  <originInfo displayLabel="[[or:displayLabel]]" eventType="[[or:eventType]]">
     <place>
       <placeTerm type="code" authority="[[pl:authority]]" authorityURI="[[pl:authorityURI]]" valueURI="[[pl:valueURI]]">[[pl:placeCode]]</placeTerm>
       <placeTerm type="text" authority="[[pl:authority]]" authorityURI="[[pl:authorityURI]]" valueURI="[[pl:valueURI]]">[[pl:placeText]]</placeTerm>
@@ -92,6 +92,23 @@
     <dateCreated keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="end">[[dt:dateCreated2]]</dateCreated>
     <dateIssued keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="start">[[dt:dateIssued]]</dateIssued>
     <dateIssued keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="end">[[dt:dateIssued2]]</dateIssued>
+    <dateCaptured keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="start">[[dt:dateCaptured]]</dateCaptured>
+    <dateCaptured keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="end">[[dt:dateCaptured2]]</dateCaptured>
+    <copyrightDate keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]">[[dt:copyrightDate]]</copyrightDate>
+  </originInfo>
+  <originInfo displayLabel="[[or2:displayLabel]]" eventType="[[or2:eventType]]">
+    <place>
+      <placeTerm type="code" authority="[[or2:pl:authority]]" authorityURI="[[or2:pl:authorityURI]]" valueURI="[[or2:pl:valueURI]]">[[or2:pl:placeCode]]</placeTerm>
+      <placeTerm type="text" authority="[[or2:pl:authority]]" authorityURI="[[or2:pl:authorityURI]]" valueURI="[[or2:pl:valueURI]]">[[or2:pl:placeText]]</placeTerm>
+    </place>
+    <publisher>[[or2:publisher]]</publisher>
+    <dateCreated keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]" point="start">[[or2:dt:dateCreated]]</dateCreated>
+    <dateCreated keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]" point="end">[[or2:dt:dateCreated2]]</dateCreated>
+    <dateIssued keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]" point="start">[[or2:dt:dateIssued]]</dateIssued>
+    <dateIssued keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]" point="end">[[or2:dt:dateIssued2]]</dateIssued>
+    <dateCaptured keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]" point="start">[[or2:dt:dateCaptured]]</dateCaptured>
+    <dateCaptured keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]" point="end">[[or2:dt:dateCaptured2]]</dateCaptured>
+    <copyrightDate keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]">[[or2:dt:copyrightDate]]</copyrightDate>
   </originInfo>
   <language>
     <languageTerm authority="[[la1:authority]]" authorityURI="[[la1:authorityURI]]" valueURI="[[la1:valueURI]]" type="code">[[la1:code]]</languageTerm>
