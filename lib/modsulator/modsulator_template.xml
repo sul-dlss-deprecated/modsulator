@@ -115,6 +115,7 @@
     <dateCaptured keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="start">[[dt:dateCaptured]]</dateCaptured>
     <dateCaptured keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="end">[[dt:dateCaptured2]]</dateCaptured>
     <copyrightDate keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]">[[dt:copyrightDate]]</copyrightDate>
+    <issuance>[[or:issuance]]</issuance>
   </originInfo>
   <originInfo displayLabel="[[or2:displayLabel]]" eventType="[[or2:eventType]]">
     <place>
@@ -129,6 +130,7 @@
     <dateCaptured keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]" point="start">[[or2:dt:dateCaptured]]</dateCaptured>
     <dateCaptured keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]" point="end">[[or2:dt:dateCaptured2]]</dateCaptured>
     <copyrightDate keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]">[[or2:dt:copyrightDate]]</copyrightDate>
+    <issuance>[[or2:issuance]]</issuance>
   </originInfo>
   <language>
     <languageTerm authority="[[la1:authority]]" authorityURI="[[la1:authorityURI]]" valueURI="[[la1:valueURI]]" type="code">[[la1:code]]</languageTerm>
