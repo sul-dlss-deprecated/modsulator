@@ -371,4 +371,12 @@
       <url>[[ri3:url]]</url>
     </location>
   </relatedItem>
+  <recordInfo>
+    <languageOfCataloging>
+      <languageTerm authority="[[rc:langAuthority]]" authorityURI="[[rc:langAuthorityURI]]" valueURI="[[rc:langValueURI]]">[[rc:languageOfCataloging]]</languageTerm>
+    </languageOfCataloging>
+    <recordContentSource authority="[[rc:contentSourceAuthority]]" authorityURI="[[rc:contentSourceAuthorityURI]]" valueURI="[[rc:contentSourceValueURI]]">[[rc:contentSource]]</recordContentSource>
+    <descriptionStandard authority="[[rc:descStandardAuthority]]" authorityURI="[[rc:descStandardAuthorityURI]]" valueURI="[[rc:descStandardValueURI]]">[[rc:descStandard]]</descriptionStandard>
+    <recordOrigin>[[rc:recordOrigin]]</recordOrigin>
+  </recordInfo>
 </mods>
