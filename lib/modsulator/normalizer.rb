@@ -8,6 +8,22 @@ class Normalizer
   # Linefeed character entity reference
   LINEFEED = '&#10;'
 
+  # Select all single <dateCreated> and <dateIssued> fields
+  LONE_DATE_XPATH = '//mods:originInfo/mods:dateCreated[1][not(following-sibling::*[1][self::mods:dateCreated])] | //mods:originInfo/mods:dateIssued[1][not(following-sibling::*[1][self::mods:dateIssued])]'
+
+  # Select all <dateCreated> and <dateIssued> fields
+  DATE_CREATED_ISSUED_XPATH = '//mods:dateCreated | //mods:dateIssued'
+
+  # The official MODS namespace, courtesy of the Library of Congress
+  MODS_NAMESPACE = 'http://www.loc.gov/mods/v3'
+
+  # Selects <abstract>, <tableOfContents> and <note> when no namespace is present
+  LINEFEED_XPATH = '//abstract | //tableOfContents | //note'
+
+  # Selects <abstract>, <tableOfContents> and <note> when a namespace is present
+  LINEFEED_XPATH_NAMESPACED = '//ns:abstract | //ns:tableOfContents | //ns:note'
+  
+
   # Checks if a node has attributes that we make exeptions for. There are two such exceptions.
   #
   # * A "collection" attribute with the value "yes" <em>on a typeOfResource tag</em>.
@@ -70,16 +86,9 @@ class Normalizer
   # \r\n is replaced by &#10;
   # Any tags not listed above are removed. MODS 3.5 does not allow for anything other than text inside these three nodes.
   #
-  # @param   [Nokogiri::XML::Element]    node  The root node of an XML document
+  # @param   [Nokogiri::XML::NodeSet]    node_list  All <tableOfContents>, <abstract> and <node> elements.
   # @return  [Void]                      This method doesn't return anything, but introduces UTF-8 linefeed characters in place, as described above.
-  def clean_linefeeds(node)
-    node_list = []
-    if(node.namespace.nil?)
-      node_list = node.xpath('//abstract | //tableOfContents | //note')
-    else
-      node_list = node.xpath('//ns:abstract | //ns:tableOfContents | //ns:note', 'ns' => node.namespace.href)
-    end
-
+  def clean_linefeeds(node_list)
     node_list.each do |current_node|
       new_text = substitute_linefeeds(current_node)
       current_node.children.remove
@@ -165,12 +174,12 @@ class Normalizer
 
   # Removes the point attribute from single <dateCreated> and <dateIssued> elements.
   #
-  # @param [Nokogiri::XML::Element]   root  The root of a MODS XML document.
+  # @param [Nokogiri::XML::NodeSet]   nodes  A set of all affected <dateCreated> and <dateIssued> elements.
   # @return [Void]                    The given document is modified in place.
-  def clean_date_attributes(root)
-    
+  def clean_date_attributes(nodes)
+
     # Find all the <dateCreated> and <dateIssued> elements that are NOT immediately followed by another element with the same name
-    root.xpath('//mods:originInfo/mods:dateCreated[1][not(following-sibling::*[1][self::mods:dateCreated])] | //mods:originInfo/mods:dateIssued[1][not(following-sibling::*[1][self::mods:dateIssued])]', 'mods' => 'http://www.loc.gov/mods/v3').each do |current_element|
+    nodes.each do |current_element|
       attributes = current_element.attributes
       if(attributes.key?('point'))
         current_element.remove_attribute('point')
@@ -178,30 +187,45 @@ class Normalizer
     end
   end
 
-
+  
   # Sometimes there are spurious decimal digits within the date fields. This method removes any trailing decimal points within
   # <dateCreated> and <dateIssued>.
   #
-  # @param [Nokogiri::XML::Element]   root  The root of a MODS XML document.
+  # @param [Nokogiri::XML::NodeSet]   nodes  A set of all affected <dateCreated> and <dateIssued> elements.
   # @return [Void]                    The given document is modified in place.
-  def clean_date_values(root)
-    root.xpath('//mods:dateCreated | //mods:dateIssued', 'mods' => 'http://www.loc.gov/mods/v3').each do |current_node|
+  def clean_date_values(nodes)
+    nodes.each do |current_node|
       current_node.content = current_node.content.sub(/(.*)\.\d+$/, '\1')
     end
   end
 
-
-  # Normalizes the given XML document according to the Stanford guidelines.
+  # Normalizes the given MODS XML document according to the Stanford guidelines.
   #
   # @param  [Nokogiri::XML::Element]  root  The root of a MODS XML document.
   # @return [Void]                    The given document is modified in place.
-  def normalize_document(root)
-    clean_linefeeds(root)   # Do this before deleting <br> and <p> with remove_empty_nodes()
+  def normalize_mods_document(root)
+    node_list = []
+    if(root.namespace.nil?)
+      node_list = root.xpath(LINEFEED_XPATH)
+    else
+      node_list = root.xpath(LINEFEED_XPATH_NAMESPACED, 'ns' => root.namespace.href)
+    end
+    clean_linefeeds(node_list)    # Do this before deleting <br> and <p> with remove_empty_nodes()
+
     remove_empty_attributes(root)
     remove_empty_nodes(root)
     trim_text(root)
-    clean_date_attributes(root)
-    clean_date_values(root)
+    clean_date_attributes(root.xpath(LONE_DATE_XPATH, 'mods' => MODS_NAMESPACE))
+    clean_date_values(root.xpath(DATE_CREATED_ISSUED_XPATH, 'mods' => MODS_NAMESPACE))
+  end
+
+  # Normalizes the given MODS XML document according to the Stanford guidelines.
+  #
+  # @deprecated Use normalize_mods_document instead.
+  # @param  [Nokogiri::XML::Element]  root  The root of a MODS XML document.
+  # @return [Void]                    The given document is modified in place.
+  def normalize_document(root)
+    normalize_mods_document(root)
   end
 
 
