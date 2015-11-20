@@ -134,7 +134,7 @@ problem
     it "replaces <br> by &#10; and <p> by &#10;&#10;" do
       start_doc = Nokogiri::XML("<note> How to present text: <br>Four chances.<p>Executive orders from tall managerial summits.</p> <br/>Exonerate...</note>")
       final_doc = Nokogiri::XML("<note> How to present text: &#10;Four chances.&#10;&#10;Executive orders from tall managerial summits. &#10;Exonerate...</note>")
-      @normalizer.clean_linefeeds(start_doc.root)
+      @normalizer.clean_linefeeds(start_doc.root.xpath(Normalizer::LINEFEED_XPATH))
       expect(EquivalentXml.equivalent?(start_doc, final_doc)).to be_truthy
     end
 
