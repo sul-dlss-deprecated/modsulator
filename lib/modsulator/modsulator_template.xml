@@ -539,13 +539,14 @@
       <placeTerm type="text" authority="[[pl:authority]]" authorityURI="[[pl:authorityURI]]" valueURI="[[pl:valueURI]]">[[pl:placeText]]</placeTerm>
     </place>
     <publisher>[[or:publisher]]</publisher>
-    <dateCreated keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="start">[[dt:dateCreated]]</dateCreated>
-    <dateCreated keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="end">[[dt:dateCreated2]]</dateCreated>
-    <dateIssued keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="start">[[dt:dateIssued]]</dateIssued>
-    <dateIssued keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="end">[[dt:dateIssued2]]</dateIssued>
-    <dateCaptured keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="start">[[dt:dateCaptured]]</dateCaptured>
-    <dateCaptured keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]" point="end">[[dt:dateCaptured2]]</dateCaptured>
-    <copyrightDate keyDate="yes" encoding="[[dt:encoding]]" qualifier="[[dt:qualifier]]">[[dt:copyrightDate]]</copyrightDate>
+    <dateCreated keyDate="[[dt:dateCreatedKeyDate]]" encoding="[[dt:dateCreatedEncoding]]" qualifier="[[dt:dateCreatedQualifier]]" point="start">[[dt:dateCreated]]</dateCreated>
+    <dateCreated encoding="[[dt:dateCreatedEncoding]]" qualifier="[[dt:dateCreated2Qualifier]]" point="end">[[dt:dateCreated2]]</dateCreated>
+    <dateIssued keyDate="[[dt:dateIssuedKeyDate]]" encoding="[[dt:dateIssuedEncoding]]" qualifier="[[dt:dateIssuedQualifier]]" point="start">[[dt:dateIssued]]</dateIssued>
+    <dateIssued encoding="[[dt:dateIssuedEncoding]]" qualifier="[[dt:dateIssued2Qualifier]]" point="end">[[dt:dateIssued2]]</dateIssued>
+    <dateCaptured keyDate="[[dt:dateCapturedKeyDate]]" encoding="[[dt:dateCapturedEncoding]]" qualifier="[[dt:dateCapturedQualifier]]" point="start">[[dt:dateCaptured]]</dateCaptured>
+    <dateCaptured encoding="[[dt:dateCapturedEncoding]]" qualifier="[[dt:dateCaptured2Qualifier]]" point="end">[[dt:dateCaptured2]]</dateCaptured>
+    <copyrightDate keyDate="[[dt:copyrightDateKeyDate]]" encoding="[[dt:copyrightDateEncoding]]" qualifier="[[dt:copyrightDateQualifier]]" point="start">[[dt:copyrightDate]]</copyrightDate>
+    <copyrightDate encoding="[[dt:copyrightDateEncoding]]" qualifier="[[dt:copyrightDate2Qualifier]]" point="end">[[dt:copyrightDate2]]</copyrightDate>
     <issuance>[[or:issuance]]</issuance>
   </originInfo>
   <originInfo displayLabel="[[or2:displayLabel]]" eventType="[[or2:eventType]]">
@@ -554,13 +555,14 @@
       <placeTerm type="text" authority="[[or2:pl:authority]]" authorityURI="[[or2:pl:authorityURI]]" valueURI="[[or2:pl:valueURI]]">[[or2:pl:placeText]]</placeTerm>
     </place>
     <publisher>[[or2:publisher]]</publisher>
-    <dateCreated keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]" point="start">[[or2:dt:dateCreated]]</dateCreated>
-    <dateCreated keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]" point="end">[[or2:dt:dateCreated2]]</dateCreated>
-    <dateIssued keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]" point="start">[[or2:dt:dateIssued]]</dateIssued>
-    <dateIssued keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]" point="end">[[or2:dt:dateIssued2]]</dateIssued>
-    <dateCaptured keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]" point="start">[[or2:dt:dateCaptured]]</dateCaptured>
-    <dateCaptured keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]" point="end">[[or2:dt:dateCaptured2]]</dateCaptured>
-    <copyrightDate keyDate="yes" encoding="[[or2:dt:encoding]]" qualifier="[[or2:dt:qualifier]]">[[or2:dt:copyrightDate]]</copyrightDate>
+    <dateCreated keyDate="[[or2:dt:dateCreatedKeyDate]]" encoding="[[or2:dt:dateCreatedEncoding]]" qualifier="[[or2:dt:dateCreatedQualifier]]" point="start">[[or2:dt:dateCreated]]</dateCreated>
+    <dateCreated encoding="[[or2:dt:dateCreatedEncoding]]" qualifier="[[or2:dt:dateCreated2Qualifier]]" point="end">[[or2:dt:dateCreated2]]</dateCreated>
+    <dateIssued keyDate="[[or2:dt:dateIssuedKeyDate]]" encoding="[[or2:dt:dateIssuedEncoding]]" qualifier="[[or2:dt:dateIssuedQualifier]]" point="start">[[or2:dt:dateIssued]]</dateIssued>
+    <dateIssued encoding="[[or2:dt:dateIssuedEncoding]]" qualifier="[[or2:dt:dateIssued2Qualifier]]" point="end">[[or2:dt:dateIssued2]]</dateIssued>
+    <dateCaptured keyDate="[[or2:dt:dateCapturedKeyDate]]" encoding="[[or2:dt:dateCapturedEncoding]]" qualifier="[[or2:dt:dateCapturedQualifier]]" point="start">[[or2:dt:dateCaptured]]</dateCaptured>
+    <dateCaptured encoding="[[or2:dt:dateCapturedEncoding]]" qualifier="[[or2:dt:dateCaptured2Qualifier]]" point="end">[[or2:dt:dateCaptured2]]</dateCaptured>
+    <copyrightDate keyDate="[[or2:dt:copyrightDateKeyDate]]" encoding="[[or2:dt:copyrightDateEncoding]]" qualifier="[[or2:dt:copyrightDateQualifier]]">[[or2:dt:copyrightDate]]</copyrightDate>
+    <copyrightDate encoding="[[or2:dt:copyrightDateEncoding]]" qualifier="[[or2:dt:copyrightDate2Qualifier]]" point="end">[[or2:dt:copyrightDate2]]</copyrightDate>
     <issuance>[[or2:issuance]]</issuance>
   </originInfo>
   <originInfo displayLabel="[[or3:displayLabel]]" eventType="[[or3:eventType]]">
@@ -569,13 +571,14 @@
       <placeTerm type="text" authority="[[or3:pl:authority]]" authorityURI="[[or3:pl:authorityURI]]" valueURI="[[or3:pl:valueURI]]">[[or3:pl:placeText]]</placeTerm>
     </place>
     <publisher>[[or3:publisher]]</publisher>
-    <dateCreated keyDate="yes" encoding="[[or3:dt:encoding]]" qualifier="[[or3:dt:qualifier]]" point="start">[[or3:dt:dateCreated]]</dateCreated>
-    <dateCreated keyDate="yes" encoding="[[or3:dt:encoding]]" qualifier="[[or3:dt:qualifier]]" point="end">[[or3:dt:dateCreated2]]</dateCreated>
-    <dateIssued keyDate="yes" encoding="[[or3:dt:encoding]]" qualifier="[[or3:dt:qualifier]]" point="start">[[or3:dt:dateIssued]]</dateIssued>
-    <dateIssued keyDate="yes" encoding="[[or3:dt:encoding]]" qualifier="[[or3:dt:qualifier]]" point="end">[[or3:dt:dateIssued2]]</dateIssued>
-    <dateCaptured keyDate="yes" encoding="[[or3:dt:encoding]]" qualifier="[[or3:dt:qualifier]]" point="start">[[or3:dt:dateCaptured]]</dateCaptured>
-    <dateCaptured keyDate="yes" encoding="[[or3:dt:encoding]]" qualifier="[[or3:dt:qualifier]]" point="end">[[or3:dt:dateCaptured2]]</dateCaptured>
-    <copyrightDate keyDate="yes" encoding="[[or3:dt:encoding]]" qualifier="[[or3:dt:qualifier]]">[[or3:dt:copyrightDate]]</copyrightDate>
+    <dateCreated keyDate="[[or3:dt:dateCreatedKeyDate]]" encoding="[[or3:dt:dateCreatedEncoding]]" qualifier="[[or3:dt:dateCreatedQualifier]]" point="start">[[or3:dt:dateCreated]]</dateCreated>
+    <dateCreated encoding="[[or3:dt:dateCreatedEncoding]]" qualifier="[[or3:dt:dateCreated2Qualifier]]" point="end">[[or3:dt:dateCreated2]]</dateCreated>
+    <dateIssued keyDate="[[or3:dt:dateIssuedKeyDate]]" encoding="[[or3:dt:dateIssuedEncoding]]" qualifier="[[or3:dt:dateIssuedQualifier]]" point="start">[[or3:dt:dateIssued]]</dateIssued>
+    <dateIssued encoding="[[or3:dt:dateIssuedEncoding]]" qualifier="[[or3:dt:dateIssued2Qualifier]]" point="end">[[or3:dt:dateIssued2]]</dateIssued>
+    <dateCaptured keyDate="[[or3:dt:dateCapturedKeyDate]]" encoding="[[or3:dt:dateCapturedEncoding]]" qualifier="[[or3:dt:dateCapturedQualifier]]" point="start">[[or3:dt:dateCaptured]]</dateCaptured>
+    <dateCaptured encoding="[[or3:dt:dateCapturedEncoding]]" qualifier="[[or3:dt:dateCaptured2Qualifier]]" point="end">[[or3:dt:dateCaptured2]]</dateCaptured>
+    <copyrightDate keyDate="[[or3:dt:copyrightDateKeyDate]]" encoding="[[or3:dt:copyrightDateEncoding]]" qualifier="[[or3:dt:copyrightDateQualifier]]">[[or3:dt:copyrightDate]]</copyrightDate>
+    <copyrightDate encoding="[[or3:dt:copyrightDateEncoding]]" qualifier="[[or3:dt:copyrightDate2Qualifier]]" point="end">[[or3:dt:copyrightDate2]]</copyrightDate>
     <issuance>[[or3:issuance]]</issuance>
   </originInfo>
   <language>
