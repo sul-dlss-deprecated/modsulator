@@ -1211,6 +1211,7 @@
   <location>
     <physicalLocation type="repository" authority="[[lo:authority]]" valueURI="[[lo:valueURI]]">[[lo:repository]]</physicalLocation>
     <shelfLocator>[[lo:callNumber]]</shelfLocator>
+    <url>[[lo:purl]]</url>
   </location>
   <relatedItem type="[[ri1:type]]" displayLabel="[[ri1:displayLabel]]">
     <titleInfo>
@@ -1311,6 +1312,20 @@
       <url>[[ri3:url]]</url>
     </location>
   </relatedItem>
+  <extension displayLabel="geo">
+    <rdf:RDF xmlns:gml="http://www.opengis.net/gml/3.2/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description rdf:about="[[purl]]">
+        <dc:format>[[ext:dc:format]]</dc:format>
+        <dc:type>[[ext:dc:type]]</dc:type>
+        <gml:boundedBy>
+          <gml:Envelope>
+            <gml:lowerCorner>[[ext:west_bc]] [[ext:south_bc]]</gml:lowerCorner>
+            <gml:upperCorner>[[ext:east_bc]] [[ext:north_bc]]</gml:upperCorner>
+          </gml:Envelope>
+        </gml:boundedBy>
+      </rdf:Description>
+    </rdf:RDF>
+  </extension>
   <recordInfo>
     <languageOfCataloging>
       <languageTerm authority="[[rc:langAuthority]]" authorityURI="[[rc:langAuthorityURI]]" valueURI="[[rc:langValueURI]]">[[rc:languageOfCataloging]]</languageTerm>
