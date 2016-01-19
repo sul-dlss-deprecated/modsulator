@@ -669,11 +669,11 @@
   <note type="[[no18:type]]" displayLabel="[[no18:displayLabel]]">[[no18:note]]</note>
   <note type="[[no19:type]]" displayLabel="[[no19:displayLabel]]">[[no19:note]]</note>
   <note type="[[no20:type]]" displayLabel="[[no20:displayLabel]]">[[no20:note]]</note>
-  <subject authority="[[sn1:authority]]" authorityURI="[[sn1:authorityURI]]">
-    <name type="[[sn1:p1:nameType]]" authority="[[sn1:p1:authority]]" authorityURI="[[sn1:p1:authorityURI]]" valueURI="[[sn1:p1:valueURI]]">
+  <subject authority="[[sn1:authority]]" authorityURI="[[sn1:authorityURI]]" valueURI="[[sn1:valueURI]]">
+    <name type="[[sn1:p1:nameType]]" authority="[[sn1:p1:nm:authority]]" authorityURI="[[sn1:p1:nm:authorityURI]]" valueURI="[[sn1:p1:nm:valueURI]]">
       <namePart>[[sn1:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn1:p1:titleType]]">
+    <titleInfo type="[[sn1:p1:titleType]]" authority="[[sn1:p1:ti:authority]]" authorityURI="[[sn1:p1:ti:authorityURI]]" valueURI="[[sn1:p1:ti:valueURI]]">
       <title>[[sn1:p1:title]]</title>
       <subTitle>[[sn1:p1:subTitle]]</subTitle>
       <partNumber>[[sn1:p1:partNumber]]</partNumber>
@@ -684,11 +684,11 @@
     <[[sn1:p4:type]] authority="[[sn1:p4:authority]]" authorityURI="[[sn1:p4:authorityURI]]" valueURI="[[sn1:p4:valueURI]]">[[sn1:p4:value]]</[[sn1:p4:type]]>
     <[[sn1:p5:type]] authority="[[sn1:p5:authority]]" authorityURI="[[sn1:p5:authorityURI]]" valueURI="[[sn1:p5:valueURI]]">[[sn1:p5:value]]</[[sn1:p5:type]]>
   </subject>
-  <subject authority="[[sn2:authority]]" authorityURI="[[sn2:authorityURI]]">
-    <name type="[[sn2:p1:nameType]]" authority="[[sn2:p1:authority]]" authorityURI="[[sn2:p1:authorityURI]]" valueURI="[[sn2:p1:valueURI]]">
+  <subject authority="[[sn2:authority]]" authorityURI="[[sn2:authorityURI]]" valueURI="[[sn2:valueURI]]">
+    <name type="[[sn2:p1:nameType]]" authority="[[sn2:p1:nm:authority]]" authorityURI="[[sn2:p1:nm:authorityURI]]" valueURI="[[sn2:p1:nm:valueURI]]">
       <namePart>[[sn2:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn2:p1:titleType]]">
+    <titleInfo type="[[sn2:p1:titleType]]" authority="[[sn2:p1:ti:authority]]" authorityURI="[[sn2:p1:ti:authorityURI]]" valueURI="[[sn2:p1:ti:valueURI]]">
        <title>[[sn2:p1:title]]</title>
       <subTitle>[[sn2:p1:subTitle]]</subTitle>
       <partNumber>[[sn2:p1:partNumber]]</partNumber>
@@ -699,11 +699,11 @@
     <[[sn2:p4:type]] authority="[[sn2:p4:authority]]" authorityURI="[[sn2:p4:authorityURI]]" valueURI="[[sn2:p4:valueURI]]">[[sn2:p4:value]]</[[sn2:p4:type]]>
     <[[sn2:p5:type]] authority="[[sn2:p5:authority]]" authorityURI="[[sn2:p5:authorityURI]]" valueURI="[[sn2:p5:valueURI]]">[[sn2:p5:value]]</[[sn2:p5:type]]>
   </subject>
-  <subject authority="[[sn3:authority]]" authorityURI="[[sn3:authorityURI]]">
-    <name type="[[sn3:p1:nameType]]" authority="[[sn3:p1:authority]]" authorityURI="[[sn3:p1:authorityURI]]" valueURI="[[sn3:p1:valueURI]]">
+  <subject authority="[[sn3:authority]]" authorityURI="[[sn3:authorityURI]]" valueURI="[[sn3:valueURI]]">
+    <name type="[[sn3:p1:nameType]]" authority="[[sn3:p1:nm:authority]]" authorityURI="[[sn3:p1:nm:authorityURI]]" valueURI="[[sn3:p1:nm:valueURI]]">
       <namePart>[[sn3:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn3:p1:titleType]]">
+    <titleInfo type="[[sn3:p1:titleType]]" authority="[[sn3:p1:ti:authority]]" authorityURI="[[sn3:p1:ti:authorityURI]]" valueURI="[[sn3:p1:ti:valueURI]]">
        <title>[[sn3:p1:title]]</title>
       <subTitle>[[sn3:p1:subTitle]]</subTitle>
       <partNumber>[[sn3:p1:partNumber]]</partNumber>
@@ -714,11 +714,11 @@
     <[[sn3:p4:type]] authority="[[sn3:p4:authority]]" authorityURI="[[sn3:p4:authorityURI]]" valueURI="[[sn3:p4:valueURI]]">[[sn3:p4:value]]</[[sn3:p4:type]]>
     <[[sn3:p5:type]] authority="[[sn3:p5:authority]]" authorityURI="[[sn3:p5:authorityURI]]" valueURI="[[sn3:p5:valueURI]]">[[sn3:p5:value]]</[[sn3:p5:type]]>
   </subject>
-  <subject authority="[[sn4:authority]]" authorityURI="[[sn4:authorityURI]]">
-    <name type="[[sn4:p1:nameType]]" authority="[[sn4:p1:authority]]" authorityURI="[[sn4:p1:authorityURI]]" valueURI="[[sn4:p1:valueURI]]">
+  <subject authority="[[sn4:authority]]" authorityURI="[[sn4:authorityURI]]" valueURI="[[sn4:valueURI]]">
+    <name type="[[sn4:p1:nameType]]" authority="[[sn4:p1:nm:authority]]" authorityURI="[[sn4:p1:nm:authorityURI]]" valueURI="[[sn4:p1:nm:valueURI]]">
       <namePart>[[sn4:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn4:p1:titleType]]">
+    <titleInfo type="[[sn4:p1:titleType]]" authority="[[sn4:p1:ti:authority]]" authorityURI="[[sn4:p1:ti:authorityURI]]" valueURI="[[sn4:p1:ti:valueURI]]">
        <title>[[sn4:p1:title]]</title>
       <subTitle>[[sn4:p1:subTitle]]</subTitle>
       <partNumber>[[sn4:p1:partNumber]]</partNumber>
@@ -729,11 +729,11 @@
     <[[sn4:p4:type]] authority="[[sn4:p4:authority]]" authorityURI="[[sn4:p4:authorityURI]]" valueURI="[[sn4:p4:valueURI]]">[[sn4:p4:value]]</[[sn4:p4:type]]>
     <[[sn4:p5:type]] authority="[[sn4:p5:authority]]" authorityURI="[[sn4:p5:authorityURI]]" valueURI="[[sn4:p5:valueURI]]">[[sn4:p5:value]]</[[sn4:p5:type]]>
   </subject>
-  <subject authority="[[sn5:authority]]" authorityURI="[[sn5:authorityURI]]">
-    <name type="[[sn5:p1:nameType]]" authority="[[sn5:p1:authority]]" authorityURI="[[sn5:p1:authorityURI]]" valueURI="[[sn5:p1:valueURI]]">
+  <subject authority="[[sn5:authority]]" authorityURI="[[sn5:authorityURI]]" valueURI="[[sn5:valueURI]]">
+    <name type="[[sn5:p1:nameType]]" authority="[[sn5:p1:nm:authority]]" authorityURI="[[sn5:p1:nm:authorityURI]]" valueURI="[[sn5:p1:nm:valueURI]]">
       <namePart>[[sn5:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn5:p1:titleType]]">
+    <titleInfo type="[[sn5:p1:titleType]]" authority="[[sn5:p1:ti:authority]]" authorityURI="[[sn5:p1:ti:authorityURI]]" valueURI="[[sn5:p1:ti:valueURI]]">
        <title>[[sn5:p1:title]]</title>
       <subTitle>[[sn5:p1:subTitle]]</subTitle>
       <partNumber>[[sn5:p1:partNumber]]</partNumber>
@@ -744,11 +744,11 @@
     <[[sn5:p4:type]] authority="[[sn5:p4:authority]]" authorityURI="[[sn5:p4:authorityURI]]" valueURI="[[sn5:p4:valueURI]]">[[sn5:p4:value]]</[[sn5:p4:type]]>
     <[[sn5:p5:type]] authority="[[sn5:p5:authority]]" authorityURI="[[sn5:p5:authorityURI]]" valueURI="[[sn5:p5:valueURI]]">[[sn5:p5:value]]</[[sn5:p5:type]]>
   </subject>
-  <subject authority="[[sn6:authority]]" authorityURI="[[sn6:authorityURI]]">
-    <name type="[[sn6:p1:nameType]]" authority="[[sn6:p1:authority]]" authorityURI="[[sn6:p1:authorityURI]]" valueURI="[[sn6:p1:valueURI]]">
+  <subject authority="[[sn6:authority]]" authorityURI="[[sn6:authorityURI]]" valueURI="[[sn6:valueURI]]">
+    <name type="[[sn6:p1:nameType]]" authority="[[sn6:p1:nm:authority]]" authorityURI="[[sn6:p1:nm:authorityURI]]" valueURI="[[sn6:p1:nm:valueURI]]">
       <namePart>[[sn6:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn6:p1:titleType]]">
+    <titleInfo type="[[sn6:p1:titleType]]" authority="[[sn6:p1:ti:authority]]" authorityURI="[[sn6:p1:ti:authorityURI]]" valueURI="[[sn6:p1:ti:valueURI]]">
       <title>[[sn6:p1:title]]</title>
       <subTitle>[[sn6:p1:subTitle]]</subTitle>
       <partNumber>[[sn6:p1:partNumber]]</partNumber>
@@ -759,11 +759,11 @@
     <[[sn6:p4:type]] authority="[[sn6:p4:authority]]" authorityURI="[[sn6:p4:authorityURI]]" valueURI="[[sn6:p4:valueURI]]">[[sn6:p4:value]]</[[sn6:p4:type]]>
     <[[sn6:p5:type]] authority="[[sn6:p5:authority]]" authorityURI="[[sn6:p5:authorityURI]]" valueURI="[[sn6:p5:valueURI]]">[[sn6:p5:value]]</[[sn6:p5:type]]>
   </subject>
-  <subject authority="[[sn7:authority]]" authorityURI="[[sn7:authorityURI]]">
-    <name type="[[sn7:p1:nameType]]" authority="[[sn7:p1:authority]]" authorityURI="[[sn7:p1:authorityURI]]" valueURI="[[sn7:p1:valueURI]]">
+  <subject authority="[[sn7:authority]]" authorityURI="[[sn7:authorityURI]]" valueURI="[[sn7:valueURI]]">
+    <name type="[[sn7:p1:nameType]]" authority="[[sn7:p1:nm:authority]]" authorityURI="[[sn7:p1:nm:authorityURI]]" valueURI="[[sn7:p1:nm:valueURI]]">
       <namePart>[[sn7:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn7:p1:titleType]]">
+    <titleInfo type="[[sn7:p1:titleType]]" authority="[[sn7:p1:ti:authority]]" authorityURI="[[sn7:p1:ti:authorityURI]]" valueURI="[[sn7:p1:ti:valueURI]]">
       <title>[[sn7:p1:title]]</title>
       <subTitle>[[sn7:p1:subTitle]]</subTitle>
       <partNumber>[[sn7:p1:partNumber]]</partNumber>
@@ -774,11 +774,11 @@
     <[[sn7:p4:type]] authority="[[sn7:p4:authority]]" authorityURI="[[sn7:p4:authorityURI]]" valueURI="[[sn7:p4:valueURI]]">[[sn7:p4:value]]</[[sn7:p4:type]]>
     <[[sn7:p5:type]] authority="[[sn7:p5:authority]]" authorityURI="[[sn7:p5:authorityURI]]" valueURI="[[sn7:p5:valueURI]]">[[sn7:p5:value]]</[[sn7:p5:type]]>
   </subject>
-  <subject authority="[[sn8:authority]]" authorityURI="[[sn8:authorityURI]]">
-    <name type="[[sn8:p1:nameType]]" authority="[[sn8:p1:authority]]" authorityURI="[[sn8:p1:authorityURI]]" valueURI="[[sn8:p1:valueURI]]">
+  <subject authority="[[sn8:authority]]" authorityURI="[[sn8:authorityURI]]" valueURI="[[sn8:valueURI]]">
+    <name type="[[sn8:p1:nameType]]" authority="[[sn8:p1:nm:authority]]" authorityURI="[[sn8:p1:nm:authorityURI]]" valueURI="[[sn8:p1:nm:valueURI]]">
       <namePart>[[sn8:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn8:p1:titleType]]">
+    <titleInfo type="[[sn8:p1:titleType]]" authority="[[sn8:p1:ti:authority]]" authorityURI="[[sn8:p1:ti:authorityURI]]" valueURI="[[sn8:p1:ti:valueURI]]">
       <title>[[sn8:p1:title]]</title>
       <subTitle>[[sn8:p1:subTitle]]</subTitle>
       <partNumber>[[sn8:p1:partNumber]]</partNumber>
@@ -789,11 +789,11 @@
     <[[sn8:p4:type]] authority="[[sn8:p4:authority]]" authorityURI="[[sn8:p4:authorityURI]]" valueURI="[[sn8:p4:valueURI]]">[[sn8:p4:value]]</[[sn8:p4:type]]>
     <[[sn8:p5:type]] authority="[[sn8:p5:authority]]" authorityURI="[[sn8:p5:authorityURI]]" valueURI="[[sn8:p5:valueURI]]">[[sn8:p5:value]]</[[sn8:p5:type]]>
   </subject>
-  <subject authority="[[sn9:authority]]" authorityURI="[[sn9:authorityURI]]">
-    <name type="[[sn9:p1:nameType]]" authority="[[sn9:p1:authority]]" authorityURI="[[sn9:p1:authorityURI]]" valueURI="[[sn9:p1:valueURI]]">
+  <subject authority="[[sn9:authority]]" authorityURI="[[sn9:authorityURI]]" valueURI="[[sn9:valueURI]]">
+    <name type="[[sn9:p1:nameType]]" authority="[[sn9:p1:nm:authority]]" authorityURI="[[sn9:p1:nm:authorityURI]]" valueURI="[[sn9:p1:nm:valueURI]]">
       <namePart>[[sn9:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn9:p1:titleType]]">
+    <titleInfo type="[[sn9:p1:titleType]]" authority="[[sn9:p1:ti:authority]]" authorityURI="[[sn9:p1:ti:authorityURI]]" valueURI="[[sn9:p1:ti:valueURI]]">
       <title>[[sn9:p1:title]]</title>
       <subTitle>[[sn9:p1:subTitle]]</subTitle>
       <partNumber>[[sn9:p1:partNumber]]</partNumber>
@@ -804,11 +804,11 @@
     <[[sn9:p4:type]] authority="[[sn9:p4:authority]]" authorityURI="[[sn9:p4:authorityURI]]" valueURI="[[sn9:p4:valueURI]]">[[sn9:p4:value]]</[[sn9:p4:type]]>
     <[[sn9:p5:type]] authority="[[sn9:p5:authority]]" authorityURI="[[sn9:p5:authorityURI]]" valueURI="[[sn9:p5:valueURI]]">[[sn9:p5:value]]</[[sn9:p5:type]]>
   </subject>
-  <subject authority="[[sn10:authority]]" authorityURI="[[sn10:authorityURI]]">
-    <name type="[[sn10:p1:nameType]]" authority="[[sn10:p1:authority]]" authorityURI="[[sn10:p1:authorityURI]]" valueURI="[[sn10:p1:valueURI]]">
+  <subject authority="[[sn10:authority]]" authorityURI="[[sn10:authorityURI]]" valueURI="[[sn10:valueURI]]">
+    <name type="[[sn10:p1:nameType]]" authority="[[sn10:p1:nm:authority]]" authorityURI="[[sn10:p1:nm:authorityURI]]" valueURI="[[sn10:p1:nm:valueURI]]">
       <namePart>[[sn10:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn10:p1:titleType]]">
+    <titleInfo type="[[sn10:p1:titleType]]" authority="[[sn10:p1:ti:authority]]" authorityURI="[[sn10:p1:ti:authorityURI]]" valueURI="[[sn10:p1:ti:valueURI]]">
       <title>[[sn10:p1:title]]</title>
       <subTitle>[[sn10:p1:subTitle]]</subTitle>
       <partNumber>[[sn10:p1:partNumber]]</partNumber>
@@ -819,11 +819,11 @@
     <[[sn10:p4:type]] authority="[[sn10:p4:authority]]" authorityURI="[[sn10:p4:authorityURI]]" valueURI="[[sn10:p4:valueURI]]">[[sn10:p4:value]]</[[sn10:p4:type]]>
     <[[sn10:p5:type]] authority="[[sn10:p5:authority]]" authorityURI="[[sn10:p5:authorityURI]]" valueURI="[[sn10:p5:valueURI]]">[[sn10:p5:value]]</[[sn10:p5:type]]>
   </subject>
-  <subject authority="[[sn11:authority]]" authorityURI="[[sn11:authorityURI]]">
-    <name type="[[sn11:p1:nameType]]" authority="[[sn11:p1:authority]]" authorityURI="[[sn11:p1:authorityURI]]" valueURI="[[sn11:p1:valueURI]]">
+  <subject authority="[[sn11:authority]]" authorityURI="[[sn11:authorityURI]]" valueURI="[[sn11:valueURI]]">
+    <name type="[[sn11:p1:nameType]]" authority="[[sn11:p1:nm:authority]]" authorityURI="[[sn11:p1:nm:authorityURI]]" valueURI="[[sn11:p1:nm:valueURI]]">
       <namePart>[[sn11:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn11:p1:titleType]]">
+    <titleInfo type="[[sn11:p1:titleType]]" authority="[[sn11:p1:ti:authority]]" authorityURI="[[sn11:p1:ti:authorityURI]]" valueURI="[[sn11:p1:ti:valueURI]]">
       <title>[[sn11:p1:title]]</title>
       <subTitle>[[sn11:p1:subTitle]]</subTitle>
       <partNumber>[[sn11:p1:partNumber]]</partNumber>
@@ -834,11 +834,11 @@
     <[[sn11:p4:type]] authority="[[sn11:p4:authority]]" authorityURI="[[sn11:p4:authorityURI]]" valueURI="[[sn11:p4:valueURI]]">[[sn11:p4:value]]</[[sn11:p4:type]]>
     <[[sn11:p5:type]] authority="[[sn11:p5:authority]]" authorityURI="[[sn11:p5:authorityURI]]" valueURI="[[sn11:p5:valueURI]]">[[sn11:p5:value]]</[[sn11:p5:type]]>
   </subject>
-  <subject authority="[[sn12:authority]]" authorityURI="[[sn12:authorityURI]]">
-    <name type="[[sn12:p1:nameType]]" authority="[[sn12:p1:authority]]" authorityURI="[[sn12:p1:authorityURI]]" valueURI="[[sn12:p1:valueURI]]">
+  <subject authority="[[sn12:authority]]" authorityURI="[[sn12:authorityURI]]" valueURI="[[sn12:valueURI]]">
+    <name type="[[sn12:p1:nameType]]" authority="[[sn12:p1:nm:authority]]" authorityURI="[[sn12:p1:nm:authorityURI]]" valueURI="[[sn12:p1:nm:valueURI]]">
       <namePart>[[sn12:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn12:p1:titleType]]">
+    <titleInfo type="[[sn12:p1:titleType]]" authority="[[sn12:p1:ti:authority]]" authorityURI="[[sn12:p1:ti:authorityURI]]" valueURI="[[sn12:p1:ti:valueURI]]">
       <title>[[sn12:p1:title]]</title>
       <subTitle>[[sn12:p1:subTitle]]</subTitle>
       <partNumber>[[sn12:p1:partNumber]]</partNumber>
@@ -849,11 +849,11 @@
     <[[sn12:p4:type]] authority="[[sn12:p4:authority]]" authorityURI="[[sn12:p4:authorityURI]]" valueURI="[[sn12:p4:valueURI]]">[[sn12:p4:value]]</[[sn12:p4:type]]>
     <[[sn12:p5:type]] authority="[[sn12:p5:authority]]" authorityURI="[[sn12:p5:authorityURI]]" valueURI="[[sn12:p5:valueURI]]">[[sn12:p5:value]]</[[sn12:p5:type]]>
   </subject>
-  <subject authority="[[sn13:authority]]" authorityURI="[[sn13:authorityURI]]">
-    <name type="[[sn13:p1:nameType]]" authority="[[sn13:p1:authority]]" authorityURI="[[sn13:p1:authorityURI]]" valueURI="[[sn13:p1:valueURI]]">
+  <subject authority="[[sn13:authority]]" authorityURI="[[sn13:authorityURI]]" valueURI="[[sn13:valueURI]]">
+    <name type="[[sn13:p1:nameType]]" authority="[[sn13:p1:nm:authority]]" authorityURI="[[sn13:p1:nm:authorityURI]]" valueURI="[[sn13:p1:nm:valueURI]]">
       <namePart>[[sn13:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn13:p1:titleType]]">
+    <titleInfo type="[[sn13:p1:titleType]]" authority="[[sn13:p1:ti:authority]]" authorityURI="[[sn13:p1:ti:authorityURI]]" valueURI="[[sn13:p1:ti:valueURI]]">
       <title>[[sn13:p1:title]]</title>
       <subTitle>[[sn13:p1:subTitle]]</subTitle>
       <partNumber>[[sn13:p1:partNumber]]</partNumber>
@@ -864,11 +864,11 @@
     <[[sn13:p4:type]] authority="[[sn13:p4:authority]]" authorityURI="[[sn13:p4:authorityURI]]" valueURI="[[sn13:p4:valueURI]]">[[sn13:p4:value]]</[[sn13:p4:type]]>
     <[[sn13:p5:type]] authority="[[sn13:p5:authority]]" authorityURI="[[sn13:p5:authorityURI]]" valueURI="[[sn13:p5:valueURI]]">[[sn13:p5:value]]</[[sn13:p5:type]]>
   </subject>
-  <subject authority="[[sn14:authority]]" authorityURI="[[sn14:authorityURI]]">
-    <name type="[[sn14:p1:nameType]]" authority="[[sn14:p1:authority]]" authorityURI="[[sn14:p1:authorityURI]]" valueURI="[[sn14:p1:valueURI]]">
+  <subject authority="[[sn14:authority]]" authorityURI="[[sn14:authorityURI]]" valueURI="[[sn14:valueURI]]">
+    <name type="[[sn14:p1:nameType]]" authority="[[sn14:p1:nm:authority]]" authorityURI="[[sn14:p1:nm:authorityURI]]" valueURI="[[sn14:p1:nm:valueURI]]">
       <namePart>[[sn14:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn14:p1:titleType]]">
+    <titleInfo type="[[sn14:p1:titleType]]" authority="[[sn14:p1:ti:authority]]" authorityURI="[[sn14:p1:ti:authorityURI]]" valueURI="[[sn14:p1:ti:valueURI]]">
       <title>[[sn14:p1:title]]</title>
       <subTitle>[[sn14:p1:subTitle]]</subTitle>
       <partNumber>[[sn14:p1:partNumber]]</partNumber>
@@ -879,11 +879,11 @@
     <[[sn14:p4:type]] authority="[[sn14:p4:authority]]" authorityURI="[[sn14:p4:authorityURI]]" valueURI="[[sn14:p4:valueURI]]">[[sn14:p4:value]]</[[sn14:p4:type]]>
     <[[sn14:p5:type]] authority="[[sn14:p5:authority]]" authorityURI="[[sn14:p5:authorityURI]]" valueURI="[[sn14:p5:valueURI]]">[[sn14:p5:value]]</[[sn14:p5:type]]>
   </subject>
-  <subject authority="[[sn15:authority]]" authorityURI="[[sn15:authorityURI]]">
-    <name type="[[sn15:p1:nameType]]" authority="[[sn15:p1:authority]]" authorityURI="[[sn15:p1:authorityURI]]" valueURI="[[sn15:p1:valueURI]]">
+  <subject authority="[[sn15:authority]]" authorityURI="[[sn15:authorityURI]]" valueURI="[[sn15:valueURI]]">
+    <name type="[[sn15:p1:nameType]]" authority="[[sn15:p1:nm:authority]]" authorityURI="[[sn15:p1:nm:authorityURI]]" valueURI="[[sn15:p1:nm:valueURI]]">
       <namePart>[[sn15:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn15:p1:titleType]]">
+    <titleInfo type="[[sn15:p1:titleType]]" authority="[[sn15:p1:ti:authority]]" authorityURI="[[sn15:p1:ti:authorityURI]]" valueURI="[[sn15:p1:ti:valueURI]]">
       <title>[[sn15:p1:title]]</title>
       <subTitle>[[sn15:p1:subTitle]]</subTitle>
       <partNumber>[[sn15:p1:partNumber]]</partNumber>
@@ -894,11 +894,11 @@
     <[[sn15:p4:type]] authority="[[sn15:p4:authority]]" authorityURI="[[sn15:p4:authorityURI]]" valueURI="[[sn15:p4:valueURI]]">[[sn15:p4:value]]</[[sn15:p4:type]]>
     <[[sn15:p5:type]] authority="[[sn15:p5:authority]]" authorityURI="[[sn15:p5:authorityURI]]" valueURI="[[sn15:p5:valueURI]]">[[sn15:p5:value]]</[[sn15:p5:type]]>
   </subject>
-  <subject authority="[[sn16:authority]]" authorityURI="[[sn16:authorityURI]]">
-    <name type="[[sn16:p1:nameType]]" authority="[[sn16:p1:authority]]" authorityURI="[[sn16:p1:authorityURI]]" valueURI="[[sn16:p1:valueURI]]">
+  <subject authority="[[sn16:authority]]" authorityURI="[[sn16:authorityURI]]" valueURI="[[sn16:valueURI]]">
+    <name type="[[sn16:p1:nameType]]" authority="[[sn16:p1:nm:authority]]" authorityURI="[[sn16:p1:nm:authorityURI]]" valueURI="[[sn16:p1:nm:valueURI]]">
       <namePart>[[sn16:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn16:p1:titleType]]">
+    <titleInfo type="[[sn16:p1:titleType]]" authority="[[sn16:p1:ti:authority]]" authorityURI="[[sn16:p1:ti:authorityURI]]" valueURI="[[sn16:p1:ti:valueURI]]">
       <title>[[sn16:p1:title]]</title>
       <subTitle>[[sn16:p1:subTitle]]</subTitle>
       <partNumber>[[sn16:p1:partNumber]]</partNumber>
@@ -909,11 +909,11 @@
     <[[sn16:p4:type]] authority="[[sn16:p4:authority]]" authorityURI="[[sn16:p4:authorityURI]]" valueURI="[[sn16:p4:valueURI]]">[[sn16:p4:value]]</[[sn16:p4:type]]>
     <[[sn16:p5:type]] authority="[[sn16:p5:authority]]" authorityURI="[[sn16:p5:authorityURI]]" valueURI="[[sn16:p5:valueURI]]">[[sn16:p5:value]]</[[sn16:p5:type]]>
   </subject>
-  <subject authority="[[sn17:authority]]" authorityURI="[[sn17:authorityURI]]">
-    <name type="[[sn17:p1:nameType]]" authority="[[sn17:p1:authority]]" authorityURI="[[sn17:p1:authorityURI]]" valueURI="[[sn17:p1:valueURI]]">
+  <subject authority="[[sn17:authority]]" authorityURI="[[sn17:authorityURI]]" valueURI="[[sn17:valueURI]]">
+    <name type="[[sn17:p1:nameType]]" authority="[[sn17:p1:nm:authority]]" authorityURI="[[sn17:p1:nm:authorityURI]]" valueURI="[[sn17:p1:nm:valueURI]]">
       <namePart>[[sn17:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn17:p1:titleType]]">
+    <titleInfo type="[[sn17:p1:titleType]]" authority="[[sn17:p1:ti:authority]]" authorityURI="[[sn17:p1:ti:authorityURI]]" valueURI="[[sn17:p1:ti:valueURI]]">
       <title>[[sn17:p1:title]]</title>
       <subTitle>[[sn17:p1:subTitle]]</subTitle>
       <partNumber>[[sn17:p1:partNumber]]</partNumber>
@@ -924,11 +924,11 @@
     <[[sn17:p4:type]] authority="[[sn17:p4:authority]]" authorityURI="[[sn17:p4:authorityURI]]" valueURI="[[sn17:p4:valueURI]]">[[sn17:p4:value]]</[[sn17:p4:type]]>
     <[[sn17:p5:type]] authority="[[sn17:p5:authority]]" authorityURI="[[sn17:p5:authorityURI]]" valueURI="[[sn17:p5:valueURI]]">[[sn17:p5:value]]</[[sn17:p5:type]]>
   </subject>
-  <subject authority="[[sn18:authority]]" authorityURI="[[sn18:authorityURI]]">
-    <name type="[[sn18:p1:nameType]]" authority="[[sn18:p1:authority]]" authorityURI="[[sn18:p1:authorityURI]]" valueURI="[[sn18:p1:valueURI]]">
+  <subject authority="[[sn18:authority]]" authorityURI="[[sn18:authorityURI]]" valueURI="[[sn18:valueURI]]">
+    <name type="[[sn18:p1:nameType]]" authority="[[sn18:p1:nm:authority]]" authorityURI="[[sn18:p1:nm:authorityURI]]" valueURI="[[sn18:p1:nm:valueURI]]">
       <namePart>[[sn18:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn18:p1:titleType]]">
+    <titleInfo type="[[sn18:p1:titleType]]" authority="[[sn18:p1:ti:authority]]" authorityURI="[[sn18:p1:ti:authorityURI]]" valueURI="[[sn18:p1:ti:valueURI]]">
       <title>[[sn18:p1:title]]</title>
       <subTitle>[[sn18:p1:subTitle]]</subTitle>
       <partNumber>[[sn18:p1:partNumber]]</partNumber>
@@ -939,11 +939,11 @@
     <[[sn18:p4:type]] authority="[[sn18:p4:authority]]" authorityURI="[[sn18:p4:authorityURI]]" valueURI="[[sn18:p4:valueURI]]">[[sn18:p4:value]]</[[sn18:p4:type]]>
     <[[sn18:p5:type]] authority="[[sn18:p5:authority]]" authorityURI="[[sn18:p5:authorityURI]]" valueURI="[[sn18:p5:valueURI]]">[[sn18:p5:value]]</[[sn18:p5:type]]>
   </subject>
-  <subject authority="[[sn19:authority]]" authorityURI="[[sn19:authorityURI]]">
-    <name type="[[sn19:p1:nameType]]" authority="[[sn19:p1:authority]]" authorityURI="[[sn19:p1:authorityURI]]" valueURI="[[sn19:p1:valueURI]]">
+  <subject authority="[[sn19:authority]]" authorityURI="[[sn19:authorityURI]]" valueURI="[[sn19:valueURI]]">
+    <name type="[[sn19:p1:nameType]]" authority="[[sn19:p1:nm:authority]]" authorityURI="[[sn19:p1:nm:authorityURI]]" valueURI="[[sn19:p1:nm:valueURI]]">
       <namePart>[[sn19:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn19:p1:titleType]]">
+    <titleInfo type="[[sn19:p1:titleType]]" authority="[[sn19:p1:ti:authority]]" authorityURI="[[sn19:p1:ti:authorityURI]]" valueURI="[[sn19:p1:ti:valueURI]]">
       <title>[[sn19:p1:title]]</title>
       <subTitle>[[sn19:p1:subTitle]]</subTitle>
       <partNumber>[[sn19:p1:partNumber]]</partNumber>
@@ -954,11 +954,11 @@
     <[[sn19:p4:type]] authority="[[sn19:p4:authority]]" authorityURI="[[sn19:p4:authorityURI]]" valueURI="[[sn19:p4:valueURI]]">[[sn19:p4:value]]</[[sn19:p4:type]]>
     <[[sn19:p5:type]] authority="[[sn19:p5:authority]]" authorityURI="[[sn19:p5:authorityURI]]" valueURI="[[sn19:p5:valueURI]]">[[sn19:p5:value]]</[[sn19:p5:type]]>
   </subject>
-  <subject authority="[[sn20:authority]]" authorityURI="[[sn20:authorityURI]]">
-    <name type="[[sn20:p1:nameType]]" authority="[[sn20:p1:authority]]" authorityURI="[[sn20:p1:authorityURI]]" valueURI="[[sn20:p1:valueURI]]">
+  <subject authority="[[sn20:authority]]" authorityURI="[[sn20:authorityURI]]" valueURI="[[sn20:valueURI]]">
+    <name type="[[sn20:p1:nameType]]" authority="[[sn20:p1:nm:authority]]" authorityURI="[[sn20:p1:nm:authorityURI]]" valueURI="[[sn20:p1:nm:valueURI]]">
       <namePart>[[sn20:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn20:p1:titleType]]">
+    <titleInfo type="[[sn20:p1:titleType]]" authority="[[sn20:p1:ti:authority]]" authorityURI="[[sn20:p1:ti:authorityURI]]" valueURI="[[sn20:p1:ti:valueURI]]">
       <title>[[sn20:p1:title]]</title>
       <subTitle>[[sn20:p1:subTitle]]</subTitle>
       <partNumber>[[sn20:p1:partNumber]]</partNumber>
@@ -969,11 +969,11 @@
     <[[sn20:p4:type]] authority="[[sn20:p4:authority]]" authorityURI="[[sn20:p4:authorityURI]]" valueURI="[[sn20:p4:valueURI]]">[[sn20:p4:value]]</[[sn20:p4:type]]>
     <[[sn20:p5:type]] authority="[[sn20:p5:authority]]" authorityURI="[[sn20:p5:authorityURI]]" valueURI="[[sn20:p5:valueURI]]">[[sn20:p5:value]]</[[sn20:p5:type]]>
   </subject>
-  <subject authority="[[sn21:authority]]" authorityURI="[[sn21:authorityURI]]">
-    <name type="[[sn21:p1:nameType]]" authority="[[sn21:p1:authority]]" authorityURI="[[sn21:p1:authorityURI]]" valueURI="[[sn21:p1:valueURI]]">
+  <subject authority="[[sn21:authority]]" authorityURI="[[sn21:authorityURI]]" valueURI="[[sn21:valueURI]]">
+    <name type="[[sn21:p1:nameType]]" authority="[[sn21:p1:nm:authority]]" authorityURI="[[sn21:p1:nm:authorityURI]]" valueURI="[[sn21:p1:nm:valueURI]]">
       <namePart>[[sn21:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn21:p1:titleType]]">
+    <titleInfo type="[[sn21:p1:titleType]]" authority="[[sn21:p1:ti:authority]]" authorityURI="[[sn21:p1:ti:authorityURI]]" valueURI="[[sn21:p1:ti:valueURI]]">
       <title>[[sn21:p1:title]]</title>
       <subTitle>[[sn21:p1:subTitle]]</subTitle>
       <partNumber>[[sn21:p1:partNumber]]</partNumber>
@@ -984,11 +984,11 @@
     <[[sn21:p4:type]] authority="[[sn21:p4:authority]]" authorityURI="[[sn21:p4:authorityURI]]" valueURI="[[sn21:p4:valueURI]]">[[sn21:p4:value]]</[[sn21:p4:type]]>
     <[[sn21:p5:type]] authority="[[sn21:p5:authority]]" authorityURI="[[sn21:p5:authorityURI]]" valueURI="[[sn21:p5:valueURI]]">[[sn21:p5:value]]</[[sn21:p5:type]]>
   </subject>
-  <subject authority="[[sn22:authority]]" authorityURI="[[sn22:authorityURI]]">
-    <name type="[[sn22:p1:nameType]]" authority="[[sn22:p1:authority]]" authorityURI="[[sn22:p1:authorityURI]]" valueURI="[[sn22:p1:valueURI]]">
+  <subject authority="[[sn22:authority]]" authorityURI="[[sn22:authorityURI]]" valueURI="[[sn22:valueURI]]">
+    <name type="[[sn22:p1:nameType]]" authority="[[sn22:p1:nm:authority]]" authorityURI="[[sn22:p1:nm:authorityURI]]" valueURI="[[sn22:p1:nm:valueURI]]">
       <namePart>[[sn22:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn22:p1:titleType]]">
+    <titleInfo type="[[sn22:p1:titleType]]" authority="[[sn22:p1:ti:authority]]" authorityURI="[[sn22:p1:ti:authorityURI]]" valueURI="[[sn22:p1:ti:valueURI]]">
       <title>[[sn22:p1:title]]</title>
       <subTitle>[[sn22:p1:subTitle]]</subTitle>
       <partNumber>[[sn22:p1:partNumber]]</partNumber>
@@ -999,11 +999,11 @@
     <[[sn22:p4:type]] authority="[[sn22:p4:authority]]" authorityURI="[[sn22:p4:authorityURI]]" valueURI="[[sn22:p4:valueURI]]">[[sn22:p4:value]]</[[sn22:p4:type]]>
     <[[sn22:p5:type]] authority="[[sn22:p5:authority]]" authorityURI="[[sn22:p5:authorityURI]]" valueURI="[[sn22:p5:valueURI]]">[[sn22:p5:value]]</[[sn22:p5:type]]>
   </subject>
-  <subject authority="[[sn23:authority]]" authorityURI="[[sn23:authorityURI]]">
-    <name type="[[sn23:p1:nameType]]" authority="[[sn23:p1:authority]]" authorityURI="[[sn23:p1:authorityURI]]" valueURI="[[sn23:p1:valueURI]]">
+  <subject authority="[[sn23:authority]]" authorityURI="[[sn23:authorityURI]]" valueURI="[[sn23:valueURI]]">
+    <name type="[[sn23:p1:nameType]]" authority="[[sn23:p1:nm:authority]]" authorityURI="[[sn23:p1:nm:authorityURI]]" valueURI="[[sn23:p1:nm:valueURI]]">
       <namePart>[[sn23:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn23:p1:titleType]]">
+    <titleInfo type="[[sn23:p1:titleType]]" authority="[[sn23:p1:ti:authority]]" authorityURI="[[sn23:p1:ti:authorityURI]]" valueURI="[[sn23:p1:ti:valueURI]]">
       <title>[[sn23:p1:title]]</title>
       <subTitle>[[sn23:p1:subTitle]]</subTitle>
       <partNumber>[[sn23:p1:partNumber]]</partNumber>
@@ -1014,11 +1014,11 @@
     <[[sn23:p4:type]] authority="[[sn23:p4:authority]]" authorityURI="[[sn23:p4:authorityURI]]" valueURI="[[sn23:p4:valueURI]]">[[sn23:p4:value]]</[[sn23:p4:type]]>
     <[[sn23:p5:type]] authority="[[sn23:p5:authority]]" authorityURI="[[sn23:p5:authorityURI]]" valueURI="[[sn23:p5:valueURI]]">[[sn23:p5:value]]</[[sn23:p5:type]]>
   </subject>
-  <subject authority="[[sn24:authority]]" authorityURI="[[sn24:authorityURI]]">
-    <name type="[[sn24:p1:nameType]]" authority="[[sn24:p1:authority]]" authorityURI="[[sn24:p1:authorityURI]]" valueURI="[[sn24:p1:valueURI]]">
+  <subject authority="[[sn24:authority]]" authorityURI="[[sn24:authorityURI]]" valueURI="[[sn24:valueURI]]">
+    <name type="[[sn24:p1:nameType]]" authority="[[sn24:p1:nm:authority]]" authorityURI="[[sn24:p1:nm:authorityURI]]" valueURI="[[sn24:p1:nm:valueURI]]">
       <namePart>[[sn24:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn24:p1:titleType]]">
+    <titleInfo type="[[sn24:p1:titleType]]" authority="[[sn24:p1:ti:authority]]" authorityURI="[[sn24:p1:ti:authorityURI]]" valueURI="[[sn24:p1:ti:valueURI]]">
       <title>[[sn24:p1:title]]</title>
       <subTitle>[[sn24:p1:subTitle]]</subTitle>
       <partNumber>[[sn24:p1:partNumber]]</partNumber>
@@ -1029,11 +1029,11 @@
     <[[sn24:p4:type]] authority="[[sn24:p4:authority]]" authorityURI="[[sn24:p4:authorityURI]]" valueURI="[[sn24:p4:valueURI]]">[[sn24:p4:value]]</[[sn24:p4:type]]>
     <[[sn24:p5:type]] authority="[[sn24:p5:authority]]" authorityURI="[[sn24:p5:authorityURI]]" valueURI="[[sn24:p5:valueURI]]">[[sn24:p5:value]]</[[sn24:p5:type]]>
   </subject>
-  <subject authority="[[sn25:authority]]" authorityURI="[[sn25:authorityURI]]">
-    <name type="[[sn25:p1:nameType]]" authority="[[sn25:p1:authority]]" authorityURI="[[sn25:p1:authorityURI]]" valueURI="[[sn25:p1:valueURI]]">
+  <subject authority="[[sn25:authority]]" authorityURI="[[sn25:authorityURI]]" valueURI="[[sn25:valueURI]]">
+    <name type="[[sn25:p1:nameType]]" authority="[[sn25:p1:nm:authority]]" authorityURI="[[sn25:p1:nm:authorityURI]]" valueURI="[[sn25:p1:nm:valueURI]]">
       <namePart>[[sn25:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn25:p1:titleType]]">
+    <titleInfo type="[[sn25:p1:titleType]]" authority="[[sn25:p1:ti:authority]]" authorityURI="[[sn25:p1:ti:authorityURI]]" valueURI="[[sn25:p1:ti:valueURI]]">
       <title>[[sn25:p1:title]]</title>
       <subTitle>[[sn25:p1:subTitle]]</subTitle>
       <partNumber>[[sn25:p1:partNumber]]</partNumber>
@@ -1044,11 +1044,11 @@
     <[[sn25:p4:type]] authority="[[sn25:p4:authority]]" authorityURI="[[sn25:p4:authorityURI]]" valueURI="[[sn25:p4:valueURI]]">[[sn25:p4:value]]</[[sn25:p4:type]]>
     <[[sn25:p5:type]] authority="[[sn25:p5:authority]]" authorityURI="[[sn25:p5:authorityURI]]" valueURI="[[sn25:p5:valueURI]]">[[sn25:p5:value]]</[[sn25:p5:type]]>
   </subject>
-  <subject authority="[[sn26:authority]]" authorityURI="[[sn26:authorityURI]]">
-    <name type="[[sn26:p1:nameType]]" authority="[[sn26:p1:authority]]" authorityURI="[[sn26:p1:authorityURI]]" valueURI="[[sn26:p1:valueURI]]">
+  <subject authority="[[sn26:authority]]" authorityURI="[[sn26:authorityURI]]" valueURI="[[sn26:valueURI]]">
+    <name type="[[sn26:p1:nameType]]" authority="[[sn26:p1:nm:authority]]" authorityURI="[[sn26:p1:nm:authorityURI]]" valueURI="[[sn26:p1:nm:valueURI]]">
       <namePart>[[sn26:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn26:p1:titleType]]">
+    <titleInfo type="[[sn26:p1:titleType]]" authority="[[sn26:p1:ti:authority]]" authorityURI="[[sn26:p1:ti:authorityURI]]" valueURI="[[sn26:p1:ti:valueURI]]">
       <title>[[sn26:p1:title]]</title>
       <subTitle>[[sn26:p1:subTitle]]</subTitle>
       <partNumber>[[sn26:p1:partNumber]]</partNumber>
@@ -1059,11 +1059,11 @@
     <[[sn26:p4:type]] authority="[[sn26:p4:authority]]" authorityURI="[[sn26:p4:authorityURI]]" valueURI="[[sn26:p4:valueURI]]">[[sn26:p4:value]]</[[sn26:p4:type]]>
     <[[sn26:p5:type]] authority="[[sn26:p5:authority]]" authorityURI="[[sn26:p5:authorityURI]]" valueURI="[[sn26:p5:valueURI]]">[[sn26:p5:value]]</[[sn26:p5:type]]>
   </subject>
-  <subject authority="[[sn27:authority]]" authorityURI="[[sn27:authorityURI]]">
-    <name type="[[sn27:p1:nameType]]" authority="[[sn27:p1:authority]]" authorityURI="[[sn27:p1:authorityURI]]" valueURI="[[sn27:p1:valueURI]]">
+  <subject authority="[[sn27:authority]]" authorityURI="[[sn27:authorityURI]]" valueURI="[[sn27:valueURI]]">
+    <name type="[[sn27:p1:nameType]]" authority="[[sn27:p1:nm:authority]]" authorityURI="[[sn27:p1:nm:authorityURI]]" valueURI="[[sn27:p1:nm:valueURI]]">
       <namePart>[[sn27:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn27:p1:titleType]]">
+    <titleInfo type="[[sn27:p1:titleType]]" authority="[[sn27:p1:ti:authority]]" authorityURI="[[sn27:p1:ti:authorityURI]]" valueURI="[[sn27:p1:ti:valueURI]]">
       <title>[[sn27:p1:title]]</title>
       <subTitle>[[sn27:p1:subTitle]]</subTitle>
       <partNumber>[[sn27:p1:partNumber]]</partNumber>
@@ -1074,11 +1074,11 @@
     <[[sn27:p4:type]] authority="[[sn27:p4:authority]]" authorityURI="[[sn27:p4:authorityURI]]" valueURI="[[sn27:p4:valueURI]]">[[sn27:p4:value]]</[[sn27:p4:type]]>
     <[[sn27:p5:type]] authority="[[sn27:p5:authority]]" authorityURI="[[sn27:p5:authorityURI]]" valueURI="[[sn27:p5:valueURI]]">[[sn27:p5:value]]</[[sn27:p5:type]]>
   </subject>
-  <subject authority="[[sn28:authority]]" authorityURI="[[sn28:authorityURI]]">
-    <name type="[[sn28:p1:nameType]]" authority="[[sn28:p1:authority]]" authorityURI="[[sn28:p1:authorityURI]]" valueURI="[[sn28:p1:valueURI]]">
+  <subject authority="[[sn28:authority]]" authorityURI="[[sn28:authorityURI]]" valueURI="[[sn28:valueURI]]">
+    <name type="[[sn28:p1:nameType]]" authority="[[sn28:p1:nm:authority]]" authorityURI="[[sn28:p1:nm:authorityURI]]" valueURI="[[sn28:p1:nm:valueURI]]">
       <namePart>[[sn28:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn28:p1:titleType]]">
+    <titleInfo type="[[sn28:p1:titleType]]" authority="[[sn28:p1:ti:authority]]" authorityURI="[[sn28:p1:ti:authorityURI]]" valueURI="[[sn28:p1:ti:valueURI]]">
       <title>[[sn28:p1:title]]</title>
       <subTitle>[[sn28:p1:subTitle]]</subTitle>
       <partNumber>[[sn28:p1:partNumber]]</partNumber>
@@ -1089,11 +1089,11 @@
     <[[sn28:p4:type]] authority="[[sn28:p4:authority]]" authorityURI="[[sn28:p4:authorityURI]]" valueURI="[[sn28:p4:valueURI]]">[[sn28:p4:value]]</[[sn28:p4:type]]>
     <[[sn28:p5:type]] authority="[[sn28:p5:authority]]" authorityURI="[[sn28:p5:authorityURI]]" valueURI="[[sn28:p5:valueURI]]">[[sn28:p5:value]]</[[sn28:p5:type]]>
   </subject>
-  <subject authority="[[sn29:authority]]" authorityURI="[[sn29:authorityURI]]">
-    <name type="[[sn29:p1:nameType]]" authority="[[sn29:p1:authority]]" authorityURI="[[sn29:p1:authorityURI]]" valueURI="[[sn29:p1:valueURI]]">
+  <subject authority="[[sn29:authority]]" authorityURI="[[sn29:authorityURI]]" valueURI="[[sn29:valueURI]]">
+    <name type="[[sn29:p1:nameType]]" authority="[[sn29:p1:nm:authority]]" authorityURI="[[sn29:p1:nm:authorityURI]]" valueURI="[[sn29:p1:nm:valueURI]]">
       <namePart>[[sn29:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn29:p1:titleType]]">
+    <titleInfo type="[[sn29:p1:titleType]]" authority="[[sn29:p1:ti:authority]]" authorityURI="[[sn29:p1:ti:authorityURI]]" valueURI="[[sn29:p1:ti:valueURI]]">
       <title>[[sn29:p1:title]]</title>
       <subTitle>[[sn29:p1:subTitle]]</subTitle>
       <partNumber>[[sn29:p1:partNumber]]</partNumber>
@@ -1104,11 +1104,11 @@
     <[[sn29:p4:type]] authority="[[sn29:p4:authority]]" authorityURI="[[sn29:p4:authorityURI]]" valueURI="[[sn29:p4:valueURI]]">[[sn29:p4:value]]</[[sn29:p4:type]]>
     <[[sn29:p5:type]] authority="[[sn29:p5:authority]]" authorityURI="[[sn29:p5:authorityURI]]" valueURI="[[sn29:p5:valueURI]]">[[sn29:p5:value]]</[[sn29:p5:type]]>
   </subject>
-  <subject authority="[[sn30:authority]]" authorityURI="[[sn30:authorityURI]]">
-    <name type="[[sn30:p1:nameType]]" authority="[[sn30:p1:authority]]" authorityURI="[[sn30:p1:authorityURI]]" valueURI="[[sn30:p1:valueURI]]">
+  <subject authority="[[sn30:authority]]" authorityURI="[[sn30:authorityURI]]" valueURI="[[sn30:valueURI]]">
+    <name type="[[sn30:p1:nameType]]" authority="[[sn30:p1:nm:authority]]" authorityURI="[[sn30:p1:nm:authorityURI]]" valueURI="[[sn30:p1:nm:valueURI]]">
       <namePart>[[sn30:p1:name]]</namePart>
     </name>
-    <titleInfo type="[[sn30:p1:titleType]]">
+    <titleInfo type="[[sn30:p1:titleType]]" authority="[[sn30:p1:ti:authority]]" authorityURI="[[sn30:p1:ti:authorityURI]]" valueURI="[[sn30:p1:ti:valueURI]]">
       <title>[[sn30:p1:title]]</title>
       <subTitle>[[sn30:p1:subTitle]]</subTitle>
       <partNumber>[[sn30:p1:partNumber]]</partNumber>
