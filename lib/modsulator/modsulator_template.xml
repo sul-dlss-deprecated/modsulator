@@ -1314,7 +1314,7 @@
   </relatedItem>
   <extension displayLabel="geo">
     <rdf:RDF xmlns:gml="http://www.opengis.net/gml/3.2/" xmlns:dc="http://purl.org/dc/elements/1.1/">
-      <rdf:Description rdf:about="[[purl]]">
+      <rdf:Description rdf:about="[[ext:purl]]">
         <dc:format>[[ext:dc:format]]</dc:format>
         <dc:type>[[ext:dc:type]]</dc:type>
         <gml:boundedBy>
