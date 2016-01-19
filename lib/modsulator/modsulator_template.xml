@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-  <titleInfo authority="[[ti1:authority]]" authorityURI="[[ti1:authorityURI]]" valueURI="[[ti1:valueURI]]">
+  <titleInfo authority="[[ti1:authority]]" authorityURI="[[ti1:authorityURI]]" valueURI="[[ti1:valueURI]]" nameTitleGroup="[[ti1:nameTitleGroup]]">
     <nonSort>[[ti1:nonSort]]</nonSort>
     <title>[[ti1:title]]</title>
     <subTitle>[[ti1:subTitle]]</subTitle> 
     <partNumber>[[ti1:partNumber]]</partNumber> 
     <partName>[[ti1:partName]]</partName>
   </titleInfo>
-  <titleInfo type="[[ti2:type]]" displayLabel="[[ti2:displayLabel]]" authority="[[ti2:authority]]" authorityURI="[[ti2:authorityURI]]" valueURI="[[ti2:valueURI]]">
+  <titleInfo type="[[ti2:type]]" displayLabel="[[ti2:displayLabel]]" authority="[[ti2:authority]]" authorityURI="[[ti2:authorityURI]]" valueURI="[[ti2:valueURI]]" nameTitleGroup="[[ti2:nameTitleGroup]]">
     <nonSort>[[ti2:nonSort]]</nonSort>
     <title>[[ti2:title]]</title>
     <subTitle>[[ti2:subTitle]]</subTitle> 
     <partNumber>[[ti2:partNumber]]</partNumber> 
     <partName>[[ti2:partName]]</partName>
   </titleInfo>
-  <titleInfo type="[[ti3:type]]" displayLabel="[[ti3:displayLabel]]" authority="[[ti3:authority]]" authorityURI="[[ti3:authorityURI]]" valueURI="[[ti3:valueURI]]">
+  <titleInfo type="[[ti3:type]]" displayLabel="[[ti3:displayLabel]]" authority="[[ti3:authority]]" authorityURI="[[ti3:authorityURI]]" valueURI="[[ti3:valueURI]]" nameTitleGroup="[[ti3:nameTitleGroup]]">
     <nonSort>[[ti3:nonSort]]</nonSort>
     <title>[[ti3:title]]</title>
     <subTitle>[[ti3:subTitle]]</subTitle> 
     <partNumber>[[ti3:partNumber]]</partNumber> 
     <partName>[[ti3:partName]]</partName>
   </titleInfo>
-  <titleInfo type="[[ti4:type]]" displayLabel="[[ti4:displayLabel]]" authority="[[ti4:authority]]" authorityURI="[[ti4:authorityURI]]" valueURI="[[ti4:valueURI]]">
+  <titleInfo type="[[ti4:type]]" displayLabel="[[ti4:displayLabel]]" authority="[[ti4:authority]]" authorityURI="[[ti4:authorityURI]]" valueURI="[[ti4:valueURI]]" nameTitleGroup="[[ti4:nameTitleGroup]]">
     <nonSort>[[ti4:nonSort]]</nonSort>
     <title>[[ti4:title]]</title>
     <subTitle>[[ti4:subTitle]]</subTitle> 
     <partNumber>[[ti4:partNumber]]</partNumber> 
     <partName>[[ti4:partName]]</partName>
   </titleInfo>
-  <titleInfo type="[[ti5:type]]" displayLabel="[[ti5:displayLabel]]" authority="[[ti5:authority]]" authorityURI="[[ti5:authorityURI]]" valueURI="[[ti5:valueURI]]">
+  <titleInfo type="[[ti5:type]]" displayLabel="[[ti5:displayLabel]]" authority="[[ti5:authority]]" authorityURI="[[ti5:authorityURI]]" valueURI="[[ti5:valueURI]]" nameTitleGroup="[[ti5:nameTitleGroup]]">
     <nonSort>[[ti5:nonSort]]</nonSort>
     <title>[[ti5:title]]</title>
     <subTitle>[[ti5:subTitle]]</subTitle> 
     <partNumber>[[ti5:partNumber]]</partNumber> 
     <partName>[[ti5:partName]]</partName>
   </titleInfo>
-  <titleInfo type="[[ti6:type]]" displayLabel="[[ti6:displayLabel]]" authority="[[ti6:authority]]" authorityURI="[[ti6:authorityURI]]" valueURI="[[ti6:valueURI]]">
+  <titleInfo type="[[ti6:type]]" displayLabel="[[ti6:displayLabel]]" authority="[[ti6:authority]]" authorityURI="[[ti6:authorityURI]]" valueURI="[[ti6:valueURI]]" nameTitleGroup="[[ti6:nameTitleGroup]]">
     <nonSort>[[ti6:nonSort]]</nonSort>
     <title>[[ti6:title]]</title>
     <subTitle>[[ti6:subTitle]]</subTitle> 
     <partNumber>[[ti6:partNumber]]</partNumber> 
     <partName>[[ti6:partName]]</partName>
   </titleInfo>
-  <titleInfo type="[[ti7:type]]" displayLabel="[[ti7:displayLabel]]" authority="[[ti7:authority]]" authorityURI="[[ti7:authorityURI]]" valueURI="[[ti7:valueURI]]">
+  <titleInfo type="[[ti7:type]]" displayLabel="[[ti7:displayLabel]]" authority="[[ti7:authority]]" authorityURI="[[ti7:authorityURI]]" valueURI="[[ti7:valueURI]]" nameTitleGroup="[[ti7:nameTitleGroup]]">
     <nonSort>[[ti7:nonSort]]</nonSort>
     <title>[[ti7:title]]</title>
     <subTitle>[[ti7:subTitle]]</subTitle> 
     <partNumber>[[ti7:partNumber]]</partNumber> 
     <partName>[[ti7:partName]]</partName>
   </titleInfo>
-  <titleInfo type="[[ti8:type]]" displayLabel="[[ti8:displayLabel]]" authority="[[ti8:authority]]" authorityURI="[[ti8:authorityURI]]" valueURI="[[ti8:valueURI]]">
+  <titleInfo type="[[ti8:type]]" displayLabel="[[ti8:displayLabel]]" authority="[[ti8:authority]]" authorityURI="[[ti8:authorityURI]]" valueURI="[[ti8:valueURI]]" nameTitleGroup="[[ti8:nameTitleGroup]]">
     <nonSort>[[ti8:nonSort]]</nonSort>
     <title>[[ti8:title]]</title>
     <subTitle>[[ti8:subTitle]]</subTitle> 
     <partNumber>[[ti8:partNumber]]</partNumber> 
     <partName>[[ti8:partName]]</partName>
   </titleInfo>
-  <titleInfo type="[[ti9:type]]" displayLabel="[[ti9:displayLabel]]" authority="[[ti9:authority]]" authorityURI="[[ti9:authorityURI]]" valueURI="[[ti9:valueURI]]">
+  <titleInfo type="[[ti9:type]]" displayLabel="[[ti9:displayLabel]]" authority="[[ti9:authority]]" authorityURI="[[ti9:authorityURI]]" valueURI="[[ti9:valueURI]]" nameTitleGroup="[[ti9:nameTitleGroup]]">
     <nonSort>[[ti9:nonSort]]</nonSort>
     <title>[[ti9:title]]</title>
     <subTitle>[[ti9:subTitle]]</subTitle> 
     <partNumber>[[ti9:partNumber]]</partNumber> 
     <partName>[[ti9:partName]]</partName>
   </titleInfo>
-  <titleInfo type="[[ti10:type]]" displayLabel="[[ti10:displayLabel]]" authority="[[ti10:authority]]" authorityURI="[[ti10:authorityURI]]" valueURI="[[ti10:valueURI]]">
+  <titleInfo type="[[ti10:type]]" displayLabel="[[ti10:displayLabel]]" authority="[[ti10:authority]]" authorityURI="[[ti10:authorityURI]]" valueURI="[[ti10:valueURI]]" nameTitleGroup="[[ti10:nameTitleGroup]]">
     <nonSort>[[ti10:nonSort]]</nonSort>
     <title>[[ti10:title]]</title>
     <subTitle>[[ti10:subTitle]]</subTitle> 
     <partNumber>[[ti10:partNumber]]</partNumber> 
     <partName>[[ti10:partName]]</partName>
   </titleInfo>
-  <name type="[[na1:type]]" usage="[[na1:usage]]" authority="[[na1:authority]]" authorityURI="[[na1:authorityURI]]" valueURI="[[na1:valueURI]]">
+  <name type="[[na1:type]]" usage="[[na1:usage]]" authority="[[na1:authority]]" authorityURI="[[na1:authorityURI]]" valueURI="[[na1:valueURI]]" nameTitleGroup="[[na1:nameTitleGroup]]">
     <namePart>[[na1:namePart]]</namePart>
     <role>
       <roleTerm type="code" authority="[[ro1:authority]]" authorityURI="[[ro1:authorityURI]]" valueURI="[[ro1:valueURI]]">[[ro1:roleCode]]</roleTerm>
@@ -85,7 +85,7 @@
       <roleTerm type="text" authority="[[ro1:authority3]]" authorityURI="[[ro1:authorityURI3]]" valueURI="[[ro1:valueURI3]]">[[ro1:roleText3]]</roleTerm>
     </role>
   </name>
-  <name type="[[na2:type]]" authority="[[na2:authority]]" authorityURI="[[na2:authorityURI]]" valueURI="[[na2:valueURI]]">
+  <name type="[[na2:type]]" authority="[[na2:authority]]" authorityURI="[[na2:authorityURI]]" valueURI="[[na2:valueURI]]" nameTitleGroup="[[na2:nameTitleGroup]]">
     <namePart>[[na2:namePart]]</namePart>
     <role>
       <roleTerm type="code" authority="[[ro2:authority]]" authorityURI="[[ro2:authorityURI]]" valueURI="[[ro2:valueURI]]">[[ro2:roleCode]]</roleTerm>
@@ -100,7 +100,7 @@
       <roleTerm type="text" authority="[[ro2:authority3]]" authorityURI="[[ro2:authorityURI3]]" valueURI="[[ro2:valueURI3]]">[[ro2:roleText3]]</roleTerm>
     </role>
   </name>
-  <name type="[[na3:type]]" authority="[[na3:authority]]" authorityURI="[[na3:authorityURI]]" valueURI="[[na3:valueURI]]">
+  <name type="[[na3:type]]" authority="[[na3:authority]]" authorityURI="[[na3:authorityURI]]" valueURI="[[na3:valueURI]]" nameTitleGroup="[[na3:nameTitleGroup]]">
     <namePart>[[na3:namePart]]</namePart>
     <role>
       <roleTerm type="code" authority="[[ro3:authority]]" authorityURI="[[ro3:authorityURI]]" valueURI="[[ro3:valueURI]]">[[ro3:roleCode]]</roleTerm>
@@ -115,7 +115,7 @@
       <roleTerm type="text" authority="[[ro3:authority3]]" authorityURI="[[ro3:authorityURI3]]" valueURI="[[ro3:valueURI3]]">[[ro3:roleText3]]</roleTerm>
     </role>
   </name>
-  <name type="[[na4:type]]" authority="[[na4:authority]]" authorityURI="[[na4:authorityURI]]" valueURI="[[na4:valueURI]]">
+  <name type="[[na4:type]]" authority="[[na4:authority]]" authorityURI="[[na4:authorityURI]]" valueURI="[[na4:valueURI]]" nameTitleGroup="[[na4:nameTitleGroup]]">
     <namePart>[[na4:namePart]]</namePart>
     <role>
       <roleTerm type="code" authority="[[ro4:authority]]" authorityURI="[[ro4:authorityURI]]" valueURI="[[ro4:valueURI]]">[[ro4:roleCode]]</roleTerm>
@@ -130,7 +130,7 @@
       <roleTerm type="text" authority="[[ro4:authority3]]" authorityURI="[[ro4:authorityURI3]]" valueURI="[[ro4:valueURI3]]">[[ro4:roleText3]]</roleTerm>
     </role>
   </name>
-  <name type="[[na5:type]]" authority="[[na5:authority]]" authorityURI="[[na5:authorityURI]]" valueURI="[[na5:valueURI]]">
+  <name type="[[na5:type]]" authority="[[na5:authority]]" authorityURI="[[na5:authorityURI]]" valueURI="[[na5:valueURI]]" nameTitleGroup="[[na5:nameTitleGroup]]">
     <namePart>[[na5:namePart]]</namePart>
     <role>
       <roleTerm type="code" authority="[[ro5:authority]]" authorityURI="[[ro5:authorityURI]]" valueURI="[[ro5:valueURI]]">[[ro5:roleCode]]</roleTerm>
@@ -145,7 +145,7 @@
       <roleTerm type="text" authority="[[ro5:authority3]]" authorityURI="[[ro5:authorityURI3]]" valueURI="[[ro5:valueURI3]]">[[ro5:roleText3]]</roleTerm>
     </role>
   </name>
-  <name type="[[na6:type]]" authority="[[na6:authority]]" authorityURI="[[na6:authorityURI]]" valueURI="[[na6:valueURI]]">
+  <name type="[[na6:type]]" authority="[[na6:authority]]" authorityURI="[[na6:authorityURI]]" valueURI="[[na6:valueURI]]" nameTitleGroup="[[na6:nameTitleGroup]]">
     <namePart>[[na6:namePart]]</namePart>
     <role>
       <roleTerm type="code" authority="[[ro6:authority]]" authorityURI="[[ro6:authorityURI]]" valueURI="[[ro6:valueURI]]">[[ro6:roleCode]]</roleTerm>
@@ -160,7 +160,7 @@
       <roleTerm type="text" authority="[[ro6:authority3]]" authorityURI="[[ro6:authorityURI3]]" valueURI="[[ro6:valueURI3]]">[[ro6:roleText3]]</roleTerm>
     </role>
   </name>
-  <name type="[[na7:type]]" authority="[[na7:authority]]" authorityURI="[[na7:authorityURI]]" valueURI="[[na7:valueURI]]">
+  <name type="[[na7:type]]" authority="[[na7:authority]]" authorityURI="[[na7:authorityURI]]" valueURI="[[na7:valueURI]]" nameTitleGroup="[[na7:nameTitleGroup]]">
     <namePart>[[na7:namePart]]</namePart>
     <role>
       <roleTerm type="code" authority="[[ro7:authority]]" authorityURI="[[ro7:authorityURI]]" valueURI="[[ro7:valueURI]]">[[ro7:roleCode]]</roleTerm>
@@ -175,7 +175,7 @@
       <roleTerm type="text" authority="[[ro7:authority3]]" authorityURI="[[ro7:authorityURI3]]" valueURI="[[ro7:valueURI3]]">[[ro7:roleText3]]</roleTerm>
     </role>
   </name>
-  <name type="[[na8:type]]" authority="[[na8:authority]]" authorityURI="[[na8:authorityURI]]" valueURI="[[na8:valueURI]]">
+  <name type="[[na8:type]]" authority="[[na8:authority]]" authorityURI="[[na8:authorityURI]]" valueURI="[[na8:valueURI]]" nameTitleGroup="[[na8:nameTitleGroup]]">
     <namePart>[[na8:namePart]]</namePart>
     <role>
       <roleTerm type="code" authority="[[ro8:authority]]" authorityURI="[[ro8:authorityURI]]" valueURI="[[ro8:valueURI]]">[[ro8:roleCode]]</roleTerm>
@@ -190,7 +190,7 @@
       <roleTerm type="text" authority="[[ro8:authority3]]" authorityURI="[[ro8:authorityURI3]]" valueURI="[[ro8:valueURI3]]">[[ro8:roleText3]]</roleTerm>
     </role>
   </name>
-  <name type="[[na9:type]]" authority="[[na9:authority]]" authorityURI="[[na9:authorityURI]]" valueURI="[[na9:valueURI]]">
+  <name type="[[na9:type]]" authority="[[na9:authority]]" authorityURI="[[na9:authorityURI]]" valueURI="[[na9:valueURI]]" nameTitleGroup="[[na9:nameTitleGroup]]">
     <namePart>[[na9:namePart]]</namePart>
     <role>
       <roleTerm type="code" authority="[[ro9:authority]]" authorityURI="[[ro9:authorityURI]]" valueURI="[[ro9:valueURI]]">[[ro9:roleCode]]</roleTerm>
@@ -205,7 +205,7 @@
       <roleTerm type="text" authority="[[ro9:authority3]]" authorityURI="[[ro9:authorityURI3]]" valueURI="[[ro9:valueURI3]]">[[ro9:roleText3]]</roleTerm>
     </role>
   </name>
-  <name type="[[na10:type]]" authority="[[na10:authority]]" authorityURI="[[na10:authorityURI]]" valueURI="[[na10:valueURI]]">
+  <name type="[[na10:type]]" authority="[[na10:authority]]" authorityURI="[[na10:authorityURI]]" valueURI="[[na10:valueURI]]" nameTitleGroup="[[na10:nameTitleGroup]]">
     <namePart>[[na10:namePart]]</namePart>
     <role>
       <roleTerm type="code" authority="[[ro10:authority]]" authorityURI="[[ro10:authorityURI]]" valueURI="[[ro10:valueURI]]">[[ro10:roleCode]]</roleTerm>
