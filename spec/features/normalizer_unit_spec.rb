@@ -58,7 +58,8 @@ problem
   
   describe "trim_text" do
     it "raises an exception given a nil input" do
-      expect { @normalizer.trim_text(nil) }.to raise_error
+#      binding.pry
+      expect { @normalizer.trim_text(nil) }.to raise_error(NoMethodError)
     end
 
     it "returns the tree unchanged, given a tree that contains no text" do
@@ -78,7 +79,7 @@ problem
 
   describe "remove_empty_attributes" do
     it "raises an error given a null argument" do
-      expect { @normalizer.remove_empty_attributes(nil) }.to raise_error
+      expect { @normalizer.remove_empty_attributes(nil) }.to raise_error(NoMethodError)
     end
 
     it "removes all empty attributes for a single node" do
@@ -98,7 +99,7 @@ problem
 
   describe "remove_empty_nodes" do
     it "raises an exception given a null input" do
-      expect { @normalizer.remove_empty_nodes(nil) }.to raise_error
+      expect { @normalizer.remove_empty_nodes(nil) }.to raise_error(NoMethodError)
     end
 
     it "removes all nodes, given a subtree that contains only empty nodes" do
@@ -146,7 +147,7 @@ problem
     end
 
     it "raises an exception given a null input" do
-      expect { @normalizer.clean_linefeeds(nil) }.to raise_error
+      expect { @normalizer.clean_linefeeds(nil) }.to raise_error(NoMethodError)
     end
   end
 end
