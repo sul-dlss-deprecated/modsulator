@@ -29,7 +29,7 @@
         <place>
           <placeTerm type="text">Paris</placeTerm>
         </place>
-        <dateIssued keyDate="yes" encoding="iso8601">1871</dateIssued>
+        <dateIssued>1871</dateIssued>
       </originInfo>
       <language>
         <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
