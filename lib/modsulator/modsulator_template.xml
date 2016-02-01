@@ -1234,10 +1234,10 @@
         <placeTerm type="text" authority="[[ri1:pl:authority]]" authorityURI="[[ri1:pl:authorityURI]]" valueURI="[[ri1:pl:valueURI]]">[[ri1:pl:placeText]]</placeTerm>
       </place>
       <publisher>[[ri1:or:publisher]]</publisher>
-      <dateCreated keyDate="yes" encoding="[[ri1:dt:encoding]]" qualifier="[[ri1:dt:qualifier]]" point="start">[[ri1:dt:dateCreated]]</dateCreated>
-      <dateCreated keyDate="yes" encoding="[[ri1:dt:encoding]]" qualifier="[[ri1:dt:qualifier]]" point="end">[[ri1:dt:dateCreated2]]</dateCreated>
-      <dateIssued keyDate="yes" encoding="[[ri1:dt:encoding]]" qualifier="[[ri1:dt:qualifier]]" point="start">[[ri1:dt:dateIssued]]</dateIssued>
-      <dateIssued keyDate="yes" encoding="[[ri1:dt:encoding]]" qualifier="[[ri1:dt:qualifier]]" point="end">[[ri1:dt:dateIssued2]]</dateIssued>
+      <dateCreated keyDate="[[ri1:dt:dateCreatedKeyDate]]" encoding="[[ri1:dt:dateCreatedEncoding]]" qualifier="[[ri1:dt:dateCreatedQualifier]]" point="[[ri1:dt:dateCreatedPoint]]">[[ri1:dt:dateCreated]]</dateCreated>
+      <dateCreated encoding="[[ri1:dt:dateCreatedEncoding]]" qualifier="[[ri1:dt:dateCreated2Qualifier]]" point="[[ri1:dt:dateCreated2Point]]">[[ri1:dt:dateCreated2]]</dateCreated>
+      <dateIssued keyDate="[[ri1:dt:dateIssuedKeyDate]]" encoding="[[ri1:dt:dateIssuedEncoding]]" qualifier="[[ri1:dt:dateIssuedQualifier]]" point="[[ri1:dt:dateIssuedPoint]]">[[ri1:dt:dateIssued]]</dateIssued>
+      <dateIssued encoding="[[ri1:dt:dateIssuedEncoding]]" qualifier="[[ri1:dt:dateIssued2Qualifier]]" point="[[ri1:dt:dateIssued2Point]]">[[ri1:dt:dateIssued2]]</dateIssued>
     </originInfo>
     <identifier type="[[ri1:id1:type]]" displayLabel="[[ri1:id1:displayLabel]]">[[ri1:id1:identifier]]</identifier>
     <identifier type="[[ri1:id2:type]]" displayLabel="[[ri1:id2:displayLabel]]">[[ri1:id2:identifier]]</identifier>
@@ -1267,10 +1267,10 @@
         <placeTerm type="text" authority="[[ri2:pl:authority]]" authorityURI="[[ri2:pl:authorityURI]]" valueURI="[[ri2:pl:valueURI]]">[[ri2:pl:placeText]]</placeTerm>
       </place>
       <publisher>[[ri2:or:publisher]]</publisher>
-      <dateCreated keyDate="yes" encoding="[[ri2:dt:encoding]]" qualifier="[[ri2:dt:qualifier]]" point="start">[[ri2:dt:dateCreated]]</dateCreated>
-      <dateCreated keyDate="yes" encoding="[[ri2:dt:encoding]]" qualifier="[[ri2:dt:qualifier]]" point="end">[[ri2:dt:dateCreated2]]</dateCreated>
-      <dateIssued keyDate="yes" encoding="[[ri2:dt:encoding]]" qualifier="[[ri2:dt:qualifier]]" point="start">[[ri2:dt:dateIssued]]</dateIssued>
-      <dateIssued keyDate="yes" encoding="[[ri2:dt:encoding]]" qualifier="[[ri2:dt:qualifier]]" point="end">[[ri2:dt:dateIssued2]]</dateIssued>
+      <dateCreated keyDate="[[ri2:dt:dateCreatedKeyDate]]" encoding="[[ri2:dt:dateCreatedEncoding]]" qualifier="[[ri2:dt:dateCreatedQualifier]]" point="[[ri2:dt:dateCreatedPoint]]">[[ri2:dt:dateCreated]]</dateCreated>
+      <dateCreated encoding="[[ri2:dt:dateCreatedEncoding]]" qualifier="[[ri2:dt:dateCreated2Qualifier]]" point="[[ri2:dt:dateCreated2Point]]">[[ri2:dt:dateCreated2]]</dateCreated>
+      <dateIssued keyDate="[[ri2:dt:dateIssuedKeyDate]]" encoding="[[ri2:dt:dateIssuedEncoding]]" qualifier="[[ri2:dt:dateIssuedQualifier]]" point="[[ri2:dt:dateIssuedPoint]]">[[ri2:dt:dateIssued]]</dateIssued>
+      <dateIssued encoding="[[ri2:dt:dateIssuedEncoding]]" qualifier="[[ri2:dt:dateIssued2Qualifier]]" point="[[ri2:dt:dateIssued2Point]]">[[ri2:dt:dateIssued2]]</dateIssued>
     </originInfo>
     <identifier type="[[ri2:id1:type]]" displayLabel="[[ri2:id1:displayLabel]]">[[ri2:id1:identifier]]</identifier>
     <identifier type="[[ri2:id2:type]]" displayLabel="[[ri2:id2:displayLabel]]">[[ri2:id2:identifier]]</identifier>
@@ -1300,10 +1300,10 @@
         <placeTerm type="text" authority="[[ri3:pl:authority]]" authorityURI="[[ri3:pl:authorityURI]]" valueURI="[[ri3:pl:valueURI]]">[[ri3:pl:placeText]]</placeTerm>
       </place>
       <publisher>[[ri3:or:publisher]]</publisher>
-      <dateCreated keyDate="yes" encoding="[[ri3:dt:encoding]]" qualifier="[[ri3:dt:qualifier]]" point="start">[[ri3:dt:dateCreated]]</dateCreated>
-      <dateCreated keyDate="yes" encoding="[[ri3:dt:encoding]]" qualifier="[[ri3:dt:qualifier]]" point="end">[[ri3:dt:dateCreated2]]</dateCreated>
-      <dateIssued keyDate="yes" encoding="[[ri3:dt:encoding]]" qualifier="[[ri3:dt:qualifier]]" point="start">[[ri3:dt:dateIssued]]</dateIssued>
-      <dateIssued keyDate="yes" encoding="[[ri3:dt:encoding]]" qualifier="[[ri3:dt:qualifier]]" point="end">[[ri3:dt:dateIssued2]]</dateIssued>
+      <dateCreated keyDate="[[ri3:dt:dateCreatedKeyDate]]" encoding="[[ri3:dt:dateCreatedEncoding]]" qualifier="[[ri3:dt:dateCreatedQualifier]]" point="[[ri3:dt:dateCreatedPoint]]">[[ri3:dt:dateCreated]]</dateCreated>
+      <dateCreated encoding="[[ri3:dt:dateCreatedEncoding]]" qualifier="[[ri3:dt:dateCreated2Qualifier]]" point="[[ri3:dt:dateCreated2Point]]">[[ri3:dt:dateCreated2]]</dateCreated>
+      <dateIssued keyDate="[[ri3:dt:dateIssuedKeyDate]]" encoding="[[ri3:dt:dateIssuedEncoding]]" qualifier="[[ri3:dt:dateIssuedQualifier]]" point="[[ri3:dt:dateIssuedPoint]]">[[ri3:dt:dateIssued]]</dateIssued>
+      <dateIssued encoding="[[ri3:dt:dateIssuedEncoding]]" qualifier="[[ri3:dt:dateIssued2Qualifier]]" point="[[ri3:dt:dateIssued2Point]]">[[ri3:dt:dateIssued2]]</dateIssued>
     </originInfo>
     <identifier type="[[ri3:id1:type]]" displayLabel="[[ri3:id1:displayLabel]]">[[ri3:id1:identifier]]</identifier>
     <identifier type="[[ri3:id2:type]]" displayLabel="[[ri3:id2:displayLabel]]">[[ri3:id2:identifier]]</identifier>
