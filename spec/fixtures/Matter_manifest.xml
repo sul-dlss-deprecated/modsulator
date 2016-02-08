@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2015-04-23 02:28:33PM" sourceFile="Matter_manifest.csv">
-  <xmlDoc id="descMetadata" objectId="0001">
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2016-02-05 04:47:32PM" sourceFile="Matter_manifest.csv">
+  <xmlDoc id="descMetadata" objectId="1">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Cabbage (solarized), 1943.</title>
@@ -8,13 +8,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1943</dateCreated>
+        <dateCreated qualifier="approximate">1943</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
       <note displayLabel="Back of photo 1">Marked in pencil on back handwritten 7 circled: top Herbert Matter  MacDougal Alley address.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0002">
+  <xmlDoc id="descMetadata" objectId="2">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Two limes with cloth</title>
@@ -22,13 +22,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1979</dateCreated>
+        <dateCreated qualifier="approximate">1979</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
       <note displayLabel="Back of photo 1">Marked on back in blue ink 'Photograph by Herbert Matter 19 Macdougal Alley New York N.Y. 10011' and 'Composition with Two Limes 1979'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0003">
+  <xmlDoc id="descMetadata" objectId="3">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Umbrella; 'For a rainy day I, New York 1978'.</title>
@@ -36,13 +36,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1978</dateCreated>
+        <dateCreated qualifier="approximate">1978</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
       <note displayLabel="Back of photo 1">Marked on back in pencil '2/10 photography by Herbert Matter' with diagram showing print arrangement of images in series.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0004">
+  <xmlDoc id="descMetadata" objectId="4">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Layered water movement</title>
@@ -53,7 +53,7 @@
       <note displayLabel="Back of photo 1">Marked on back in pencil '8'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0005">
+  <xmlDoc id="descMetadata" objectId="5">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Rock formation with lines</title>
@@ -61,14 +61,14 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1979</dateCreated>
+        <dateCreated qualifier="approximate">1979</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
       <note displayLabel="Back of photo 1">Marked on front in black pen '1/50 Herbert Matter'</note>
       <note displayLabel="Back of photo 2">Written on back in black ink 'Photograph by Herbert Matter' and 'Sunshine Island: Maine VI 1979'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0006">
+  <xmlDoc id="descMetadata" objectId="6">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Rock formation; extreme close up with single curved line</title>
@@ -76,14 +76,14 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1979</dateCreated>
+        <dateCreated qualifier="approximate">1979</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
       <note displayLabel="Back of photo 1">Marked on front in black pen '2/50 Herbert Matter'</note>
       <note displayLabel="Back of photo 2">Written on back in black ink 'Photograph by Herbert Matter' and 'Sunshine Island: Maine IV 1979'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0007">
+  <xmlDoc id="descMetadata" objectId="7">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Geometric forms; including test tube with 3D effect for Wyandotte Chemicals Corporation</title>
@@ -94,7 +94,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Studio Associates'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0008">
+  <xmlDoc id="descMetadata" objectId="8">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Two dominant membrane-like forms</title>
@@ -105,7 +105,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Studio Associates' and 'Herbert Matter'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0009">
+  <xmlDoc id="descMetadata" objectId="9">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Light drawing, 1943</title>
@@ -113,13 +113,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1943</dateCreated>
+        <dateCreated qualifier="approximate">1943</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
       <note displayLabel="Back of photo 1">Written on back in pencil '3'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0010">
+  <xmlDoc id="descMetadata" objectId="10">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Random objects on pavement</title>
@@ -130,7 +130,7 @@
       <note displayLabel="Back of photo 1">written on back in pencil is an 'X'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0011">
+  <xmlDoc id="descMetadata" objectId="11">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Solarized random objects on pavement</title>
@@ -141,7 +141,7 @@
       <note displayLabel="Back of photo 1">written on back in pencil is an 'X'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0012">
+  <xmlDoc id="descMetadata" objectId="12">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Amoeba forms</title>
@@ -153,7 +153,7 @@
       <note displayLabel="Photographic processing techniques">Matted</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0013">
+  <xmlDoc id="descMetadata" objectId="13">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Rock forms with water in the center</title>
@@ -163,7 +163,7 @@
       <note displayLabel="Photo Dimensions">9" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0014">
+  <xmlDoc id="descMetadata" objectId="14">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Dark colored rock forms with water in the center</title>
@@ -173,7 +173,7 @@
       <note displayLabel="Photo Dimensions">9" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0015">
+  <xmlDoc id="descMetadata" objectId="15">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Two forms: One  elliptical; one round; On white background with light shadow</title>
@@ -183,7 +183,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0016">
+  <xmlDoc id="descMetadata" objectId="16">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Water form with clouds</title>
@@ -193,7 +193,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0017">
+  <xmlDoc id="descMetadata" objectId="17">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Multiple white wavelet forms</title>
@@ -203,7 +203,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0018">
+  <xmlDoc id="descMetadata" objectId="18">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Rock form close up on sand</title>
@@ -213,7 +213,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0019">
+  <xmlDoc id="descMetadata" objectId="19">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Stylized folded rippled fabric; From 8x10 plate negative</title>
@@ -223,7 +223,7 @@
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0020">
+  <xmlDoc id="descMetadata" objectId="20">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Close up of rocks</title>
@@ -233,7 +233,7 @@
       <note displayLabel="Photo Dimensions">8" x 9"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0021">
+  <xmlDoc id="descMetadata" objectId="21">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Close up of bark on dark background</title>
@@ -243,7 +243,7 @@
       <note displayLabel="Photo Dimensions">8" x 9"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0022">
+  <xmlDoc id="descMetadata" objectId="22">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Pavement with empty cans</title>
@@ -253,7 +253,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0023">
+  <xmlDoc id="descMetadata" objectId="23">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Driftwood floating on black background; Composition 1943.</title>
@@ -263,7 +263,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0024">
+  <xmlDoc id="descMetadata" objectId="24">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Pebble with tree bark on black background</title>
@@ -273,7 +273,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0025">
+  <xmlDoc id="descMetadata" objectId="25">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Frozen water; icicles on tree; 'Icicles, New York 1978'.</title>
@@ -281,12 +281,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1978</dateCreated>
+        <dateCreated qualifier="approximate">1978</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0026">
+  <xmlDoc id="descMetadata" objectId="26">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Closeup of ice cube; Early Swiss image.</title>
@@ -296,7 +296,7 @@
       <note displayLabel="Photo Dimensions">6 1/4" x 9"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0027">
+  <xmlDoc id="descMetadata" objectId="27">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Herbert Matter in stripped shirt with cigarette in mouth working with large mounted camera; Angle is seen from below; 1960</title>
@@ -304,13 +304,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1960</dateCreated>
+        <dateCreated qualifier="approximate">1960</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
       <note displayLabel="Back of photo 1">written in pencil on back is '1577-0'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0028">
+  <xmlDoc id="descMetadata" objectId="28">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Matter family with Charles and Ray Eames on the beach; 1943</title>
@@ -318,7 +318,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1943</dateCreated>
+        <dateCreated>1943</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
       <note displayLabel="Photographic processing techniques">Contact print of 2 negatives (b/w 12 images).</note>
@@ -329,7 +329,7 @@
       </subject>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0029">
+  <xmlDoc id="descMetadata" objectId="29">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Herbert Matter with cigarette in mouth; camera in hand and seagulls in background; 1937</title>
@@ -337,12 +337,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1937</dateCreated>
+        <dateCreated>1937</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 8"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0030">
+  <xmlDoc id="descMetadata" objectId="30">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Hebert Matter looking at Giacometti sculpture</title>
@@ -352,7 +352,7 @@
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0031">
+  <xmlDoc id="descMetadata" objectId="31">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Matter studio interior only; with draped mannequin with blind fold</title>
@@ -362,7 +362,7 @@
       <note displayLabel="Photo Dimensions">6" x 9"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0032">
+  <xmlDoc id="descMetadata" objectId="32">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder Stabile; 'The Spider'</title>
@@ -373,7 +373,7 @@
       <note displayLabel="Back of photo 1">In Matter's handwriting on back in pencil is the title date: material of sculpture and Matter's McDougal address.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0033">
+  <xmlDoc id="descMetadata" objectId="33">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder with circus arrangement</title>
@@ -384,7 +384,7 @@
       <note displayLabel="Back of photo 1">Marked on back '57% p.42'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0034">
+  <xmlDoc id="descMetadata" objectId="34">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder wire animal</title>
@@ -395,7 +395,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0035">
+  <xmlDoc id="descMetadata" objectId="35">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder sculpture (arp-like).</title>
@@ -403,13 +403,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1950</dateCreated>
+        <dateCreated>1950</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">9 3/4" x 12 3/4"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Photo' and 'Herbert Matter'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0036">
+  <xmlDoc id="descMetadata" objectId="36">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder studio interior with desk and mail</title>
@@ -417,13 +417,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1950</dateCreated>
+        <dateCreated>1950</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Studio Associates' and 'Herbert Matter'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0037">
+  <xmlDoc id="descMetadata" objectId="37">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder Toy Figures</title>
@@ -434,7 +434,7 @@
       <note displayLabel="Back of photo 1">In Matter's handwriting on back in ink 'p.82 74% Toy by Alexander Calder photo: Herbert Matter'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0038">
+  <xmlDoc id="descMetadata" objectId="38">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder playing with his children; Louisa playing accordion</title>
@@ -445,7 +445,7 @@
       <note displayLabel="Back of photo 1">Marked on back '58% p.73'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0039">
+  <xmlDoc id="descMetadata" objectId="39">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder hanging a sculpture</title>
@@ -453,13 +453,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1938</dateCreated>
+        <dateCreated>1938</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Marked on back 'Alexander Calder photo: Hebert Matter'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0040">
+  <xmlDoc id="descMetadata" objectId="40">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder wire bird on wheels sculpture</title>
@@ -470,7 +470,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0041">
+  <xmlDoc id="descMetadata" objectId="41">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder hand sculpture</title>
@@ -481,7 +481,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0042">
+  <xmlDoc id="descMetadata" objectId="42">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Early Calder studio; assorted wires; Ca; late 1930s</title>
@@ -492,7 +492,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0043">
+  <xmlDoc id="descMetadata" objectId="43">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder hanging mobile</title>
@@ -503,7 +503,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0044">
+  <xmlDoc id="descMetadata" objectId="44">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder Stabile with shadow</title>
@@ -514,7 +514,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Studio Associates' and 'Herbert Matter'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0045">
+  <xmlDoc id="descMetadata" objectId="45">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder plexiglas sculpture</title>
@@ -522,12 +522,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1939</dateCreated>
+        <dateCreated>1939</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0046">
+  <xmlDoc id="descMetadata" objectId="46">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder working with wire</title>
@@ -535,12 +535,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1936</dateCreated>
+        <dateCreated>1936</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0047">
+  <xmlDoc id="descMetadata" objectId="47">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder with Louisa portrait outside</title>
@@ -548,12 +548,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1940</dateCreated>
+        <dateCreated>1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0048">
+  <xmlDoc id="descMetadata" objectId="48">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder portrait; close up</title>
@@ -561,12 +561,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1950</dateCreated>
+        <dateCreated>1950</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0049">
+  <xmlDoc id="descMetadata" objectId="49">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Louisa Calder with textiles</title>
@@ -576,7 +576,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0050">
+  <xmlDoc id="descMetadata" objectId="50">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder whale sculpture at MoMA</title>
@@ -586,7 +586,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0051">
+  <xmlDoc id="descMetadata" objectId="51">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder circus figures</title>
@@ -596,7 +596,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0052">
+  <xmlDoc id="descMetadata" objectId="52">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Alexander Calder metal face sculpture</title>
@@ -606,7 +606,7 @@
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0053">
+  <xmlDoc id="descMetadata" objectId="53">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Models (woman and two men) in carriage view from above</title>
@@ -617,7 +617,7 @@
       <note displayLabel="Back of photo 1">Marked on back 'credit Herbert Matter from Black Star' with '397' and 'couple outdoor romance'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0054">
+  <xmlDoc id="descMetadata" objectId="54">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Model with street vendor in South America</title>
@@ -628,7 +628,7 @@
       <note displayLabel="Back of photo 1">Marked on back 'credit Herbert Matter from Black Star' with '720'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0055">
+  <xmlDoc id="descMetadata" objectId="55">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Model with hat and veil off to the side looking off to her shoulder</title>
@@ -639,7 +639,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0056">
+  <xmlDoc id="descMetadata" objectId="56">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Fabric in circular motion</title>
@@ -647,14 +647,14 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">2/5/1948</dateCreated>
+        <dateCreated>2/5/48</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Matter Vogue Studios'</note>
       <note displayLabel="Back of photo 2">written in pencil '15572-0-02'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0057">
+  <xmlDoc id="descMetadata" objectId="57">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Female model with bicycles</title>
@@ -664,7 +664,7 @@
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0058">
+  <xmlDoc id="descMetadata" objectId="58">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Close of model's face</title>
@@ -674,7 +674,7 @@
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0059">
+  <xmlDoc id="descMetadata" objectId="59">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Model in swimsuit floating on her back</title>
@@ -684,7 +684,7 @@
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0060">
+  <xmlDoc id="descMetadata" objectId="60">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Model at the beach in the water with white swimsuit; out stretched arms seen from above; From series for Life magazine</title>
@@ -692,12 +692,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">6/28/1937</dateCreated>
+        <dateCreated>6/28/37</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0061">
+  <xmlDoc id="descMetadata" objectId="61">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Fashion experiment with model; Vertical white curves across face</title>
@@ -705,12 +705,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1948</dateCreated>
+        <dateCreated qualifier="approximate">1948</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">15 3/4" x 19 3/4"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0062">
+  <xmlDoc id="descMetadata" objectId="62">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Model in profile view; 'Woman with beads, ca. 1948'.</title>
@@ -718,12 +718,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1948</dateCreated>
+        <dateCreated qualifier="approximate">1948</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0063">
+  <xmlDoc id="descMetadata" objectId="63">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Model with hat and veil off to the side looking into the camera</title>
@@ -733,7 +733,7 @@
       <note displayLabel="Photo Dimensions">10" x 12"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0064">
+  <xmlDoc id="descMetadata" objectId="64">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Model wearing coral in hair; with experimental photographic effect</title>
@@ -743,7 +743,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0065">
+  <xmlDoc id="descMetadata" objectId="65">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Model trimming decorative lawn hedge</title>
@@ -753,7 +753,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0066">
+  <xmlDoc id="descMetadata" objectId="66">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Model running along water at the beach</title>
@@ -763,7 +763,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0067">
+  <xmlDoc id="descMetadata" objectId="67">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Model with towel (studio shot)</title>
@@ -773,7 +773,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0068">
+  <xmlDoc id="descMetadata" objectId="68">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Close up of model's face with light hair and light background</title>
@@ -783,7 +783,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0069">
+  <xmlDoc id="descMetadata" objectId="69">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Model in full length gown with matching head cover and in outdoor setting</title>
@@ -793,7 +793,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0070">
+  <xmlDoc id="descMetadata" objectId="70">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Four model's (three dancing) in park like setting; Fete Champetre from: The Art and Technique of Color Photography; Simon and Schuster; New York; 1951; Page 150-151.</title>
@@ -803,7 +803,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0071">
+  <xmlDoc id="descMetadata" objectId="71">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Close up of model's face with dark hair and light features</title>
@@ -813,7 +813,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0072">
+  <xmlDoc id="descMetadata" objectId="72">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man walking back view with long shadow on light background.</title>
@@ -821,13 +821,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="questionable">1950</dateCreated>
+        <dateCreated qualifier="questionable">1950</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Marked on back in green ink '1950'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0073">
+  <xmlDoc id="descMetadata" objectId="73">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Unidentified sculpture of woman standing in profile with base.</title>
@@ -835,13 +835,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="questionable">1954</dateCreated>
+        <dateCreated qualifier="questionable">1954</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Marked on back in green ink '1954'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0074">
+  <xmlDoc id="descMetadata" objectId="74">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Painting of man from the neck up different background; Yanaihara, Isaku; 1960; Oil on canvas.</title>
@@ -849,13 +849,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="questionable">1957</dateCreated>
+        <dateCreated qualifier="questionable">1957</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Marked on back in green ink '1957'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0075">
+  <xmlDoc id="descMetadata" objectId="75">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Street entrance to Giacometti studio; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987;  Different angle and cropping; Print variation; close cropping; Page 27.</title>
@@ -866,7 +866,7 @@
       <note displayLabel="Back of photo 1">Marked on back in in '13-295'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0076">
+  <xmlDoc id="descMetadata" objectId="76">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Single unidentified figure standing on base; Full figure with background out of focus.</title>
@@ -877,7 +877,7 @@
       <note displayLabel="Back of photo 1">Marked on back in ink '12-281'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0077">
+  <xmlDoc id="descMetadata" objectId="77">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Wrapped sculpture in studio side view.</title>
@@ -888,7 +888,7 @@
       <note displayLabel="Back of photo 1">Marked on back in ink '14-331'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0078">
+  <xmlDoc id="descMetadata" objectId="78">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Interior Giacometti studio with display of small sculptures.</title>
@@ -899,7 +899,7 @@
       <note displayLabel="Back of photo 1">Marked on back in ink '19-446'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0079">
+  <xmlDoc id="descMetadata" objectId="79">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Single sculpture full figure: 'Standing Woman; 1948'.</title>
@@ -907,13 +907,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="questionable">1948</dateCreated>
+        <dateCreated qualifier="questionable">1948</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Marked on back in ink '1948'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0080">
+  <xmlDoc id="descMetadata" objectId="80">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Four sculpture figures on dark background: 'Four Women on a Base, 1950'.</title>
@@ -921,13 +921,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="questionable">1950</dateCreated>
+        <dateCreated qualifier="questionable">1950</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Marked on back in ink '1950'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0081">
+  <xmlDoc id="descMetadata" objectId="81">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Interior Giacometti studio with clay pieces on table.</title>
@@ -938,7 +938,7 @@
       <note displayLabel="Back of photo 1">Marked on back in ink '20-469'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0082">
+  <xmlDoc id="descMetadata" objectId="82">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture in exterior entry way of Giacometti studio with sculpture.</title>
@@ -949,7 +949,7 @@
       <note displayLabel="Back of photo 1">Marked on back in ink '22-504'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0083">
+  <xmlDoc id="descMetadata" objectId="83">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man's head cast; white background: 'Bust of Diego' undated.</title>
@@ -960,7 +960,7 @@
       <note displayLabel="Back of photo 1">Marked on back in ink '23-522'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0084">
+  <xmlDoc id="descMetadata" objectId="84">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Painting of man from the neck up: 'Head of Diego; 1961'; Oil on canvas.</title>
@@ -971,7 +971,7 @@
       <note displayLabel="Back of photo 1">Marked on back in ink '24'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0085">
+  <xmlDoc id="descMetadata" objectId="85">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Clay pieces on table with small sculptures.</title>
@@ -982,7 +982,7 @@
       <note displayLabel="Back of photo 1">Marked on back in ink '29-32'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0086">
+  <xmlDoc id="descMetadata" objectId="86">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Painting of a woman from the neck up: 'Seated Woman, 1959'; Oil on canvas.</title>
@@ -993,7 +993,7 @@
       <note displayLabel="Back of photo 1">Marked on back in ink '30'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0087">
+  <xmlDoc id="descMetadata" objectId="87">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Painting of man from the neck up (different figure): 'Head, 1961'; Oil on canvas.</title>
@@ -1004,7 +1004,7 @@
       <note displayLabel="Back of photo 1">Marked on back in ink '32'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0088">
+  <xmlDoc id="descMetadata" objectId="88">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Close up of Giacometti at work on sculpture wearing a coat and tie; 1965.</title>
@@ -1015,7 +1015,7 @@
       <note displayLabel="Back of photo 1">Marked on back in ink '33-3'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0089">
+  <xmlDoc id="descMetadata" objectId="89">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Giacometti at work on a sculpture wearing a coat and tie; 1960; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987;  Similar to image; page 46.</title>
@@ -1026,7 +1026,7 @@
       <note displayLabel="Back of photo 1">Marked on back in ink '34-26'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0090">
+  <xmlDoc id="descMetadata" objectId="90">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Landscape; mountains around Julier Pass near Stampa; Switzerland.</title>
@@ -1037,7 +1037,7 @@
       <note displayLabel="Back of photo 1">Marked on back in pencil '10-236'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0091">
+  <xmlDoc id="descMetadata" objectId="91">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Close up of Giacometti name on exterior Studio door.</title>
@@ -1048,7 +1048,7 @@
       <note displayLabel="Back of photo 1">Marked on back in pencil '13-298'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0092">
+  <xmlDoc id="descMetadata" objectId="92">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Exterior entry stairs of Giacometti studio.</title>
@@ -1059,7 +1059,7 @@
       <note displayLabel="Back of photo 1">Marked on back in pencil '13-299'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0093">
+  <xmlDoc id="descMetadata" objectId="93">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Interior Giacometti studio with cigarette packs and sculpture.</title>
@@ -1070,7 +1070,7 @@
       <note displayLabel="Back of photo 1">Marked on back in pencil '14-323'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0094">
+  <xmlDoc id="descMetadata" objectId="94">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Isaku Yanihara with dark background.</title>
@@ -1081,7 +1081,7 @@
       <note displayLabel="Back of photo 1">Marked on back in pencil '16-372'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0095">
+  <xmlDoc id="descMetadata" objectId="95">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man's head with gray background: 'Head of a Man on a Rod; 1947'.</title>
@@ -1092,7 +1092,7 @@
       <note displayLabel="Back of photo 1">Marked on back in pencil '1947'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0096">
+  <xmlDoc id="descMetadata" objectId="96">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Interior Giacometti studio cigarette packs.</title>
@@ -1103,7 +1103,7 @@
       <note displayLabel="Back of photo 1">Marked on back in pencil '29-27'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0097">
+  <xmlDoc id="descMetadata" objectId="97">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Landscape; trees; Stampa, Switzerland.</title>
@@ -1114,7 +1114,7 @@
       <note displayLabel="Back of photo 1">Marked on back in pencil '7-146'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0098">
+  <xmlDoc id="descMetadata" objectId="98">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man walking profile view with light background: 'Man Walking; 1950'.</title>
@@ -1125,7 +1125,7 @@
       <note displayLabel="Back of photo 1">Marked on back in red ink '849/858/859'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0099">
+  <xmlDoc id="descMetadata" objectId="99">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Unidentified sculpture with three figures walking in different directions on signed pedestal base 'A. Gacometti'.</title>
@@ -1136,7 +1136,7 @@
       <note displayLabel="Back of photo 1">Signed on back in 'Matter'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0100">
+  <xmlDoc id="descMetadata" objectId="100">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture with eight figures (distorted; different perspective): 'The Forest, 1950'; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987;  Different angle and cropping; Page 86-87.</title>
@@ -1147,7 +1147,7 @@
       <note displayLabel="Back of photo 1">Signed on front in ink 'Herbert Matter #6 25/50'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0101">
+  <xmlDoc id="descMetadata" objectId="101">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Interior Giacometti studio stove.</title>
@@ -1159,7 +1159,7 @@
       <note displayLabel="Back of photo 2">Marked on back in pencil '17-395'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0102">
+  <xmlDoc id="descMetadata" objectId="102">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Interior Giacometti studio with wrapped sculpture in center; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987; Different angle from studio interior Page 31.</title>
@@ -1171,7 +1171,7 @@
       <note displayLabel="Back of photo 2">Marked on back '14-329'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0103">
+  <xmlDoc id="descMetadata" objectId="103">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Four sculpture figures with gray background: 'Four Women on a Base, 1950'.</title>
@@ -1182,7 +1182,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Studio Associates' and 'Herbert Matter 'Marked on back in ink '#21'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0104">
+  <xmlDoc id="descMetadata" objectId="104">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Photograph of painting: 'Seated Woman; 1959;' Oil on canvas.</title>
@@ -1193,7 +1193,7 @@
       <note displayLabel="Back of photo 1">Marked on back 'Giacometti: Head of a woman 1959: oil on canvas 29 1/2 x 24" Galleria Galatea: Turin photograph Herbert Matter'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0105">
+  <xmlDoc id="descMetadata" objectId="105">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man full figure: unidentified sculpture standing figure on base.</title>
@@ -1204,7 +1204,7 @@
       <note displayLabel="Back of photo 1">Marked on back in ink '2. 1958-59 h 64 cm'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0106">
+  <xmlDoc id="descMetadata" objectId="106">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man's head; neck and upper shoulder with face in opposite direction: 'Bust of Elie Lotar II; 1965'; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987; Black and white image of color print; page 186-187.</title>
@@ -1215,7 +1215,7 @@
       <note displayLabel="Back of photo 1">Signed on front in pencil: 'Herbert Matter'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0107">
+  <xmlDoc id="descMetadata" objectId="107">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of a man's head close up soft focus: studio interior; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987; Page 33.</title>
@@ -1226,7 +1226,7 @@
       <note displayLabel="Photographic processing techniques">Mounted on board.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0108">
+  <xmlDoc id="descMetadata" objectId="108">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Interior Giacometti studio with sculpture in center: studio interior;</title>
@@ -1237,7 +1237,7 @@
       <note displayLabel="Photographic processing techniques">Mounted on board.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0109">
+  <xmlDoc id="descMetadata" objectId="109">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man walking; White background: 'Man Walking, 1950'.</title>
@@ -1247,7 +1247,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0110">
+  <xmlDoc id="descMetadata" objectId="110">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mountains near Giacometti studio: Coluonnas Peak in the Julier Pass; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987;  Similar to image; page 2; Cropped black and white of color photograph page 16-17.</title>
@@ -1257,7 +1257,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0111">
+  <xmlDoc id="descMetadata" objectId="111">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of woman's body full figure: 'Woman; 1956'; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987; Uncropped print; page 103.</title>
@@ -1267,7 +1267,7 @@
       <note displayLabel="Photo Dimensions">5" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0112">
+  <xmlDoc id="descMetadata" objectId="112">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculptures in museum setting.</title>
@@ -1277,7 +1277,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0113">
+  <xmlDoc id="descMetadata" objectId="113">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Three sculptures in museum setting.</title>
@@ -1287,7 +1287,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0114">
+  <xmlDoc id="descMetadata" objectId="114">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Four sculpture figures on dark gray background.</title>
@@ -1297,7 +1297,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0115">
+  <xmlDoc id="descMetadata" objectId="115">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of woman's head close up in soft focus: 'Annette IV 1962'; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987; Printed variation; page 179.</title>
@@ -1307,7 +1307,7 @@
       <note displayLabel="Photo Dimensions">11" x 16"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0116">
+  <xmlDoc id="descMetadata" objectId="116">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture with man's head and neck close up: 'Bust of Elie Lotar II, 1965'; From the book: Alberto Giacometti / photographed by Herbert Matter; text by Mercedes Matter; foreword by Louis Finkelstein with an introduction by Andrew Forge; New York: Abrams; 1987; Black and white variation of color print; page 191.</title>
@@ -1317,7 +1317,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0117">
+  <xmlDoc id="descMetadata" objectId="117">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture with man walking profile: 'Men Walking; 1950'; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987;  Printed variation; page 74-75;</title>
@@ -1327,7 +1327,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0118">
+  <xmlDoc id="descMetadata" objectId="118">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture with two images side by side one full view the other profile: 'Bust of Diego, 1954'; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987;  Page 110-111.</title>
@@ -1337,7 +1337,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0119">
+  <xmlDoc id="descMetadata" objectId="119">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man's head and neck; upper shoulder: 'Diego, 1952'.</title>
@@ -1347,7 +1347,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0120">
+  <xmlDoc id="descMetadata" objectId="120">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of woman with short hair: 'Annette IV, 1962; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987; Printed variation  page 179.</title>
@@ -1357,7 +1357,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0121">
+  <xmlDoc id="descMetadata" objectId="121">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man with exaggerated perspective to right: 'Head of a Man on a rod, 1947'; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987; Printed variation and angle; page 66-67.</title>
@@ -1367,7 +1367,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0122">
+  <xmlDoc id="descMetadata" objectId="122">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Exterior of Giacometti studio; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987; Page 27.</title>
@@ -1377,7 +1377,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0123">
+  <xmlDoc id="descMetadata" objectId="123">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Photograph of painting: 'Annette Seated II; 1958'; Oil on canvas; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987; Black and white variation of color print; page 145.</title>
@@ -1387,7 +1387,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0124">
+  <xmlDoc id="descMetadata" objectId="124">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture with four figures: 'Four Women on a Base; 1950'; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987; Black and white variation of color print; page 78-79;</title>
@@ -1397,7 +1397,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0125">
+  <xmlDoc id="descMetadata" objectId="125">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture with nine figures: 'Women of Venice, 1956'.</title>
@@ -1407,7 +1407,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0126">
+  <xmlDoc id="descMetadata" objectId="126">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture with woman's head close up: 'Woman, 1956'; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein with an introduction by Andrew Forge; New York: Abrams; 1987; Printed variation; page 103.</title>
@@ -1417,7 +1417,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0127">
+  <xmlDoc id="descMetadata" objectId="127">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture with man's head close up: 'Diego, 1952'; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein with an introduction by Andrew Forge; New York : Abrams; 1987; Black and white variation of color print; page 98-99.</title>
@@ -1427,7 +1427,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0128">
+  <xmlDoc id="descMetadata" objectId="128">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture with nine figures in   view: 'Large Standing Woman I, II, III, IV, 1960'.</title>
@@ -1437,7 +1437,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0129">
+  <xmlDoc id="descMetadata" objectId="129">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Giacometti portrait; 1965 ;   profile with vignette frame; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987;  Similar to image; page 2.</title>
@@ -1447,7 +1447,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0130">
+  <xmlDoc id="descMetadata" objectId="130">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>3/4  view of grouped sculptures on white background: 'The Forest, 1950'.</title>
@@ -1457,7 +1457,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0131">
+  <xmlDoc id="descMetadata" objectId="131">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>3/4 view of wrapped sculpture with sculpture in background.</title>
@@ -1467,7 +1467,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0132">
+  <xmlDoc id="descMetadata" objectId="132">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Painting of a woman: 'Seated Woman, 1962'; Oil on canvas.</title>
@@ -1477,7 +1477,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0133">
+  <xmlDoc id="descMetadata" objectId="133">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man sitting: 'Bust of Elie Lotar III; 1965'; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987; Page 190.</title>
@@ -1487,7 +1487,7 @@
       <note displayLabel="Photo Dimensions">11" x 16"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0134">
+  <xmlDoc id="descMetadata" objectId="134">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man sitting (reduced printed image): 'Bust of Elie Lotar III; 1965'; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987; Page 190.</title>
@@ -1497,7 +1497,7 @@
       <note displayLabel="Photo Dimensions">12" x 16"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0135">
+  <xmlDoc id="descMetadata" objectId="135">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Two groups of sculptures in a museum setting.</title>
@@ -1507,7 +1507,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0136">
+  <xmlDoc id="descMetadata" objectId="136">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of woman in profile sitting; Seated Woman; 1959; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987;  Page 152.</title>
@@ -1517,7 +1517,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0137">
+  <xmlDoc id="descMetadata" objectId="137">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man's head.</title>
@@ -1527,7 +1527,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0138">
+  <xmlDoc id="descMetadata" objectId="138">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Portrait of  Isaku Yanihara; 1960; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987;  Page 40.</title>
@@ -1537,7 +1537,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0139">
+  <xmlDoc id="descMetadata" objectId="139">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man walking back view light exposure:  'Man Walking, 1950'.</title>
@@ -1547,7 +1547,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0140">
+  <xmlDoc id="descMetadata" objectId="140">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man sitting profile view.</title>
@@ -1557,7 +1557,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0141">
+  <xmlDoc id="descMetadata" objectId="141">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture with wrapped sculpture in background.</title>
@@ -1567,7 +1567,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0142">
+  <xmlDoc id="descMetadata" objectId="142">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man walking back   view with shadow' 'Man Walking, 1950'.</title>
@@ -1577,7 +1577,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0143">
+  <xmlDoc id="descMetadata" objectId="143">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man walking view with shadow; 'Man Walking, 1950'.</title>
@@ -1587,7 +1587,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0144">
+  <xmlDoc id="descMetadata" objectId="144">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man's head extreme close up on dark background: 'Bust of Elie Lotar II; 1965'; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987; Black and white image of color print; page 188.</title>
@@ -1597,7 +1597,7 @@
       <note displayLabel="Photo Dimensions">14" x 17 "</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0145">
+  <xmlDoc id="descMetadata" objectId="145">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of a hand: 'Hand; 1947'; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987; Cropped print; page 68-69.</title>
@@ -1607,7 +1607,7 @@
       <note displayLabel="Photo Dimensions">12" x 16"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0146">
+  <xmlDoc id="descMetadata" objectId="146">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture with nine figures; alternating exposures on each figure: 'Large Standing Woman I; II; III; IV; 1960'.</title>
@@ -1617,7 +1617,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0147">
+  <xmlDoc id="descMetadata" objectId="147">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture with eight figures (distorted): 'The Forest, 1950'; From the book: Alberto Giacometti / photographed by Herbert Matter ; text by Mercedes Matter ; foreword by Louis Finkelstein ; with an introduction by Andrew Forge; New York : Abrams; 1987; Printed variation  page 86-87.</title>
@@ -1627,7 +1627,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0148">
+  <xmlDoc id="descMetadata" objectId="148">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>3/4  view of grouped sculptures on black background: 'The Forest, 1950'.</title>
@@ -1637,7 +1637,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0149">
+  <xmlDoc id="descMetadata" objectId="149">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Photograph of painting: 'Head; 1961'; Oil on canvas.</title>
@@ -1647,7 +1647,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0150">
+  <xmlDoc id="descMetadata" objectId="150">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sculpture of man's head distorted view.</title>
@@ -1657,7 +1657,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0151">
+  <xmlDoc id="descMetadata" objectId="151">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Wrapped sculpture with photographic effect; Studio interior.</title>
@@ -1667,7 +1667,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0152">
+  <xmlDoc id="descMetadata" objectId="152">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Saarinen, Eero; Chairs with projected shadows.</title>
@@ -1678,7 +1678,7 @@
       <note>Image is 6" x 6 "</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0153">
+  <xmlDoc id="descMetadata" objectId="153">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Two children's of Harry Bertoia; Chairs with small Noguchi table</title>
@@ -1689,7 +1689,7 @@
       <note displayLabel="Back of photo 1">Marked in pencil '425 NB 87 F-2'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0154">
+  <xmlDoc id="descMetadata" objectId="154">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Saarinen, Eero; Womb Chair with chimney sweeper.</title>
@@ -1701,7 +1701,7 @@
       <note displayLabel="Photographic processing techniques">Matted</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0155">
+  <xmlDoc id="descMetadata" objectId="155">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Bertoia, Harry.</title>
@@ -1712,7 +1712,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Studio Associates' and 'Herbert Matter'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0156">
+  <xmlDoc id="descMetadata" objectId="156">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Pair of Bertoia's children's chairs</title>
@@ -1728,7 +1728,7 @@
       </subject>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0157">
+  <xmlDoc id="descMetadata" objectId="157">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Saarinen, Eero; Shell chair backs with projected shadows.</title>
@@ -1738,7 +1738,7 @@
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0158">
+  <xmlDoc id="descMetadata" objectId="158">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Abstract overlay of Harry Bertoia; Chairs</title>
@@ -1748,7 +1748,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0159">
+  <xmlDoc id="descMetadata" objectId="159">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Lights in a glass; Theodore Waddell's Light Sticks</title>
@@ -1758,7 +1758,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0160">
+  <xmlDoc id="descMetadata" objectId="160">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Waddell, Theodore; 'Light Sticks'.</title>
@@ -1768,7 +1768,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0161">
+  <xmlDoc id="descMetadata" objectId="161">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Profile view of Eero Saarinen; Pedestal chair</title>
@@ -1778,7 +1778,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0162">
+  <xmlDoc id="descMetadata" objectId="162">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Group shot of Mies van de Rohe; Furniture line</title>
@@ -1788,7 +1788,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0163">
+  <xmlDoc id="descMetadata" objectId="163">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Group shot of Warren Platner; Furniture line</title>
@@ -1798,7 +1798,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0164">
+  <xmlDoc id="descMetadata" objectId="164">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Group shot of Hans Wagner; Furniture line</title>
@@ -1808,7 +1808,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0165">
+  <xmlDoc id="descMetadata" objectId="165">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Group shot of Richard Schultz; Furniture line</title>
@@ -1818,7 +1818,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0166">
+  <xmlDoc id="descMetadata" objectId="166">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Group shot of Bertoia Furniture line</title>
@@ -1833,7 +1833,7 @@
       </subject>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0167">
+  <xmlDoc id="descMetadata" objectId="167">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Bertoia, Harry; Prototype chair group.</title>
@@ -1843,7 +1843,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0168">
+  <xmlDoc id="descMetadata" objectId="168">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Group shot of Eero Saarinen; Upholstered furniture line</title>
@@ -1853,7 +1853,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0169">
+  <xmlDoc id="descMetadata" objectId="169">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Group shot of Eero Saarinen; Pedestal furniture line</title>
@@ -1863,7 +1863,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0170">
+  <xmlDoc id="descMetadata" objectId="170">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Bare tree branches</title>
@@ -1874,7 +1874,7 @@
       <note displayLabel="Back of photo 1">In pencil on back: 'Z' circled.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0171">
+  <xmlDoc id="descMetadata" objectId="171">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Airplane propeller</title>
@@ -1885,7 +1885,7 @@
       <note displayLabel="Back of photo 1">Signed on front in ink 'Herbert Matter' On back Galerie Littmann stamp in ink 'Photograph by Herbert Matter Zurich 1935'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0172">
+  <xmlDoc id="descMetadata" objectId="172">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Colorado Highway road signs</title>
@@ -1896,7 +1896,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Black Star Herbert Matter'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0173">
+  <xmlDoc id="descMetadata" objectId="173">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Chicago rail yards</title>
@@ -1907,7 +1907,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Black Star Herbert Matter'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0174">
+  <xmlDoc id="descMetadata" objectId="174">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Crowded beach; Coney Island</title>
@@ -1918,7 +1918,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Black Star Herbert Matter': '4424': 'sports bathing beach'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0175">
+  <xmlDoc id="descMetadata" objectId="175">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>'Mrs. Brooks Laundry' sign</title>
@@ -1929,7 +1929,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0176">
+  <xmlDoc id="descMetadata" objectId="176">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Bermuda; abstract seascape</title>
@@ -1940,7 +1940,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter' Marked on back in pencil 'Bermuda'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0177">
+  <xmlDoc id="descMetadata" objectId="177">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Bermuda shoreline with large rocks</title>
@@ -1951,7 +1951,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter' Marked on back in pencil 'Bermuda'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0178">
+  <xmlDoc id="descMetadata" objectId="178">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Statue with tiled roof tops; church in background</title>
@@ -1962,7 +1962,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter' Marked on back in pencil 'Roofs oro Preto Brasil'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0179">
+  <xmlDoc id="descMetadata" objectId="179">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Wisteria trees; Sea Island, Georgia.</title>
@@ -1973,7 +1973,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter' Marked on back in pencil 'Sea Island Georgia'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0180">
+  <xmlDoc id="descMetadata" objectId="180">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Seagulls over ocean; Seagulls, Gaspe, Canada, 1937</title>
@@ -1981,13 +1981,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1937</dateCreated>
+        <dateCreated qualifier="approximate">1937</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 8 1/2"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'photo'  'Herbert Matter'  written in pencil '12450'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0181">
+  <xmlDoc id="descMetadata" objectId="181">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Rooftops; Ouro Preto, Brazil.</title>
@@ -1999,7 +1999,7 @@
       <note displayLabel="Back of photo 2">written in pencil 'Roofs OVRO PRETO Brasil'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0182">
+  <xmlDoc id="descMetadata" objectId="182">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Distressed covered wagon (Old West)</title>
@@ -2010,7 +2010,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Photo Herbert Matter'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0183">
+  <xmlDoc id="descMetadata" objectId="183">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Close up of cow in field</title>
@@ -2021,7 +2021,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Studio Associates' and 'Herbert Matter' Marked on back in pencil 'alone'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0184">
+  <xmlDoc id="descMetadata" objectId="184">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Gaspe, Canada; 1937; View of coastal town reflected in water.</title>
@@ -2029,13 +2029,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1937</dateCreated>
+        <dateCreated qualifier="approximate">1937</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">9" x 13 1/2"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Studio Associates' and 'Herbert Matter' with circled '2' in pencil.'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0185">
+  <xmlDoc id="descMetadata" objectId="185">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Colonial building</title>
@@ -2046,7 +2046,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'University Va'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0186">
+  <xmlDoc id="descMetadata" objectId="186">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Docked boats</title>
@@ -2057,7 +2057,7 @@
       <note displayLabel="Back of photo 1">Stamped on back: 'Herbert Matter' Marked on back in pencil '12279'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0187">
+  <xmlDoc id="descMetadata" objectId="187">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Close up religious statue Brazil</title>
@@ -2068,7 +2068,7 @@
       <note displayLabel="Back of photo 1">In pencil on back '48' underlined.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0188">
+  <xmlDoc id="descMetadata" objectId="188">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Lever House scale model; Shot for MOMA</title>
@@ -2076,14 +2076,14 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1954</dateCreated>
+        <dateCreated qualifier="approximate">1954</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Studio Associates' and 'Photography by Herbert Matter'.</note>
       <note displayLabel="Back of photo 2">Yellow post-it not on back of print with writing in black ink 'Lever House Lever House Model. Shot for MOMA Ca. 1954 Reply [sic] in April (Lever House)'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0189">
+  <xmlDoc id="descMetadata" objectId="189">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Navajo Adobe home with tree and large white clouds in background; Santa Fe; 1942; New Mexico</title>
@@ -2094,7 +2094,7 @@
       <note displayLabel="Photographic processing techniques">Infra-red photography</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0190">
+  <xmlDoc id="descMetadata" objectId="190">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Southwest vista; Near Santa Fe, 1942; New Mexico.</title>
@@ -2105,7 +2105,7 @@
       <note displayLabel="Photographic processing techniques">Infra-red photography</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0191">
+  <xmlDoc id="descMetadata" objectId="191">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Bermuda; large tree in foreground with smaller surrounding trees</title>
@@ -2118,7 +2118,7 @@
       <note displayLabel="Photographic processing techniques">Infra-red photography.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0192">
+  <xmlDoc id="descMetadata" objectId="192">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Wavy brick pattern in pavement; South America</title>
@@ -2130,7 +2130,7 @@
       <note displayLabel="Photographic processing techniques">Infra-red photography.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0193">
+  <xmlDoc id="descMetadata" objectId="193">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Snow scene with river in background</title>
@@ -2141,7 +2141,7 @@
       <note displayLabel="Photographic processing techniques">Infra-red photography.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0194">
+  <xmlDoc id="descMetadata" objectId="194">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Trees with farm houses; Canada</title>
@@ -2152,7 +2152,7 @@
       <note displayLabel="Photographic processing techniques">Infra-red photography.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0195">
+  <xmlDoc id="descMetadata" objectId="195">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Winter trees; mountains; sky with lake in background</title>
@@ -2163,7 +2163,7 @@
       <note displayLabel="Photographic processing techniques">Infra-red photography.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0196">
+  <xmlDoc id="descMetadata" objectId="196">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Field with church  in background with clouds; Canada</title>
@@ -2174,7 +2174,7 @@
       <note displayLabel="Photographic processing techniques">Infra-red photography.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0197">
+  <xmlDoc id="descMetadata" objectId="197">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mountains with trees below</title>
@@ -2186,7 +2186,7 @@
       <note displayLabel="Photographic processing techniques">Infra-red photography.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0198">
+  <xmlDoc id="descMetadata" objectId="198">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>View of bare trees and branches</title>
@@ -2196,7 +2196,7 @@
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0199">
+  <xmlDoc id="descMetadata" objectId="199">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Close up of ice on tree branches</title>
@@ -2206,7 +2206,7 @@
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0200">
+  <xmlDoc id="descMetadata" objectId="200">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Snow on mountains with snow on roof top resort lodges</title>
@@ -2216,7 +2216,7 @@
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0201">
+  <xmlDoc id="descMetadata" objectId="201">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mountain blanketed with snow</title>
@@ -2226,7 +2226,7 @@
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0202">
+  <xmlDoc id="descMetadata" objectId="202">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Ocean with clouds (horizontal)</title>
@@ -2236,7 +2236,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0203">
+  <xmlDoc id="descMetadata" objectId="203">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Boat masts</title>
@@ -2246,7 +2246,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0204">
+  <xmlDoc id="descMetadata" objectId="204">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Driftwood only; From Mercedes Matter; Nude series; Provincetown, MA</title>
@@ -2254,12 +2254,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
+        <dateCreated qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0205">
+  <xmlDoc id="descMetadata" objectId="205">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Wisteria trees; Sea Island, Georgia.</title>
@@ -2269,7 +2269,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0206">
+  <xmlDoc id="descMetadata" objectId="206">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Field of daisies</title>
@@ -2279,7 +2279,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0207">
+  <xmlDoc id="descMetadata" objectId="207">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Driftwood only (higher contrast of previous image); From Mercedes Matter; Nude series; Provincetown, MA.</title>
@@ -2287,12 +2287,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
+        <dateCreated qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0208">
+  <xmlDoc id="descMetadata" objectId="208">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Coastal town reflected in water; Gaspe, Canada; 1937.</title>
@@ -2302,7 +2302,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0209">
+  <xmlDoc id="descMetadata" objectId="209">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Trees with snow; frost; ice</title>
@@ -2312,7 +2312,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0210">
+  <xmlDoc id="descMetadata" objectId="210">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Boat Hull; Gaspe, Canada II, 1937</title>
@@ -2322,7 +2322,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0211">
+  <xmlDoc id="descMetadata" objectId="211">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Rooster on window sill</title>
@@ -2332,7 +2332,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0212">
+  <xmlDoc id="descMetadata" objectId="212">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Water coming up on shore from left</title>
@@ -2342,7 +2342,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0213">
+  <xmlDoc id="descMetadata" objectId="213">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>View of coastal town; Gaspe, Canada; 1937.</title>
@@ -2352,7 +2352,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0214">
+  <xmlDoc id="descMetadata" objectId="214">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Fire escape building exterior; New York City</title>
@@ -2362,7 +2362,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0215">
+  <xmlDoc id="descMetadata" objectId="215">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Sand and grass only; From Mercedes Matter; Nude series; Provincetown, MA 1940.</title>
@@ -2370,12 +2370,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
+        <dateCreated qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0216">
+  <xmlDoc id="descMetadata" objectId="216">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Female nude statuary</title>
@@ -2385,7 +2385,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0217">
+  <xmlDoc id="descMetadata" objectId="217">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Driftwood on beach; Provincetown, MA; 1940.</title>
@@ -2393,12 +2393,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
+        <dateCreated qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">6 1/2" x 6 1/4"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0218">
+  <xmlDoc id="descMetadata" objectId="218">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Set of prints from series of Mercedes Matter nudes; Provincetown, MA, [Board 2 of 3].</title>
@@ -2406,13 +2406,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
+        <dateCreated qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11 1/2" x 14 1/2"</note>
       <note>Group of 2 1/2" negatives mounted on board</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0219">
+  <xmlDoc id="descMetadata" objectId="219">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Set of prints from series of Mercedes Matter nudes; Provincetown; MA; [Board 1 of 3]</title>
@@ -2420,13 +2420,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
+        <dateCreated qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11 1/2" x 14 1/2"</note>
       <note>Group of 2 1/2" negatives mounted on board</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0220">
+  <xmlDoc id="descMetadata" objectId="220">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Set of prints from series of Mercedes Matter nudes; Provincetown, MA, [Board 3 of 3].</title>
@@ -2434,13 +2434,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
+        <dateCreated qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11 1/2" x 14 1/2"</note>
       <note>Group of 2 1/2" negatives mounted on board</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0221">
+  <xmlDoc id="descMetadata" objectId="221">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mercedes Matter dancing (black on white background); 'Figure in Motion; 1939'</title>
@@ -2451,7 +2451,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Photograph by Herbert Matter Studio Associates: Inc. 2 West 37th Street: N.Y.C.'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0222">
+  <xmlDoc id="descMetadata" objectId="222">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mercedes with driftwood; shadows from upper thigh; Provincetown,MA.</title>
@@ -2459,13 +2459,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
+        <dateCreated qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">10" x 10"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Studio Associates' and 'Herbert Matter'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0223">
+  <xmlDoc id="descMetadata" objectId="223">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mercedes Matter dancing (black on white background); 'Figure in Motion; 1939'</title>
@@ -2475,7 +2475,7 @@
       <note displayLabel="Photo Dimensions">5 1/2" x 4 1/2"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0224">
+  <xmlDoc id="descMetadata" objectId="224">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mercedes with driftwood; head and showing one breast; Provincetown, MA.</title>
@@ -2483,12 +2483,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1940</dateCreated>
+        <dateCreated>1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0225">
+  <xmlDoc id="descMetadata" objectId="225">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mercedes in profile with hair blowing across her face; Provincetown, MA.</title>
@@ -2496,12 +2496,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
+        <dateCreated qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">15 3/4" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0226">
+  <xmlDoc id="descMetadata" objectId="226">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mercedes Matter profile with hair across face with long neck and shoulder on white background; Provincetown, MA.</title>
@@ -2509,12 +2509,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
+        <dateCreated qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0227">
+  <xmlDoc id="descMetadata" objectId="227">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mercedes Matter 'Hands in Movement, 1939'.</title>
@@ -2522,12 +2522,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1939</dateCreated>
+        <dateCreated qualifier="approximate">1939</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0228">
+  <xmlDoc id="descMetadata" objectId="228">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mercedes with driftwood frontal view; Provincetown, MA.</title>
@@ -2535,12 +2535,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
+        <dateCreated qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0229">
+  <xmlDoc id="descMetadata" objectId="229">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mercedes with driftwood arm overhead; Provincetown, MA.</title>
@@ -2548,12 +2548,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
+        <dateCreated qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">10 1/2" x 12 1/2"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0230">
+  <xmlDoc id="descMetadata" objectId="230">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mercedes with driftwood; head and hand only; Provincetown; MA</title>
@@ -2561,12 +2561,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1940</dateCreated>
+        <dateCreated qualifier="approximate">1940</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">10" x 12"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0231">
+  <xmlDoc id="descMetadata" objectId="231">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Detail of Jackson Pollock painting; Black on white</title>
@@ -2577,7 +2577,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Studio Associates: Inc. 2 West 37th Street New York 18: N.Y.'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0232">
+  <xmlDoc id="descMetadata" objectId="232">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Man dressing</title>
@@ -2585,13 +2585,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1944</dateCreated>
+        <dateCreated>1944</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note>1 1/2" tear on the bottom right hand side of image.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0233">
+  <xmlDoc id="descMetadata" objectId="233">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Hand inside fabric; White hand against dark fabric</title>
@@ -2602,7 +2602,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Photograph by Hebert Matter Studio Associates: Inc. 2 West 37th Street: N.Y.C.'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0234">
+  <xmlDoc id="descMetadata" objectId="234">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Hand inside fabric; White hand against white fabric</title>
@@ -2613,7 +2613,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Photograph by Hebert Matter Studio Associates: Inc. 2 West 37th Street: N.Y.C.'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0235">
+  <xmlDoc id="descMetadata" objectId="235">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>East Indian dancer; Pravina</title>
@@ -2624,7 +2624,7 @@
       <note displayLabel="Back of photo 1">Written on back in pencil is '102'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0236">
+  <xmlDoc id="descMetadata" objectId="236">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Loaf of bread</title>
@@ -2635,7 +2635,7 @@
       <note displayLabel="Back of photo 1">written on back in pencil is '4' and 'T' on top edge.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0237">
+  <xmlDoc id="descMetadata" objectId="237">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>East Indian dancer; Pravina</title>
@@ -2643,14 +2643,14 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">3/17/1948</dateCreated>
+        <dateCreated>3/17/48</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Written on back in pencil is 'Defective paper' and '15850-0-14'</note>
       <note displayLabel="Back of photo 2">stamped on back is 'Matter: Vogue Studios' and 'Copyright not to be reproduced without written permission from the Conde Nast Publications: Inc.'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0238">
+  <xmlDoc id="descMetadata" objectId="238">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Cabbage (solarized); 1943</title>
@@ -2661,7 +2661,7 @@
       <note displayLabel="Back of photo 1">Written in pencil on back is 'Top'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0239">
+  <xmlDoc id="descMetadata" objectId="239">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Thread; buttons; and shape of cross against black background; photogram</title>
@@ -2672,7 +2672,7 @@
       <note displayLabel="Photographic processing techniques">photogram.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0240">
+  <xmlDoc id="descMetadata" objectId="240">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Thread, string, paper clips, and safety pins.</title>
@@ -2683,7 +2683,7 @@
       <note displayLabel="Photographic processing techniques">photogram.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0241">
+  <xmlDoc id="descMetadata" objectId="241">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>White pins on black background; photogram</title>
@@ -2695,7 +2695,7 @@
       <note displayLabel="Photographic processing techniques">photogram.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0242">
+  <xmlDoc id="descMetadata" objectId="242">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Electrical discharge emulsion</title>
@@ -2703,12 +2703,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1943</dateCreated>
+        <dateCreated>1943</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">5" x 3 1/2"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0243">
+  <xmlDoc id="descMetadata" objectId="243">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Fabric against black background</title>
@@ -2718,7 +2718,7 @@
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0244">
+  <xmlDoc id="descMetadata" objectId="244">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>East Indian dancer; Pravina</title>
@@ -2728,7 +2728,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0245">
+  <xmlDoc id="descMetadata" objectId="245">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Electrical discharge emulsion</title>
@@ -2736,12 +2736,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1943</dateCreated>
+        <dateCreated>1943</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0246">
+  <xmlDoc id="descMetadata" objectId="246">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Ink and Glycerine; 1944</title>
@@ -2751,7 +2751,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0247">
+  <xmlDoc id="descMetadata" objectId="247">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Herbert Matter handprint</title>
@@ -2761,7 +2761,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0248">
+  <xmlDoc id="descMetadata" objectId="248">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>East Indian dancer; Pravina</title>
@@ -2771,7 +2771,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0249">
+  <xmlDoc id="descMetadata" objectId="249">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mercedes Matter with students at New York Studio School</title>
@@ -2782,7 +2782,7 @@
       <note displayLabel="Back of photo 1">Marked in pencil on back '28605' and 'NSC-9-25'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0250">
+  <xmlDoc id="descMetadata" objectId="250">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Navajo Indian woman carrying a baby on her back; Santa Fe, NM.</title>
@@ -2790,13 +2790,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1942</dateCreated>
+        <dateCreated qualifier="approximate">1942</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
       <note displayLabel="Back of photo 1">Marked in pencil on back '361'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0251">
+  <xmlDoc id="descMetadata" objectId="251">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Philip Pearstein with students at the New York Studio School</title>
@@ -2807,7 +2807,7 @@
       <note displayLabel="Back of photo 1">Marked on back in pencil '54' and '12'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0252">
+  <xmlDoc id="descMetadata" objectId="252">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>World's Fair 1939 Parade Officials; New York</title>
@@ -2815,13 +2815,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1939</dateCreated>
+        <dateCreated>1939</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 8"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0253">
+  <xmlDoc id="descMetadata" objectId="253">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Laszlo Moholy Nagy reading notes in front of the New Bauhaus; Chicago, IL, 1937.</title>
@@ -2829,13 +2829,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1937</dateCreated>
+        <dateCreated qualifier="approximate">1937</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">7 " x 10"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0254">
+  <xmlDoc id="descMetadata" objectId="254">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Walter Gropius speaking at the Palmer House; Chicago; Related to New Bauhaus; 1937</title>
@@ -2843,13 +2843,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1937</dateCreated>
+        <dateCreated qualifier="approximate">1937</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">7 " x 10"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0255">
+  <xmlDoc id="descMetadata" objectId="255">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Navajo Indian chief in headdress in profile; Santa Fe, NM.</title>
@@ -2857,13 +2857,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1942</dateCreated>
+        <dateCreated>1942</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">13" x 11"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0256">
+  <xmlDoc id="descMetadata" objectId="256">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Laszlo Moholy Nagy speaking at the Palmer House; Chicago; Related to New Bauhaus; 1937</title>
@@ -2871,13 +2871,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1937</dateCreated>
+        <dateCreated qualifier="approximate">1937</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">7 " x 10"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0257">
+  <xmlDoc id="descMetadata" objectId="257">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Female model; Archer</title>
@@ -2888,7 +2888,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Herbert Matter' and '4660' is also written on verso of image. '</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0258">
+  <xmlDoc id="descMetadata" objectId="258">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Raymond Loewy in studio; House and Garden magazine</title>
@@ -2896,14 +2896,14 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">5/3/1949</dateCreated>
+        <dateCreated>5/3/49</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
       <note displayLabel="Back of photo 1">Stamped on back 'Matter: Vogue Studios'.</note>
       <note displayLabel="Back of photo 2">Yellow post-it note on back with writing in pencil 'H&amp;G 1949'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0259">
+  <xmlDoc id="descMetadata" objectId="259">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Navajo Indian man; ceremonial dance; Santa Fe, NM.</title>
@@ -2911,13 +2911,13 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1942</dateCreated>
+        <dateCreated qualifier="approximate">1942</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <note displayLabel="Back of photo 1">Stamped on back: 'Herbert Matter'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0260">
+  <xmlDoc id="descMetadata" objectId="260">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Unidentified woman with light drawing</title>
@@ -2928,7 +2928,7 @@
       <note>Chip to surface (intact).</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0261">
+  <xmlDoc id="descMetadata" objectId="261">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Willem de Kooning in his studio</title>
@@ -2944,7 +2944,7 @@
       </subject>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0262">
+  <xmlDoc id="descMetadata" objectId="262">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Young South American girl walking with baskets balanced on her head</title>
@@ -2955,7 +2955,7 @@
       <note displayLabel="Photographic processing techniques">Matted</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0263">
+  <xmlDoc id="descMetadata" objectId="263">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Paulette Goddard in black wig</title>
@@ -2966,7 +2966,7 @@
       <note displayLabel="Photographic processing techniques">enlarged contact sheet.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0264">
+  <xmlDoc id="descMetadata" objectId="264">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Maquette of skier</title>
@@ -2977,7 +2977,7 @@
       <note displayLabel="Photographic processing techniques">mounted on board.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0265">
+  <xmlDoc id="descMetadata" objectId="265">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Reverse negative print of young woman with Rose in her mouth; Model; Hess, Trudi.</title>
@@ -2987,7 +2987,7 @@
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0266">
+  <xmlDoc id="descMetadata" objectId="266">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Close up of young Asian child</title>
@@ -2997,7 +2997,7 @@
       <note displayLabel="Photo Dimensions">7 " x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0267">
+  <xmlDoc id="descMetadata" objectId="267">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Louis Armstrong with trumpet; Switzerland</title>
@@ -3007,7 +3007,7 @@
       <note displayLabel="Photo Dimensions">3" x 4 "</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0268">
+  <xmlDoc id="descMetadata" objectId="268">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mercedes Matter on boat; looking off camera right; 1941</title>
@@ -3015,12 +3015,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1941</dateCreated>
+        <dateCreated qualifier="approximate">1941</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0269">
+  <xmlDoc id="descMetadata" objectId="269">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Four African Americans in water</title>
@@ -3030,7 +3030,7 @@
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0270">
+  <xmlDoc id="descMetadata" objectId="270">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Closeup of young Asian children</title>
@@ -3040,7 +3040,7 @@
       <note displayLabel="Photo Dimensions">7 3/4" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0271">
+  <xmlDoc id="descMetadata" objectId="271">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>A.M. Cassandre with pipe in mouth; New York City</title>
@@ -3050,7 +3050,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0272">
+  <xmlDoc id="descMetadata" objectId="272">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mies van der Rohe close up; 1965</title>
@@ -3058,12 +3058,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1965</dateCreated>
+        <dateCreated>1965</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0273">
+  <xmlDoc id="descMetadata" objectId="273">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Eero Saarinen in bowtie; looking off-camera; 1948</title>
@@ -3071,12 +3071,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1948</dateCreated>
+        <dateCreated qualifier="approximate">1948</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0274">
+  <xmlDoc id="descMetadata" objectId="274">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Fernand Leger portrait sitting; 1939</title>
@@ -3084,12 +3084,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1939</dateCreated>
+        <dateCreated>1939</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0275">
+  <xmlDoc id="descMetadata" objectId="275">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Skier with '322' competition sash on back; Switzerland</title>
@@ -3099,7 +3099,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0276">
+  <xmlDoc id="descMetadata" objectId="276">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Young girl with large dark eyes: 'Gypsy Girl, 1929'</title>
@@ -3109,7 +3109,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0277">
+  <xmlDoc id="descMetadata" objectId="277">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Girl swimmer with wet hair; Model; Hess, Trudi.</title>
@@ -3119,7 +3119,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0278">
+  <xmlDoc id="descMetadata" objectId="278">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Navajo Indian boy; Santa Fe, NM</title>
@@ -3127,12 +3127,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1942</dateCreated>
+        <dateCreated qualifier="approximate">1942</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0279">
+  <xmlDoc id="descMetadata" objectId="279">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Girl with hair across her face: 'First Portrait, Paris, 1928'.</title>
@@ -3140,12 +3140,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1928</dateCreated>
+        <dateCreated qualifier="approximate">1928</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0280">
+  <xmlDoc id="descMetadata" objectId="280">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Close up of girl with fingers to eyebrows; Model; Hess, Trudi.</title>
@@ -3155,7 +3155,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0281">
+  <xmlDoc id="descMetadata" objectId="281">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Close up of older Navajo Indian woman; Santa Fe, NM.</title>
@@ -3163,12 +3163,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1942</dateCreated>
+        <dateCreated qualifier="approximate">1942</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">8" x 10"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0282">
+  <xmlDoc id="descMetadata" objectId="282">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Baseball glove and baseball with shadow</title>
@@ -3178,7 +3178,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0283">
+  <xmlDoc id="descMetadata" objectId="283">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>East Indian dancer and young boy sitting together; 1948</title>
@@ -3186,12 +3186,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1948</dateCreated>
+        <dateCreated qualifier="approximate">1948</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0284">
+  <xmlDoc id="descMetadata" objectId="284">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Mark Rothko in his studio</title>
@@ -3206,7 +3206,7 @@
       </subject>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0285">
+  <xmlDoc id="descMetadata" objectId="285">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Stacked Eames children's chairs</title>
@@ -3221,7 +3221,7 @@
       </subject>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0286">
+  <xmlDoc id="descMetadata" objectId="286">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Navajo Indian boy in costume dancing; Santa Fe, NM.</title>
@@ -3229,12 +3229,12 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1942</dateCreated>
+        <dateCreated qualifier="approximate">1942</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0287">
+  <xmlDoc id="descMetadata" objectId="287">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Film strips; Photogram; Fortune magazine cover July, 1948.</title>
@@ -3246,7 +3246,7 @@
       <note displayLabel="Back of photo 1">written on back in pencil '13' and is circled.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0288">
+  <xmlDoc id="descMetadata" objectId="288">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Shirley Temple doll head molds</title>
@@ -3257,7 +3257,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'photo' and 'Herbert Matter'</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0289">
+  <xmlDoc id="descMetadata" objectId="289">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Shirley Temple dolls on assembly line</title>
@@ -3268,7 +3268,7 @@
       <note displayLabel="Back of photo 1">Stamped on back 'Photo' and 'Herbert Matter'.</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0290">
+  <xmlDoc id="descMetadata" objectId="290">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Atomic head; Arts &amp; Architecture cover December, 1946.</title>
@@ -3278,7 +3278,7 @@
       <note displayLabel="Photo Dimensions">16" x 20"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0291">
+  <xmlDoc id="descMetadata" objectId="291">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Jackson Pollock painting</title>
@@ -3288,7 +3288,7 @@
       <note displayLabel="Photo Dimensions">11" x 14"</note>
     </mods>
   </xmlDoc>
-  <xmlDoc id="descMetadata" objectId="0292">
+  <xmlDoc id="descMetadata" objectId="292">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
         <title>Circular rotating drum; Motion study; Eames demonstration drum; 1946</title>
@@ -3296,7 +3296,7 @@
       </titleInfo>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" qualifier="approximate">1946</dateCreated>
+        <dateCreated qualifier="approximate">1946</dateCreated>
       </originInfo>
       <note displayLabel="Photo Dimensions">11" x 14"</note>
       <subject>

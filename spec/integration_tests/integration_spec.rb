@@ -18,9 +18,10 @@ describe Modsulator do
       'PosadaSpreadsheet.xlsx' => 'PosadaSpreadsheet.xml',
       'ars0056_manifest.csv' => 'ars0056_manifest.xml',
       'manifest_v0174.csv' => 'manifest_v0174.xml',
-      'roman_coins_mods_manifest.csv' => 'roman_coins_mods_manifest.xml',
+      'roman_coins_mods.xlsx' => 'roman_coins_mods.xml',
       'crowdsourcing_bridget_1.xlsx' => 'crowdsourcing_bridget_1.xml',
       'crowdsourcing_bridget_2.xlsx' => 'crowdsourcing_bridget_2.xml'
+      'Heckrotte_ChartsOfCoastSurvey.xlsx' => 'Heckrotte_ChartsOfCoastSurvey.xml'
     }.each do |testfile, results_file|
       it "converts #{testfile} correctly to valid XML" do
         generated_xml_string = Modsulator.new(File.join(FIXTURES_DIR, testfile), testfile).convert_rows()

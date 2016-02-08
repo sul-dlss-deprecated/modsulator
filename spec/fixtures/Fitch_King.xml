@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2015-04-23 02:27:47PM" sourceFile="Fitch_King.xlsx">
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2016-02-05 03:53:24PM" sourceFile="Fitch_King.xlsx">
   <xmlDoc id="descMetadata" objectId="00001">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
@@ -13,13 +13,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084324">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -43,13 +43,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084325">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -73,13 +73,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084326">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -103,13 +103,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084327">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -133,13 +133,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084328">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -163,13 +163,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084329">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -193,13 +193,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084330">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -223,13 +223,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084331">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -253,13 +253,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1965</dateCreated>
+        <dateCreated>1965</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084332">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -283,13 +283,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1965</dateCreated>
+        <dateCreated>1965</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084333">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -313,13 +313,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1965</dateCreated>
+        <dateCreated>1965</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084334">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -343,13 +343,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084335">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -373,13 +373,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084336">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -403,13 +403,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084337">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -433,13 +433,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1695</dateCreated>
+        <dateCreated>1695</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084338">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -463,18 +463,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084339">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://lccn.loc.gov/n90698381">
+        <name>
           <namePart>Bevel, James L. (James Luther), 1936-2008</namePart>
         </name>
       </subject>
@@ -498,18 +498,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084340">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n80015456">
+        <name>
           <namePart>Young, Andrew, 1932-</namePart>
         </name>
       </subject>
@@ -533,23 +533,23 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084341">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://lccn.loc.gov/n79095315">
+        <name>
           <namePart>Poitier, Sidney</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n84028909">
+        <name>
           <namePart>Belafonte, Harry, 1927-</namePart>
         </name>
       </subject>
@@ -578,13 +578,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084342">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -608,13 +608,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084343">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -638,18 +638,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084344">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://lccn.loc.gov/n50032466">
+        <name>
           <namePart>Carmichael, Stokely</namePart>
         </name>
       </subject>
@@ -668,23 +668,23 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084345">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/nr00001706">
+        <name>
           <namePart>King, Yolonda</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n90643791">
+        <name>
           <namePart>Williams, Hosea, 1926-</namePart>
         </name>
       </subject>
@@ -708,18 +708,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084346">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://lccn.loc.gov/n79091168">
+        <name>
           <namePart>Kennedy, Edward M. (Edward Moore), 1932-2009</namePart>
         </name>
       </subject>
@@ -738,13 +738,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084347">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -768,13 +768,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084348">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -798,13 +798,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084349">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -814,7 +814,7 @@
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/no99063179">
+        <name>
           <namePart>Lawson, James M., 1928-</namePart>
         </name>
       </subject>
@@ -838,18 +838,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084350">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n80015456">
+        <name>
           <namePart>Young, Andrew, 1932-</namePart>
         </name>
       </subject>
@@ -873,23 +873,23 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084351">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n90604924">
+        <name>
           <namePart>Shuttlesworth, Fred L., 1922-2011</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/no99063179">
+        <name>
           <namePart>Lawson, James M., 1928-</namePart>
         </name>
       </subject>
@@ -913,13 +913,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084352">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -943,18 +943,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084353">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50027794">
+        <name>
           <namePart>Jackson, Jesse, 1941-</namePart>
         </name>
       </subject>
@@ -978,18 +978,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084354">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50019193">
+        <name>
           <namePart>Baez, Joan</namePart>
         </name>
       </subject>
@@ -1013,23 +1013,23 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084355">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50027794">
+        <name>
           <namePart>Jackson, Jesse, 1941-</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50019193">
+        <name>
           <namePart>Baez, Joan</namePart>
         </name>
       </subject>
@@ -1061,17 +1061,17 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084356">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50019193">
+        <name>
           <namePart>Baez, Joan</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n84028909">
+        <name>
           <namePart>Belafonte, Harry, 1927-</namePart>
         </name>
       </subject>
@@ -1090,13 +1090,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084357">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -1130,13 +1130,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084358">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -1151,7 +1151,7 @@
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n80015456">
+        <name>
           <namePart>Young, Andrew, 1932-</namePart>
         </name>
       </subject>
@@ -1175,18 +1175,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084359">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50019193">
+        <name>
           <namePart>Baez, Joan</namePart>
         </name>
       </subject>
@@ -1210,13 +1210,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084360">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -1250,18 +1250,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084361">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50019193">
+        <name>
           <namePart>Baez, Joan</namePart>
         </name>
       </subject>
@@ -1285,18 +1285,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084362">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://lccn.loc.gov/n50032468">
+        <name>
           <namePart>Carmichael, Stokely</namePart>
         </name>
       </subject>
@@ -1320,13 +1320,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084363">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -1350,13 +1350,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084364">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -1380,13 +1380,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084365">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -1415,18 +1415,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084366">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/nr88004133">
+        <name>
           <namePart>McKissick, Floyd B. (Floyd Bixler), 1922-1991</namePart>
         </name>
       </subject>
@@ -1450,13 +1450,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084367">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -1480,13 +1480,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084368">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -1501,7 +1501,7 @@
         </name>
       </subject>
       <subject>
-        <name authority="http://lccn.loc.gov/n50032466">
+        <name>
           <namePart>Carmichael, Stokely</namePart>
         </name>
       </subject>
@@ -1525,13 +1525,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084369">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -1546,7 +1546,7 @@
         </name>
       </subject>
       <subject>
-        <name authority="http://lccn.loc.gov/n50032467">
+        <name>
           <namePart>Carmichael, Stokely</namePart>
         </name>
       </subject>
@@ -1570,13 +1570,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084370">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -1591,7 +1591,7 @@
         </name>
       </subject>
       <subject>
-        <name authority="http://lccn.loc.gov/n50032468">
+        <name>
           <namePart>Carmichael, Stokely</namePart>
         </name>
       </subject>
@@ -1618,17 +1618,17 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084371">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n87870916">
+        <name>
           <namePart>Abernathy, Ralph, 1926-1990</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50049525">
+        <name>
           <namePart>King, Coretta Scott, 1927-2006</namePart>
         </name>
       </subject>
@@ -1652,13 +1652,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084372">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -1685,12 +1685,12 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084373">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50032466">
+        <name>
           <namePart>Carmichael, Stokely</namePart>
         </name>
       </subject>
@@ -1717,12 +1717,12 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084374">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n87870916">
+        <name>
           <namePart>Abernathy, Ralph, 1926-1990</namePart>
         </name>
       </subject>
@@ -1732,7 +1732,7 @@
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n80015457">
+        <name>
           <namePart>Young, Andrew, 1932-</namePart>
         </name>
       </subject>
@@ -1751,18 +1751,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084375">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50032466">
+        <name>
           <namePart>Carmichael, Stokely</namePart>
         </name>
       </subject>
@@ -1789,7 +1789,7 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084376">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -1808,23 +1808,23 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084377">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://lccn.loc.gov/n79095315">
+        <name>
           <namePart>Poitier, Sidney</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n84028909">
+        <name>
           <namePart>Belafonte, Harry, 1927-</namePart>
         </name>
       </subject>
@@ -1853,13 +1853,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">196</dateCreated>
+        <dateCreated>196</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084378">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -1883,18 +1883,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084379">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/nr00001706">
+        <name>
           <namePart>King, Yolanda</namePart>
         </name>
       </subject>
@@ -1918,23 +1918,23 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084380">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/nr00001707">
+        <name>
           <namePart>King, Yolanda</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/no00061618">
+        <name>
           <namePart>King, Martin Luther, III</namePart>
         </name>
       </subject>
@@ -1958,18 +1958,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084381">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/no00061618">
+        <name>
           <namePart>King, Martin Luther, III</namePart>
         </name>
       </subject>
@@ -1993,13 +1993,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084382">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -2023,18 +2023,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084383">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n90604924">
+        <name>
           <namePart>Shuttlesworth, Fred L., 1922-2011</namePart>
         </name>
       </subject>
@@ -2044,7 +2044,7 @@
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n90643792">
+        <name>
           <namePart>Williams, Hosea, 1926-</namePart>
         </name>
       </subject>
@@ -2068,18 +2068,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084384">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n90604925">
+        <name>
           <namePart>Shuttlesworth, Fred L., 1922-2011</namePart>
         </name>
       </subject>
@@ -2089,7 +2089,7 @@
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n90643792">
+        <name>
           <namePart>Williams, Hosea, 1926-</namePart>
         </name>
       </subject>
@@ -2113,18 +2113,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084385">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n90604926">
+        <name>
           <namePart>Shuttlesworth, Fred L., 1922-2011</namePart>
         </name>
       </subject>
@@ -2148,13 +2148,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084386">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -2178,13 +2178,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084387">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -2208,18 +2208,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084388">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://lccn.loc.gov/n79091168">
+        <name>
           <namePart>Kennedy, Edward M. (Edward Moore), 1932-2009</namePart>
         </name>
       </subject>
@@ -2243,13 +2243,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084389">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -2273,13 +2273,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084390">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -2303,13 +2303,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084391">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -2333,13 +2333,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084392">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -2366,7 +2366,7 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084393">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -2385,18 +2385,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084394">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n80015456">
+        <name>
           <namePart>Young, Andrew, 1932-</namePart>
         </name>
       </subject>
@@ -2406,7 +2406,7 @@
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n2008013069">
+        <name>
           <namePart>Jones, Clarence B.</namePart>
         </name>
       </subject>
@@ -2430,18 +2430,18 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084395">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n80015457">
+        <name>
           <namePart>Young, Andrew, 1932-</namePart>
         </name>
       </subject>
@@ -2451,7 +2451,7 @@
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n2008013070">
+        <name>
           <namePart>Jones, Clarence B.</namePart>
         </name>
       </subject>
@@ -2475,13 +2475,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084396">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -2510,13 +2510,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084397">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>
@@ -2540,13 +2540,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1966</dateCreated>
+        <dateCreated>1966</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n79084398">
+        <name>
           <namePart>King, Martin Luther, Jr., 1929-1968</namePart>
         </name>
       </subject>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2015-04-23 02:29:26PM" sourceFile="ars0056_manifest.csv">
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2016-02-05 04:57:24PM" sourceFile="ars0056_manifest.csv">
   <xmlDoc id="descMetadata" objectId="rz801sr0145">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
@@ -52,7 +52,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">4/19/84</dateCreated>
-        <dateCreated keyDate="yes" point="end">4/27/84</dateCreated>
+        <dateCreated point="end">4/27/84</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -129,7 +129,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">5/4/84</dateCreated>
-        <dateCreated keyDate="yes" point="end">5/7/84</dateCreated>
+        <dateCreated point="end">5/7/84</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -3284,7 +3284,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">8/1/79</dateCreated>
-        <dateCreated keyDate="yes" point="end">1/20/81</dateCreated>
+        <dateCreated point="end">1/20/81</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -8809,7 +8809,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">2/8/81</dateCreated>
-        <dateCreated keyDate="yes" point="end">3/8/81</dateCreated>
+        <dateCreated point="end">3/8/81</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -8848,7 +8848,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">2/3/81</dateCreated>
-        <dateCreated keyDate="yes" point="end">2/20/81</dateCreated>
+        <dateCreated point="end">2/20/81</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -8887,7 +8887,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">2/24/81</dateCreated>
-        <dateCreated keyDate="yes" point="end">2/26/81</dateCreated>
+        <dateCreated point="end">2/26/81</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -8926,7 +8926,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">1/30/81</dateCreated>
-        <dateCreated keyDate="yes" point="end">2/26/81</dateCreated>
+        <dateCreated point="end">2/26/81</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -8965,7 +8965,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">1/30/81</dateCreated>
-        <dateCreated keyDate="yes" point="end">1981-02-18_x000B_</dateCreated>
+        <dateCreated point="end">2/18/81</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -9004,7 +9004,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">8/1/79</dateCreated>
-        <dateCreated keyDate="yes" point="end">2/18/81</dateCreated>
+        <dateCreated point="end">2/18/81</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -9043,7 +9043,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">1/20/81</dateCreated>
-        <dateCreated keyDate="yes" point="end">2/21/80</dateCreated>
+        <dateCreated point="end">2/21/80</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -9082,7 +9082,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">3/11/81</dateCreated>
-        <dateCreated keyDate="yes" point="end">3/13/81</dateCreated>
+        <dateCreated point="end">3/13/81</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -9121,7 +9121,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">1/30/81</dateCreated>
-        <dateCreated keyDate="yes" point="end">2/12/81</dateCreated>
+        <dateCreated point="end">2/12/81</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -9160,7 +9160,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">6/5/09</dateCreated>
-        <dateCreated keyDate="yes" point="end">2/18/81</dateCreated>
+        <dateCreated point="end">2/18/81</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -9199,7 +9199,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">2/20/80</dateCreated>
-        <dateCreated keyDate="yes" point="end">2/23/80</dateCreated>
+        <dateCreated point="end">2/23/80</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -9238,7 +9238,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">2/2/81</dateCreated>
-        <dateCreated keyDate="yes" point="end">2/9/81</dateCreated>
+        <dateCreated point="end">2/9/81</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -9277,7 +9277,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">3/16/81</dateCreated>
-        <dateCreated keyDate="yes" point="end">5/7/82</dateCreated>
+        <dateCreated point="end">5/7/82</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
@@ -9316,7 +9316,7 @@
       <typeOfResource>sound recording-nonmusical</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">5/18/81</dateCreated>
-        <dateCreated keyDate="yes" point="end">6/3/82</dateCreated>
+        <dateCreated point="end">6/3/82</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">eng</languageTerm>
