@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <titleInfo authority="[[ti1:authority]]" authorityURI="[[ti1:authorityURI]]" valueURI="[[ti1:valueURI]]" nameTitleGroup="[[ti1:nameTitleGroup]]">
     <nonSort>[[ti1:nonSort]]</nonSort>
     <title>[[ti1:title]]</title>
