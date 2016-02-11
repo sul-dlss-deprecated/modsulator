@@ -1213,6 +1213,26 @@
     <shelfLocator>[[lo:callNumber]]</shelfLocator>
     <url>[[lo:purl]]</url>
   </location>
+  <part>
+    <detail type="[[pt:type1]]">
+      <number>[[pt:number1]]</number>
+      <caption>[[pt:caption1]]</caption>
+      <title>[[pt:title1]]</title>
+    </detail>
+    <detail type="[[pt:type2]]">
+      <number>[[pt:number2]]</number>
+      <caption>[[pt:caption2]]</caption>
+      <title>[[pt:title2]]</title>
+    </detail>
+    <date encoding="[[pt:encoding1]]" point="[[pt:point1]]" qualifier="[[pt:qualifier1]]">[[pt:date2]]</date>
+    <date encoding="[[pt:encoding2]]" point="[[pt:point2]]" qualifier="[[pt:qualifier2]]">[[pt:date2]]</date>
+    <extent unit="[[pt:unit]]">
+      <start>[[pt:start]]</start>
+      <end>[[pt:end]]</end>
+      <list>[[pt:list]]</list>
+      <total>[[pt:total]]</total>
+    </extent>
+  </part>
   <relatedItem type="[[ri1:type]]" displayLabel="[[ri1:displayLabel]]">
     <titleInfo>
       <title>[[ri1:title]]</title>
@@ -1245,6 +1265,26 @@
     <location>
       <url>[[ri1:url]]</url>
     </location>
+    <part>
+      <detail type="[[ri1:pt:type1]]">
+        <number>[[ri1:pt:number1]]</number>
+        <caption>[[ri1:pt:caption1]]</caption>
+        <title>[[ri1:pt:title1]]</title>
+      </detail>
+      <detail type="[[ri1:pt:type2]]">
+        <number>[[ri1:pt:number2]]</number>
+        <caption>[[ri1:pt:caption2]]</caption>
+        <title>[[ri1:pt:title2]]</title>
+      </detail>
+      <date encoding="[[ri1:pt:encoding1]]" point="[[ri1:pt:point1]]" qualifier="[[ri1:pt:qualifier1]]">[[ri1:pt:date2]]</date>
+      <date encoding="[[ri1:pt:encoding2]]" point="[[ri1:pt:point2]]" qualifier="[[ri1:pt:qualifier2]]">[[ri1:pt:date2]]</date>
+      <extent unit="[[ri1:pt:unit]]">
+        <start>[[ri1:pt:start]]</start>
+        <end>[[ri1:pt:end]]</end>
+        <list>[[ri1:pt:list]]</list>
+        <total>[[ri1:pt:total]]</total>
+      </extent>
+    </part>
   </relatedItem>
   <relatedItem type="[[ri2:type]]" displayLabel="[[ri2:displayLabel]]">
     <titleInfo>
@@ -1278,6 +1318,26 @@
     <location>
       <url>[[ri2:url]]</url>
     </location>
+    <part>
+      <detail type="[[ri2:pt:type1]]">
+        <number>[[ri2:pt:number1]]</number>
+        <caption>[[ri2:pt:caption1]]</caption>
+        <title>[[ri2:pt:title1]]</title>
+      </detail>
+      <detail type="[[ri2:pt:type2]]">
+        <number>[[ri2:pt:number2]]</number>
+        <caption>[[ri2:pt:caption2]]</caption>
+        <title>[[ri2:pt:title2]]</title>
+      </detail>
+      <date encoding="[[ri2:pt:encoding1]]" point="[[ri2:pt:point1]]" qualifier="[[ri2:pt:qualifier1]]">[[ri2:pt:date2]]</date>
+      <date encoding="[[ri2:pt:encoding2]]" point="[[ri2:pt:point2]]" qualifier="[[ri2:pt:qualifier2]]">[[ri2:pt:date2]]</date>
+      <extent unit="[[ri2:pt:unit]]">
+        <start>[[ri2:pt:start]]</start>
+        <end>[[ri2:pt:end]]</end>
+        <list>[[ri2:pt:list]]</list>
+        <total>[[ri2:pt:total]]</total>
+      </extent>
+    </part>
   </relatedItem>
   <relatedItem type="[[ri3:type]]" displayLabel="[[ri3:displayLabel]]">
     <titleInfo>
@@ -1311,6 +1371,26 @@
     <location>
       <url>[[ri3:url]]</url>
     </location>
+    <part>
+      <detail type="[[ri3:pt:type1]]">
+        <number>[[ri3:pt:number1]]</number>
+        <caption>[[ri3:pt:caption1]]</caption>
+        <title>[[ri3:pt:title1]]</title>
+      </detail>
+      <detail type="[[ri3:pt:type2]]">
+        <number>[[ri3:pt:number2]]</number>
+        <caption>[[ri3:pt:caption2]]</caption>
+        <title>[[ri3:pt:title2]]</title>
+      </detail>
+      <date encoding="[[ri3:pt:encoding1]]" point="[[ri3:pt:point1]]" qualifier="[[ri3:pt:qualifier1]]">[[ri3:pt:date2]]</date>
+      <date encoding="[[ri3:pt:encoding2]]" point="[[ri3:pt:point2]]" qualifier="[[ri3:pt:qualifier2]]">[[ri3:pt:date2]]</date>
+      <extent unit="[[ri3:pt:unit]]">
+        <start>[[ri3:pt:start]]</start>
+        <end>[[ri3:pt:end]]</end>
+        <list>[[ri3:pt:list]]</list>
+        <total>[[ri3:pt:total]]</total>
+      </extent>
+    </part>
   </relatedItem>
   <extension displayLabel="geo">
     <rdf:RDF xmlns:gml="http://www.opengis.net/gml/3.2/" xmlns:dc="http://purl.org/dc/elements/1.1/">
