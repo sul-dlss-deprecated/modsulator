@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2015-04-23 03:11:32PM" sourceFile="Fitch_Chavez.xlsx">
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2016-02-05 04:42:52PM" sourceFile="Fitch_Chavez.xlsx">
   <xmlDoc id="descMetadata" objectId="0009">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
@@ -16,7 +16,7 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038224">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -35,13 +35,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038225">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -65,13 +65,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038226">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -90,13 +90,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038227">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -115,13 +115,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038228">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -148,7 +148,7 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038229">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -172,13 +172,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038230">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -202,13 +202,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038231">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -232,13 +232,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038232">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -262,19 +262,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038233">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n91078832">Huerta, Dolores, 1930-</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n91078832">
+        <name>
           <namePart>Huerta, Dolores, 1930-</namePart>
         </name>
       </subject>
@@ -298,19 +298,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038234">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n91078833">Huerta, Dolores, 1930-</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n91078833">
+        <name>
           <namePart>Huerta, Dolores, 1930-</namePart>
         </name>
       </subject>
@@ -334,13 +334,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038235">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic>Chavez, Manuel</topic>
@@ -370,13 +370,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1974</dateCreated>
+        <dateCreated>1974</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038236">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic>Agbayani, Paulo</topic>
@@ -401,13 +401,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1970</dateCreated>
+        <dateCreated>1970</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038237">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -431,13 +431,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1970</dateCreated>
+        <dateCreated>1970</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038238">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -461,13 +461,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1970</dateCreated>
+        <dateCreated>1970</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038239">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -491,13 +491,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1970</dateCreated>
+        <dateCreated>1970</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038240">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -521,13 +521,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038241">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -551,13 +551,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038242">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -581,13 +581,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038243">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -611,13 +611,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038244">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -641,13 +641,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038245">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -671,13 +671,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038246">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -701,13 +701,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038247">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -731,13 +731,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038248">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -764,7 +764,7 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038249">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -786,7 +786,7 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038250">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -808,7 +808,7 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038251">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -830,7 +830,7 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038252">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -852,7 +852,7 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038253">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -874,7 +874,7 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038254">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -896,7 +896,7 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038255">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -915,13 +915,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038256">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic>Agbayani, Paulo</topic>
@@ -946,13 +946,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038257">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -971,19 +971,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038258">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50035121">Day, Dorothy, 1897-1980</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50035121">
+        <name>
           <namePart>Day, Dorothy, 1897-1980</namePart>
         </name>
       </subject>
@@ -1007,19 +1007,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1970</dateCreated>
+        <dateCreated>1970</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038259">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50035122">Day, Dorothy, 1897-1980</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50035122">
+        <name>
           <namePart>Day, Dorothy, 1897-1980</namePart>
         </name>
       </subject>
@@ -1043,19 +1043,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038260">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50035123">Day, Dorothy, 1897-1980</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50035123">
+        <name>
           <namePart>Day, Dorothy, 1897-1980</namePart>
         </name>
       </subject>
@@ -1079,19 +1079,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038261">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50035124">Day, Dorothy, 1897-1980</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50035124">
+        <name>
           <namePart>Day, Dorothy, 1897-1980</namePart>
         </name>
       </subject>
@@ -1115,19 +1115,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038262">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50035125">Day, Dorothy, 1897-1980</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50035125">
+        <name>
           <namePart>Day, Dorothy, 1897-1980</namePart>
         </name>
       </subject>
@@ -1151,19 +1151,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038263">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50035126">Day, Dorothy, 1897-1980</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50035126">
+        <name>
           <namePart>Day, Dorothy, 1897-1980</namePart>
         </name>
       </subject>
@@ -1187,19 +1187,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038264">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50035127">Day, Dorothy, 1897-1980</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50035127">
+        <name>
           <namePart>Day, Dorothy, 1897-1980</namePart>
         </name>
       </subject>
@@ -1223,19 +1223,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038265">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50035128">Day, Dorothy, 1897-1980</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50035128">
+        <name>
           <namePart>Day, Dorothy, 1897-1980</namePart>
         </name>
       </subject>
@@ -1245,7 +1245,7 @@
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n2006002043">
+        <name>
           <namePart>Ganz, Marshall, 1943-</namePart>
         </name>
       </subject>
@@ -1269,19 +1269,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038266">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50035129">Day, Dorothy, 1897-1980</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50035129">
+        <name>
           <namePart>Day, Dorothy, 1897-1980</namePart>
         </name>
       </subject>
@@ -1291,7 +1291,7 @@
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n2006002043">
+        <name>
           <namePart>Ganz, Marshall, 1943-</namePart>
         </name>
       </subject>
@@ -1315,19 +1315,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038267">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50035130">Day, Dorothy, 1897-1980</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50035130">
+        <name>
           <namePart>Day, Dorothy, 1897-1980</namePart>
         </name>
       </subject>
@@ -1351,19 +1351,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038268">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50035131">Day, Dorothy, 1897-1980</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50035131">
+        <name>
           <namePart>Day, Dorothy, 1897-1980</namePart>
         </name>
       </subject>
@@ -1387,19 +1387,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038269">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50035132">Day, Dorothy, 1897-1980</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50035132">
+        <name>
           <namePart>Day, Dorothy, 1897-1980</namePart>
         </name>
       </subject>
@@ -1423,19 +1423,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038270">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50035133">Day, Dorothy, 1897-1980</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50035133">
+        <name>
           <namePart>Day, Dorothy, 1897-1980</namePart>
         </name>
       </subject>
@@ -1459,19 +1459,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038271">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50035134">Day, Dorothy, 1897-1980</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50035134">
+        <name>
           <namePart>Day, Dorothy, 1897-1980</namePart>
         </name>
       </subject>
@@ -1495,13 +1495,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1970</dateCreated>
+        <dateCreated>1970</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038272">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic>Dolce, Danilo</topic>
@@ -1531,13 +1531,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1970</dateCreated>
+        <dateCreated>1970</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038273">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic>Dolce, Danilo</topic>
@@ -1567,13 +1567,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1970</dateCreated>
+        <dateCreated>1970</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038274">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -1600,7 +1600,7 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038275">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -1619,13 +1619,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1970</dateCreated>
+        <dateCreated>1970</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038276">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -1649,13 +1649,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1970</dateCreated>
+        <dateCreated>1970</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038277">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -1679,13 +1679,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038278">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -1712,7 +1712,7 @@
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038279">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -1731,13 +1731,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038280">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -1761,13 +1761,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1970</dateCreated>
+        <dateCreated>1970</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038281">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -1791,19 +1791,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038282">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n91078832">Huerta, Dolores, 1930-</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n91078832">
+        <name>
           <namePart>Huerta, Dolores, 1930-</namePart>
         </name>
       </subject>
@@ -1827,29 +1827,29 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1974</dateCreated>
+        <dateCreated>1974</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038283">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50019193">Baez, Joan</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50019193">
+        <name>
           <namePart>Baez, Joan</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n2006002043">
+        <name>
           <namePart>Ganz, Marshall, 1943-</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n91078832">
+        <name>
           <namePart>Huerta, Dolores, 1930-</namePart>
         </name>
       </subject>
@@ -1868,19 +1868,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038284">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n91078832">Huerta, Dolores, 1930-</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n91078832">
+        <name>
           <namePart>Huerta, Dolores, 1930-</namePart>
         </name>
       </subject>
@@ -1899,19 +1899,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038285">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n91078807">Ross, Fred, 1910-</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n91078807">
+        <name>
           <namePart>Ross, Fred, 1910-</namePart>
         </name>
       </subject>
@@ -1935,19 +1935,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038286">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n91078807">Ross, Fred, 1910-</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n91078807">
+        <name>
           <namePart>Ross, Fred, 1910-</namePart>
         </name>
       </subject>
@@ -1971,19 +1971,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038287">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n2006002043">Ganz, Marshall, 1943-</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n2006002043">
+        <name>
           <namePart>Ganz, Marshall, 1943-</namePart>
         </name>
       </subject>
@@ -2002,13 +2002,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038288">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2027,13 +2027,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038289">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2052,13 +2052,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038290">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2077,13 +2077,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038291">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2102,13 +2102,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038292">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic>Estrada, Juana</topic>
@@ -2138,13 +2138,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038293">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic>Estrada, Juana</topic>
@@ -2174,13 +2174,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038294">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic>Chavez, Richard</topic>
@@ -2210,13 +2210,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038295">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2240,13 +2240,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038296">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic>Majal, Taj</topic>
@@ -2257,7 +2257,7 @@
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50019193/">
+        <name>
           <namePart>Baez, Joan</namePart>
         </name>
       </subject>
@@ -2281,19 +2281,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038297">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50019193/">Baez, Joan</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50019193/">
+        <name>
           <namePart>Baez, Joan</namePart>
         </name>
       </subject>
@@ -2317,19 +2317,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038298">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50019193/">Baez, Joan</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50019193/">
+        <name>
           <namePart>Baez, Joan</namePart>
         </name>
       </subject>
@@ -2353,19 +2353,19 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038299">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50019193/">Baez, Joan</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50019193/">
+        <name>
           <namePart>Baez, Joan</namePart>
         </name>
       </subject>
@@ -2389,13 +2389,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038300">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2419,13 +2419,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038301">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2449,13 +2449,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038302">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2480,19 +2480,19 @@
       <typeOfResource>still image</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes">1973</dateCreated>
-        <dateIssued keyDate="yes">1975</dateIssued>
+        <dateIssued>1975</dateIssued>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038303">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n91078832">Huerta, Dolores, 1930-</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n91078832">
+        <name>
           <namePart>Huerta, Dolores, 1930-</namePart>
         </name>
       </subject>
@@ -2517,15 +2517,15 @@
       <typeOfResource>still image</typeOfResource>
       <originInfo>
         <dateCreated keyDate="yes" point="start">1972</dateCreated>
-        <dateCreated keyDate="yes" point="end">1973</dateCreated>
-        <dateIssued keyDate="yes" point="start">1976</dateIssued>
-        <dateIssued keyDate="yes" point="end">1977</dateIssued>
+        <dateCreated point="end">1973</dateCreated>
+        <dateIssued point="start">1976</dateIssued>
+        <dateIssued point="end">1977</dateIssued>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038304">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2544,14 +2544,14 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1972</dateCreated>
-        <dateCreated keyDate="yes" point="end">1973</dateCreated>
+        <dateCreated point="start">1972</dateCreated>
+        <dateCreated point="end">1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038305">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2570,14 +2570,14 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1972</dateCreated>
-        <dateCreated keyDate="yes" point="end">1973</dateCreated>
+        <dateCreated point="start">1972</dateCreated>
+        <dateCreated point="end">1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038306">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2596,14 +2596,14 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1972</dateCreated>
-        <dateCreated keyDate="yes" point="end">1973</dateCreated>
+        <dateCreated point="start">1972</dateCreated>
+        <dateCreated point="end">1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038307">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2622,14 +2622,14 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1972</dateCreated>
-        <dateCreated keyDate="yes" point="end">1973</dateCreated>
+        <dateCreated point="start">1972</dateCreated>
+        <dateCreated point="end">1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038308">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2648,14 +2648,14 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes" point="start">1972</dateCreated>
-        <dateCreated keyDate="yes" point="end">1973</dateCreated>
+        <dateCreated point="start">1972</dateCreated>
+        <dateCreated point="end">1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038309">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2674,13 +2674,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1970</dateCreated>
+        <dateCreated>1970</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038310">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic>Matheson, Peter</topic>
@@ -2715,13 +2715,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1970</dateCreated>
+        <dateCreated>1970</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038311">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2745,13 +2745,13 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1970</dateCreated>
+        <dateCreated>1970</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038312">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
       </subject>
@@ -2775,24 +2775,24 @@
       </name>
       <typeOfResource>still image</typeOfResource>
       <originInfo>
-        <dateCreated keyDate="yes">1973</dateCreated>
+        <dateCreated>1973</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="text">English</languageTerm>
       </language>
       <subject>
-        <name authority="http://lccn.loc.gov/n50038313">
+        <name>
           <namePart>Chavez, Cesar, 1927-1993</namePart>
         </name>
         <topic authority="http://id.loc.gov/authorities/names/n50049525">King, Coretta Scott, 1927-2006</topic>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n50049525">
+        <name>
           <namePart>King, Coretta Scott, 1927-2006</namePart>
         </name>
       </subject>
       <subject>
-        <name authority="http://id.loc.gov/authorities/names/n91078832">
+        <name>
           <namePart>Huerta, Dolores, 1930-</namePart>
         </name>
       </subject>

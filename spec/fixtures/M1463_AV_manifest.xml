@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2015-04-23 02:28:13PM" sourceFile="M1463_AV_manifest.xlsx">
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2016-02-05 03:55:00PM" sourceFile="M1463_AV_manifest.xlsx">
   <xmlDoc id="descMetadata" objectId="0008">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
@@ -50,7 +50,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1999 Dec</dateCreated>
+        <dateCreated>1999 Dec</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -86,7 +86,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1997 Aug</dateCreated>
+        <dateCreated>1997 Aug</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -122,7 +122,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1998 Dec</dateCreated>
+        <dateCreated>1998 Dec</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -158,7 +158,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1997 Oct</dateCreated>
+        <dateCreated>1997 Oct</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -194,7 +194,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1996 May</dateCreated>
+        <dateCreated>1996 May</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -263,7 +263,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1997 Sep 6</dateCreated>
+        <dateCreated>1997 Sep 6</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -299,7 +299,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1991 May 14</dateCreated>
+        <dateCreated>1991 May 14</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -335,7 +335,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">2002 Feb 13</dateCreated>
+        <dateCreated>2002 Feb 13</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -371,7 +371,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1998 Mar 1</dateCreated>
+        <dateCreated>1998 Mar 1</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -473,7 +473,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1997 May</dateCreated>
+        <dateCreated>1997 May</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -542,7 +542,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1996 Feb</dateCreated>
+        <dateCreated>1996 Feb</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -578,7 +578,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1996 Nov 15</dateCreated>
+        <dateCreated>1996 Nov 15</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -614,7 +614,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1996 Nov 15</dateCreated>
+        <dateCreated>1996 Nov 15</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -683,7 +683,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">2000</dateCreated>
+        <dateCreated>2000</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -719,7 +719,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">2002</dateCreated>
+        <dateCreated>2002</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -821,7 +821,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1997 Dec</dateCreated>
+        <dateCreated>1997 Dec</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -857,7 +857,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1996 Oct 24</dateCreated>
+        <dateCreated>1996 Oct 24</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -893,7 +893,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1998 Jul 8</dateCreated>
+        <dateCreated>1998 Jul 8</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -962,7 +962,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1995 Dec 13</dateCreated>
+        <dateCreated>1995 Dec 13</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -998,7 +998,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1998 Feb 6</dateCreated>
+        <dateCreated>1998 Feb 6</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1034,7 +1034,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1998 Apr 27</dateCreated>
+        <dateCreated>1998 Apr 27</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1235,7 +1235,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1999 Oct 4</dateCreated>
+        <dateCreated>1999 Oct 4</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1271,7 +1271,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">2000 Mar 18</dateCreated>
+        <dateCreated>2000 Mar 18</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1307,7 +1307,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">2002</dateCreated>
+        <dateCreated>2002</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1343,7 +1343,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">2001 May 19</dateCreated>
+        <dateCreated>2001 May 19</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1379,7 +1379,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">2000 May</dateCreated>
+        <dateCreated>2000 May</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1415,7 +1415,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">2000 Sep 19</dateCreated>
+        <dateCreated>2000 Sep 19</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1451,7 +1451,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1999</dateCreated>
+        <dateCreated>1999</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1487,7 +1487,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">2000 Sep 1</dateCreated>
+        <dateCreated>2000 Sep 1</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1523,7 +1523,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">2001 Mar 22</dateCreated>
+        <dateCreated>2001 Mar 22</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1625,7 +1625,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">2002</dateCreated>
+        <dateCreated>2002</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1661,7 +1661,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1997 May 8</dateCreated>
+        <dateCreated>1997 May 8</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1697,7 +1697,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1997 Apr</dateCreated>
+        <dateCreated>1997 Apr</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1733,7 +1733,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1996 Mar</dateCreated>
+        <dateCreated>1996 Mar</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1769,7 +1769,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1999 Mar</dateCreated>
+        <dateCreated>1999 Mar</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1805,7 +1805,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1996 Sep 5</dateCreated>
+        <dateCreated>1996 Sep 5</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1874,7 +1874,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">2000 Oct</dateCreated>
+        <dateCreated>2000 Oct</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1943,7 +1943,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1998 Jul</dateCreated>
+        <dateCreated>1998 Jul</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -1979,7 +1979,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1998 Sep</dateCreated>
+        <dateCreated>1998 Sep</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -2048,7 +2048,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1996 Jun</dateCreated>
+        <dateCreated>1996 Jun</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -2084,7 +2084,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1999 Apr</dateCreated>
+        <dateCreated>1999 Apr</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
@@ -2285,7 +2285,7 @@
       <typeOfResource>moving image</typeOfResource>
       <genre>Video recordings</genre>
       <originInfo>
-        <dateCreated keyDate="yes">1996 Sep</dateCreated>
+        <dateCreated>1996 Sep</dateCreated>
       </originInfo>
       <language>
         <languageTerm type="code">en</languageTerm>
