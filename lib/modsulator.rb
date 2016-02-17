@@ -106,12 +106,9 @@ class Modsulator
     # XML escape all of the entries in the manifest row so they won't break the XML. This will turn any '<' into &#lt;
     # and international characters into their corresponding code point etc.
     manifest_row.each do |k, v|
-      if(v)
-        if(v.instance_of?(String) && has_whitespace_markup?(v))
-          v = transform_whitespace_markup(v)
-        end
-        manifest_row[k] = Nokogiri::XML::Text.new(v.to_s, Nokogiri::XML('')).to_s
-      end
+      next unless v
+      v = transform_whitespace_markup(v) if v.instance_of?(String) && has_whitespace_markup?(v)
+      manifest_row[k] = Nokogiri::XML::Text.new(v.to_s, Nokogiri::XML('')).to_s
     end
     
 
