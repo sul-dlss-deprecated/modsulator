@@ -172,22 +172,6 @@ class Normalizer
   end
 
 
-  # Removes the point attribute from single <dateCreated> and <dateIssued> elements.
-  #
-  # @param [Nokogiri::XML::NodeSet]   nodes  A set of all affected <dateCreated> and <dateIssued> elements.
-  # @return [Void]                    The given document is modified in place.
-  def clean_date_attributes(nodes)
-
-    # Find all the <dateCreated> and <dateIssued> elements that are NOT immediately followed by another element with the same name
-    nodes.each do |current_element|
-      attributes = current_element.attributes
-      if(attributes.key?('point'))
-        current_element.remove_attribute('point')
-      end
-    end
-  end
-
-  
   # Sometimes there are spurious decimal digits within the date fields. This method removes any trailing decimal points within
   # <dateCreated> and <dateIssued>.
   #
@@ -215,7 +199,6 @@ class Normalizer
     remove_empty_attributes(root)
     remove_empty_nodes(root)
     trim_text(root)
-    clean_date_attributes(root.xpath(LONE_DATE_XPATH, 'mods' => MODS_NAMESPACE))
     clean_date_values(root.xpath(DATE_CREATED_ISSUED_XPATH, 'mods' => MODS_NAMESPACE))
   end
 
