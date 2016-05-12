@@ -1224,7 +1224,7 @@
       <caption>[[pt:caption2]]</caption>
       <title>[[pt:title2]]</title>
     </detail>
-    <date encoding="[[pt:encoding1]]" point="[[pt:point1]]" qualifier="[[pt:qualifier1]]">[[pt:date2]]</date>
+    <date encoding="[[pt:encoding1]]" point="[[pt:point1]]" qualifier="[[pt:qualifier1]]">[[pt:date1]]</date>
     <date encoding="[[pt:encoding2]]" point="[[pt:point2]]" qualifier="[[pt:qualifier2]]">[[pt:date2]]</date>
     <extent unit="[[pt:unit]]">
       <start>[[pt:start]]</start>
@@ -1276,7 +1276,7 @@
         <caption>[[ri1:pt:caption2]]</caption>
         <title>[[ri1:pt:title2]]</title>
       </detail>
-      <date encoding="[[ri1:pt:encoding1]]" point="[[ri1:pt:point1]]" qualifier="[[ri1:pt:qualifier1]]">[[ri1:pt:date2]]</date>
+      <date encoding="[[ri1:pt:encoding1]]" point="[[ri1:pt:point1]]" qualifier="[[ri1:pt:qualifier1]]">[[ri1:pt:date1]]</date>
       <date encoding="[[ri1:pt:encoding2]]" point="[[ri1:pt:point2]]" qualifier="[[ri1:pt:qualifier2]]">[[ri1:pt:date2]]</date>
       <extent unit="[[ri1:pt:unit]]">
         <start>[[ri1:pt:start]]</start>
@@ -1329,7 +1329,7 @@
         <caption>[[ri2:pt:caption2]]</caption>
         <title>[[ri2:pt:title2]]</title>
       </detail>
-      <date encoding="[[ri2:pt:encoding1]]" point="[[ri2:pt:point1]]" qualifier="[[ri2:pt:qualifier1]]">[[ri2:pt:date2]]</date>
+      <date encoding="[[ri2:pt:encoding1]]" point="[[ri2:pt:point1]]" qualifier="[[ri2:pt:qualifier1]]">[[ri2:pt:date1]]</date>
       <date encoding="[[ri2:pt:encoding2]]" point="[[ri2:pt:point2]]" qualifier="[[ri2:pt:qualifier2]]">[[ri2:pt:date2]]</date>
       <extent unit="[[ri2:pt:unit]]">
         <start>[[ri2:pt:start]]</start>
@@ -1382,7 +1382,7 @@
         <caption>[[ri3:pt:caption2]]</caption>
         <title>[[ri3:pt:title2]]</title>
       </detail>
-      <date encoding="[[ri3:pt:encoding1]]" point="[[ri3:pt:point1]]" qualifier="[[ri3:pt:qualifier1]]">[[ri3:pt:date2]]</date>
+      <date encoding="[[ri3:pt:encoding1]]" point="[[ri3:pt:point1]]" qualifier="[[ri3:pt:qualifier1]]">[[ri3:pt:date1]]</date>
       <date encoding="[[ri3:pt:encoding2]]" point="[[ri3:pt:point2]]" qualifier="[[ri3:pt:qualifier2]]">[[ri3:pt:date2]]</date>
       <extent unit="[[ri3:pt:unit]]">
         <start>[[ri3:pt:start]]</start>
