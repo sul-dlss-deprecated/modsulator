@@ -623,6 +623,10 @@
     <reformattingQuality>[[ph1:reformattingQuality]]</reformattingQuality>
     <digitalOrigin>[[ph1:digitalOrigin]]</digitalOrigin>
     <internetMediaType>[[ph1:internetMediaType]]</internetMediaType>
+    <internetMediaType>[[ph1:internetMediaType2]]</internetMediaType>
+    <internetMediaType>[[ph1:internetMediaType3]]</internetMediaType>
+    <internetMediaType>[[ph1:internetMediaType4]]</internetMediaType>
+    <internetMediaType>[[ph1:internetMediaType5]]</internetMediaType>
     <note displayLabel="[[ph1:displayLabel1]]">[[ph1:note1]]</note>
     <note displayLabel="[[ph1:displayLabel2]]">[[ph1:note2]]</note>
     <note displayLabel="[[ph1:displayLabel3]]">[[ph1:note3]]</note>
