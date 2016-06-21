@@ -1214,6 +1214,7 @@
   <identifier type="[[id5:type]]" displayLabel="[[id5:displayLabel]]">[[id5:identifier]]</identifier>
   <location>
     <physicalLocation type="repository" authority="[[lo:authority]]" valueURI="[[lo:valueURI]]">[[lo:repository]]</physicalLocation>
+    <physicalLocation type="discovery">[[lo:physicalLocation]]</physicalLocation>
     <shelfLocator>[[lo:callNumber]]</shelfLocator>
     <url>[[lo:purl]]</url>
   </location>
