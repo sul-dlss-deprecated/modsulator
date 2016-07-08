@@ -538,7 +538,7 @@
       <placeTerm type="code" authority="[[pl:authority]]" authorityURI="[[pl:authorityURI]]" valueURI="[[pl:valueURI]]">[[pl:placeCode]]</placeTerm>
       <placeTerm type="text" authority="[[pl:authority]]" authorityURI="[[pl:authorityURI]]" valueURI="[[pl:valueURI]]">[[pl:placeText]]</placeTerm>
     </place>
-    <publisher>[[or:publisher]]</publisher>
+    <publisher lang="[[or:publisherLanguage]]" script="[[or:publisherScript]]" transliteration="[[or:publisherTransliteration]]">[[or:publisher]]</publisher>
     <dateCreated keyDate="[[dt:dateCreatedKeyDate]]" encoding="[[dt:dateCreatedEncoding]]" qualifier="[[dt:dateCreatedQualifier]]" point="[[dt:dateCreatedPoint]]">[[dt:dateCreated]]</dateCreated>
     <dateCreated encoding="[[dt:dateCreatedEncoding]]" qualifier="[[dt:dateCreated2Qualifier]]" point="[[dt:dateCreated2Point]]">[[dt:dateCreated2]]</dateCreated>
     <dateIssued keyDate="[[dt:dateIssuedKeyDate]]" encoding="[[dt:dateIssuedEncoding]]" qualifier="[[dt:dateIssuedQualifier]]" point="[[dt:dateIssuedPoint]]">[[dt:dateIssued]]</dateIssued>
@@ -557,7 +557,7 @@
       <placeTerm type="code" authority="[[or2:pl:authority]]" authorityURI="[[or2:pl:authorityURI]]" valueURI="[[or2:pl:valueURI]]">[[or2:pl:placeCode]]</placeTerm>
       <placeTerm type="text" authority="[[or2:pl:authority]]" authorityURI="[[or2:pl:authorityURI]]" valueURI="[[or2:pl:valueURI]]">[[or2:pl:placeText]]</placeTerm>
     </place>
-    <publisher>[[or2:publisher]]</publisher>
+    <publisher lang="[[or2:publisherLanguage]]" script="[[or2:publisherScript]]" transliteration="[[or2:publisherTransliteration]]">[[or2:publisher]]</publisher>
     <dateCreated keyDate="[[or2:dt:dateCreatedKeyDate]]" encoding="[[or2:dt:dateCreatedEncoding]]" qualifier="[[or2:dt:dateCreatedQualifier]]" point="[[or2:dt:dateCreatedPoint]]">[[or2:dt:dateCreated]]</dateCreated>
     <dateCreated encoding="[[or2:dt:dateCreatedEncoding]]" qualifier="[[or2:dt:dateCreated2Qualifier]]" point="[[or2:dt:dateCreated2Point]]">[[or2:dt:dateCreated2]]</dateCreated>
     <dateIssued keyDate="[[or2:dt:dateIssuedKeyDate]]" encoding="[[or2:dt:dateIssuedEncoding]]" qualifier="[[or2:dt:dateIssuedQualifier]]" point="[[or2:dt:dateIssuedPoint]]">[[or2:dt:dateIssued]]</dateIssued>
@@ -576,7 +576,7 @@
       <placeTerm type="code" authority="[[or3:pl:authority]]" authorityURI="[[or3:pl:authorityURI]]" valueURI="[[or3:pl:valueURI]]">[[or3:pl:placeCode]]</placeTerm>
       <placeTerm type="text" authority="[[or3:pl:authority]]" authorityURI="[[or3:pl:authorityURI]]" valueURI="[[or3:pl:valueURI]]">[[or3:pl:placeText]]</placeTerm>
     </place>
-    <publisher>[[or3:publisher]]</publisher>
+    <publisher lang="[[or3:publisherLanguage]]" script="[[or3:publisherScript]]" transliteration="[[or3:publisherTransliteration]]">[[or3:publisher]]</publisher>
     <dateCreated keyDate="[[or3:dt:dateCreatedKeyDate]]" encoding="[[or3:dt:dateCreatedEncoding]]" qualifier="[[or3:dt:dateCreatedQualifier]]" point="[[or3:dt:dateCreatedPoint]]">[[or3:dt:dateCreated]]</dateCreated>
     <dateCreated encoding="[[or3:dt:dateCreatedEncoding]]" qualifier="[[or3:dt:dateCreated2Qualifier]]" point="[[or3:dt:dateCreated2Point]]">[[or3:dt:dateCreated2]]</dateCreated>
     <dateIssued keyDate="[[or3:dt:dateIssuedKeyDate]]" encoding="[[or3:dt:dateIssuedEncoding]]" qualifier="[[or3:dt:dateIssuedQualifier]]" point="[[or3:dt:dateIssuedPoint]]">[[or3:dt:dateIssued]]</dateIssued>
