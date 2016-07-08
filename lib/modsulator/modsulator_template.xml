@@ -636,29 +636,29 @@
     <internetMediaType>[[ph1:internetMediaType3]]</internetMediaType>
     <internetMediaType>[[ph1:internetMediaType4]]</internetMediaType>
     <internetMediaType>[[ph1:internetMediaType5]]</internetMediaType>
-    <note displayLabel="[[ph1:displayLabel1]]">[[ph1:note1]]</note>
-    <note displayLabel="[[ph1:displayLabel2]]">[[ph1:note2]]</note>
-    <note displayLabel="[[ph1:displayLabel3]]">[[ph1:note3]]</note>
-    <note displayLabel="[[ph1:displayLabel4]]">[[ph1:note4]]</note>
-    <note displayLabel="[[ph1:displayLabel5]]">[[ph1:note5]]</note>
-    <note displayLabel="[[ph1:displayLabel6]]">[[ph1:note6]]</note>
-    <note displayLabel="[[ph1:displayLabel7]]">[[ph1:note7]]</note>
-    <note displayLabel="[[ph1:displayLabel8]]">[[ph1:note8]]</note>
-    <note displayLabel="[[ph1:displayLabel9]]">[[ph1:note9]]</note>
+    <note displayLabel="[[ph1:displayLabel1]]" lang="[[ph1:language1]]" script="[[ph1:script1]]" transliteration="[[ph1:transliteration1]]">[[ph1:note1]]</note>
+    <note displayLabel="[[ph1:displayLabel2]]" lang="[[ph1:language2]]" script="[[ph1:script2]]" transliteration="[[ph1:transliteration2]]">[[ph1:note2]]</note>
+    <note displayLabel="[[ph1:displayLabel3]]" lang="[[ph1:language3]]" script="[[ph1:script3]]" transliteration="[[ph1:transliteration3]]">[[ph1:note3]]</note>
+    <note displayLabel="[[ph1:displayLabel4]]" lang="[[ph1:language4]]" script="[[ph1:script4]]" transliteration="[[ph1:transliteration4]]">[[ph1:note4]]</note>
+    <note displayLabel="[[ph1:displayLabel5]]" lang="[[ph1:language5]]" script="[[ph1:script5]]" transliteration="[[ph1:transliteration5]]">[[ph1:note5]]</note>
+    <note displayLabel="[[ph1:displayLabel6]]" lang="[[ph1:language6]]" script="[[ph1:script6]]" transliteration="[[ph1:transliteration6]]">[[ph1:note6]]</note>
+    <note displayLabel="[[ph1:displayLabel7]]" lang="[[ph1:language7]]" script="[[ph1:script7]]" transliteration="[[ph1:transliteration7]]">[[ph1:note7]]</note>
+    <note displayLabel="[[ph1:displayLabel8]]" lang="[[ph1:language8]]" script="[[ph1:script8]]" transliteration="[[ph1:transliteration8]]">[[ph1:note8]]</note>
+    <note displayLabel="[[ph1:displayLabel9]]" lang="[[ph1:language9]]" script="[[ph1:script9]]" transliteration="[[ph1:transliteration9]]">[[ph1:note9]]</note>
   </physicalDescription>
   <physicalDescription>
     <form authority="[[ph2:formAuthority]]" authorityURI="[[ph2:formAuthorityURI]]" valueURI="[[ph2:formValueURI]]">[[ph2:form]]</form>
     <extent>[[ph2:extent]]</extent>
     <reformattingQuality>[[ph2:reformattingQuality]]</reformattingQuality>
     <digitalOrigin>[[ph2:digitalOrigin]]</digitalOrigin>
-    <note displayLabel="[[ph2:displayLabel1]]">[[ph2:note1]]</note>
+    <note displayLabel="[[ph2:displayLabel1]]" lang="[[ph2:language1]]" script="[[ph2:script1]]" transliteration="[[ph2:transliteration1]]">[[ph2:note1]]</note>
   </physicalDescription>
   <physicalDescription>
     <form authority="[[ph3:formAuthority]]" authorityURI="[[ph3:formAuthorityURI]]" valueURI="[[ph3:formValueURI]]">[[ph3:form]]</form>
     <extent>[[ph3:extent]]</extent>
     <reformattingQuality>[[ph3:reformattingQuality]]</reformattingQuality>
     <digitalOrigin>[[ph3:digitalOrigin]]</digitalOrigin>
-    <note displayLabel="[[ph3:displayLabel1]]">[[ph3:note1]]</note>
+    <note displayLabel="[[ph3:displayLabel1]]" lang="[[ph3:language1]]" script="[[ph3:script1]]" transliteration="[[ph3:transliteration1]]">[[ph3:note1]]</note>
   </physicalDescription>
   <abstract displayLabel="[[ab:displayLabel]]">[[ab:abstract]]</abstract>
   <tableOfContents displayLabel="[[tc:displayLabel]]">[[tc:tableOfContents]]</tableOfContents>
