@@ -660,8 +660,8 @@
     <digitalOrigin>[[ph3:digitalOrigin]]</digitalOrigin>
     <note displayLabel="[[ph3:displayLabel1]]" lang="[[ph3:language1]]" script="[[ph3:script1]]" transliteration="[[ph3:transliteration1]]">[[ph3:note1]]</note>
   </physicalDescription>
-  <abstract displayLabel="[[ab:displayLabel]]">[[ab:abstract]]</abstract>
-  <tableOfContents displayLabel="[[tc:displayLabel]]">[[tc:tableOfContents]]</tableOfContents>
+  <abstract displayLabel="[[ab:displayLabel]]" lang="[[ab:language]]" script="[[ab:script]]" transliteration="[[ab:transliteration]]">[[ab:abstract]]</abstract>
+  <tableOfContents displayLabel="[[tc:displayLabel]]" lang="[[tc:language]]" script="[[tc:script]]" transliteration="[[tc:transliteration]]">[[tc:tableOfContents]]</tableOfContents>
   <note type="[[no1:type]]" displayLabel="[[no1:displayLabel]]">[[no1:note]]</note>
   <note type="[[no2:type]]" displayLabel="[[no2:displayLabel]]">[[no2:note]]</note>
   <note type="[[no3:type]]" displayLabel="[[no3:displayLabel]]">[[no3:note]]</note>
