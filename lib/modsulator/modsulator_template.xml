@@ -662,26 +662,26 @@
   </physicalDescription>
   <abstract displayLabel="[[ab:displayLabel]]" lang="[[ab:language]]" script="[[ab:script]]" transliteration="[[ab:transliteration]]">[[ab:abstract]]</abstract>
   <tableOfContents displayLabel="[[tc:displayLabel]]" lang="[[tc:language]]" script="[[tc:script]]" transliteration="[[tc:transliteration]]">[[tc:tableOfContents]]</tableOfContents>
-  <note type="[[no1:type]]" displayLabel="[[no1:displayLabel]]">[[no1:note]]</note>
-  <note type="[[no2:type]]" displayLabel="[[no2:displayLabel]]">[[no2:note]]</note>
-  <note type="[[no3:type]]" displayLabel="[[no3:displayLabel]]">[[no3:note]]</note>
-  <note type="[[no4:type]]" displayLabel="[[no4:displayLabel]]">[[no4:note]]</note>
-  <note type="[[no5:type]]" displayLabel="[[no5:displayLabel]]">[[no5:note]]</note>
-  <note type="[[no6:type]]" displayLabel="[[no6:displayLabel]]">[[no6:note]]</note>
-  <note type="[[no7:type]]" displayLabel="[[no7:displayLabel]]">[[no7:note]]</note>
-  <note type="[[no8:type]]" displayLabel="[[no8:displayLabel]]">[[no8:note]]</note>
-  <note type="[[no9:type]]" displayLabel="[[no9:displayLabel]]">[[no9:note]]</note>
-  <note type="[[no10:type]]" displayLabel="[[no10:displayLabel]]">[[no10:note]]</note>
-  <note type="[[no11:type]]" displayLabel="[[no11:displayLabel]]">[[no11:note]]</note>
-  <note type="[[no12:type]]" displayLabel="[[no12:displayLabel]]">[[no12:note]]</note>
-  <note type="[[no13:type]]" displayLabel="[[no13:displayLabel]]">[[no13:note]]</note>
-  <note type="[[no14:type]]" displayLabel="[[no14:displayLabel]]">[[no14:note]]</note>
-  <note type="[[no15:type]]" displayLabel="[[no15:displayLabel]]">[[no15:note]]</note>
-  <note type="[[no16:type]]" displayLabel="[[no16:displayLabel]]">[[no16:note]]</note>
-  <note type="[[no17:type]]" displayLabel="[[no17:displayLabel]]">[[no17:note]]</note>
-  <note type="[[no18:type]]" displayLabel="[[no18:displayLabel]]">[[no18:note]]</note>
-  <note type="[[no19:type]]" displayLabel="[[no19:displayLabel]]">[[no19:note]]</note>
-  <note type="[[no20:type]]" displayLabel="[[no20:displayLabel]]">[[no20:note]]</note>
+  <note type="[[no1:type]]" displayLabel="[[no1:displayLabel]]" lang="[[no1:language]]" script="[[no1:script]]" transliteration="[[no1:transliteration]]" altRepGroup="[[no1:altRepGroup]]">[[no1:note]]</note>
+  <note type="[[no2:type]]" displayLabel="[[no2:displayLabel]]" lang="[[no2:language]]" script="[[no2:script]]" transliteration="[[no2:transliteration]]" altRepGroup="[[no2:altRepGroup]]">[[no2:note]]</note>
+  <note type="[[no3:type]]" displayLabel="[[no3:displayLabel]]" lang="[[no3:language]]" script="[[no3:script]]" transliteration="[[no3:transliteration]]" altRepGroup="[[no3:altRepGroup]]">[[no3:note]]</note>
+  <note type="[[no4:type]]" displayLabel="[[no4:displayLabel]]" lang="[[no4:language]]" script="[[no4:script]]" transliteration="[[no4:transliteration]]" altRepGroup="[[no4:altRepGroup]]">[[no4:note]]</note>
+  <note type="[[no5:type]]" displayLabel="[[no5:displayLabel]]" lang="[[no5:language]]" script="[[no5:script]]" transliteration="[[no5:transliteration]]" altRepGroup="[[no5:altRepGroup]]">[[no5:note]]</note>
+  <note type="[[no6:type]]" displayLabel="[[no6:displayLabel]]" lang="[[no6:language]]" script="[[no6:script]]" transliteration="[[no6:transliteration]]" altRepGroup="[[no6:altRepGroup]]">[[no6:note]]</note>
+  <note type="[[no7:type]]" displayLabel="[[no7:displayLabel]]" lang="[[no7:language]]" script="[[no7:script]]" transliteration="[[no7:transliteration]]" altRepGroup="[[no7:altRepGroup]]">[[no7:note]]</note>
+  <note type="[[no8:type]]" displayLabel="[[no8:displayLabel]]" lang="[[no8:language]]" script="[[no8:script]]" transliteration="[[no8:transliteration]]" altRepGroup="[[no8:altRepGroup]]">[[no8:note]]</note>
+  <note type="[[no9:type]]" displayLabel="[[no9:displayLabel]]" lang="[[no9:language]]" script="[[no9:script]]" transliteration="[[no9:transliteration]]" altRepGroup="[[no9:altRepGroup]]">[[no9:note]]</note>
+  <note type="[[no10:type]]" displayLabel="[[no10:displayLabel]]" lang="[[no10:language]]" script="[[no10:script]]" transliteration="[[no10:transliteration]]" altRepGroup="[[no10:altRepGroup]]">[[no10:note]]</note>
+  <note type="[[no11:type]]" displayLabel="[[no11:displayLabel]]" lang="[[no11:language]]" script="[[no11:script]]" transliteration="[[no11:transliteration]]" altRepGroup="[[no11:altRepGroup]]">[[no11:note]]</note>
+  <note type="[[no12:type]]" displayLabel="[[no12:displayLabel]]" lang="[[no12:language]]" script="[[no12:script]]" transliteration="[[no12:transliteration]]" altRepGroup="[[no12:altRepGroup]]">[[no12:note]]</note>
+  <note type="[[no13:type]]" displayLabel="[[no13:displayLabel]]" lang="[[no13:language]]" script="[[no13:script]]" transliteration="[[no13:transliteration]]" altRepGroup="[[no13:altRepGroup]]">[[no13:note]]</note>
+  <note type="[[no14:type]]" displayLabel="[[no14:displayLabel]]" lang="[[no14:language]]" script="[[no14:script]]" transliteration="[[no14:transliteration]]" altRepGroup="[[no14:altRepGroup]]">[[no14:note]]</note>
+  <note type="[[no15:type]]" displayLabel="[[no15:displayLabel]]" lang="[[no15:language]]" script="[[no15:script]]" transliteration="[[no15:transliteration]]" altRepGroup="[[no15:altRepGroup]]">[[no15:note]]</note>
+  <note type="[[no16:type]]" displayLabel="[[no16:displayLabel]]" lang="[[no16:language]]" script="[[no16:script]]" transliteration="[[no16:transliteration]]" altRepGroup="[[no16:altRepGroup]]">[[no16:note]]</note>
+  <note type="[[no17:type]]" displayLabel="[[no17:displayLabel]]" lang="[[no17:language]]" script="[[no17:script]]" transliteration="[[no17:transliteration]]" altRepGroup="[[no17:altRepGroup]]">[[no17:note]]</note>
+  <note type="[[no18:type]]" displayLabel="[[no18:displayLabel]]" lang="[[no18:language]]" script="[[no18:script]]" transliteration="[[no18:transliteration]]" altRepGroup="[[no18:altRepGroup]]">[[no18:note]]</note>
+  <note type="[[no19:type]]" displayLabel="[[no19:displayLabel]]" lang="[[no19:language]]" script="[[no19:script]]" transliteration="[[no19:transliteration]]" altRepGroup="[[no19:altRepGroup]]">[[no19:note]]</note>
+  <note type="[[no20:type]]" displayLabel="[[no20:displayLabel]]" lang="[[no20:language]]" script="[[no20:script]]" transliteration="[[no20:transliteration]]" altRepGroup="[[no20:altRepGroup]]">[[no20:note]]</note>
   <subject authority="[[sn1:authority]]" authorityURI="[[sn1:authorityURI]]" valueURI="[[sn1:valueURI]]">
     <name type="[[sn1:p1:nameType]]" authority="[[sn1:p1:nm:authority]]" authorityURI="[[sn1:p1:nm:authorityURI]]" valueURI="[[sn1:p1:nm:valueURI]]">
       <namePart>[[sn1:p1:name]]</namePart>
