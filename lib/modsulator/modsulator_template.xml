@@ -547,8 +547,8 @@
     <dateCaptured encoding="[[dt:dateCapturedEncoding]]" qualifier="[[dt:dateCaptured2Qualifier]]" point="[[dt:dateCaptured2Point]]">[[dt:dateCaptured2]]</dateCaptured>
     <copyrightDate keyDate="[[dt:copyrightDateKeyDate]]" encoding="[[dt:copyrightDateEncoding]]" qualifier="[[dt:copyrightDateQualifier]]" point="[[dt:copyrightDatePoint]]">[[dt:copyrightDate]]</copyrightDate>
     <copyrightDate encoding="[[dt:copyrightDateEncoding]]" qualifier="[[dt:copyrightDate2Qualifier]]" point="[[dt:copyrightDate2Point]]">[[dt:copyrightDate2]]</copyrightDate>
-    <dateOther keyDate="[[dt:dateOtherKeyDate]]" type="[[dt:dateOtherType]]" encoding="[[dt:dateOtherEncoding]]" qualifier="[[dt:dateOtherQualifier]]" point="[[dt:dateOtherPoint]]">[[dt:dateOther]]</dateOther>
-    <dateOther type="[[dt:dateOtherType]]" encoding="[[dt:dateOtherEncoding]]" qualifier="[[dt:dateOther2Qualifier]]" point="[[dt:dateOther2Point]]">[[dt:dateOther2]]</dateOther>
+    <dateOther keyDate="[[dt:dateOtherKeyDate]]" type="[[dt:dateOtherType]]" encoding="[[dt:dateOtherEncoding]]" qualifier="[[dt:dateOtherQualifier]]" point="[[dt:dateOtherPoint]]" script="[[dt:dateOtherScript]]" transliteration="[[dt:dateOtherTransliteration]]">[[dt:dateOther]]</dateOther>
+    <dateOther type="[[dt:dateOtherType]]" encoding="[[dt:dateOtherEncoding]]" qualifier="[[dt:dateOther2Qualifier]]" point="[[dt:dateOther2Point]]" script="[[dt:dateOtherScript]]" transliteration="[[dt:dateOtherTransliteration]]">[[dt:dateOther2]]</dateOther>
     <edition>[[or:edition]]</edition>
     <issuance>[[or:issuance]]</issuance>
   </originInfo>
@@ -566,8 +566,8 @@
     <dateCaptured encoding="[[or2:dt:dateCapturedEncoding]]" qualifier="[[or2:dt:dateCaptured2Qualifier]]" point="[[or2:dt:dateCaptured2Point]]">[[or2:dt:dateCaptured2]]</dateCaptured>
     <copyrightDate keyDate="[[or2:dt:copyrightDateKeyDate]]" encoding="[[or2:dt:copyrightDateEncoding]]" qualifier="[[or2:dt:copyrightDateQualifier]]" point="[[or2:dt:copyrightDatePoint]]">[[or2:dt:copyrightDate]]</copyrightDate>
     <copyrightDate encoding="[[or2:dt:copyrightDateEncoding]]" qualifier="[[or2:dt:copyrightDate2Qualifier]]" point="[[or2:dt:copyrightDate2Point]]">[[or2:dt:copyrightDate2]]</copyrightDate>
-    <dateOther keyDate="[[or2:dt:dateOtherKeyDate]]" type="[[or2:dt:dateOtherType]]" encoding="[[or2:dt:dateOtherEncoding]]" qualifier="[[or2:dt:dateOtherQualifier]]" point="[[or2:dt:dateOtherPoint]]">[[or2:dt:dateOther]]</dateOther>
-    <dateOther type="[[or2:dt:dateOtherType]]" encoding="[[or2:dt:dateOtherEncoding]]" qualifier="[[or2:dt:dateOther2Qualifier]]" point="[[or2:dt:dateOther2Point]]">[[or2:dt:dateOther2]]</dateOther>
+    <dateOther keyDate="[[or2:dt:dateOtherKeyDate]]" type="[[or2:dt:dateOtherType]]" encoding="[[or2:dt:dateOtherEncoding]]" qualifier="[[or2:dt:dateOtherQualifier]]" point="[[or2:dt:dateOtherPoint]]" script="[[or2:dt:dateOtherScript]]" transliteration="[[or2:dt:dateOtherTransliteration]]">[[or2:dt:dateOther]]</dateOther>
+    <dateOther type="[[or2:dt:dateOtherType]]" encoding="[[or2:dt:dateOtherEncoding]]" qualifier="[[or2:dt:dateOther2Qualifier]]" point="[[or2:dt:dateOther2Point]]" script="[[or2:dt:dateOtherScript]]" transliteration="[[or2:dt:dateOtherTransliteration]]">[[or2:dt:dateOther2]]</dateOther>
     <edition>[[or2:edition]]</edition>
     <issuance>[[or2:issuance]]</issuance>
   </originInfo>
@@ -585,8 +585,8 @@
     <dateCaptured encoding="[[or3:dt:dateCapturedEncoding]]" qualifier="[[or3:dt:dateCaptured2Qualifier]]" point="[[or3:dt:dateCaptured2Point]]">[[or3:dt:dateCaptured2]]</dateCaptured>
     <copyrightDate keyDate="[[or3:dt:copyrightDateKeyDate]]" encoding="[[or3:dt:copyrightDateEncoding]]" qualifier="[[or3:dt:copyrightDateQualifier]]" point="[[or3:dt:copyrightDatePoint]]">[[or3:dt:copyrightDate]]</copyrightDate>
     <copyrightDate encoding="[[or3:dt:copyrightDateEncoding]]" qualifier="[[or3:dt:copyrightDate2Qualifier]]" point="[[or3:dt:copyrightDate2Point]]">[[or3:dt:copyrightDate2]]</copyrightDate>
-    <dateOther keyDate="[[or3:dt:dateOtherKeyDate]]" type="[[or3:dt:dateOtherType]]" encoding="[[or3:dt:dateOtherEncoding]]" qualifier="[[or3:dt:dateOtherQualifier]]" point="[[or3:dt:dateOtherPoint]]">[[or3:dt:dateOther]]</dateOther>
-    <dateOther type="[[or3:dt:dateOtherType]]" encoding="[[or3:dt:dateOtherEncoding]]" qualifier="[[or3:dt:dateOther2Qualifier]]" point="[[or3:dt:dateOther2Point]]">[[or3:dt:dateOther2]]</dateOther>
+    <dateOther keyDate="[[or3:dt:dateOtherKeyDate]]" type="[[or3:dt:dateOtherType]]" encoding="[[or3:dt:dateOtherEncoding]]" qualifier="[[or3:dt:dateOtherQualifier]]" point="[[or3:dt:dateOtherPoint]]" script="[[or3:dt:dateOtherScript]]" transliteration="[[or3:dt:dateOtherTransliteration]]">[[or3:dt:dateOther]]</dateOther>
+    <dateOther type="[[or3:dt:dateOtherType]]" encoding="[[or3:dt:dateOtherEncoding]]" qualifier="[[or3:dt:dateOther2Qualifier]]" point="[[or3:dt:dateOther2Point]]" script="[[or3:dt:dateOtherScript]]" transliteration="[[or3:dt:dateOtherTransliteration]]">[[or3:dt:dateOther2]]</dateOther>
     <edition>[[or3:edition]]</edition>
     <issuance>[[or3:issuance]]</issuance>
   </originInfo>
