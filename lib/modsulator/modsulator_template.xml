@@ -564,6 +564,7 @@
     <dateCaptured encoding="[[or2:dt:dateCapturedEncoding]]" qualifier="[[or2:dt:dateCaptured2Qualifier]]" point="[[or2:dt:dateCaptured2Point]]">[[or2:dt:dateCaptured2]]</dateCaptured>
     <copyrightDate keyDate="[[or2:dt:copyrightDateKeyDate]]" encoding="[[or2:dt:copyrightDateEncoding]]" qualifier="[[or2:dt:copyrightDateQualifier]]" point="[[or2:dt:copyrightDatePoint]]">[[or2:dt:copyrightDate]]</copyrightDate>
     <copyrightDate encoding="[[or2:dt:copyrightDateEncoding]]" qualifier="[[or2:dt:copyrightDate2Qualifier]]" point="[[or2:dt:copyrightDate2Point]]">[[or2:dt:copyrightDate2]]</copyrightDate>
+    <edition>[[or2:edition]]</edition>
     <issuance>[[or2:issuance]]</issuance>
   </originInfo>
   <originInfo displayLabel="[[or3:displayLabel]]" eventType="[[or3:eventType]]">
@@ -580,6 +581,7 @@
     <dateCaptured encoding="[[or3:dt:dateCapturedEncoding]]" qualifier="[[or3:dt:dateCaptured2Qualifier]]" point="[[or3:dt:dateCaptured2Point]]">[[or3:dt:dateCaptured2]]</dateCaptured>
     <copyrightDate keyDate="[[or3:dt:copyrightDateKeyDate]]" encoding="[[or3:dt:copyrightDateEncoding]]" qualifier="[[or3:dt:copyrightDateQualifier]]" point="[[or3:dt:copyrightDatePoint]]">[[or3:dt:copyrightDate]]</copyrightDate>
     <copyrightDate encoding="[[or3:dt:copyrightDateEncoding]]" qualifier="[[or3:dt:copyrightDate2Qualifier]]" point="[[or3:dt:copyrightDate2Point]]">[[or3:dt:copyrightDate2]]</copyrightDate>
+    <edition>[[or3:edition]]</edition>
     <issuance>[[or3:issuance]]</issuance>
   </originInfo>
   <language>
