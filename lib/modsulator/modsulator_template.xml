@@ -533,7 +533,7 @@
   <genre type="[[ge8:type]]" authority="[[ge8:authority]]" authorityURI="[[ge8:authorityURI]]" valueURI="[[ge8:valueURI]]">[[ge8:genre]]</genre>
   <genre type="[[ge9:type]]" authority="[[ge9:authority]]" authorityURI="[[ge9:authorityURI]]" valueURI="[[ge9:valueURI]]">[[ge9:genre]]</genre>
   <genre type="[[ge10:type]]" authority="[[ge10:authority]]" authorityURI="[[ge10:authorityURI]]" valueURI="[[ge10:valueURI]]">[[ge10:genre]]</genre>
-  <originInfo displayLabel="[[or:displayLabel]]" eventType="[[or:eventType]]">
+  <originInfo displayLabel="[[or:displayLabel]]" eventType="[[or:eventType]]" altRepGroup="[[or:altRepGroup]]">
     <place>
       <placeTerm type="code" authority="[[pl:authority]]" authorityURI="[[pl:authorityURI]]" valueURI="[[pl:valueURI]]">[[pl:placeCode]]</placeTerm>
       <placeTerm type="text" authority="[[pl:authority]]" authorityURI="[[pl:authorityURI]]" valueURI="[[pl:valueURI]]">[[pl:placeText]]</placeTerm>
@@ -552,7 +552,7 @@
     <edition>[[or:edition]]</edition>
     <issuance>[[or:issuance]]</issuance>
   </originInfo>
-  <originInfo displayLabel="[[or2:displayLabel]]" eventType="[[or2:eventType]]">
+  <originInfo displayLabel="[[or2:displayLabel]]" eventType="[[or2:eventType]]" altRepGroup="[[or2:altRepGroup]]">
     <place>
       <placeTerm type="code" authority="[[or2:pl:authority]]" authorityURI="[[or2:pl:authorityURI]]" valueURI="[[or2:pl:valueURI]]">[[or2:pl:placeCode]]</placeTerm>
       <placeTerm type="text" authority="[[or2:pl:authority]]" authorityURI="[[or2:pl:authorityURI]]" valueURI="[[or2:pl:valueURI]]">[[or2:pl:placeText]]</placeTerm>
@@ -571,7 +571,7 @@
     <edition>[[or2:edition]]</edition>
     <issuance>[[or2:issuance]]</issuance>
   </originInfo>
-  <originInfo displayLabel="[[or3:displayLabel]]" eventType="[[or3:eventType]]">
+  <originInfo displayLabel="[[or3:displayLabel]]" eventType="[[or3:eventType]]" altRepGroup="[[or3:altRepGroup]]">
     <place>
       <placeTerm type="code" authority="[[or3:pl:authority]]" authorityURI="[[or3:pl:authorityURI]]" valueURI="[[or3:pl:valueURI]]">[[or3:pl:placeCode]]</placeTerm>
       <placeTerm type="text" authority="[[or3:pl:authority]]" authorityURI="[[or3:pl:authorityURI]]" valueURI="[[or3:pl:valueURI]]">[[or3:pl:placeText]]</placeTerm>
