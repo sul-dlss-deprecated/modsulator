@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'roo', '>= 1.1'
   s.add_dependency 'equivalent-xml', '>= 0.6.0'   # For ignoring_attr_values() with arguments
   s.add_dependency 'nokogiri'
-  s.add_dependency 'activesupport', '>= 3.0'      # For ActiveSupport::HashWithIndifferentAccess
+  s.add_dependency 'activesupport', '< 5.0'      # For ActiveSupport::HashWithIndifferentAccess, need to upgrade server to latest Ruby version!
 
   s.add_development_dependency 'rake'
   s.add_development_dependency 'rspec', '>= 3.0'
