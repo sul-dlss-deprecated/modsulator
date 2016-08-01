@@ -3,7 +3,6 @@ script: rake
 rvm:
 #  - ruby-head   Disabling ruby-head. https://github.com/knu/ruby-unf_ext/issues/12 causes Travis build to fail on Ruby 2.3.0.
   - 2.2.1
-  - 1.9.3 # test server
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
