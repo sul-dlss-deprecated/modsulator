@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2016-02-08 01:41:13PM" sourceFile="crowdsourcing_bridget_2.xlsx">
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2016-08-02 06:03:28PM" sourceFile="crowdsourcing_bridget_2.xlsx">
   <xmlDoc id="descMetadata" objectId="bx035nv2285">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
       <titleInfo>
@@ -105,7 +105,7 @@
         <partNumber>Box  1, Folder  1, Item  005</partNumber>
       </titleInfo>
       <titleInfo>
-        <title>Fragment of Gregory the Great's Homiles on the Gospels in Two Books</title>
+        <title>&lt;html&gt;Fragment of Gregory the Great's &lt;i&gt;Homiles on the Gospels in Two Books&lt;/i&gt;&lt;/html&gt;</title>
       </titleInfo>
       <titleInfo>
         <title>Medieval fragments study collection, 11th-16th cent.</title>
@@ -120,7 +120,7 @@
       <physicalDescription>
         <note displayLabel="Note">Single leaf of parchment, later used as the endpaper of another volumn. Bounding lines done in drypoint. Slight damage to recto. More extensive damage on the verso. Pen trials from this later period of re-use on both sides of the leaf.</note>
       </physicalDescription>
-      <abstract>Fragment containing a portion of homily 21: "Habita ad populum in basilica beatae Mariae virginis, die sanctae Paschae," from the second book of Gregory the Great's XL Homiliarum in Evangelia Libri Duo as well as a non-Gregorian homily, perhaps attributed to Leo. For the Gregory the Great homily, see Patrologia Latina vol. 76, 1172-73.</abstract>
+      <abstract>&lt;html&gt;Fragment containing a portion of homily 21: "Habita ad populum in basilica beatae Mariae virginis, die sanctae Paschae," from the second book of Gregory the Great's &lt;i&gt;XL Homiliarum in Evangelia Libri Duo &lt;/i&gt;as well as a non-Gregorian homily, perhaps attributed to Leo. For the Gregory the Great homily, see &lt;i&gt;Patrologia Latina&lt;/i&gt; vol. 76, 1172-73.&lt;/html&gt;</abstract>
       <note displayLabel="Hand Note">Carolingian minuscule, with rustic capitals used to mark incipits and the beginning of sentences. Significant number of abbreviations</note>
       <note type="Deco Note">Rubricated incipit, capital 'I' and capital 'M'</note>
       <relatedItem type="isReferencedBy">
@@ -250,7 +250,7 @@
         <partNumber>Box  1, Folder  2, Item  010</partNumber>
       </titleInfo>
       <titleInfo>
-        <title>Fragment of Bede's Homilia Evangelii</title>
+        <title>&lt;html&gt;Fragment of Bede's &lt;i&gt;Homilia Evangelii&lt;/i&gt;&lt;/html&gt;</title>
       </titleInfo>
       <titleInfo>
         <title>Medieval fragments study collection, 11th-16th cent.</title>
@@ -367,7 +367,7 @@
         <partNumber>Box  1, Folder  2, Item  014</partNumber>
       </titleInfo>
       <titleInfo>
-        <title>Fragment of of the Digesta Justiniana</title>
+        <title>&lt;html&gt;Fragment of of the &lt;i&gt;Digesta Justiniana&lt;/i&gt;&lt;/html&gt;</title>
       </titleInfo>
       <titleInfo>
         <title>Medieval fragments study collection, 11th-16th cent.</title>
@@ -382,7 +382,7 @@
       <physicalDescription>
         <note displayLabel="Note">2 columns. Fragment has been aggressively trimmed. Prominent tears and fold lines.</note>
       </physicalDescription>
-      <abstract>This fragment contains part of the Digesta Justiniana, perhaps from a school text. It begins with the last lines of Book 4, section 8 and breaks off in the middle of the first citation of Book 5. With interlinear glosses and some marginal notes.</abstract>
+      <abstract>&lt;html&gt;This fragment contains part of the &lt;i&gt;Digesta Justiniana&lt;/i&gt;, perhaps from a school text. It begins with the last lines of Book 4, section 8 and breaks off in the middle of the first citation of Book 5. With interlinear glosses and some marginal notes.&lt;/html&gt;</abstract>
       <note displayLabel="Hand Note">Small minuscule.</note>
       <relatedItem type="isReferencedBy">
         <titleInfo>
@@ -419,7 +419,7 @@
       <physicalDescription>
         <note displayLabel="Note">Parchment, measuring approximately 349 mm x 273 mm. Cut and previously used for binding material. Bounding lines and text lines in drypoint, laid on the hair side. Two columns. In its present state, there are 32 complete lines of text per column.</note>
       </physicalDescription>
-      <abstract>Fragment containing text from Book 2 of Gregory the Great's Moralia on the Book of Job. Text covers the end of chapter 44, chapter 50, and most of 51 and 52..</abstract>
+      <abstract>&lt;html&gt;Fragment containing text from Book 2 of Gregory the Great's &lt;i&gt;Moralia &lt;/i&gt;on the Book of Job. Text covers the end of chapter 44, chapter 50, and most of 51 and 52..&lt;/html&gt;</abstract>
       <note displayLabel="Hand Note">Minuscule with Carolingian elements. Rustic capitals used for emphasis. Abbreviations are few and standard.</note>
       <relatedItem type="isReferencedBy">
         <titleInfo>
@@ -605,7 +605,7 @@
         <partNumber>Box  1, Folder  3, Item  022</partNumber>
       </titleInfo>
       <titleInfo>
-        <title>Fragment containing an excerpt of Augustine's City of God</title>
+        <title>&lt;html&gt;Fragment containing an excerpt of Augustine's &lt;i&gt;City of God&lt;/i&gt;&lt;/html&gt;</title>
       </titleInfo>
       <titleInfo>
         <title>Medieval fragments study collection, 11th-16th cent.</title>
@@ -626,7 +626,7 @@
       <physicalDescription>
         <note displayLabel="Note">Parchment leaf measuring in its current state 41 cm x 28 cm. Lining in dry point on hair side. No apparent pricking. Parchment is fine and frail with some tearing.Two columns, 44 lines each, although text has been lost to trimming at the top of the leaf.</note>
       </physicalDescription>
-      <abstract>Contains excerpts from St. Augustine's De civitate Dei, Book 22, chapter, 8, on the martyrdom of St. Stephen and the miracles performed with the aid of his relics. Regular excision of more abstract, rhetorical, and theological passages suggests the fragment comes from a lectionary and not a complete manuscript of Augustine's works.</abstract>
+      <abstract>&lt;html&gt;Contains excerpts from St. Augustine's &lt;i&gt;De civitate Dei&lt;/i&gt;, Book 22, chapter, 8, on the martyrdom of St. Stephen and the miracles performed with the aid of his relics. Regular excision of more abstract, rhetorical, and theological passages suggests the fragment comes from a lectionary and not a complete manuscript of Augustine's works.&lt;/html&gt;</abstract>
       <note displayLabel="Hand Note">Late caroline minuscule with rustic captials.</note>
       <relatedItem type="isReferencedBy">
         <titleInfo>
@@ -663,7 +663,7 @@
       <physicalDescription>
         <note displayLabel="Note">Parchment leaf measuring in its current state 275 mm x 405 mm. Two columns, ruled in dry point inscribed on the hair side. No visible prickings. Approximately 10 lines of writing lost at the bottom of the leaf from trimming.</note>
       </physicalDescription>
-      <abstract>Contains text from book 16.50-56 (Par. 63-39). Some emendations and marginal notes, same century. Compare with Patrologia Latina vol. 75, 1150D-1154A. The relevant verses from the book of Job are 24.7-12. See also Box 1, Folder 3, Item 24.</abstract>
+      <abstract>&lt;html&gt;Contains text from book 16.50-56 (Par. 63-39). Some emendations and marginal notes, same century. Compare with &lt;i&gt;Patrologia Latina &lt;/i&gt;vol. 75, 1150D-1154A. The relevant verses from the book of Job are 24.7-12. See also Box 1, Folder 3, Item 24.&lt;/html&gt;</abstract>
       <note displayLabel="Hand Note">Main text is in late Carolingian minuscule. Marginal glosses and occasional emendations are in a different hand, but by-and-large the same type of late Carolingian script. One manicule signaling the beginning of Gregory's exposition on verse 24:7.</note>
       <relatedItem type="isReferencedBy">
         <titleInfo>
@@ -987,7 +987,7 @@
       <physicalDescription>
         <note displayLabel="Note">Parchment bifolium. Each folio measures approximately 26 cm x 40 cm. Two columns. Some staining and uneven folding. Some irregularly spaced, blade prickingsat theouter margin of the second leaf.Dry point ruling extends across center of bifolium.</note>
       </physicalDescription>
-      <abstract>Contains text from the homilies ascribed to Paul the Deacon: Homily XLVI, "In assumptione Sanctae Mariae." See Patrologia Latina, vol. 95, col. 1497-1505. Text in the first three lines of leaf 1, recto and all of leaf 2 verso are not in Homily 46 and are not yet identified. Modern pencil notes directly on the leaf suggest(incorrectly) an English origin.</abstract>
+      <abstract>&lt;html&gt;Contains text from the homilies ascribed to Paul the Deacon: Homily XLVI, "In assumptione Sanctae Mariae." See &lt;i&gt;Patrologia Latina&lt;/i&gt;, vol. 95, col. 1497-1505. Text in the first three lines of leaf 1, recto and all of leaf 2 verso are not in Homily 46 and are not yet identified. Modern pencil notes directly on the leaf suggest(incorrectly) an English origin. &lt;/html&gt;</abstract>
       <note displayLabel="Hand Note">Late carolingian minuscule with some gothic elements.</note>
       <relatedItem type="isReferencedBy">
         <titleInfo>
@@ -2394,7 +2394,7 @@
       <physicalDescription>
         <note displayLabel="Note">Bifolium fragment later reused as a book cover. Fragment measures 290 mm x 450 mm. Text block on each folio is approximately 170 mm x 130 mm. 12 lines of main text, accompanied by interlinear and marginal notes.</note>
       </physicalDescription>
-      <abstract>Bifolium fragment of Boethius's Consolation of Philosophy, Book 1, chapter 4, lines 105-135 and Book 1, chapter 6, lines 9-40. Contents of this description drawn from student research done in Stanford paleography and codicology courses. Student transcriptions and research papers are available upon request.</abstract>
+      <abstract>&lt;html&gt;Bifolium fragment of Boethius's &lt;i&gt;Consolation of Philosophy, Book 1, chapter 4, lines 105-135 and Book 1, chapter 6, lines 9-40.&lt;/i&gt; Contents of this description drawn from student research done in Stanford paleography and codicology courses. Student transcriptions and research papers are available upon request.&lt;/html&gt;</abstract>
       <note displayLabel="Hand Note">Main text is in Italian Gothic Rotunda, likely 14th century. Interlinear notes, added later, are in a semi-cursiva form of Gothic Rotunda (also called Small Gothic Rotunda). Marginal notes in Italian, not discussing the content of the text, are in a highly cursive Renaissance script.</note>
       <relatedItem type="isReferencedBy">
         <titleInfo>
@@ -2768,7 +2768,7 @@
       <physicalDescription>
         <note displayLabel="Note">Good parchment, measuring approximately 32cm x 20.5 cm. Used folded horizontally as a binder. Two columns per page.</note>
       </physicalDescription>
-      <abstract>Fragment containing part of a medieval Latin vocabulary, related to Papias's Elementarium Doctrinae Erudimentum and probably based on Huguccio's Derivationes. Contents of this description drawn from student research done in Stanford paleography and codicology courses. Student transcriptions and research papers are available upon request.</abstract>
+      <abstract>&lt;html&gt;Fragment containing part of a medieval Latin vocabulary, related to Papias's &lt;i&gt;Elementarium Doctrinae Erudimentum&lt;/i&gt; and probably based on Huguccio's &lt;i&gt;Derivationes&lt;/i&gt;. Contents of this description drawn from student research done in Stanford paleography and codicology courses. Student transcriptions and research papers are available upon request.&lt;/html&gt;</abstract>
       <note displayLabel="Hand Note">Gothic textualis</note>
       <relatedItem type="isReferencedBy">
         <titleInfo>
@@ -3140,7 +3140,7 @@
         <partNumber>Box  4, Folder  2, Item  118</partNumber>
       </titleInfo>
       <titleInfo>
-        <title>Fragment containing passages from Gregory the Great's Moralia in Job</title>
+        <title>&lt;html&gt;Fragment containing passages from Gregory the Great's &lt;i&gt;Moralia in Job&lt;/i&gt;&lt;/html&gt;</title>
       </titleInfo>
       <titleInfo>
         <title>Medieval fragments study collection, 11th-16th cent.</title>
@@ -3161,7 +3161,7 @@
       <physicalDescription>
         <note displayLabel="Note">Parchment leaf measuring 356 mm x 260 mm. Written in two columns, each measuring 254 mm x 76 mm. Pricking on inner and outer margins. Plummet ruling on the hair side. Text written above top line. Four small cuts along inner margin.</note>
       </physicalDescription>
-      <abstract>Fragment contains the last part of chapter 10 through the beginning of chapter 12 of what may be an early scholastic work, containing excerpts from books 13, 29, and 32 of Gregory the Great's Moralium Libri Sive Expositio in Librum Beati Iob (Morals on the Book of Job). See Patrologia Latina 75 and 76. Contents of this description drawn from student research done in Stanford paleography and codicology courses. Student transcription, translation, and research papers are available upon request.</abstract>
+      <abstract>&lt;html&gt;Fragment contains the last part of chapter 10 through the beginning of chapter 12 of what may be an early scholastic work, containing excerpts from books 13, 29, and 32 of Gregory the Great's &lt;i&gt;Moralium Libri Sive Expositio in Librum Beati Iob (Morals on the Book of Job)&lt;/i&gt;. See &lt;i&gt;Patrologia Latina&lt;/i&gt; 75 and 76. Contents of this description drawn from student research done in Stanford paleography and codicology courses. Student transcription, translation, and research papers are available upon request.&lt;/html&gt;</abstract>
       <note displayLabel="Hand Note">Gothic book script: textualis semi-quadrata with high frequency of abbreviations and corrections.</note>
       <relatedItem type="isReferencedBy">
         <titleInfo>
