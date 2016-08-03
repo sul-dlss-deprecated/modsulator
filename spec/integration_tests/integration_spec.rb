@@ -24,7 +24,7 @@ describe Modsulator do
       'Heckrotte_ChartsOfCoastSurvey.xlsx' => 'Heckrotte_ChartsOfCoastSurvey.xml',
       'SC1049_metadata.xlsx' => 'SC1049_metadata.xml',
       'edition_physLoc_intmediatype.xlsx' => 'edition_physLoc_intmediatype.xml',
-	  'filled_template_20160711.xlsx' => 'filled_template_20160711.xml'
+	    'filled_template_20160711.xlsx' => 'filled_template_20160711.xml'
     }.each do |testfile, results_file|
       it "converts #{testfile} correctly to valid XML" do
         generated_xml_string = Modsulator.new(File.join(FIXTURES_DIR, testfile), testfile).convert_rows()
