@@ -34,7 +34,7 @@
         <physicalLocation type="repository">Spec Coll</physicalLocation>
         <physicalLocation type="discovery">Series A | Box A | Folder A</physicalLocation>
         <shelfLocator>CD 456</shelfLocator>
-        <url>http://purl.stanford.edu/test2</url>
+        <url usage="primary display">http://purl.stanford.edu/test2</url>
       </location>
     </mods>
   </xmlDoc>
