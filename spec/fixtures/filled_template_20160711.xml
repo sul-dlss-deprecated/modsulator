@@ -321,7 +321,7 @@
         <physicalLocation type="repository" authority="lo:authority" valueURI="lo:valueURI" lang="lo:language" script="lo:script" transliteration="lo:transliteration">lo:repository</physicalLocation>
         <physicalLocation type="discovery">lo:physicalLocation</physicalLocation>
         <shelfLocator>lo:callNumber</shelfLocator>
-        <url>lo:purl</url>
+        <url usage="primary display">lo:purl</url>
       </location>
       <relatedItem type="ri1:type" displayLabel="ri1:displayLabel">
         <titleInfo>
