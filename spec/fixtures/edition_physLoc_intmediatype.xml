@@ -16,7 +16,7 @@
         <physicalLocation type="repository">Stanford</physicalLocation>
         <physicalLocation type="discovery">Series 1, Box 1, Folder 1</physicalLocation>
         <shelfLocator>AB 123</shelfLocator>
-        <url>http://purl.stanford.edu/test1</url>
+        <url usage="primary display">http://purl.stanford.edu/test1</url>
       </location>
     </mods>
   </xmlDoc>
