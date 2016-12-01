@@ -1,29 +1,29 @@
 <?xml version="1.0"?>
-<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2016-07-15 10:19:17AM" sourceFile="filled_template_20160711.xlsx">
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2016-12-01 09:25:36AM" sourceFile="filled_template_20160711.xlsx">
   <xmlDoc id="descMetadata" objectId="123">
     <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-      <titleInfo authority="ti1:authority" authorityURI="ti1:authorityURI" valueURI="ti1:valueURI" nameTitleGroup="ti1:nameTitleGroup" lang="ti1:language" script="ti1:script" transliteration="ti1:transliteration" altRepGroup="ti1:altRepGroup">
+      <titleInfo authority="ti1:authority" authorityURI="ti1:authorityURI" valueURI="ti1:valueURI" nameTitleGroup="ti1:nameTitleGroup">
         <nonSort>ti1:nonSort</nonSort>
         <title>ti1:title</title>
         <subTitle>ti1:subTitle</subTitle>
         <partNumber>ti1:partNumber</partNumber>
         <partName>ti1:partName</partName>
       </titleInfo>
-      <titleInfo type="ti2:type" displayLabel="ti2:displayLabel" authority="ti2:authority" authorityURI="ti2:authorityURI" valueURI="ti2:valueURI" nameTitleGroup="ti2:nameTitleGroup" lang="ti2:language" script="ti2:script" transliteration="ti2:transliteration" altRepGroup="ti2:altRepGroup">
+      <titleInfo type="ti2:type" displayLabel="ti2:displayLabel" authority="ti2:authority" authorityURI="ti2:authorityURI" valueURI="ti2:valueURI" nameTitleGroup="ti2:nameTitleGroup">
         <nonSort>ti2:nonSort</nonSort>
         <title>ti2:title</title>
         <subTitle>ti2:subTitle</subTitle>
         <partNumber>ti2:partNumber</partNumber>
         <partName>ti2:partName</partName>
       </titleInfo>
-      <titleInfo type="ti3:type" displayLabel="ti3:displayLabel" authority="ti3:authority" authorityURI="ti3:authorityURI" valueURI="ti3:valueURI" nameTitleGroup="ti3:nameTitleGroup" lang="ti3:language" script="ti3:script" transliteration="ti3:transliteration" altRepGroup="ti3:altRepGroup">
+      <titleInfo type="ti3:type" displayLabel="ti3:displayLabel" authority="ti3:authority" authorityURI="ti3:authorityURI" valueURI="ti3:valueURI" nameTitleGroup="ti3:nameTitleGroup">
         <nonSort>ti3:nonSort</nonSort>
         <title>ti3:title</title>
         <subTitle>ti3:subTitle</subTitle>
         <partNumber>ti3:partNumber</partNumber>
         <partName>ti3:partName</partName>
       </titleInfo>
-      <name type="na1:type" usage="na1:usage" authority="na1:authority" authorityURI="na1:authorityURI" valueURI="na1:valueURI" nameTitleGroup="na1:nameTitleGroup" lang="na1:language" script="na1:script" transliteration="na1:transliteration" altRepGroup="na1:altRepGroup">
+      <name type="na1:type" usage="na1:usage" authority="na1:authority" authorityURI="na1:authorityURI" valueURI="na1:valueURI" nameTitleGroup="na1:nameTitleGroup">
         <namePart>na1:namePart</namePart>
         <role>
           <roleTerm type="code" authority="ro1:authority" authorityURI="ro1:authorityURI" valueURI="ro1:valueURI">ro1:roleCode</roleTerm>
@@ -38,7 +38,7 @@
           <roleTerm type="text" authority="ro1:authority3" authorityURI="ro1:authorityURI3" valueURI="ro1:valueURI3">ro1:roleText3</roleTerm>
         </role>
       </name>
-      <name type="na2:type" authority="na2:authority" authorityURI="na2:authorityURI" valueURI="na2:valueURI" nameTitleGroup="na2:nameTitleGroup" lang="na2:language" script="na2:script" transliteration="na2:transliteration" altRepGroup="na2:altRepGroup">
+      <name type="na2:type" authority="na2:authority" authorityURI="na2:authorityURI" valueURI="na2:valueURI" nameTitleGroup="na2:nameTitleGroup">
         <namePart>na2:namePart</namePart>
         <role>
           <roleTerm type="code" authority="ro2:authority" authorityURI="ro2:authorityURI" valueURI="ro2:valueURI">ro2:roleCode</roleTerm>
@@ -53,7 +53,7 @@
           <roleTerm type="text" authority="ro2:authority3" authorityURI="ro2:authorityURI3" valueURI="ro2:valueURI3">ro2:roleText3</roleTerm>
         </role>
       </name>
-      <name type="na3:type" authority="na3:authority" authorityURI="na3:authorityURI" valueURI="na3:valueURI" nameTitleGroup="na3:nameTitleGroup" lang="na3:language" script="na3:script" transliteration="na3:transliteration" altRepGroup="na3:altRepGroup">
+      <name type="na3:type" authority="na3:authority" authorityURI="na3:authorityURI" valueURI="na3:valueURI" nameTitleGroup="na3:nameTitleGroup">
         <namePart>na3:namePart</namePart>
         <role>
           <roleTerm type="code" authority="ro3:authority" authorityURI="ro3:authorityURI" valueURI="ro3:valueURI">ro3:roleCode</roleTerm>
@@ -68,7 +68,7 @@
           <roleTerm type="text" authority="ro3:authority3" authorityURI="ro3:authorityURI3" valueURI="ro3:valueURI3">ro3:roleText3</roleTerm>
         </role>
       </name>
-      <name type="na4:type" authority="na4:authority" authorityURI="na4:authorityURI" valueURI="na4:valueURI" nameTitleGroup="na4:nameTitleGroup" lang="na4:language" script="na4:script" transliteration="na4:transliteration" altRepGroup="na4:altRepGroup">
+      <name type="na4:type" authority="na4:authority" authorityURI="na4:authorityURI" valueURI="na4:valueURI" nameTitleGroup="na4:nameTitleGroup">
         <namePart>na4:namePart</namePart>
         <role>
           <roleTerm type="code" authority="ro4:authority" authorityURI="ro4:authorityURI" valueURI="ro4:valueURI">ro4:roleCode</roleTerm>
@@ -83,7 +83,7 @@
           <roleTerm type="text" authority="ro4:authority3" authorityURI="ro4:authorityURI3" valueURI="ro4:valueURI3">ro4:roleText3</roleTerm>
         </role>
       </name>
-      <name type="na5:type" authority="na5:authority" authorityURI="na5:authorityURI" valueURI="na5:valueURI" nameTitleGroup="na5:nameTitleGroup" lang="na5:language" script="na5:script" transliteration="na5:transliteration" altRepGroup="na5:altRepGroup">
+      <name type="na5:type" authority="na5:authority" authorityURI="na5:authorityURI" valueURI="na5:valueURI" nameTitleGroup="na5:nameTitleGroup">
         <namePart>na5:namePart</namePart>
         <role>
           <roleTerm type="code" authority="ro5:authority" authorityURI="ro5:authorityURI" valueURI="ro5:valueURI">ro5:roleCode</roleTerm>
@@ -104,12 +104,12 @@
       <genre type="ge1:type" authority="ge1:authority" authorityURI="ge1:authorityURI" valueURI="ge1:valueURI">ge1:genre</genre>
       <genre type="ge2:type" authority="ge2:authority" authorityURI="ge2:authorityURI" valueURI="ge2:valueURI">ge2:genre</genre>
       <genre type="ge3:type" authority="ge3:authority" authorityURI="ge3:authorityURI" valueURI="ge3:valueURI">ge3:genre</genre>
-      <originInfo displayLabel="or:displayLabel" eventType="or:eventType" altRepGroup="or:altRepGroup">
+      <originInfo displayLabel="or:displayLabel" eventType="or:eventType">
         <place>
           <placeTerm type="code" authority="pl:authority" authorityURI="pl:authorityURI" valueURI="pl:valueURI">pl:placeCode</placeTerm>
           <placeTerm type="text" authority="pl:authority" authorityURI="pl:authorityURI" valueURI="pl:valueURI">pl:placeText</placeTerm>
         </place>
-        <publisher lang="or:publisherLanguage" script="or:publisherScript" transliteration="or:publisherTransliteration">or:publisher</publisher>
+        <publisher>or:publisher</publisher>
         <dateCreated keyDate="dt:dateCreatedKeyDate" encoding="dt:dateCreatedEncoding" qualifier="dt:dateCreatedQualifier" point="dt:dateCreatedPoint">dt:dateCreated</dateCreated>
         <dateCreated encoding="dt:dateCreatedEncoding" qualifier="dt:dateCreated2Qualifier" point="dt:dateCreated2Point">dt:dateCreated2</dateCreated>
         <dateIssued keyDate="dt:dateIssuedKeyDate" encoding="dt:dateIssuedEncoding" qualifier="dt:dateIssuedQualifier" point="dt:dateIssuedPoint">dt:dateIssued</dateIssued>
@@ -118,17 +118,15 @@
         <dateCaptured encoding="dt:dateCapturedEncoding" qualifier="dt:dateCaptured2Qualifier" point="dt:dateCaptured2Point">dt:dateCaptured2</dateCaptured>
         <copyrightDate keyDate="dt:copyrightDateKeyDate" encoding="dt:copyrightDateEncoding" qualifier="dt:copyrightDateQualifier" point="dt:copyrightDatePoint">dt:copyrightDate</copyrightDate>
         <copyrightDate encoding="dt:copyrightDateEncoding" qualifier="dt:copyrightDate2Qualifier" point="dt:copyrightDate2Point">dt:copyrightDate2</copyrightDate>
-        <dateOther keyDate="dt:dateOtherKeyDate" type="dt:dateOtherType" encoding="dt:dateOtherEncoding" qualifier="dt:dateOtherQualifier" point="dt:dateOtherPoint" script="dt:dateOtherScript" transliteration="dt:dateOtherTransliteration">dt:dateOther</dateOther>
-        <dateOther type="dt:dateOtherType" encoding="dt:dateOtherEncoding" qualifier="dt:dateOther2Qualifier" point="dt:dateOther2Point" script="dt:dateOtherScript" transliteration="dt:dateOtherTransliteration">dt:dateOther2</dateOther>
         <edition>or:edition</edition>
         <issuance>or:issuance</issuance>
       </originInfo>
-      <originInfo displayLabel="or2:displayLabel" eventType="or2:eventType" altRepGroup="or2:altRepGroup">
+      <originInfo displayLabel="or2:displayLabel" eventType="or2:eventType">
         <place>
           <placeTerm type="code" authority="or2:pl:authority" authorityURI="or2:pl:authorityURI" valueURI="or2:pl:valueURI">or2:pl:placeCode</placeTerm>
           <placeTerm type="text" authority="or2:pl:authority" authorityURI="or2:pl:authorityURI" valueURI="or2:pl:valueURI">or2:pl:placeText</placeTerm>
         </place>
-        <publisher lang="or2:publisherLanguage" script="or2:publisherScript" transliteration="or2:publisherTransliteration">or2:publisher</publisher>
+        <publisher>or2:publisher</publisher>
         <dateCreated keyDate="or2:dt:dateCreatedKeyDate" encoding="or2:dt:dateCreatedEncoding" qualifier="or2:dt:dateCreatedQualifier" point="or2:dt:dateCreatedPoint">or2:dt:dateCreated</dateCreated>
         <dateCreated encoding="or2:dt:dateCreatedEncoding" qualifier="or2:dt:dateCreated2Qualifier" point="or2:dt:dateCreated2Point">or2:dt:dateCreated2</dateCreated>
         <dateIssued keyDate="or2:dt:dateIssuedKeyDate" encoding="or2:dt:dateIssuedEncoding" qualifier="or2:dt:dateIssuedQualifier" point="or2:dt:dateIssuedPoint">or2:dt:dateIssued</dateIssued>
@@ -137,9 +135,6 @@
         <dateCaptured encoding="or2:dt:dateCapturedEncoding" qualifier="or2:dt:dateCaptured2Qualifier" point="or2:dt:dateCaptured2Point">or2:dt:dateCaptured2</dateCaptured>
         <copyrightDate keyDate="or2:dt:copyrightDateKeyDate" encoding="or2:dt:copyrightDateEncoding" qualifier="or2:dt:copyrightDateQualifier" point="or2:dt:copyrightDatePoint">or2:dt:copyrightDate</copyrightDate>
         <copyrightDate encoding="or2:dt:copyrightDateEncoding" qualifier="or2:dt:copyrightDate2Qualifier" point="or2:dt:copyrightDate2Point">or2:dt:copyrightDate2</copyrightDate>
-        <dateOther keyDate="or2:dt:dateOtherKeyDate" type="or2:dt:dateOtherType" encoding="or2:dt:dateOtherEncoding" qualifier="or2:dt:dateOtherQualifier" point="or2:dt:dateOtherPoint" script="or2:dt:dateOtherScript" transliteration="or2:dt:dateOtherTransliteration">or2:dt:dateOther</dateOther>
-        <dateOther type="or2:dt:dateOtherType" encoding="or2:dt:dateOtherEncoding" qualifier="or2:dt:dateOther2Qualifier" point="or2:dt:dateOther2Point" script="or2:dt:dateOtherScript" transliteration="or2:dt:dateOtherTransliteration">or2:dt:dateOther2</dateOther>
-        <edition>or2:edition</edition>
         <issuance>or2:issuance</issuance>
       </originInfo>
       <language>
@@ -164,42 +159,42 @@
         <internetMediaType>ph1:internetMediaType3</internetMediaType>
         <internetMediaType>ph1:internetMediaType4</internetMediaType>
         <internetMediaType>ph1:internetMediaType5</internetMediaType>
-        <note displayLabel="ph1:displayLabel1" lang="ph1:language1" script="ph1:script1" transliteration="ph1:transliteration1">ph1:note1</note>
-        <note displayLabel="ph1:displayLabel2" lang="ph1:language2" script="ph1:script2" transliteration="ph1:transliteration2">ph1:note2</note>
-        <note displayLabel="ph1:displayLabel3" lang="ph1:language3" script="ph1:script3" transliteration="ph1:transliteration3">ph1:note3</note>
-        <note displayLabel="ph1:displayLabel4" lang="ph1:language4" script="ph1:script4" transliteration="ph1:transliteration4">ph1:note4</note>
-        <note displayLabel="ph1:displayLabel5" lang="ph1:language5" script="ph1:script5" transliteration="ph1:transliteration5">ph1:note5</note>
-        <note displayLabel="ph1:displayLabel6" lang="ph1:language6" script="ph1:script6" transliteration="ph1:transliteration6">ph1:note6</note>
-        <note displayLabel="ph1:displayLabel7" lang="ph1:language7" script="ph1:script7" transliteration="ph1:transliteration7">ph1:note7</note>
-        <note displayLabel="ph1:displayLabel8" lang="ph1:language8" script="ph1:script8" transliteration="ph1:transliteration8">ph1:note8</note>
-        <note displayLabel="ph1:displayLabel9" lang="ph1:language9" script="ph1:script9" transliteration="ph1:transliteration9">ph1:note9</note>
+        <note displayLabel="ph1:displayLabel1">ph1:note1</note>
+        <note displayLabel="ph1:displayLabel2">ph1:note2</note>
+        <note displayLabel="ph1:displayLabel3">ph1:note3</note>
+        <note displayLabel="ph1:displayLabel4">ph1:note4</note>
+        <note displayLabel="ph1:displayLabel5">ph1:note5</note>
+        <note displayLabel="ph1:displayLabel6">ph1:note6</note>
+        <note displayLabel="ph1:displayLabel7">ph1:note7</note>
+        <note displayLabel="ph1:displayLabel8">ph1:note8</note>
+        <note displayLabel="ph1:displayLabel9">ph1:note9</note>
       </physicalDescription>
       <physicalDescription>
         <form authority="ph2:formAuthority" authorityURI="ph2:formAuthorityURI" valueURI="ph2:formValueURI">ph2:form</form>
         <extent>ph2:extent</extent>
         <reformattingQuality>ph2:reformattingQuality</reformattingQuality>
         <digitalOrigin>ph2:digitalOrigin</digitalOrigin>
-        <note displayLabel="ph2:displayLabel1" lang="ph2:language1" script="ph2:script1" transliteration="ph2:transliteration1">ph2:note1</note>
+        <note displayLabel="ph2:displayLabel1">ph2:note1</note>
       </physicalDescription>
       <physicalDescription>
         <form authority="ph3:formAuthority" authorityURI="ph3:formAuthorityURI" valueURI="ph3:formValueURI">ph3:form</form>
         <extent>ph3:extent</extent>
         <reformattingQuality>ph3:reformattingQuality</reformattingQuality>
         <digitalOrigin>ph3:digitalOrigin</digitalOrigin>
-        <note displayLabel="ph3:displayLabel1" lang="ph3:language1" script="ph3:script1" transliteration="ph3:transliteration1">ph3:note1</note>
+        <note displayLabel="ph3:displayLabel1">ph3:note1</note>
       </physicalDescription>
-      <abstract displayLabel="ab:displayLabel" lang="ab:language" script="ab:script" transliteration="ab:transliteration">ab:abstract</abstract>
-      <tableOfContents displayLabel="tc:displayLabel" lang="tc:language" script="tc:script" transliteration="tc:transliteration">tc:tableOfContents</tableOfContents>
-      <note type="no1:type" displayLabel="no1:displayLabel" lang="no1:language" script="no1:script" transliteration="no1:transliteration" altRepGroup="no1:altRepGroup">no1:note</note>
-      <note type="no2:type" displayLabel="no2:displayLabel" lang="no2:language" script="no2:script" transliteration="no2:transliteration" altRepGroup="no2:altRepGroup">no2:note</note>
-      <note type="no3:type" displayLabel="no3:displayLabel" lang="no3:language" script="no3:script" transliteration="no3:transliteration" altRepGroup="no3:altRepGroup">no3:note</note>
-      <note type="no4:type" displayLabel="no4:displayLabel" lang="no4:language" script="no4:script" transliteration="no4:transliteration" altRepGroup="no4:altRepGroup">no4:note</note>
-      <note type="no5:type" displayLabel="no5:displayLabel" lang="no5:language" script="no5:script" transliteration="no5:transliteration" altRepGroup="no5:altRepGroup">no5:note</note>
-      <subject authority="sn1:authority" authorityURI="sn1:authorityURI" valueURI="sn1:valueURI" altRepGroup="sn1:altRepGroup">
-        <name type="sn1:p1:nameType" authority="sn1:p1:nm:authority" authorityURI="sn1:p1:nm:authorityURI" valueURI="sn1:p1:nm:valueURI" lang="sn1:p1:nm:language" script="sn1:p1:nm:script" transliteration="sn1:p1:nm:transliteration">
+      <abstract displayLabel="ab:displayLabel">ab:abstract</abstract>
+      <tableOfContents displayLabel="tc:displayLabel">tc:tableOfContents</tableOfContents>
+      <note type="no1:type" displayLabel="no1:displayLabel">no1:note</note>
+      <note type="no2:type" displayLabel="no2:displayLabel">no2:note</note>
+      <note type="no3:type" displayLabel="no3:displayLabel">no3:note</note>
+      <note type="no4:type" displayLabel="no4:displayLabel">no4:note</note>
+      <note type="no5:type" displayLabel="no5:displayLabel">no5:note</note>
+      <subject authority="sn1:authority" authorityURI="sn1:authorityURI" valueURI="sn1:valueURI">
+        <name type="sn1:p1:nameType" authority="sn1:p1:nm:authority" authorityURI="sn1:p1:nm:authorityURI" valueURI="sn1:p1:nm:valueURI">
           <namePart>sn1:p1:name</namePart>
         </name>
-        <titleInfo type="sn1:p1:titleType" authority="sn1:p1:ti:authority" authorityURI="sn1:p1:ti:authorityURI" valueURI="sn1:p1:ti:valueURI" lang="sn1:p1:ti:language" script="sn1:p1:ti:script" transliteration="sn1:p1:ti:transliteration">
+        <titleInfo type="sn1:p1:titleType" authority="sn1:p1:ti:authority" authorityURI="sn1:p1:ti:authorityURI" valueURI="sn1:p1:ti:valueURI">
           <title>sn1:p1:title</title>
           <subTitle>sn1:p1:subTitle</subTitle>
           <partNumber>sn1:p1:partNumber</partNumber>
@@ -210,11 +205,11 @@
         <topic authority="sn1:p4:authority" authorityURI="sn1:p4:authorityURI" valueURI="sn1:p4:valueURI">sn1:p4:value</topic>
         <topic authority="sn1:p5:authority" authorityURI="sn1:p5:authorityURI" valueURI="sn1:p5:valueURI">sn1:p5:value</topic>
       </subject>
-      <subject authority="sn2:authority" authorityURI="sn2:authorityURI" valueURI="sn2:valueURI" altRepGroup="sn2:altRepGroup">
-        <name type="sn2:p1:nameType" authority="sn2:p1:nm:authority" authorityURI="sn2:p1:nm:authorityURI" valueURI="sn2:p1:nm:valueURI" lang="sn2:p1:nm:language" script="sn2:p1:nm:script" transliteration="sn2:p1:nm:transliteration">
+      <subject authority="sn2:authority" authorityURI="sn2:authorityURI" valueURI="sn2:valueURI">
+        <name type="sn2:p1:nameType" authority="sn2:p1:nm:authority" authorityURI="sn2:p1:nm:authorityURI" valueURI="sn2:p1:nm:valueURI">
           <namePart>sn2:p1:name</namePart>
         </name>
-        <titleInfo type="sn2:p1:titleType" authority="sn2:p1:ti:authority" authorityURI="sn2:p1:ti:authorityURI" valueURI="sn2:p1:ti:valueURI" lang="sn2:p1:ti:language" script="sn2:p1:ti:script" transliteration="sn2:p1:ti:transliteration">
+        <titleInfo type="sn2:p1:titleType" authority="sn2:p1:ti:authority" authorityURI="sn2:p1:ti:authorityURI" valueURI="sn2:p1:ti:valueURI">
           <title>sn2:p1:title</title>
           <subTitle>sn2:p1:subTitle</subTitle>
           <partNumber>sn2:p1:partNumber</partNumber>
@@ -225,11 +220,11 @@
         <topic authority="sn2:p4:authority" authorityURI="sn2:p4:authorityURI" valueURI="sn2:p4:valueURI">sn2:p4:value</topic>
         <topic authority="sn2:p5:authority" authorityURI="sn2:p5:authorityURI" valueURI="sn2:p5:valueURI">sn2:p5:value</topic>
       </subject>
-      <subject authority="sn3:authority" authorityURI="sn3:authorityURI" valueURI="sn3:valueURI" altRepGroup="sn3:altRepGroup">
-        <name type="sn3:p1:nameType" authority="sn3:p1:nm:authority" authorityURI="sn3:p1:nm:authorityURI" valueURI="sn3:p1:nm:valueURI" lang="sn3:p1:nm:language" script="sn3:p1:nm:script" transliteration="sn3:p1:nm:transliteration">
+      <subject authority="sn3:authority" authorityURI="sn3:authorityURI" valueURI="sn3:valueURI">
+        <name type="sn3:p1:nameType" authority="sn3:p1:nm:authority" authorityURI="sn3:p1:nm:authorityURI" valueURI="sn3:p1:nm:valueURI">
           <namePart>sn3:p1:name</namePart>
         </name>
-        <titleInfo type="sn3:p1:titleType" authority="sn3:p1:ti:authority" authorityURI="sn3:p1:ti:authorityURI" valueURI="sn3:p1:ti:valueURI" lang="sn3:p1:ti:language" script="sn3:p1:ti:script" transliteration="sn3:p1:ti:transliteration">
+        <titleInfo type="sn3:p1:titleType" authority="sn3:p1:ti:authority" authorityURI="sn3:p1:ti:authorityURI" valueURI="sn3:p1:ti:valueURI">
           <title>sn3:p1:title</title>
           <subTitle>sn3:p1:subTitle</subTitle>
           <partNumber>sn3:p1:partNumber</partNumber>
@@ -240,11 +235,11 @@
         <topic authority="sn3:p4:authority" authorityURI="sn3:p4:authorityURI" valueURI="sn3:p4:valueURI">sn3:p4:value</topic>
         <topic authority="sn3:p5:authority" authorityURI="sn3:p5:authorityURI" valueURI="sn3:p5:valueURI">sn3:p5:value</topic>
       </subject>
-      <subject authority="sn4:authority" authorityURI="sn4:authorityURI" valueURI="sn4:valueURI" altRepGroup="sn4:altRepGroup">
-        <name type="sn4:p1:nameType" authority="sn4:p1:nm:authority" authorityURI="sn4:p1:nm:authorityURI" valueURI="sn4:p1:nm:valueURI" lang="sn4:p1:nm:language" script="sn4:p1:nm:script" transliteration="sn4:p1:nm:transliteration">
+      <subject authority="sn4:authority" authorityURI="sn4:authorityURI" valueURI="sn4:valueURI">
+        <name type="sn4:p1:nameType" authority="sn4:p1:nm:authority" authorityURI="sn4:p1:nm:authorityURI" valueURI="sn4:p1:nm:valueURI">
           <namePart>sn4:p1:name</namePart>
         </name>
-        <titleInfo type="sn4:p1:titleType" authority="sn4:p1:ti:authority" authorityURI="sn4:p1:ti:authorityURI" valueURI="sn4:p1:ti:valueURI" lang="sn4:p1:ti:language" script="sn4:p1:ti:script" transliteration="sn4:p1:ti:transliteration">
+        <titleInfo type="sn4:p1:titleType" authority="sn4:p1:ti:authority" authorityURI="sn4:p1:ti:authorityURI" valueURI="sn4:p1:ti:valueURI">
           <title>sn4:p1:title</title>
           <subTitle>sn4:p1:subTitle</subTitle>
           <partNumber>sn4:p1:partNumber</partNumber>
@@ -255,11 +250,11 @@
         <topic authority="sn4:p4:authority" authorityURI="sn4:p4:authorityURI" valueURI="sn4:p4:valueURI">sn4:p4:value</topic>
         <topic authority="sn4:p5:authority" authorityURI="sn4:p5:authorityURI" valueURI="sn4:p5:valueURI">sn4:p5:value</topic>
       </subject>
-      <subject authority="sn5:authority" authorityURI="sn5:authorityURI" valueURI="sn5:valueURI" altRepGroup="sn5:altRepGroup">
-        <name type="sn5:p1:nameType" authority="sn5:p1:nm:authority" authorityURI="sn5:p1:nm:authorityURI" valueURI="sn5:p1:nm:valueURI" lang="sn5:p1:nm:language" script="sn5:p1:nm:script" transliteration="sn5:p1:nm:transliteration">
+      <subject authority="sn5:authority" authorityURI="sn5:authorityURI" valueURI="sn5:valueURI">
+        <name type="sn5:p1:nameType" authority="sn5:p1:nm:authority" authorityURI="sn5:p1:nm:authorityURI" valueURI="sn5:p1:nm:valueURI">
           <namePart>sn5:p1:name</namePart>
         </name>
-        <titleInfo type="sn5:p1:titleType" authority="sn5:p1:ti:authority" authorityURI="sn5:p1:ti:authorityURI" valueURI="sn5:p1:ti:valueURI" lang="sn5:p1:ti:language" script="sn5:p1:ti:script" transliteration="sn5:p1:ti:transliteration">
+        <titleInfo type="sn5:p1:titleType" authority="sn5:p1:ti:authority" authorityURI="sn5:p1:ti:authorityURI" valueURI="sn5:p1:ti:valueURI">
           <title>sn5:p1:title</title>
           <subTitle>sn5:p1:subTitle</subTitle>
           <partNumber>sn5:p1:partNumber</partNumber>
@@ -270,35 +265,35 @@
         <topic authority="sn5:p4:authority" authorityURI="sn5:p4:authorityURI" valueURI="sn5:p4:valueURI">sn5:p4:value</topic>
         <topic authority="sn5:p5:authority" authorityURI="sn5:p5:authorityURI" valueURI="sn5:p5:valueURI">sn5:p5:value</topic>
       </subject>
-      <subject authority="su1:authority" authorityURI="su1:authorityURI" valueURI="su1:valueURI" lang="su1:language" script="su1:script" transliteration="su1:transliteration" altRepGroup="su1:altRepGroup">
+      <subject authority="su1:authority" authorityURI="su1:authorityURI" valueURI="su1:valueURI">
         <topic authority="su1:p1:authority" authorityURI="su1:p1:authorityURI" valueURI="su1:p1:valueURI">su1:p1:value</topic>
         <topic authority="su1:p2:authority" authorityURI="su1:p2:authorityURI" valueURI="su1:p2:valueURI">su1:p2:value</topic>
         <topic authority="su1:p3:authority" authorityURI="su1:p3:authorityURI" valueURI="su1:p3:valueURI">su1:p3:value</topic>
         <topic authority="su1:p4:authority" authorityURI="su1:p4:authorityURI" valueURI="su1:p4:valueURI">su1:p4:value</topic>
         <topic authority="su1:p5:authority" authorityURI="su1:p5:authorityURI" valueURI="su1:p5:valueURI">su1:p5:value</topic>
       </subject>
-      <subject authority="su2:authority" authorityURI="su2:authorityURI" valueURI="su2:valueURI" lang="su2:language" script="su2:script" transliteration="su2:transliteration" altRepGroup="su2:altRepGroup">
+      <subject authority="su2:authority" authorityURI="su2:authorityURI" valueURI="su2:valueURI">
         <topic authority="su2:p1:authority" authorityURI="su2:p1:authorityURI" valueURI="su2:p1:valueURI">su2:p1:value</topic>
         <topic authority="su2:p2:authority" authorityURI="su2:p2:authorityURI" valueURI="su2:p2:valueURI">su2:p2:value</topic>
         <topic authority="su2:p3:authority" authorityURI="su2:p3:authorityURI" valueURI="su2:p3:valueURI">su2:p3:value</topic>
         <topic authority="su2:p4:authority" authorityURI="su2:p4:authorityURI" valueURI="su2:p4:valueURI">su2:p4:value</topic>
         <topic authority="su2:p5:authority" authorityURI="su2:p5:authorityURI" valueURI="su2:p5:valueURI">su2:p5:value</topic>
       </subject>
-      <subject authority="su3:authority" authorityURI="su3:authorityURI" valueURI="su3:valueURI" lang="su3:language" script="su3:script" transliteration="su3:transliteration" altRepGroup="su3:altRepGroup">
+      <subject authority="su3:authority" authorityURI="su3:authorityURI" valueURI="su3:valueURI">
         <topic authority="su3:p1:authority" authorityURI="su3:p1:authorityURI" valueURI="su3:p1:valueURI">su3:p1:value</topic>
         <topic authority="su3:p2:authority" authorityURI="su3:p2:authorityURI" valueURI="su3:p2:valueURI">su3:p2:value</topic>
         <topic authority="su3:p3:authority" authorityURI="su3:p3:authorityURI" valueURI="su3:p3:valueURI">su3:p3:value</topic>
         <topic authority="su3:p4:authority" authorityURI="su3:p4:authorityURI" valueURI="su3:p4:valueURI">su3:p4:value</topic>
         <topic authority="su3:p5:authority" authorityURI="su3:p5:authorityURI" valueURI="su3:p5:valueURI">su3:p5:value</topic>
       </subject>
-      <subject authority="su4:authority" authorityURI="su4:authorityURI" valueURI="su4:valueURI" lang="su4:language" script="su4:script" transliteration="su4:transliteration" altRepGroup="su4:altRepGroup">
+      <subject authority="su4:authority" authorityURI="su4:authorityURI" valueURI="su4:valueURI">
         <topic authority="su4:p1:authority" authorityURI="su4:p1:authorityURI" valueURI="su4:p1:valueURI">su4:p1:value</topic>
         <topic authority="su4:p2:authority" authorityURI="su4:p2:authorityURI" valueURI="su4:p2:valueURI">su4:p2:value</topic>
         <topic authority="su4:p3:authority" authorityURI="su4:p3:authorityURI" valueURI="su4:p3:valueURI">su4:p3:value</topic>
         <topic authority="su4:p4:authority" authorityURI="su4:p4:authorityURI" valueURI="su4:p4:valueURI">su4:p4:value</topic>
         <topic authority="su4:p5:authority" authorityURI="su4:p5:authorityURI" valueURI="su4:p5:valueURI">su4:p5:value</topic>
       </subject>
-      <subject authority="su5:authority" authorityURI="su5:authorityURI" valueURI="su5:valueURI" lang="su5:language" script="su5:script" transliteration="su5:transliteration" altRepGroup="su5:altRepGroup">
+      <subject authority="su5:authority" authorityURI="su5:authorityURI" valueURI="su5:valueURI">
         <topic authority="su5:p1:authority" authorityURI="su5:p1:authorityURI" valueURI="su5:p1:valueURI">su5:p1:value</topic>
         <topic authority="su5:p2:authority" authorityURI="su5:p2:authorityURI" valueURI="su5:p2:valueURI">su5:p2:value</topic>
         <topic authority="su5:p3:authority" authorityURI="su5:p3:authorityURI" valueURI="su5:p3:valueURI">su5:p3:value</topic>
@@ -318,7 +313,7 @@
       <identifier type="id4:type" displayLabel="id4:displayLabel">id4:identifier</identifier>
       <identifier type="id5:type" displayLabel="id5:displayLabel">id5:identifier</identifier>
       <location>
-        <physicalLocation type="repository" authority="lo:authority" valueURI="lo:valueURI" lang="lo:language" script="lo:script" transliteration="lo:transliteration">lo:repository</physicalLocation>
+        <physicalLocation type="repository" authority="lo:authority" valueURI="lo:valueURI">lo:repository</physicalLocation>
         <physicalLocation type="discovery">lo:physicalLocation</physicalLocation>
         <shelfLocator>lo:callNumber</shelfLocator>
         <url usage="primary display">lo:purl</url>
@@ -437,17 +432,8 @@
         </rdf:RDF>
       </extension>
       <recordInfo>
-        <languageOfCataloging usage="rc:languageOfCatalogingUsage">
-          <languageTerm type="text" authority="rc:langAuthority" authorityURI="rc:langAuthorityURI" valueURI="rc:langValueURI">rc:languageOfCatalogingTerm</languageTerm>
-          <languageTerm type="code" authority="rc:langAuthority" authorityURI="rc:langAuthorityURI" valueURI="rc:langValueURI">rc:languageOfCataloging</languageTerm>
-          <scriptTerm type="text" authority="rc:scriptAuthority" authorityURI="rc:scriptAuthorityURI" valueURI="rc:scriptValueURI">rc:scriptOfCatalogingTerm</scriptTerm>
-          <scriptTerm type="code" authority="rc:scriptAuthority" authorityURI="rc:scriptAuthorityURI" valueURI="rc:scriptValueURI">rc:scriptOfCatalogingCode</scriptTerm>
-        </languageOfCataloging>
         <languageOfCataloging>
-          <languageTerm type="text" authority="rc:lang2Authority" authorityURI="rc:lang2AuthorityURI" valueURI="rc:lang2ValueURI">rc:languageOfCataloging2Term</languageTerm>
-          <languageTerm type="code" authority="rc:lang2Authority" authorityURI="rc:lang2AuthorityURI" valueURI="rc:lang2ValueURI">rc:languageOfCataloging2</languageTerm>
-          <scriptTerm type="text" authority="rc:script2Authority" authorityURI="rc:script2AuthorityURI" valueURI="rc:script2ValueURI">rc:scriptOfCataloging2Term</scriptTerm>
-          <scriptTerm type="code" authority="rc:script2Authority" authorityURI="rc:script2AuthorityURI" valueURI="rc:script2ValueURI">rc:scriptOfCataloging2Code</scriptTerm>
+          <languageTerm authority="rc:langAuthority" authorityURI="rc:langAuthorityURI" valueURI="rc:langValueURI">rc:languageOfCataloging</languageTerm>
         </languageOfCataloging>
         <recordContentSource authority="rc:contentSourceAuthority" authorityURI="rc:contentSourceAuthorityURI" valueURI="rc:contentSourceValueURI">rc:contentSource</recordContentSource>
         <descriptionStandard authority="rc:descStandardAuthority" authorityURI="rc:descStandardAuthorityURI" valueURI="rc:descStandardValueURI">rc:descStandard</descriptionStandard>
