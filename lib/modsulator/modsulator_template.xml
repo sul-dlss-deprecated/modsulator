@@ -1418,8 +1418,17 @@
     </rdf:RDF>
   </extension>
   <recordInfo>
+    <languageOfCataloging usage="[[rc:languageOfCatalogingUsage]]">
+      <languageTerm type="text" authority="[[rc:langAuthority]]" authorityURI="[[rc:langAuthorityURI]]" valueURI="[[rc:langValueURI]]">[[rc:languageOfCatalogingTerm]]</languageTerm>
+      <languageTerm type="code" authority="[[rc:langAuthority]]" authorityURI="[[rc:langAuthorityURI]]" valueURI="[[rc:langValueURI]]">[[rc:languageOfCataloging]]</languageTerm>
+      <scriptTerm type="text" authority="[[rc:scriptAuthority]]" authorityURI="[[rc:scriptAuthorityURI]]" valueURI="[[rc:scriptValueURI]]">[[rc:scriptOfCatalogingTerm]]</scriptTerm>
+      <scriptTerm type="code" authority="[[rc:scriptAuthority]]" authorityURI="[[rc:scriptAuthorityURI]]" valueURI="[[rc:scriptValueURI]]">[[rc:scriptOfCatalogingCode]]</scriptTerm>
+    </languageOfCataloging>
     <languageOfCataloging>
-      <languageTerm authority="[[rc:langAuthority]]" authorityURI="[[rc:langAuthorityURI]]" valueURI="[[rc:langValueURI]]">[[rc:languageOfCataloging]]</languageTerm>
+      <languageTerm type="text" authority="[[rc:lang2Authority]]" authorityURI="[[rc:lang2AuthorityURI]]" valueURI="[[rc:lang2ValueURI]]">[[rc:languageOfCataloging2Term]]</languageTerm>
+      <languageTerm type="code" authority="[[rc:lang2Authority]]" authorityURI="[[rc:lang2AuthorityURI]]" valueURI="[[rc:lang2ValueURI]]">[[rc:languageOfCataloging2]]</languageTerm>
+      <scriptTerm type="text" authority="[[rc:script2Authority]]" authorityURI="[[rc:script2AuthorityURI]]" valueURI="[[rc:script2ValueURI]]">[[rc:scriptOfCataloging2Term]]</scriptTerm>
+      <scriptTerm type="code" authority="[[rc:script2Authority]]" authorityURI="[[rc:script2AuthorityURI]]" valueURI="[[rc:script2ValueURI]]">[[rc:scriptOfCataloging2Code]]</scriptTerm>
     </languageOfCataloging>
     <recordContentSource authority="[[rc:contentSourceAuthority]]" authorityURI="[[rc:contentSourceAuthorityURI]]" valueURI="[[rc:contentSourceValueURI]]">[[rc:contentSource]]</recordContentSource>
     <descriptionStandard authority="[[rc:descStandardAuthority]]" authorityURI="[[rc:descStandardAuthorityURI]]" valueURI="[[rc:descStandardValueURI]]">[[rc:descStandard]]</descriptionStandard>
