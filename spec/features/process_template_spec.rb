@@ -2,7 +2,7 @@ RSpec.describe Modsulator do
   before :all do
     # Create common variables shared across tests and clear out temp directory
     @tmp_dir      = File.expand_path("../../../tmp", __FILE__)
-    Dir.mkdir(@tmp_dir) unless Dir.exists?(@tmp_dir)
+    Dir.mkdir(@tmp_dir) unless Dir.exist?(@tmp_dir)
     Dir.foreach(@tmp_dir) {|f| fn = File.join(@tmp_dir, f); File.delete(fn) if f != '.' && f != '..' && !File.directory?(fn)}
   end
 
