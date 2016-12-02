@@ -1,7 +1,4 @@
-require 'equivalent-xml'
-require "modsulator/validator"
-
-describe Validator do
+RSpec.describe Validator do
   describe "initialize" do
     it "validates a valid XML file using the internal XML Schema Definition file" do
 

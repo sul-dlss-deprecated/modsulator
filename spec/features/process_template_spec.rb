@@ -1,7 +1,4 @@
-require 'equivalent-xml'
-require "modsulator"
-
-describe Modsulator do
+RSpec.describe Modsulator do
   before :all do
     # Create common variables shared across tests and clear out temp directory
     @tmp_dir      = File.expand_path("../../../tmp", __FILE__)

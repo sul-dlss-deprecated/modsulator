@@ -1,8 +1,4 @@
-require 'equivalent-xml'
-require 'modsulator'
-require 'modsulator/validator'
-
-describe Modsulator do
+RSpec.describe Modsulator do
   before :all do
     @tmp_dir      = File.expand_path("../../../tmp", __FILE__)
     Dir.mkdir(@tmp_dir) unless Dir.exists?(@tmp_dir)

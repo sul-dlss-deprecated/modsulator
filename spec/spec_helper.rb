@@ -13,12 +13,19 @@
 # The `.rspec` file also contains a few flags that are not defaults but that
 # users commonly want.
 
-require 'modsulator'
-FIXTURES_DIR = File.expand_path("../fixtures", __FILE__)
-XML_TEMPLATE = File.join(File.expand_path("../../lib/modsulator", __FILE__), "modsulator_template.xml")
-
 require 'coveralls'
 Coveralls.wear!
+
+require 'rspec'
+
+require 'modsulator'
+require "modsulator/validator"
+
+require 'equivalent-xml'
+require 'equivalent-xml/rspec_matchers'
+
+FIXTURES_DIR = File.expand_path('fixtures', __dir__)
+
 
 #
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
