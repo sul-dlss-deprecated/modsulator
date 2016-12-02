@@ -1,7 +1,4 @@
-require 'equivalent-xml'
-require 'modsulator/normalizer'
-
-describe Normalizer do
+RSpec.describe Normalizer do
   before :all do
     # Create common variables shared across tests
     @fixtures_dir = File.expand_path("../../fixtures", __FILE__)

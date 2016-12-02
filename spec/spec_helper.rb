@@ -13,12 +13,19 @@
 # The `.rspec` file also contains a few flags that are not defaults but that
 # users commonly want.
 
-require 'modsulator'
-FIXTURES_DIR = File.expand_path("../fixtures", __FILE__)
-XML_TEMPLATE = File.join(File.expand_path("../../lib/modsulator", __FILE__), "modsulator_template.xml")
-
 require 'coveralls'
 Coveralls.wear!
+
+require 'rspec'
+
+require 'modsulator'
+require "modsulator/validator"
+
+require 'equivalent-xml'
+require 'equivalent-xml/rspec_matchers'
+
+FIXTURES_DIR = File.expand_path('fixtures', __dir__)
+
 
 #
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
@@ -46,9 +53,9 @@ RSpec.configure do |config|
     mocks.verify_partial_doubles = true
   end
 
-# The settings below are suggested to provide a good initial experience
-# with RSpec, but feel free to customize to your heart's content.
-=begin
+  # The settings below are suggested to provide a good initial experience
+  # with RSpec, but feel free to customize to your heart's content.
+
   # These two settings work together to allow you to limit a spec run
   # to individual examples or groups you care about by tagging them with
   # `:focus` metadata. When nothing is tagged with `:focus`, all examples
@@ -93,5 +100,4 @@ RSpec.configure do |config|
   # test failures related to randomization by passing the same `--seed` value
   # as the one that triggered the failure.
   Kernel.srand config.seed
-=end
 end

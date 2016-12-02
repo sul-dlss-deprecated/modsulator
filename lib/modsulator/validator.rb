@@ -7,12 +7,10 @@ class Validator
 
   # Creates a new Validator, using either a provided XML Schema file or the built-in one.
   # @param schema_file  Full path to the desired .xsd file. If none is given, the built-in file will be used.
-  def initialize(schema_file = '')
-    if(schema_file == '')
-      @schema = Nokogiri::XML::Schema(File.read(File.expand_path('../modsulator.xsd', __FILE__)))
-    else
-      @schema = Nokogiri::XML::Schema(File.read(schema_file))
-    end
+  def initialize(schema_file = nil)
+    schema_file ||= File.expand_path('../modsulator.xsd', __FILE__)
+
+    @schema = Nokogiri::XML::Schema(File.open(schema_file))
   end
 
   

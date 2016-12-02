@@ -2,11 +2,10 @@
 # with metadata spreadsheets and MODS XML.
 
 require 'active_support/core_ext/hash/indifferent_access'   # Required for indifferent access to hashes
-require 'active_support/core_ext/object/blank.rb'           # Required for template calls to blank?()
+require 'active_support/core_ext/object/blank'              # Required for template calls to blank?()
 require 'erb'                                               # Rails templating engine
 require 'nokogiri'
 require 'roo'
-require 'rubygems'
 require 'modsulator/normalizer'
 require 'modsulator/modsulator_sheet'
 
