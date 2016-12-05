@@ -45,8 +45,8 @@
         <dateCreated keyDate="yes" encoding="w3cdtf">1878-10</dateCreated>
       </originInfo>
       <language>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="code">eng</languageTerm>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
       </language>
       <physicalDescription>
         <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
@@ -104,7 +104,7 @@
       </relatedItem>
       <recordInfo>
         <languageOfCataloging>
-          <languageTerm type="code" authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
         </languageOfCataloging>
         <recordOrigin>human prepared</recordOrigin>
       </recordInfo>
@@ -159,8 +159,8 @@
         <dateCreated keyDate="yes" encoding="w3cdtf">1877-10</dateCreated>
       </originInfo>
       <language>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="code">eng</languageTerm>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
       </language>
       <physicalDescription>
         <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
@@ -233,7 +233,7 @@
       </relatedItem>
       <recordInfo>
         <languageOfCataloging>
-          <languageTerm type="code" authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
         </languageOfCataloging>
         <recordOrigin>human prepared</recordOrigin>
       </recordInfo>
@@ -288,8 +288,8 @@
         <dateCreated keyDate="yes" encoding="w3cdtf">1869</dateCreated>
       </originInfo>
       <language>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="code">eng</languageTerm>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
       </language>
       <physicalDescription>
         <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
@@ -346,7 +346,7 @@
       </relatedItem>
       <recordInfo>
         <languageOfCataloging>
-          <languageTerm type="code" authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
         </languageOfCataloging>
         <recordOrigin>human prepared</recordOrigin>
       </recordInfo>
@@ -405,8 +405,8 @@
         <dateCreated keyDate="yes" encoding="w3cdtf">1862</dateCreated>
       </originInfo>
       <language>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="code">eng</languageTerm>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
       </language>
       <physicalDescription>
         <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
@@ -466,7 +466,7 @@
       </relatedItem>
       <recordInfo>
         <languageOfCataloging>
-          <languageTerm type="code" authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
         </languageOfCataloging>
         <recordOrigin>human prepared</recordOrigin>
       </recordInfo>
@@ -517,8 +517,8 @@
         <dateCreated keyDate="yes" encoding="w3cdtf">1869</dateCreated>
       </originInfo>
       <language>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="code">eng</languageTerm>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
       </language>
       <physicalDescription>
         <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
@@ -590,7 +590,7 @@
       </relatedItem>
       <recordInfo>
         <languageOfCataloging>
-          <languageTerm type="code" authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
         </languageOfCataloging>
         <recordOrigin>human prepared</recordOrigin>
       </recordInfo>
@@ -646,8 +646,8 @@
         <dateCreated keyDate="yes" encoding="w3cdtf">1878-06</dateCreated>
       </originInfo>
       <language>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="code">eng</languageTerm>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
       </language>
       <physicalDescription>
         <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
@@ -712,7 +712,7 @@
       </relatedItem>
       <recordInfo>
         <languageOfCataloging>
-          <languageTerm type="code" authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
         </languageOfCataloging>
         <recordOrigin>human prepared</recordOrigin>
       </recordInfo>
@@ -768,8 +768,8 @@
         <dateCreated keyDate="yes" encoding="w3cdtf">1878-09</dateCreated>
       </originInfo>
       <language>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="code">eng</languageTerm>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
       </language>
       <physicalDescription>
         <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
@@ -828,7 +828,7 @@
       </relatedItem>
       <recordInfo>
         <languageOfCataloging>
-          <languageTerm type="code" authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
         </languageOfCataloging>
         <recordOrigin>human prepared</recordOrigin>
       </recordInfo>
@@ -883,8 +883,8 @@
         <dateCreated keyDate="yes" encoding="w3cdtf">1878-04</dateCreated>
       </originInfo>
       <language>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="code">eng</languageTerm>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
       </language>
       <physicalDescription>
         <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
@@ -951,7 +951,7 @@
       </relatedItem>
       <recordInfo>
         <languageOfCataloging>
-          <languageTerm type="code" authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
         </languageOfCataloging>
         <recordOrigin>human prepared</recordOrigin>
       </recordInfo>
@@ -1006,8 +1006,8 @@
         <dateCreated keyDate="yes" encoding="w3cdtf">1874-08</dateCreated>
       </originInfo>
       <language>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="code">eng</languageTerm>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
       </language>
       <physicalDescription>
         <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
@@ -1085,7 +1085,7 @@
       </relatedItem>
       <recordInfo>
         <languageOfCataloging>
-          <languageTerm type="code" authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
         </languageOfCataloging>
         <recordOrigin>human prepared</recordOrigin>
       </recordInfo>
@@ -1137,8 +1137,8 @@
         <dateCreated keyDate="yes" encoding="w3cdtf">1879-08</dateCreated>
       </originInfo>
       <language>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="code">eng</languageTerm>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
       </language>
       <physicalDescription>
         <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
@@ -1209,7 +1209,7 @@
       </relatedItem>
       <recordInfo>
         <languageOfCataloging>
-          <languageTerm type="code" authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
         </languageOfCataloging>
         <recordOrigin>human prepared</recordOrigin>
       </recordInfo>
@@ -1264,8 +1264,8 @@
         <dateCreated keyDate="yes" encoding="w3cdtf">1878-04</dateCreated>
       </originInfo>
       <language>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="code">eng</languageTerm>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
       </language>
       <physicalDescription>
         <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
@@ -1328,7 +1328,7 @@
       </relatedItem>
       <recordInfo>
         <languageOfCataloging>
-          <languageTerm type="code" authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
         </languageOfCataloging>
         <recordOrigin>human prepared</recordOrigin>
       </recordInfo>
@@ -1384,8 +1384,8 @@
         <dateCreated keyDate="yes" encoding="w3cdtf">1875-09</dateCreated>
       </originInfo>
       <language>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="code">eng</languageTerm>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
       </language>
       <physicalDescription>
         <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
@@ -1437,7 +1437,7 @@
       </relatedItem>
       <recordInfo>
         <languageOfCataloging>
-          <languageTerm type="code" authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
         </languageOfCataloging>
         <recordOrigin>human prepared</recordOrigin>
       </recordInfo>
@@ -1496,8 +1496,8 @@
         <dateCreated keyDate="yes" encoding="w3cdtf">1855</dateCreated>
       </originInfo>
       <language>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="code">eng</languageTerm>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
       </language>
       <physicalDescription>
         <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
@@ -1574,7 +1574,7 @@
       </relatedItem>
       <recordInfo>
         <languageOfCataloging>
-          <languageTerm type="code" authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
         </languageOfCataloging>
         <recordOrigin>human prepared</recordOrigin>
       </recordInfo>
@@ -1630,8 +1630,8 @@
         <dateCreated keyDate="yes" encoding="w3cdtf">1864</dateCreated>
       </originInfo>
       <language>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="code">eng</languageTerm>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
       </language>
       <physicalDescription>
         <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
@@ -1703,7 +1703,7 @@
       </relatedItem>
       <recordInfo>
         <languageOfCataloging>
-          <languageTerm type="code" authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
         </languageOfCataloging>
         <recordOrigin>human prepared</recordOrigin>
       </recordInfo>
@@ -1759,8 +1759,8 @@
         <dateCreated keyDate="yes" encoding="w3cdtf">1866</dateCreated>
       </originInfo>
       <language>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="code">eng</languageTerm>
-        <languageTerm authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng" type="text">English</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
       </language>
       <physicalDescription>
         <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
@@ -1826,7 +1826,7 @@
       </relatedItem>
       <recordInfo>
         <languageOfCataloging>
-          <languageTerm type="code" authority="marclanguage" authorityURI="http://id.loc.gov/vocabulary/languages" valueURI="http://id.loc.gov/vocabulary/languages/eng">eng</languageTerm>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
         </languageOfCataloging>
         <recordOrigin>human prepared</recordOrigin>
       </recordInfo>
