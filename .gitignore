@@ -7,3 +7,5 @@ doc/
 .DS_Store
 coverage/
 pkg/
+.ruby-gemset
+.ruby-version

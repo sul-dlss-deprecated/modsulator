@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.platform    =  Gem::Platform::RUBY
   s.executables << 'modsulator'
 
-  s.add_dependency 'roo', '>= 1.1'
+  s.add_dependency 'roo', '2.5.1'                 # See https://github.com/sul-dlss/modsulator/issues/20 (24 April 2017)
   s.add_dependency 'equivalent-xml', '>= 0.6.0'   # For ignoring_attr_values() with arguments
   s.add_dependency 'nokogiri'
   s.add_dependency 'activesupport'
