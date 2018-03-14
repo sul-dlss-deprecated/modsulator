@@ -6,7 +6,7 @@ require 'active_support/core_ext/object/blank'              # Required for templ
 require 'erb'                                               # Rails templating engine
 require 'nokogiri'
 require 'roo'
-require 'modsulator/normalizer'
+require 'stanford/mods/normalizer'
 require 'modsulator/modsulator_sheet'
 
 
@@ -17,7 +17,7 @@ class Modsulator
   NAMESPACE = 'http://library.stanford.edu/xmlDocs'
 
   attr_reader :file, :template_xml, :rows
-  
+
 
   # The reason for requiring both a file and filename is that within the API that is one of the users of this class,
   # the file and filename exist separately.
@@ -109,7 +109,7 @@ class Modsulator
       v = transform_whitespace_markup(v) if v.instance_of?(String) && has_whitespace_markup?(v)
       manifest_row[k] = Nokogiri::XML::Text.new(v.to_s, Nokogiri::XML('')).to_s
     end
-    
+
 
     # Enable access with symbol or string keys
     manifest_row = manifest_row.with_indifferent_access
@@ -174,7 +174,7 @@ class Modsulator
     mods_xml.gsub!(/<\s[^>]+><\/>/, '')
 
     mods_xml_doc = Nokogiri::XML(mods_xml)
-    normalizer = Normalizer.new
+    normalizer = Stanford::Mods::Normalizer.new
     normalizer.normalize_document(mods_xml_doc.root)
     return mods_xml_doc
   end
