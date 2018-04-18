@@ -1422,6 +1422,11 @@
             <gml:upperCorner>[[ext:east_bc]] [[ext:north_bc]]</gml:upperCorner>
           </gml:Envelope>
         </gml:boundedBy>
+        <gmd:centerPoint>
+          <gml:Point gml:id="ID">
+            <gml:pos>[[ext:point_lat]] [[ext:point_lon]]</gml:pos>
+          </gml:Point>
+        </gmd:centerPoint>
       </rdf:Description>
     </rdf:RDF>
   </extension>
