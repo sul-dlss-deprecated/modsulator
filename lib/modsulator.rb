@@ -8,11 +8,14 @@ require 'nokogiri'
 require 'roo'
 require 'stanford/mods/normalizer'
 require 'modsulator/modsulator_sheet'
-
+require 'deprecation'
 
 # The main class for the MODSulator API, which lets you work with metadata spreadsheets and MODS XML.
 # @see https://consul.stanford.edu/display/chimera/MODS+bulk+loading Requirements (Stanford Consul page)
 class Modsulator
+  extend Deprecation
+  self.deprecation_horizon = 'modsulator version 2.0.0'
+
   # We define our own namespace for <xmlDocs>
   NAMESPACE = 'http://library.stanford.edu/xmlDocs'
 
@@ -180,10 +183,22 @@ class Modsulator
   end
 
 
-  # Returns the template spreadsheet that's built into this gem.
-  #
-  # @return      The template spreadsheet, in binary form.
-  def self.get_template_spreadsheet
-    IO.read(File.expand_path('../modsulator/modsulator_template.xlsx', __FILE__), mode: 'rb')
+  class << self
+    # Returns the template spreadsheet that's built into this gem.
+    #
+    # @return [String] The template spreadsheet, in binary form.
+    def get_template_spreadsheet
+      IO.read(File.expand_path('../modsulator/modsulator_template.xlsx', __FILE__), mode: 'rb')
+    end
+    deprecation_deprecate :get_template_spreadsheet
+
+    # This can be used by modsulator-rails-app so we can do:
+    #   send_file Modsulator.template_spreadsheet_path
+    # which is more memory efficient than:
+    #   render body: Modsulator.get_template_spreadsheet
+    # @return [String] the path to the spreadsheet template.
+    def template_spreadsheet_path
+      File.expand_path('../modsulator/modsulator_template.xlsx', __FILE__)
+    end
   end
 end
