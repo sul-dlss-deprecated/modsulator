@@ -1278,6 +1278,10 @@
       <dateIssued keyDate="[[ri1:dt:dateIssuedKeyDate]]" encoding="[[ri1:dt:dateIssuedEncoding]]" qualifier="[[ri1:dt:dateIssuedQualifier]]" point="[[ri1:dt:dateIssuedPoint]]">[[ri1:dt:dateIssued]]</dateIssued>
       <dateIssued encoding="[[ri1:dt:dateIssuedEncoding]]" qualifier="[[ri1:dt:dateIssued2Qualifier]]" point="[[ri1:dt:dateIssued2Point]]">[[ri1:dt:dateIssued2]]</dateIssued>
     </originInfo>
+    <abstract>[[ri1:abstract]]</abstract>
+    <physicalDescription>
+      <extent>[[ri1:extent]]</extent>
+    </physicalDescription>
     <identifier type="[[ri1:id1:type]]" displayLabel="[[ri1:id1:displayLabel]]">[[ri1:id1:identifier]]</identifier>
     <identifier type="[[ri1:id2:type]]" displayLabel="[[ri1:id2:displayLabel]]">[[ri1:id2:identifier]]</identifier>
     <identifier type="[[ri1:id3:type]]" displayLabel="[[ri1:id3:displayLabel]]">[[ri1:id3:identifier]]</identifier>
@@ -1285,24 +1289,86 @@
       <url>[[ri1:url]]</url>
     </location>
     <part>
-      <detail type="[[ri1:pt:type1]]">
-        <number>[[ri1:pt:number1]]</number>
-        <caption>[[ri1:pt:caption1]]</caption>
-        <title>[[ri1:pt:title1]]</title>
+      <detail type="[[ri1:pt1:type]]">
+        <title>[[ri1:pt1:title]]</title>
+        <caption>[[ri1:pt1:text]]</caption>
       </detail>
-      <detail type="[[ri1:pt:type2]]">
-        <number>[[ri1:pt:number2]]</number>
-        <caption>[[ri1:pt:caption2]]</caption>
-        <title>[[ri1:pt:title2]]</title>
+      <detail type="[[ri1:pt2:type]]">
+        <title>[[ri1:pt2:title]]</title>
+        <caption>[[ri1:pt2:text]]</caption>
       </detail>
-      <date encoding="[[ri1:pt:encoding1]]" point="[[ri1:pt:point1]]" qualifier="[[ri1:pt:qualifier1]]">[[ri1:pt:date1]]</date>
-      <date encoding="[[ri1:pt:encoding2]]" point="[[ri1:pt:point2]]" qualifier="[[ri1:pt:qualifier2]]">[[ri1:pt:date2]]</date>
-      <extent unit="[[ri1:pt:unit]]">
-        <start>[[ri1:pt:start]]</start>
-        <end>[[ri1:pt:end]]</end>
-        <list>[[ri1:pt:list]]</list>
-        <total>[[ri1:pt:total]]</total>
-      </extent>
+      <detail type="[[ri1:pt3:type]]">
+        <title>[[ri1:pt3:title]]</title>
+        <caption>[[ri1:pt3:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt4:type]]">
+        <title>[[ri1:pt4:title]]</title>
+        <caption>[[ri1:pt4:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt5:type]]">
+        <title>[[ri1:pt5:title]]</title>
+        <caption>[[ri1:pt5:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt6:type]]">
+        <title>[[ri1:pt6:title]]</title>
+        <caption>[[ri1:pt6:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt7:type]]">
+        <title>[[ri1:pt7:title]]</title>
+        <caption>[[ri1:pt7:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt8:type]]">
+        <title>[[ri1:pt8:title]]</title>
+        <caption>[[ri1:pt8:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt9:type]]">
+        <title>[[ri1:pt9:title]]</title>
+        <caption>[[ri1:pt9:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt10:type]]">
+        <title>[[ri1:pt10:title]]</title>
+        <caption>[[ri1:pt10:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt11:type]]">
+        <title>[[ri1:pt11:title]]</title>
+        <caption>[[ri1:pt11:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt12:type]]">
+        <title>[[ri1:pt12:title]]</title>
+        <caption>[[ri1:pt12:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt13:type]]">
+        <title>[[ri1:pt13:title]]</title>
+        <caption>[[ri1:pt13:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt14:type]]">
+        <title>[[ri1:pt14:title]]</title>
+        <caption>[[ri1:pt14:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt15:type]]">
+        <title>[[ri1:pt15:title]]</title>
+        <caption>[[ri1:pt15:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt16:type]]">
+        <title>[[ri1:pt16:title]]</title>
+        <caption>[[ri1:pt16:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt17:type]]">
+        <title>[[ri1:pt17:title]]</title>
+        <caption>[[ri1:pt17:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt18:type]]">
+        <title>[[ri1:pt18:title]]</title>
+        <caption>[[ri1:pt18:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt19:type]]">
+        <title>[[ri1:pt19:title]]</title>
+        <caption>[[ri1:pt19:text]]</caption>
+      </detail>
+      <detail type="[[ri1:pt20:type]]">
+        <title>[[ri1:pt20:title]]</title>
+        <caption>[[ri1:pt20:text]]</caption>
+      </detail>
     </part>
   </relatedItem>
   <relatedItem type="[[ri2:type]]" displayLabel="[[ri2:displayLabel]]">
