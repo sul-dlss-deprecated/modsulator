@@ -1753,6 +1753,8 @@
   </language>
   <physicalDescription>
     <form authority="[[ph1:formAuthority]]" authorityURI="[[ph1:formAuthorityURI]]" valueURI="[[ph1:formValueURI]]">[[ph1:form]]</form>
+    <form authority="[[ph1:form2Authority]]" authorityURI="[[ph1:form2AuthorityURI]]" valueURI="[[ph1:form2ValueURI]]">[[ph1:form2]]</form>
+    <form authority="[[ph1:form3Authority]]" authorityURI="[[ph1:form3AuthorityURI]]" valueURI="[[ph1:form3ValueURI]]">[[ph1:form3]]</form>
     <extent>[[ph1:extent]]</extent>
     <reformattingQuality>[[ph1:reformattingQuality]]</reformattingQuality>
     <digitalOrigin>[[ph1:digitalOrigin]]</digitalOrigin>
@@ -1773,6 +1775,8 @@
   </physicalDescription>
   <physicalDescription>
     <form authority="[[ph2:formAuthority]]" authorityURI="[[ph2:formAuthorityURI]]" valueURI="[[ph2:formValueURI]]">[[ph2:form]]</form>
+    <form authority="[[ph2:form2Authority]]" authorityURI="[[ph2:form2AuthorityURI]]" valueURI="[[ph2:form2ValueURI]]">[[ph2:form2]]</form>
+    <form authority="[[ph2:form3Authority]]" authorityURI="[[ph2:form3AuthorityURI]]" valueURI="[[ph2:form3ValueURI]]">[[ph2:form3]]</form>
     <extent>[[ph2:extent]]</extent>
     <reformattingQuality>[[ph2:reformattingQuality]]</reformattingQuality>
     <digitalOrigin>[[ph2:digitalOrigin]]</digitalOrigin>
@@ -1780,6 +1784,8 @@
   </physicalDescription>
   <physicalDescription>
     <form authority="[[ph3:formAuthority]]" authorityURI="[[ph3:formAuthorityURI]]" valueURI="[[ph3:formValueURI]]">[[ph3:form]]</form>
+    <form authority="[[ph3:form2Authority]]" authorityURI="[[ph3:form2AuthorityURI]]" valueURI="[[ph3:form2ValueURI]]">[[ph3:form2]]</form>
+    <form authority="[[ph3:form3Authority]]" authorityURI="[[ph3:form3AuthorityURI]]" valueURI="[[ph3:form3ValueURI]]">[[ph3:form3]]</form>
     <extent>[[ph3:extent]]</extent>
     <reformattingQuality>[[ph3:reformattingQuality]]</reformattingQuality>
     <digitalOrigin>[[ph3:digitalOrigin]]</digitalOrigin>
