@@ -1658,9 +1658,9 @@
     <dateIssued keyDate="[[dt:dateIssuedKeyDate]]" encoding="[[dt:dateIssuedEncoding]]" qualifier="[[dt:dateIssuedQualifier]]" point="[[dt:dateIssuedPoint]]">[[dt:dateIssued]]</dateIssued>
     <dateIssued encoding="[[dt:dateIssuedEncoding]]" qualifier="[[dt:dateIssued2Qualifier]]" point="[[dt:dateIssued2Point]]">[[dt:dateIssued2]]</dateIssued>
     <dateIssued keyDate="[[dt2:dateIssuedKeyDate]]" encoding="[[dt2:dateIssuedEncoding]]" qualifier="[[dt2:dateIssuedQualifier]]" point="[[dt2:dateIssuedPoint]]">[[dt2:dateIssued]]</dateIssued>
+    <dateIssued encoding="[[dt2:dateIssuedEncoding]]" qualifier="[[dt2:dateIssued2Qualifier]]" point="[[dt2:dateIssued2Point]]">[[dt2:dateIssued2]]</dateIssued>
     <dateIssued encoding="[[dt3:dateIssuedEncoding]]" qualifier="[[dt3:dateIssuedQualifier]]" point="[[dt3:dateIssuedPoint]]">[[dt3:dateIssued]]</dateIssued>
     <dateIssued encoding="[[dt3:dateIssuedEncoding]]" qualifier="[[dt3:dateIssued2Qualifier]]" point="[[dt3:dateIssued2Point]]">[[dt3:dateIssued2]]</dateIssued>
-    <dateIssued encoding="[[dt2:dateIssuedEncoding]]" qualifier="[[dt2:dateIssued2Qualifier]]" point="[[dt2:dateIssued2Point]]">[[dt2:dateIssued2]]</dateIssued>
     <dateCaptured keyDate="[[dt:dateCapturedKeyDate]]" encoding="[[dt:dateCapturedEncoding]]" qualifier="[[dt:dateCapturedQualifier]]" point="[[dt:dateCapturedPoint]]">[[dt:dateCaptured]]</dateCaptured>
     <dateCaptured encoding="[[dt:dateCapturedEncoding]]" qualifier="[[dt:dateCaptured2Qualifier]]" point="[[dt:dateCaptured2Point]]">[[dt:dateCaptured2]]</dateCaptured>
     <copyrightDate keyDate="[[dt:copyrightDateKeyDate]]" encoding="[[dt:copyrightDateEncoding]]" qualifier="[[dt:copyrightDateQualifier]]" point="[[dt:copyrightDatePoint]]">[[dt:copyrightDate]]</copyrightDate>
