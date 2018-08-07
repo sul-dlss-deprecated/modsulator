@@ -2683,6 +2683,7 @@
     <[[su60:p4:type]] authority="[[su60:p4:authority]]" authorityURI="[[su60:p4:authorityURI]]" valueURI="[[su60:p4:valueURI]]">[[su60:p4:value]]</[[su60:p4:type]]>
     <[[su60:p5:type]] authority="[[su60:p5:authority]]" authorityURI="[[su60:p5:authorityURI]]" valueURI="[[su60:p5:valueURI]]">[[su60:p5:value]]</[[su60:p5:type]]>
   </subject>
+  <subject>
     <cartographics>
       <scale>[[sc1:scale]]</scale>
       <projection>[[sc1:projection]]</projection>
