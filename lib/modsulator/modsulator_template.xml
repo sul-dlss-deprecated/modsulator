@@ -3247,7 +3247,7 @@
       <[[ri1:su10:p4:type]] authority="[[ri1:su10:p4:authority]]" authorityURI="[[ri1:su10:p4:authorityURI]]" valueURI="[[ri1:su10:p4:valueURI]]">[[ri1:su10:p4:value]]</[[ri1:su10:p4:type]]>
       <[[ri1:su10:p5:type]] authority="[[ri1:su10:p5:authority]]" authorityURI="[[ri1:su10:p5:authorityURI]]" valueURI="[[ri1:su10:p5:valueURI]]">[[ri1:su10:p5:value]]</[[ri1:su10:p5:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri1:sc1:scale]]</scale>
         <projection>[[ri1:sc1:projection]]</projection>
@@ -3660,7 +3660,7 @@
     <subject displayLabel="[[ri2:su10:displayLabel]]" authority="[[ri2:su10:authority]]" authorityURI="[[ri2:su10:authorityURI]]" valueURI="[[ri2:su10:valueURI]]" lang="[[ri2:su10:language]]" script="[[ri2:su10:script]]" transliteration="[[ri2:su10:transliteration]]" altRepGroup="[[ri2:su10:altRepGroup]]">
       <[[ri2:su10:p1:type]] authority="[[ri2:su10:p1:authority]]" authorityURI="[[ri2:su10:p1:authorityURI]]" valueURI="[[ri2:su10:p1:valueURI]]">[[ri2:su10:p1:value]]</[[ri2:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri2:sc1:scale]]</scale>
         <projection>[[ri2:sc1:projection]]</projection>
@@ -4010,7 +4010,7 @@
     <subject displayLabel="[[ri3:su10:displayLabel]]" authority="[[ri3:su10:authority]]" authorityURI="[[ri3:su10:authorityURI]]" valueURI="[[ri3:su10:valueURI]]" lang="[[ri3:su10:language]]" script="[[ri3:su10:script]]" transliteration="[[ri3:su10:transliteration]]" altRepGroup="[[ri3:su10:altRepGroup]]">
       <[[ri3:su10:p1:type]] authority="[[ri3:su10:p1:authority]]" authorityURI="[[ri3:su10:p1:authorityURI]]" valueURI="[[ri3:su10:p1:valueURI]]">[[ri3:su10:p1:value]]</[[ri3:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri3:sc1:scale]]</scale>
         <projection>[[ri3:sc1:projection]]</projection>
@@ -4360,7 +4360,7 @@
     <subject displayLabel="[[ri4:su10:displayLabel]]" authority="[[ri4:su10:authority]]" authorityURI="[[ri4:su10:authorityURI]]" valueURI="[[ri4:su10:valueURI]]" lang="[[ri4:su10:language]]" script="[[ri4:su10:script]]" transliteration="[[ri4:su10:transliteration]]" altRepGroup="[[ri4:su10:altRepGroup]]">
       <[[ri4:su10:p1:type]] authority="[[ri4:su10:p1:authority]]" authorityURI="[[ri4:su10:p1:authorityURI]]" valueURI="[[ri4:su10:p1:valueURI]]">[[ri4:su10:p1:value]]</[[ri4:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri4:sc1:scale]]</scale>
         <projection>[[ri4:sc1:projection]]</projection>
@@ -4690,7 +4690,7 @@
     <subject displayLabel="[[ri5:su10:displayLabel]]" authority="[[ri5:su10:authority]]" authorityURI="[[ri5:su10:authorityURI]]" valueURI="[[ri5:su10:valueURI]]" lang="[[ri5:su10:language]]" script="[[ri5:su10:script]]" transliteration="[[ri5:su10:transliteration]]" altRepGroup="[[ri5:su10:altRepGroup]]">
       <[[ri5:su10:p1:type]] authority="[[ri5:su10:p1:authority]]" authorityURI="[[ri5:su10:p1:authorityURI]]" valueURI="[[ri5:su10:p1:valueURI]]">[[ri5:su10:p1:value]]</[[ri5:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri5:sc1:scale]]</scale>
         <projection>[[ri5:sc1:projection]]</projection>
@@ -5020,7 +5020,7 @@
     <subject displayLabel="[[ri6:su10:displayLabel]]" authority="[[ri6:su10:authority]]" authorityURI="[[ri6:su10:authorityURI]]" valueURI="[[ri6:su10:valueURI]]" lang="[[ri6:su10:language]]" script="[[ri6:su10:script]]" transliteration="[[ri6:su10:transliteration]]" altRepGroup="[[ri6:su10:altRepGroup]]">
       <[[ri6:su10:p1:type]] authority="[[ri6:su10:p1:authority]]" authorityURI="[[ri6:su10:p1:authorityURI]]" valueURI="[[ri6:su10:p1:valueURI]]">[[ri6:su10:p1:value]]</[[ri6:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri6:sc1:scale]]</scale>
         <projection>[[ri6:sc1:projection]]</projection>
@@ -5350,7 +5350,7 @@
     <subject displayLabel="[[ri7:su10:displayLabel]]" authority="[[ri7:su10:authority]]" authorityURI="[[ri7:su10:authorityURI]]" valueURI="[[ri7:su10:valueURI]]" lang="[[ri7:su10:language]]" script="[[ri7:su10:script]]" transliteration="[[ri7:su10:transliteration]]" altRepGroup="[[ri7:su10:altRepGroup]]">
       <[[ri7:su10:p1:type]] authority="[[ri7:su10:p1:authority]]" authorityURI="[[ri7:su10:p1:authorityURI]]" valueURI="[[ri7:su10:p1:valueURI]]">[[ri7:su10:p1:value]]</[[ri7:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri7:sc1:scale]]</scale>
         <projection>[[ri7:sc1:projection]]</projection>
@@ -5680,7 +5680,7 @@
     <subject displayLabel="[[ri8:su10:displayLabel]]" authority="[[ri8:su10:authority]]" authorityURI="[[ri8:su10:authorityURI]]" valueURI="[[ri8:su10:valueURI]]" lang="[[ri8:su10:language]]" script="[[ri8:su10:script]]" transliteration="[[ri8:su10:transliteration]]" altRepGroup="[[ri8:su10:altRepGroup]]">
       <[[ri8:su10:p1:type]] authority="[[ri8:su10:p1:authority]]" authorityURI="[[ri8:su10:p1:authorityURI]]" valueURI="[[ri8:su10:p1:valueURI]]">[[ri8:su10:p1:value]]</[[ri8:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri8:sc1:scale]]</scale>
         <projection>[[ri8:sc1:projection]]</projection>
@@ -6010,7 +6010,7 @@
     <subject displayLabel="[[ri9:su10:displayLabel]]" authority="[[ri9:su10:authority]]" authorityURI="[[ri9:su10:authorityURI]]" valueURI="[[ri9:su10:valueURI]]" lang="[[ri9:su10:language]]" script="[[ri9:su10:script]]" transliteration="[[ri9:su10:transliteration]]" altRepGroup="[[ri9:su10:altRepGroup]]">
       <[[ri9:su10:p1:type]] authority="[[ri9:su10:p1:authority]]" authorityURI="[[ri9:su10:p1:authorityURI]]" valueURI="[[ri9:su10:p1:valueURI]]">[[ri9:su10:p1:value]]</[[ri9:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri9:sc1:scale]]</scale>
         <projection>[[ri9:sc1:projection]]</projection>
@@ -6340,7 +6340,7 @@
     <subject displayLabel="[[ri10:su10:displayLabel]]" authority="[[ri10:su10:authority]]" authorityURI="[[ri10:su10:authorityURI]]" valueURI="[[ri10:su10:valueURI]]" lang="[[ri10:su10:language]]" script="[[ri10:su10:script]]" transliteration="[[ri10:su10:transliteration]]" altRepGroup="[[ri10:su10:altRepGroup]]">
       <[[ri10:su10:p1:type]] authority="[[ri10:su10:p1:authority]]" authorityURI="[[ri10:su10:p1:authorityURI]]" valueURI="[[ri10:su10:p1:valueURI]]">[[ri10:su10:p1:value]]</[[ri10:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri10:sc1:scale]]</scale>
         <projection>[[ri10:sc1:projection]]</projection>
@@ -6670,7 +6670,7 @@
     <subject displayLabel="[[ri11:su10:displayLabel]]" authority="[[ri11:su10:authority]]" authorityURI="[[ri11:su10:authorityURI]]" valueURI="[[ri11:su10:valueURI]]" lang="[[ri11:su10:language]]" script="[[ri11:su10:script]]" transliteration="[[ri11:su10:transliteration]]" altRepGroup="[[ri11:su10:altRepGroup]]">
       <[[ri11:su10:p1:type]] authority="[[ri11:su10:p1:authority]]" authorityURI="[[ri11:su10:p1:authorityURI]]" valueURI="[[ri11:su10:p1:valueURI]]">[[ri11:su10:p1:value]]</[[ri11:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri11:sc1:scale]]</scale>
         <projection>[[ri11:sc1:projection]]</projection>
@@ -7000,7 +7000,7 @@
     <subject displayLabel="[[ri12:su10:displayLabel]]" authority="[[ri12:su10:authority]]" authorityURI="[[ri12:su10:authorityURI]]" valueURI="[[ri12:su10:valueURI]]" lang="[[ri12:su10:language]]" script="[[ri12:su10:script]]" transliteration="[[ri12:su10:transliteration]]" altRepGroup="[[ri12:su10:altRepGroup]]">
       <[[ri12:su10:p1:type]] authority="[[ri12:su10:p1:authority]]" authorityURI="[[ri12:su10:p1:authorityURI]]" valueURI="[[ri12:su10:p1:valueURI]]">[[ri12:su10:p1:value]]</[[ri12:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri12:sc1:scale]]</scale>
         <projection>[[ri12:sc1:projection]]</projection>
@@ -7330,7 +7330,7 @@
     <subject displayLabel="[[ri13:su10:displayLabel]]" authority="[[ri13:su10:authority]]" authorityURI="[[ri13:su10:authorityURI]]" valueURI="[[ri13:su10:valueURI]]" lang="[[ri13:su10:language]]" script="[[ri13:su10:script]]" transliteration="[[ri13:su10:transliteration]]" altRepGroup="[[ri13:su10:altRepGroup]]">
       <[[ri13:su10:p1:type]] authority="[[ri13:su10:p1:authority]]" authorityURI="[[ri13:su10:p1:authorityURI]]" valueURI="[[ri13:su10:p1:valueURI]]">[[ri13:su10:p1:value]]</[[ri13:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri13:sc1:scale]]</scale>
         <projection>[[ri13:sc1:projection]]</projection>
@@ -7660,7 +7660,7 @@
     <subject displayLabel="[[ri14:su10:displayLabel]]" authority="[[ri14:su10:authority]]" authorityURI="[[ri14:su10:authorityURI]]" valueURI="[[ri14:su10:valueURI]]" lang="[[ri14:su10:language]]" script="[[ri14:su10:script]]" transliteration="[[ri14:su10:transliteration]]" altRepGroup="[[ri14:su10:altRepGroup]]">
       <[[ri14:su10:p1:type]] authority="[[ri14:su10:p1:authority]]" authorityURI="[[ri14:su10:p1:authorityURI]]" valueURI="[[ri14:su10:p1:valueURI]]">[[ri14:su10:p1:value]]</[[ri14:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri14:sc1:scale]]</scale>
         <projection>[[ri14:sc1:projection]]</projection>
@@ -7990,7 +7990,7 @@
     <subject displayLabel="[[ri15:su10:displayLabel]]" authority="[[ri15:su10:authority]]" authorityURI="[[ri15:su10:authorityURI]]" valueURI="[[ri15:su10:valueURI]]" lang="[[ri15:su10:language]]" script="[[ri15:su10:script]]" transliteration="[[ri15:su10:transliteration]]" altRepGroup="[[ri15:su10:altRepGroup]]">
       <[[ri15:su10:p1:type]] authority="[[ri15:su10:p1:authority]]" authorityURI="[[ri15:su10:p1:authorityURI]]" valueURI="[[ri15:su10:p1:valueURI]]">[[ri15:su10:p1:value]]</[[ri15:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri15:sc1:scale]]</scale>
         <projection>[[ri15:sc1:projection]]</projection>
@@ -8320,7 +8320,7 @@
     <subject displayLabel="[[ri16:su10:displayLabel]]" authority="[[ri16:su10:authority]]" authorityURI="[[ri16:su10:authorityURI]]" valueURI="[[ri16:su10:valueURI]]" lang="[[ri16:su10:language]]" script="[[ri16:su10:script]]" transliteration="[[ri16:su10:transliteration]]" altRepGroup="[[ri16:su10:altRepGroup]]">
       <[[ri16:su10:p1:type]] authority="[[ri16:su10:p1:authority]]" authorityURI="[[ri16:su10:p1:authorityURI]]" valueURI="[[ri16:su10:p1:valueURI]]">[[ri16:su10:p1:value]]</[[ri16:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri16:sc1:scale]]</scale>
         <projection>[[ri16:sc1:projection]]</projection>
@@ -8650,7 +8650,7 @@
     <subject displayLabel="[[ri17:su10:displayLabel]]" authority="[[ri17:su10:authority]]" authorityURI="[[ri17:su10:authorityURI]]" valueURI="[[ri17:su10:valueURI]]" lang="[[ri17:su10:language]]" script="[[ri17:su10:script]]" transliteration="[[ri17:su10:transliteration]]" altRepGroup="[[ri17:su10:altRepGroup]]">
       <[[ri17:su10:p1:type]] authority="[[ri17:su10:p1:authority]]" authorityURI="[[ri17:su10:p1:authorityURI]]" valueURI="[[ri17:su10:p1:valueURI]]">[[ri17:su10:p1:value]]</[[ri17:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri17:sc1:scale]]</scale>
         <projection>[[ri17:sc1:projection]]</projection>
@@ -8980,7 +8980,7 @@
     <subject displayLabel="[[ri18:su10:displayLabel]]" authority="[[ri18:su10:authority]]" authorityURI="[[ri18:su10:authorityURI]]" valueURI="[[ri18:su10:valueURI]]" lang="[[ri18:su10:language]]" script="[[ri18:su10:script]]" transliteration="[[ri18:su10:transliteration]]" altRepGroup="[[ri18:su10:altRepGroup]]">
       <[[ri18:su10:p1:type]] authority="[[ri18:su10:p1:authority]]" authorityURI="[[ri18:su10:p1:authorityURI]]" valueURI="[[ri18:su10:p1:valueURI]]">[[ri18:su10:p1:value]]</[[ri18:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri18:sc1:scale]]</scale>
         <projection>[[ri18:sc1:projection]]</projection>
@@ -9310,7 +9310,7 @@
     <subject displayLabel="[[ri19:su10:displayLabel]]" authority="[[ri19:su10:authority]]" authorityURI="[[ri19:su10:authorityURI]]" valueURI="[[ri19:su10:valueURI]]" lang="[[ri19:su10:language]]" script="[[ri19:su10:script]]" transliteration="[[ri19:su10:transliteration]]" altRepGroup="[[ri19:su10:altRepGroup]]">
       <[[ri19:su10:p1:type]] authority="[[ri19:su10:p1:authority]]" authorityURI="[[ri19:su10:p1:authorityURI]]" valueURI="[[ri19:su10:p1:valueURI]]">[[ri19:su10:p1:value]]</[[ri19:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri19:sc1:scale]]</scale>
         <projection>[[ri19:sc1:projection]]</projection>
@@ -9640,7 +9640,7 @@
     <subject displayLabel="[[ri20:su10:displayLabel]]" authority="[[ri20:su10:authority]]" authorityURI="[[ri20:su10:authorityURI]]" valueURI="[[ri20:su10:valueURI]]" lang="[[ri20:su10:language]]" script="[[ri20:su10:script]]" transliteration="[[ri20:su10:transliteration]]" altRepGroup="[[ri20:su10:altRepGroup]]">
       <[[ri20:su10:p1:type]] authority="[[ri20:su10:p1:authority]]" authorityURI="[[ri20:su10:p1:authorityURI]]" valueURI="[[ri20:su10:p1:valueURI]]">[[ri20:su10:p1:value]]</[[ri20:su10:p1:type]]>
     </subject>
-    </subject>
+    <subject>
       <cartographics>
         <scale>[[ri20:sc1:scale]]</scale>
         <projection>[[ri20:sc1:projection]]</projection>
