@@ -24,11 +24,12 @@ RSpec.describe Modsulator do
       'location_url.xlsx' => 'location_url.xml',
       'point_coord_test.xlsx' => 'point_coord_test.xml'
     }.each do |testfile, results_file|
-      it "converts #{testfile} correctly to valid XML" do
-        generated_xml_string = Modsulator.new(File.join(FIXTURES_DIR, testfile), testfile).convert_rows()
+      generated_xml_string = Modsulator.new(File.join(FIXTURES_DIR, testfile), testfile).convert_rows()
+      it "converts #{testfile} to valid XML" do
         error_list = Validator.new(File.expand_path("lib/modsulator/modsulator.xsd")).validate_xml_string(generated_xml_string)
         expect(error_list.length()).to eq(0)
-
+      end
+      it "generates same XML from #{testfile} as before" do
         generated_xml = Nokogiri::XML(generated_xml_string)
         expected_xml = Nokogiri::XML(File.read(File.join(FIXTURES_DIR, results_file)))
         expect(generated_xml).to be_equivalent_to(expected_xml).ignoring_attr_values('datetime')
