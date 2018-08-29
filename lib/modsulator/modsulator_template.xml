@@ -643,6 +643,7 @@
     <dateOther type="[[dt:dateOtherType]]" encoding="[[dt:dateOtherEncoding]]" qualifier="[[dt:dateOther2Qualifier]]" point="[[dt:dateOther2Point]]" script="[[dt:dateOtherScript]]" transliteration="[[dt:dateOtherTransliteration]]">[[dt:dateOther2]]</dateOther>
     <edition>[[or:edition]]</edition>
     <issuance>[[or:issuance]]</issuance>
+    <frequency>[[or:frequency]]</frequency>
   </originInfo>
   <originInfo displayLabel="[[or2:displayLabel]]" eventType="[[or2:eventType]]" altRepGroup="[[or2:altRepGroup]]">
     <place>
@@ -662,6 +663,7 @@
     <dateOther type="[[or2:dt:dateOtherType]]" encoding="[[or2:dt:dateOtherEncoding]]" qualifier="[[or2:dt:dateOther2Qualifier]]" point="[[or2:dt:dateOther2Point]]" script="[[or2:dt:dateOtherScript]]" transliteration="[[or2:dt:dateOtherTransliteration]]">[[or2:dt:dateOther2]]</dateOther>
     <edition>[[or2:edition]]</edition>
     <issuance>[[or2:issuance]]</issuance>
+    <frequency>[[or2:frequency]]</frequency>
   </originInfo>
   <originInfo displayLabel="[[or3:displayLabel]]" eventType="[[or3:eventType]]" altRepGroup="[[or3:altRepGroup]]">
     <place>
@@ -681,6 +683,7 @@
     <dateOther type="[[or3:dt:dateOtherType]]" encoding="[[or3:dt:dateOtherEncoding]]" qualifier="[[or3:dt:dateOther2Qualifier]]" point="[[or3:dt:dateOther2Point]]" script="[[or3:dt:dateOtherScript]]" transliteration="[[or3:dt:dateOtherTransliteration]]">[[or3:dt:dateOther2]]</dateOther>
     <edition>[[or3:edition]]</edition>
     <issuance>[[or3:issuance]]</issuance>
+    <frequency>[[or3:frequency]]</frequency>
   </originInfo>
   <language>
     <languageTerm authority="[[la1:authority]]" authorityURI="[[la1:authorityURI]]" valueURI="[[la1:valueURI]]" type="code">[[la1:code]]</languageTerm>
