@@ -685,43 +685,43 @@
     <issuance>[[or3:issuance]]</issuance>
     <frequency>[[or3:frequency]]</frequency>
   </originInfo>
-  <language>
+  <language objectPart="[[la1:objectPart]]">
     <languageTerm authority="[[la1:authority]]" authorityURI="[[la1:authorityURI]]" valueURI="[[la1:valueURI]]" type="code">[[la1:code]]</languageTerm>
     <languageTerm authority="[[la1:authority]]" authorityURI="[[la1:authorityURI]]" valueURI="[[la1:valueURI]]" type="text">[[la1:text]]</languageTerm>
   </language>
-  <language>
+  <language objectPart="[[la2:objectPart]]">
     <languageTerm authority="[[la2:authority]]" authorityURI="[[la2:authorityURI]]" valueURI="[[la2:valueURI]]" type="code">[[la2:code]]</languageTerm>
     <languageTerm authority="[[la2:authority]]" authorityURI="[[la2:authorityURI]]" valueURI="[[la2:valueURI]]" type="text">[[la2:text]]</languageTerm>
   </language>
-  <language>
+  <language objectPart="[[la3:objectPart]]">
     <languageTerm authority="[[la3:authority]]" authorityURI="[[la3:authorityURI]]" valueURI="[[la3:valueURI]]" type="code">[[la3:code]]</languageTerm>
     <languageTerm authority="[[la3:authority]]" authorityURI="[[la3:authorityURI]]" valueURI="[[la3:valueURI]]" type="text">[[la3:text]]</languageTerm>
   </language>
-  <language>
+  <language objectPart="[[la4:objectPart]]">
     <languageTerm authority="[[la4:authority]]" authorityURI="[[la4:authorityURI]]" valueURI="[[la4:valueURI]]" type="code">[[la4:code]]</languageTerm>
     <languageTerm authority="[[la4:authority]]" authorityURI="[[la4:authorityURI]]" valueURI="[[la4:valueURI]]" type="text">[[la4:text]]</languageTerm>
   </language>
-  <language>
+  <language objectPart="[[la5:objectPart]]">
     <languageTerm authority="[[la5:authority]]" authorityURI="[[la5:authorityURI]]" valueURI="[[la5:valueURI]]" type="code">[[la5:code]]</languageTerm>
     <languageTerm authority="[[la5:authority]]" authorityURI="[[la5:authorityURI]]" valueURI="[[la5:valueURI]]" type="text">[[la5:text]]</languageTerm>
   </language>
-  <language>
+  <language objectPart="[[la6:objectPart]]">
     <languageTerm authority="[[la6:authority]]" authorityURI="[[la6:authorityURI]]" valueURI="[[la6:valueURI]]" type="code">[[la6:code]]</languageTerm>
     <languageTerm authority="[[la6:authority]]" authorityURI="[[la6:authorityURI]]" valueURI="[[la6:valueURI]]" type="text">[[la6:text]]</languageTerm>
   </language>
-  <language>
+  <language objectPart="[[la7:objectPart]]">
     <languageTerm authority="[[la7:authority]]" authorityURI="[[la7:authorityURI]]" valueURI="[[la7:valueURI]]" type="code">[[la7:code]]</languageTerm>
     <languageTerm authority="[[la7:authority]]" authorityURI="[[la7:authorityURI]]" valueURI="[[la7:valueURI]]" type="text">[[la7:text]]</languageTerm>
   </language>
-  <language>
+  <language objectPart="[[la8:objectPart]]">
     <languageTerm authority="[[la8:authority]]" authorityURI="[[la8:authorityURI]]" valueURI="[[la8:valueURI]]" type="code">[[la8:code]]</languageTerm>
     <languageTerm authority="[[la8:authority]]" authorityURI="[[la8:authorityURI]]" valueURI="[[la8:valueURI]]" type="text">[[la8:text]]</languageTerm>
   </language>
-  <language>
+  <language objectPart="[[la9:objectPart]]">
     <languageTerm authority="[[la9:authority]]" authorityURI="[[la9:authorityURI]]" valueURI="[[la9:valueURI]]" type="code">[[la9:code]]</languageTerm>
     <languageTerm authority="[[la9:authority]]" authorityURI="[[la9:authorityURI]]" valueURI="[[la9:valueURI]]" type="text">[[la9:text]]</languageTerm>
   </language>
-  <language>
+  <language objectPart="[[la10:objectPart]]">
     <languageTerm authority="[[la10:authority]]" authorityURI="[[la10:authorityURI]]" valueURI="[[la10:valueURI]]" type="code">[[la10:code]]</languageTerm>
     <languageTerm authority="[[la10:authority]]" authorityURI="[[la10:authorityURI]]" valueURI="[[la10:valueURI]]" type="text">[[la10:text]]</languageTerm>
   </language>
