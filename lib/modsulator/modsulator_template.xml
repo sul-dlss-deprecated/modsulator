@@ -631,8 +631,10 @@
     <publisher lang="[[or:publisherLanguage]]" script="[[or:publisherScript]]" transliteration="[[or:publisherTransliteration]]">[[or:publisher]]</publisher>
     <dateCreated keyDate="[[dt:dateCreatedKeyDate]]" encoding="[[dt:dateCreatedEncoding]]" qualifier="[[dt:dateCreatedQualifier]]" point="[[dt:dateCreatedPoint]]">[[dt:dateCreated]]</dateCreated>
     <dateCreated encoding="[[dt:dateCreatedEncoding]]" qualifier="[[dt:dateCreated2Qualifier]]" point="[[dt:dateCreated2Point]]">[[dt:dateCreated2]]</dateCreated>
+    <dateCreated keyDate="[[dt:dateCreated3KeyDate]]" encoding="[[dt:dateCreated3Encoding]]" qualifier="[[dt:dateCreated3Qualifier]]">[[dt:dateCreated3]]</dateCreated>
     <dateIssued keyDate="[[dt:dateIssuedKeyDate]]" encoding="[[dt:dateIssuedEncoding]]" qualifier="[[dt:dateIssuedQualifier]]" point="[[dt:dateIssuedPoint]]">[[dt:dateIssued]]</dateIssued>
     <dateIssued encoding="[[dt:dateIssuedEncoding]]" qualifier="[[dt:dateIssued2Qualifier]]" point="[[dt:dateIssued2Point]]">[[dt:dateIssued2]]</dateIssued>
+    <dateIssued keyDate="[[dt:dateIssued3KeyDate]]" encoding="[[dt:dateIssued3Encoding]]" qualifier="[[dt:dateIssued3Qualifier]]">[[dt:dateIssued3]]</dateIssued>
     <dateCaptured keyDate="[[dt:dateCapturedKeyDate]]" encoding="[[dt:dateCapturedEncoding]]" qualifier="[[dt:dateCapturedQualifier]]" point="[[dt:dateCapturedPoint]]">[[dt:dateCaptured]]</dateCaptured>
     <dateCaptured encoding="[[dt:dateCapturedEncoding]]" qualifier="[[dt:dateCaptured2Qualifier]]" point="[[dt:dateCaptured2Point]]">[[dt:dateCaptured2]]</dateCaptured>
     <copyrightDate keyDate="[[dt:copyrightDateKeyDate]]" encoding="[[dt:copyrightDateEncoding]]" qualifier="[[dt:copyrightDateQualifier]]" point="[[dt:copyrightDatePoint]]">[[dt:copyrightDate]]</copyrightDate>
