@@ -1346,6 +1346,21 @@
     <[[su30:p4:type]] authority="[[su30:p4:authority]]" authorityURI="[[su30:p4:authorityURI]]" valueURI="[[su30:p4:valueURI]]">[[su30:p4:value]]</[[su30:p4:type]]>
     <[[su30:p5:type]] authority="[[su30:p5:authority]]" authorityURI="[[su30:p5:authorityURI]]" valueURI="[[su30:p5:valueURI]]">[[su30:p5:value]]</[[su30:p5:type]]>
   </subject>
+  <subject authority="[[shg1:authority]]" authorityURI="[[shg1:authorityURI]]" valueURI="[[shg1:valueURI]]">
+    <hierarchicalGeographic>
+      <continent level="[[shg1:continent:level]]" authority="[[shg1:continent:authority]]" authorityURI="[[shg1:continent:authorityURI]]" valueURI="[[shg1:continent:valueURI]]">[[shg1:continent:value]]</continent>
+      <country level="[[shg1:country:level]]" authority="[[shg1:country:authority]]" authorityURI="[[shg1:country:authorityURI]]" valueURI="[[shg1:country:valueURI]]">[[shg1:country]]</country>
+      <region regionType="[[shg1:region:regionType]]" level="[[shg1:region:level]]" authority="[[shg1:region:authority]]" authorityURI="[[shg1:region:authorityURI]]" valueURI="[[shg1:region:valueURI]]">[[shg1:region:value]]</region>
+      <state level="[[shg1:state:level]]" authority="[[shg1:state:authority]]" authorityURI="[[shg1:state:authorityURI]]" valueURI="[[shg1:state:valueURI]]">[[shg1:state:value]]</state>
+      <territory level="[[shg1:territory:level]]" authority="[[shg1:territory:authority]]" authorityURI="[[shg1:territory:authorityURI]]" valueURI="[[shg1:territory:valueURI]]">[[shg1:territory:value]]</territory>
+      <county level="[[shg1:county:level]]" authority="[[shg1:county:authority]]" authorityURI="[[shg1:county:authorityURI]]" valueURI="[[shg1:county:valueURI]]">[[shg1:county:value]]</county>
+      <city level="[[shg1:city:level]]" authority="[[shg1:city:authority]]" authorityURI="[[shg1:city:authorityURI]]" valueURI="[[shg1:city:valueURI]]">[[shg1:city:value]]</city>
+      <citySection citySectionType="[[shg1:citySection:citySectionType]]" level="[[shg1:citySection:level]]" authority="[[shg1:citySection:authority]]" authorityURI="[[shg1:citySection:authorityURI]]" valueURI="[[shg1:citySection:valueURI]]">[[shg1:citySection:value]]</citySection>
+      <island level="[[shg1:island:level]]" authority="[[shg1:island:authority]]" authorityURI="[[shg1:island:authorityURI]]" valueURI="[[shg1:island:valueURI]]">[[shg1:island:value]]</island>
+      <area areaType="[[shg1:area:areaType]]" level="[[shg1:area:level]]" authority="[[shg1:area:authority]]" authorityURI="[[shg1:area:authorityURI]]" valueURI="[[shg1:area:valueURI]]">[[shg1:area:value]]</area>
+      <extraterrestrialArea level="[[shg1:extraterrestrialArea:level]]" authority="[[shg1:extraterrestrialArea:authority]]" authorityURI="[[shg1:extraterrestrialArea:authorityURI]]" valueURI="[[shg1:extraterrestrialArea:valueURI]]">[[shg1:extraterrestrialArea:value]]</extraterrestrialArea>
+    </hierarchicalGeographic>
+  </subject>
   <subject>
     <cartographics>
       <scale>[[sc1:scale]]</scale>
