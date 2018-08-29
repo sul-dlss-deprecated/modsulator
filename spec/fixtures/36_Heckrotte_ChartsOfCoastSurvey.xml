@@ -1,0 +1,1835 @@
+<?xml version="1.0"?>
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2016-07-15 10:37:32AM" sourceFile="Heckrotte_ChartsOfCoastSurvey.xlsx">
+  <xmlDoc id="descMetadata" objectId="fs947tw3404_001">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Approaches to the Columbia River</title>
+      </titleInfo>
+      <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+        <namePart>United States. Office of Coast Survey</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88080356">
+        <namePart>Patterson, C. P. (Carlile Pollock), 1816-1881</namePart>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n87820427">
+        <namePart>Schott, Charles A. (Charles Anthony), 1826-1901</namePart>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88080618">
+        <namePart>Cutts, R. D. (Richard Dominicus), 1817-1883</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2008060015">
+        <namePart>Gilbert, J. J.</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="marcgt" authorityURI="http://www.loc.gov/standards/valuelist/marcgt.html">Map</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026418.html">Nautical charts</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026199">Digital maps</genre>
+      <originInfo>
+        <place>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+          <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+        </place>
+        <publisher>United States Coast Survey</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf">1878-10</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
+        <extent>1 map : 109 x 46 cm, on sheet 116 x 51 cm</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <internetMediaType>image/jpeg</internetMediaType>
+      </physicalDescription>
+      <note type="statementOfResponsibility" displayLabel="Statement of responsibility">C. P. Patterson Superintendent ; verification by C. A. Schott, Assistant in charge of Office ; triangulation by R. D. Cutts and J. J. Gilbert ... the coast line is from the surveys by J. J. Gilbert ... that of the entrance to the Columbia River is from the surveys by C. Rockwell ... the off shore soundings were made in July and August 1877 by Lieut. Comdr. G. W. Coffin ... the bar of the Columbia River is from the survey made by E. Cordell ... astronomical and magnetic observations by George Davidson ... also magnetic observations by W. Eimbeck in 1873.</note>
+      <note>Depths shown by bathymetric soundings.</note>
+      <note>Latitudinal and longitudinal lines along margins.</note>
+      <note>Compass roses.</note>
+      <note>2 bar scales on chart, given in "Kilometers" and "Nautical Miles."</note>
+      <note>Shows coastline, depths, and lighthouses.</note>
+      <note>Descriptive text includes information on currents, dangers, tides, soundings, and "Moon's declination."</note>
+      <note>Seal: United States Coast Survey.</note>
+      <note>"No. 639 Price 40 cents".</note>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85028740">Columbia River</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85028740">Columbia River</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>1:100,000</scale>
+          <coordinates>W 124&#xB0;25'00"--W 123&#xB0;49'00"/N 46&#xB0;43'00"--N 45&#xB0;45'00"</coordinates>
+        </cartographics>
+      </subject>
+      <relatedItem type="host" displayLabel="From">
+        <titleInfo>
+          <title>Charts of the Coast Survey</title>
+        </titleInfo>
+        <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+          <namePart>United States Coast Survey</namePart>
+          <role>
+            <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+            <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+          </place>
+          <publisher>United States Coast Survey</publisher>
+          <dateCreated>1881</dateCreated>
+        </originInfo>
+        <location>
+          <url>https://purl.stanford.edu/fs947tw3404</url>
+        </location>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>human prepared</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="fs947tw3404_002">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Entrance to San Francisco Bay California</title>
+      </titleInfo>
+      <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+        <namePart>United States. Office of Coast Survey</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88080356">
+        <namePart>Patterson, C. P. (Carlile Pollock), 1816-1881</namePart>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n87846462">
+        <namePart>Hilgard, J. E. (Julius Erasmus), 1825-1891</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">edt</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">editor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n83030387">
+        <namePart>Bache, A. D. (Alexander Dallas), 1806-1867</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88080618">
+        <namePart>Cutts, R. D. (Richard Dominicus), 1817-1883</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="marcgt" authorityURI="http://www.loc.gov/standards/valuelist/marcgt.html">Map</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026418.html">Nautical charts</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026199">Digital maps</genre>
+      <originInfo>
+        <place>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+          <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+        </place>
+        <publisher>United States Coast Survey</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf">1877-10</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
+        <extent>1 map : electrotype copy of engraving ; 58 x 95 cm, on sheet 71 x 103 cm</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <internetMediaType>image/jpeg</internetMediaType>
+      </physicalDescription>
+      <note type="statementOfResponsibility" displayLabel="Statement of responsibility">C. P. Patterson Superintendent ; verified, J. E. Hilgard Assistant in charge of office ; from a trigonometrical survey under the direction of A. D. Bache Superintendent of the Survey of the Coast of the United States ; triangulation by R. D. Cutts Asst. &amp; A. F. Rodgers Sub-Asst. Topography by R. D. Cutts Asst. A. M. Harrison &amp; A. F. Rodgers Sub-Assts. Hydrography by the party under the command of Lieut. Comdg. James Alden U. S. N. Assist. 1859 ; Electrotype copy no. 3 by G. Mathiot U.S.C.S. ; Redd. drng. by W. M. C. Fairfax, J. Lambert &amp; J. J. Ricketts ; Engd. by J. Knight, A. Blondeau &amp; G. B. Metzeroth.</note>
+      <note>Depths shown by bathymetric soundings; relief shown by hachures.</note>
+      <note>Latitudinal and longitudinal lines.</note>
+      <note>Compass rose.</note>
+      <note>3 bar scales on chart, given in "Statute Miles," "Nautical Miles" and "Kilometers."</note>
+      <note>Legend indicating buoys.</note>
+      <note>Index indicating "Materials," e.g. mud, sand, mica.</note>
+      <note>Shows coastline, depths, reefs, wharves, topography, vegetation, city plan.</note>
+      <note>Descriptive text includes information on tides, soundings, and lighthouses.</note>
+      <note>Seal: United States Coast Survey.</note>
+      <note>"No. 621 75 cents".</note>
+      <note type="with" displayLabel="With">Inset chart: Sub-sketch of entrance to San Francisco Bay ; Edition 1877 (scale 1:400,000).</note>
+      <note type="with" displayLabel="With">2 profile views: View of the entrance to San Francisco Bay, Alcatraz -- View of the entrance to San Francisco Bay from Yerba Buena Id.</note>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79041717">California</geographic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85117095">San Francisco Bay</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85117095">San Francisco Bay (Calif.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85117096">San Francisco Bay Area (Calif.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79018452">San Francisco (Calif.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>1:50,000</scale>
+          <coordinates>W 122&#xB0;43'00"--W 122&#xB0;09'00"/N 37&#xB0;56'00"--N 37&#xB0;40'00"</coordinates>
+        </cartographics>
+      </subject>
+      <relatedItem type="host" displayLabel="From">
+        <titleInfo>
+          <title>Charts of the Coast Survey</title>
+        </titleInfo>
+        <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+          <namePart>United States Coast Survey</namePart>
+          <role>
+            <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+            <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+          </place>
+          <publisher>United States Coast Survey</publisher>
+          <dateCreated>1881</dateCreated>
+        </originInfo>
+        <location>
+          <url>https://purl.stanford.edu/fs947tw3404</url>
+        </location>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>human prepared</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="fs947tw3404_003">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>San Francisco Peninsula</title>
+      </titleInfo>
+      <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+        <namePart>United States. Office of Coast Survey</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79128952">
+        <namePart>Peirce, Benjamin, 1809-1880</namePart>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n87846462">
+        <namePart>Hilgard, J. E. (Julius Erasmus), 1825-1891</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">edt</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">editor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n83030387">
+        <namePart>Bache, A. D. (Alexander Dallas), 1806-1867</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88080618">
+        <namePart>Cutts, R. D. (Richard Dominicus), 1817-1883</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="marcgt" authorityURI="http://www.loc.gov/standards/valuelist/marcgt.html">Map</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026418.html">Nautical charts</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026199">Digital maps</genre>
+      <originInfo>
+        <place>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+          <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+        </place>
+        <publisher>United States Coast Survey</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf">1869</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
+        <extent>1 map : electrotype copy of engraving ; 70 x 42 cm, on sheet 76 x 51 cm</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <internetMediaType>image/jpeg</internetMediaType>
+      </physicalDescription>
+      <note type="statementOfResponsibility" displayLabel="Statement of responsibility">Benjamin Peirce Superintendent ; verified J. E. Hilgard Assist Coast Suvey in charge of office ; this map is reduced rom surveys made under the direction of A. D. Bache, Supt. U.S. Coast Survey by R. D. Cutts, A. M. Harrison and A. F. Rodgers ... from supplementary surveys of the interior, made under the direction of Genl. A. A. Humphreys ... A. F. Rodgers and C. Rockwell ... ; Electrotype copy no. 1 U.S.C.S.</note>
+      <note>Relief shown by hachures.</note>
+      <note>Latitudinal and longitudinal lines along margins.</note>
+      <note>Bar scale on map given in "Statute Miles."</note>
+      <note>Shows coastline, topography, drainage, vegetation, city plan, roads, railroads.</note>
+      <note>Descriptive note on elevations.</note>
+      <note>Seal: U.S. Coast Survey Office.</note>
+      <note>"No. 628 Price 50 cents".</note>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85117098">San Francisco Peninsula (Calif.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79018452">San Francisco (Calif.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>1:40,000</scale>
+          <coordinates>W 122&#xB0;31'00"--W 122&#xB0;19'30"/N 37&#xB0;50'00"--N 37&#xB0;35'00"</coordinates>
+        </cartographics>
+      </subject>
+      <relatedItem type="host" displayLabel="From">
+        <titleInfo>
+          <title>Charts of the Coast Survey</title>
+        </titleInfo>
+        <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+          <namePart>United States Coast Survey</namePart>
+          <role>
+            <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+            <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+          </place>
+          <publisher>United States Coast Survey</publisher>
+          <dateCreated>1881</dateCreated>
+        </originInfo>
+        <location>
+          <url>https://purl.stanford.edu/fs947tw3404</url>
+        </location>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>human prepared</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="fs947tw3404_004">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Upper part of San Francisco Bay California</title>
+      </titleInfo>
+      <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+        <namePart>United States. Office of Coast Survey</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n87846462">
+        <namePart>Hilgard, J. E. (Julius Erasmus), 1825-1891</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n83030387">
+        <namePart>Bache, A. D. (Alexander Dallas), 1806-1867</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88080618">
+        <namePart>Cutts, R. D. (Richard Dominicus), 1817-1883</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n82086732">
+        <namePart>Rodgers, A. F.</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="marcgt" authorityURI="http://www.loc.gov/standards/valuelist/marcgt.html">Map</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026418.html">Nautical charts</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026199">Digital maps</genre>
+      <originInfo>
+        <place>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+          <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+        </place>
+        <publisher>Coast Survey Office</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf">1862</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
+        <extent>1 map : electrotype copy of engraving ; 67 x 90 cm, on sheet 75 x 103 cm</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <internetMediaType>image/jpeg</internetMediaType>
+      </physicalDescription>
+      <note type="statementOfResponsibility" displayLabel="Statement of responsibility">verified J. E. Hilgard Assist. Coast Survey in charge of Office ; from a trigonometrical survey under the direction of A. D. Bache Superintendent of the Survey of the Coast of the United States. triangulation &amp; topography by R. D. Cutts &amp; A. F. Rodgers Assts. Coast Survey. Hydrography by the parties under the command of Commander James Alden &amp; Lieut. Comdg. R. M. Cuyler U.S.N. Assts. ; Electrotype copy no. 2 by G. Mathiot U.S.C.S. ; Reduction of topography by H. Lindenkohl and hydrography by L. D. Williams ; Engraving of topography by J. C. Kondrup, sanding by H. S. Barnard and lettering by J. Knight.</note>
+      <note>Depths shown by bathymetric soundings; relief shown by hachures.</note>
+      <note>Latitudinal and longitudinal lines.</note>
+      <note>Compass roses.</note>
+      <note>2 bar scales on map, given in "Statute Miles" and "Nautical Miles."</note>
+      <note>Index indicating "Bottoms": hard, soft, sticky.</note>
+      <note>Shows coastline, drainage, topography, vegetation, depths.</note>
+      <note>Descriptive text includes information on tides and soundings.</note>
+      <note>Seal: Coast Survey Office.</note>
+      <note>"No. 622 75 cents".</note>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79041717">California</geographic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85117095">San Francisco Bay</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85117095">San Francisco Bay (Calif.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>1:50,000</scale>
+          <coordinates>W 122&#xB0;26'00"--W 121&#xB0;56'00"/N 37&#xB0;44'00"--N 37&#xB0;25'30"</coordinates>
+        </cartographics>
+      </subject>
+      <relatedItem type="host" displayLabel="From">
+        <titleInfo>
+          <title>Charts of the Coast Survey</title>
+        </titleInfo>
+        <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+          <namePart>United States Coast Survey</namePart>
+          <role>
+            <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+            <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+          </place>
+          <publisher>Coast Survey Office</publisher>
+          <dateCreated>1881</dateCreated>
+        </originInfo>
+        <location>
+          <url>https://purl.stanford.edu/fs947tw3404</url>
+        </location>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>human prepared</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="fs947tw3404_005">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Alaska and adjoining territory</title>
+      </titleInfo>
+      <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+        <namePart>United States. Office of Coast Survey</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79128952">
+        <namePart>Peirce, Benjamin, 1809-1880</namePart>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n50036506">
+        <namePart>Dall, William Healey, 1845-1927</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79085831">
+        <namePart>Lindenkohl, H. (Henry)</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n50041611">
+        <namePart>Bien, Julius, 1826-1909</namePart>
+      </name>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="marcgt" authorityURI="http://www.loc.gov/standards/valuelist/marcgt.html">Map</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026418.html">Nautical charts</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026199">Digital maps</genre>
+      <originInfo>
+        <place>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+          <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+        </place>
+        <publisher>United States Coast Survey</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf">1869</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
+        <extent>1 map : colored photolithograph ; 61 x 85 cm, on sheet 66 x 82 cm</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <internetMediaType>image/jpeg</internetMediaType>
+      </physicalDescription>
+      <note type="statementOfResponsibility" displayLabel="Statement of responsibility">Benjamin Peirce, Supt. ; The Yukon River, ranges of mountains, shores of Norton Sound and many features of the interior from a reconnoissance by W. H. Dall, Director of the Scientific Corps, of the W. U. Tel. Expedition 1865-1868 ; Drawn by H. Lindenkohl ; Photolith by the N.Y. Lithographing, Engraving &amp; Printing Co., Julius Bien, Supt.</note>
+      <note>Depths shown by bathymetric soundings; relief shown by hachures.</note>
+      <note>Latitudinal and longitudinal lines.</note>
+      <note>Coordinates approximate and based on Greenwich meridian.</note>
+      <note>2 bar scales on map, given in "Statute Miles" and "Nautical Miles."</note>
+      <note>Shows coastline, drainage, topography, shoals, depths, routes.</note>
+      <note>"No. 705 Price 50 cents" at upper left; "No. 20" at upper right.</note>
+      <note>Inset map: Aleutian Islands.</note>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79018447">Alaska</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85006955">Arctic regions</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85006951">Arctic Ocean</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85092520">North Pacific Ocean</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85013327">Bering Sea</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>1:3,421,440</scale>
+          <coordinates>E  175&#xB0;00'00"--W 115&#xB0;00'00"/N 70&#xB0;00'00"--N 53&#xB0;00'00"</coordinates>
+        </cartographics>
+      </subject>
+      <relatedItem type="host" displayLabel="From">
+        <titleInfo>
+          <title>Charts of the Coast Survey</title>
+        </titleInfo>
+        <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+          <namePart>United States Coast Survey</namePart>
+          <role>
+            <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+            <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+          </place>
+          <publisher>United States Coast Survey</publisher>
+          <dateCreated>1881</dateCreated>
+        </originInfo>
+        <location>
+          <url>https://purl.stanford.edu/fs947tw3404</url>
+        </location>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>human prepared</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="fs947tw3404_006">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Puget Sound :</title>
+        <subTitle>Washington Territory ; 1867</subTitle>
+      </titleInfo>
+      <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+        <namePart>United States. Office of Coast Survey</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88080356">
+        <namePart>Patterson, C. P. (Carlile Pollock), 1816-1881</namePart>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n87846462">
+        <namePart>Hilgard, J. E. (Julius Erasmus), 1825-1891</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">edt</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">editor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/nr98037318">
+        <namePart>Alden, James, 1810-1877</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n82090799">
+        <namePart>Davidson, George, 1825-1911</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="marcgt" authorityURI="http://www.loc.gov/standards/valuelist/marcgt.html">Map</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026418.html">Nautical charts</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026199">Digital maps</genre>
+      <originInfo>
+        <place>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+          <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+        </place>
+        <publisher>United States Coast and Geodetic Survey</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf">1878-06</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
+        <extent>1 map : electrotype copy ; 72 x 44 cm, on sheet 76 x 51 cm</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <internetMediaType>image/jpeg</internetMediaType>
+      </physicalDescription>
+      <note type="statementOfResponsibility" displayLabel="Statement of responsibility">C. P. Patterson Superintendent ; verified J. E. Hilgard, Assistant in charge of Office ; In addition to the surveys and reconnoissances by Commander James Alden, U.S.N George Davidson and J. S. Lawson Assistant U.S. Coast Survey the following material has been used in the compilation of this chart. Charts of the U.S. Exploring Expedition under command of Capt. Charles Wilkes U.S.N. in 1841. U.S. Land Office surveys ; Electrotype copy no. 1 by G. Mathiot U.S.C.S. ; Compiled and drawn by A. Lindenkohl.</note>
+      <note>Depths shown by bathymetric soundings; relief shown by hachures.</note>
+      <note>Latitudinal and longitudinal lines along margins.</note>
+      <note>Compass roses.</note>
+      <note>3 bar scales on map, given in "Statute Miles," "Nautical Miles," and "Kilometers."</note>
+      <note>Index indicating "Bottoms," e.g. mud, sand, shells.</note>
+      <note>Shows coastline, drainage, topography, shoals, depths, anchorages, lighthouses.</note>
+      <note>Descriptive text includes information on soundings, tides, lighthouses, and "Moon's declination."</note>
+      <note>Seal: United States Coast and Geodetic Survey.</note>
+      <note>"No. 662 Price 40 cents".</note>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79027224">Washtington (State)</geographic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85108969">Puget Sound</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85108969">Puget Sound (Wash.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n2002021916">Washington Territory</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>1:200,000</scale>
+          <coordinates>W 123&#xB0;15'00"--W 122&#xB0;05'00"/N 48&#xB0;15'00"--N 47&#xB0;00'00"</coordinates>
+        </cartographics>
+      </subject>
+      <relatedItem type="host" displayLabel="From">
+        <titleInfo>
+          <title>Charts of the Coast Survey</title>
+        </titleInfo>
+        <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+          <namePart>United States Coast Survey</namePart>
+          <role>
+            <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+            <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+          </place>
+          <publisher>United States Coast and Geodetic Survey</publisher>
+          <dateCreated>1881</dateCreated>
+        </originInfo>
+        <location>
+          <url>https://purl.stanford.edu/fs947tw3404</url>
+        </location>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>human prepared</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="fs947tw3404_007">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Potomac River (in four sheets) :</title>
+        <subTitle>sheet no. 4 from Indian Head to Georgetown ; 1862</subTitle>
+      </titleInfo>
+      <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+        <namePart>United States. Office of Coast Survey</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88080356">
+        <namePart>Patterson, C. P. (Carlile Pollock), 1816-1881</namePart>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n87846462">
+        <namePart>Hilgard, J. E. (Julius Erasmus), 1825-1891</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">edt</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">editor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n83030387">
+        <namePart>Bache, A. D. (Alexander Dallas), 1806-1867</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88278521">
+        <namePart>Ferguson, Charles, active 19th century</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="marcgt" authorityURI="http://www.loc.gov/standards/valuelist/marcgt.html">Map</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026418.html">Nautical charts</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026199">Digital maps</genre>
+      <originInfo>
+        <place>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+          <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+        </place>
+        <publisher>United States Coast and Geodetic Survey</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf">1878-09</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
+        <extent>1 map : electrotype copy ; 98 x 58 cm, on sheet 103 x 71 cm</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <internetMediaType>image/jpeg</internetMediaType>
+      </physicalDescription>
+      <note type="statementOfResponsibility" displayLabel="Statement of responsibility">C. P. Patterson Superintendent ; verified J. E. Hilgard Assistant in charge of Office ; From a trigonomical survey under the direction of A. D. Bache Superintendent of the Survey of the Coast of the United States. triangulation by A. D. Bache Supdt., C. Ferguson, C. Hosmer and C. B. Boyd Sub-Assts. Topography by A. M. Harrison, C. M. Bache, C. Junken, Assts., J. Mechan, C. Hosmer, C. H. Boyd and J. Hergesheimer Sub-Assists. Hydrography by Lieut. Comdr. T. S. Phelps, U.S.N. C. P. Patterson and C. Junken Assists. ; Electrotype copy no. 2 U.S.C.S. ; Redd. drng. by H. Lindenkohl and L. Karcher ; Engraved by A. Maedel and A. Petersen.</note>
+      <note>Depths shown by bathymetric soundings; relief shown by hachures.</note>
+      <note>Latitudinal and longitudinal lines.</note>
+      <note>Compass roses.</note>
+      <note>3 bar scales on map, given in "Statute Miles," "Nautical Miles," and "Kilometers".</note>
+      <note>Index indicating bottoms: hard, soft, mud.</note>
+      <note>Shows coastline, drainage, topography, vegetation, shoals, depths, city plans, lighthouses.</note>
+      <note>Descriptive text includes information on tides, soundings, lighthouses, and extensive list of source citations.</note>
+      <note>Seal: United States Coast Survey.</note>
+      <note type="with" displayLabel="With">Inset chart: Diagram of charts: Potomac River.</note>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85105689">Potomac River</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85105689">Potomac River</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>1:40,000</scale>
+          <coordinates>W 77&#xB0;08'00"--W 76&#xB0;52'00"/N 38&#xB0;57'00"--N 38&#xB0;33'00"</coordinates>
+        </cartographics>
+      </subject>
+      <relatedItem type="host" displayLabel="From">
+        <titleInfo>
+          <title>Charts of the Coast Survey</title>
+        </titleInfo>
+        <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+          <namePart>United States Coast Survey</namePart>
+          <role>
+            <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+            <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+          </place>
+          <publisher>United States Coast and Geodetic Survey</publisher>
+          <dateCreated>1881</dateCreated>
+        </originInfo>
+        <location>
+          <url>https://purl.stanford.edu/fs947tw3404</url>
+        </location>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>human prepared</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="fs947tw3404_008">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Boston Harbor Massachusetts</title>
+      </titleInfo>
+      <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+        <namePart>United States. Office of Coast Survey</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88080356">
+        <namePart>Patterson, C. P. (Carlile Pollock), 1816-1881</namePart>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n87846462">
+        <namePart>Hilgard, J. E. (Julius Erasmus), 1825-1891</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">edt</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">editor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n83030387">
+        <namePart>Bache, A. D. (Alexander Dallas), 1806-1867</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n96027996">
+        <namePart>Boutelle, C. O. (Charles Otis)</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="marcgt" authorityURI="http://www.loc.gov/standards/valuelist/marcgt.html">Map</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026418.html">Nautical charts</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026199">Digital maps</genre>
+      <originInfo>
+        <place>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+          <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+        </place>
+        <publisher>United States Coast Survey</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf">1878-04</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
+        <extent>1 map : electrotype copy ; 72 x 91 cm, on sheet 75 x 101 cm</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <internetMediaType>image/jpeg</internetMediaType>
+      </physicalDescription>
+      <note type="statementOfResponsibility" displayLabel="Statement of responsibility">C.P. Patterson Superintendent ; verified, J.E. Hilgard ; From a Trigonometrical Survey under the direction of A.D. Bache Superintendent of the Survey of the Coast of the United States triangulation by A.D. Bache Supdt. C. O. Boutelle Assistant Topography by J.B. Gluck H.L. Whiting J.S. Williams Assists. &amp; S.A. Gilbert Sub-Asst. Hydrography by the parties under the direction of C.H. Davis Lieut. U.S.N. and A. Boschke C.E.</note>
+      <note>Depths shown by bathymetric soundings; relief shown by hachures.</note>
+      <note>Latitudinal and longitudinal lines.</note>
+      <note>Compass roses.</note>
+      <note>3 bar scales on map, given in "Statute Miles," "Nautical Miles," and "Kilometers".</note>
+      <note>Tables include information on tides, currents, lighthouses, buoys, and abbreviations.</note>
+      <note>Shows shoals, drainage, topography, city plans, buildings, railroads, depths, Cambridge Observatory.</note>
+      <note>Descriptive text includes information on Sailing Directions, tidal currents.</note>
+      <note>"Aids to Navigation corrected 1881."</note>
+      <note>Seal: United States Coast Survey.</note>
+      <note>"No. 337 Price 75 cents."</note>
+      <note type="with" displayLabel="With">3 profile views: Entrance to Boston by Main Channel -- Entrance to Boston by South Channel -- Minot's Ledge Light</note>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79007084">Massachusetts</geographic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh94002605">Boston Harbor</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh94002605">Boston Harbor (Mass.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79045553">Boston (Mass.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>1:40,000</scale>
+          <coordinates>W 71&#xB0;07'22"--W 70&#xB0;44'14"/N 42&#xB0;23'55"--N 42&#xB0;13'50"</coordinates>
+        </cartographics>
+      </subject>
+      <relatedItem type="host" displayLabel="From">
+        <titleInfo>
+          <title>Charts of the Coast Survey</title>
+        </titleInfo>
+        <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+          <namePart>United States Coast Survey</namePart>
+          <role>
+            <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+            <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+          </place>
+          <publisher>United States Coast Survey</publisher>
+          <dateCreated>1881</dateCreated>
+        </originInfo>
+        <location>
+          <url>https://purl.stanford.edu/fs947tw3404</url>
+        </location>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>human prepared</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="fs947tw3404_009">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Bay and Harbor of New York</title>
+      </titleInfo>
+      <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+        <namePart>United States. Office of Coast Survey</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88080356">
+        <namePart>Patterson, C. P. (Carlile Pollock), 1816-1881</namePart>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n87846462">
+        <namePart>Hilgard, J. E. (Julius Erasmus), 1825-1891</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">edt</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">editor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/nr95039574">
+        <namePart>Ferguson, James, 1797-1867</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n92045812">
+        <namePart>Blunt, Edmund, 1799-1866</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="marcgt" authorityURI="http://www.loc.gov/standards/valuelist/marcgt.html">Map</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026418.html">Nautical charts</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026199">Digital maps</genre>
+      <originInfo>
+        <place>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+          <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+        </place>
+        <publisher>United States Coast Survey</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf">1874-08</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
+        <extent>1 map : electrotype copy ; both 61 x 98 cm, on sheet 70 x 103 cm</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <internetMediaType>image/jpeg</internetMediaType>
+      </physicalDescription>
+      <note type="statementOfResponsibility" displayLabel="Statement of responsibility">triangulation by J. Ferguson and E. Blunt Assistants Topography by H.L. Whiting S.A. Gilbert A.M. Harrison F.H. Gerdes A. Boschke Assists. F.W. Dorr C. Rockwell and J. Mechan Sub-Assists Hydrography by Lieuts. Comdg. R. Wainwright and T.A. Craven U.S.N. H. Mitchell F.H. Gerdes and F.F. Nes Assistants. Published in 1874.</note>
+      <note>Depths shown by bathymetric soundings; relief shown by hachures and spot heights.</note>
+      <note>Latitudinal and longitudinal lines.</note>
+      <note>Compass roses.</note>
+      <note>3 bar scales on map, given in "Statute Miles," "Nautical Miles," and "Kilometers".</note>
+      <note>Tables include information on tides, currents, lighthouses and beacons, lights, fog signals.</note>
+      <note>Shows coastline, shoals, waterways, city plan, buildings, roads, railroads, vegetation, topography, depths, lighthouses.</note>
+      <note>Descriptive text includes information on Sailing Directions.</note>
+      <note>Seal: United States Coast Survey.</note>
+      <note>"No. 369 Price 75 cents."</note>
+      <note>2 profile views: No. 1 Highland Lights bearing W.N.W. -- No. 2 Highland Lights bearing W.</note>
+      <note>11 additional contributors&#xA0;listed under&#xA0;"Office work."</note>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n80126293">New York (State)</geographic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99004716">New York Harbor</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n80126293">New York (State)</geographic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh91005249">Upper Bay</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99004716">New York Harbor (N.Y. and N.J.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh91005249">Upper Bay (N.Y. and N.J.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79007751">New York (N.Y.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>1:40,000</scale>
+          <coordinates>W 74&#xB0;14'14"--W 73&#xB0;49'25"/N 40&#xB0;50'14"--N 40&#xB0;23'46"</coordinates>
+        </cartographics>
+      </subject>
+      <relatedItem type="host" displayLabel="From">
+        <titleInfo>
+          <title>Charts of the Coast Survey</title>
+        </titleInfo>
+        <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+          <namePart>United States Coast Survey</namePart>
+          <role>
+            <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+            <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+          </place>
+          <publisher>United States Coast Survey</publisher>
+          <dateCreated>1881</dateCreated>
+        </originInfo>
+        <location>
+          <url>https://purl.stanford.edu/fs947tw3404</url>
+        </location>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>human prepared</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="fs947tw3404_010">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Coast Chart No. 94 Mississippi River :</title>
+        <subTitle>from the passes to Grand Prairie Louisiana</subTitle>
+      </titleInfo>
+      <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+        <namePart>United States. Office of Coast Survey</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88080356">
+        <namePart>Patterson, C. P. (Carlile Pollock), 1816-1881</namePart>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n87846462">
+        <namePart>Hilgard, J. E. (Julius Erasmus), 1825-1891</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">edt</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">editor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n83030387">
+        <namePart>Bache, A. D. (Alexander Dallas), 1806-1867</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79128952">
+        <namePart>Peirce, Benjamin, 1809-1880</namePart>
+      </name>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="marcgt" authorityURI="http://www.loc.gov/standards/valuelist/marcgt.html">Map</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026418.html">Nautical charts</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026199">Digital maps</genre>
+      <originInfo>
+        <place>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+          <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+        </place>
+        <publisher>United States Coast Survey</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf">1879-08</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
+        <extent>1 map : electrotype copy ; 102 x 83 cm, on sheet 107 x 88 cm</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <internetMediaType>image/jpeg</internetMediaType>
+      </physicalDescription>
+      <note type="statementOfResponsibility" displayLabel="Statement of responsibility">C.P. Patterson, superintendent ; verified J.E. Hilgard ; under the direction of A.D. Bache and Benjamin Peirce superintendents of the Coast Survey ; triangulation was made by F.H. Gerdes and C.H. Boyd...and S. Harris ; Hydrography of the North Pass...surveyed by Lieut. Commdg. J.J. Guthrie...that of West Bay in 1868 and Breton Sount in 1869 by F.P. Webber...approaches to the S.W. pass by J.S. Bradford...approaches to Pass &#xE1; Loutre, N.E., S.E., and South Passes and the River above Cubits Crevasse by F.D. Granger..."</note>
+      <note>Depths shown by bathymetric soundings; relief shown by hachures and spot heights.</note>
+      <note>Tables include information on tides, lighthouses, buoys, and abbreviations.</note>
+      <note>Compass roses.</note>
+      <note>4 bar scales on map, given in "Statute Miles," "Scale of Yards," "Nautical Miles," and "Kilometers".</note>
+      <note>Shows delta, drainage, shoals, vegetation, depths.</note>
+      <note>Descriptive text includes information on tides and soundings.</note>
+      <note>"Aids to Navigation corrected to Nov. 1881."</note>
+      <note>Seal: United States Coast Survey.</note>
+      <note>"No. 194 Price 50 cents."</note>
+      <note>10 additional contributors&#xA0;listed under&#xA0;"Office work."</note>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85086206">Mississippi River</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79138970">Louisiana</geographic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85086208">Mississippi River Delta</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85086206">Mississippi River</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85086208">Mississippi River Delta (La.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>1:80,000</scale>
+          <coordinates>W 89&#xB0;33'27"--W 88&#xB0;54'14"/N 29&#xB0;24'07"--N 28&#xB0;53'42"</coordinates>
+        </cartographics>
+      </subject>
+      <relatedItem type="host" displayLabel="From">
+        <titleInfo>
+          <title>Charts of the Coast Survey</title>
+        </titleInfo>
+        <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+          <namePart>United States Coast Survey</namePart>
+          <role>
+            <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+            <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+          </place>
+          <publisher>United States Coast Survey</publisher>
+          <dateCreated>1881</dateCreated>
+        </originInfo>
+        <location>
+          <url>https://purl.stanford.edu/fs947tw3404</url>
+        </location>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>human prepared</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="fs947tw3404_011">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Charleston Harbor and its approaches</title>
+      </titleInfo>
+      <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+        <namePart>United States. Office of Coast Survey</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88080356">
+        <namePart>Patterson, C. P. (Carlile Pollock), 1816-1881</namePart>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n87846462">
+        <namePart>Hilgard, J. E. (Julius Erasmus), 1825-1891</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">edt</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">editor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n83030387">
+        <namePart>Bache, A. D. (Alexander Dallas), 1806-1867</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n96027996">
+        <namePart>Boutelle, C. O. (Charles Otis)</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="marcgt" authorityURI="http://www.loc.gov/standards/valuelist/marcgt.html">Map</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026418.html">Nautical charts</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026199">Digital maps</genre>
+      <originInfo>
+        <place>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+          <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+        </place>
+        <publisher>United States Coast Survey</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf">1878-04</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
+        <extent>1 map : electrotype copy ; 78 x 80 cm, on sheet 86 x 89 cm</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <internetMediaType>image/jpeg</internetMediaType>
+      </physicalDescription>
+      <note type="statementOfResponsibility" displayLabel="Statement of responsibility">C.P. Patterson Superintendent ; verified, J.E. Hilgard ; From a Trigonometrical Survey under the direction of A.D.Bache Superintendent of the Survey of the Coast of the United States triangulation by C.O. Boutelle Assistant Topography by S.A. Gilbert J. Seib Assists. and W.S. Edwards Sub-Asst. Hydrography by the Party under the direction of C.O. Boutelle Assistant</note>
+      <note>Depths shown by bathymetric soundings.</note>
+      <note>Latitudinal and longitudinal lines along margins.</note>
+      <note>Compass roses.</note>
+      <note>3 bar scales on map, given in "Kilometers," "Statute Miles," and "Nautical Miles."</note>
+      <note>Legend indicating buoys.</note>
+      <note>Table of Lighthouses.</note>
+      <note>Shows coastline, depths, drainage, shoals, lighthouses, beacons, city plan, vegetation.</note>
+      <note>Descriptive text includes information on longitude, tides, light vessels, soundings.</note>
+      <note>"Aids to Navigation corrected 1881."</note>
+      <note>Seal: United States Coast Survey.</note>
+      <note>"No. 431 Price 50 cents."</note>
+      <note type="with" displayLabel="With">Profile View: View of North Channel.</note>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79022914">South Carolina</geographic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh91001632">Charleston Harbor</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh91001632">Charleston Harbor (S.C.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>1:30,000</scale>
+          <coordinates>W 79&#xB0;58'19"--W 79&#xB0;43'00"/N 32&#xB0;50'13"--N 32&#xB0;37'46"</coordinates>
+        </cartographics>
+      </subject>
+      <relatedItem type="host" displayLabel="From">
+        <titleInfo>
+          <title>Charts of the Coast Survey</title>
+        </titleInfo>
+        <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+          <namePart>United States Coast Survey</namePart>
+          <role>
+            <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+            <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+          </place>
+          <publisher>United States Coast Survey</publisher>
+          <dateCreated>1881</dateCreated>
+        </originInfo>
+        <location>
+          <url>https://purl.stanford.edu/fs947tw3404</url>
+        </location>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>human prepared</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="fs947tw3404_012">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Mt. Desert Island</title>
+        <subTitle>Maine ; 1875</subTitle>
+      </titleInfo>
+      <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+        <namePart>United States. Office of Coast Survey</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88080356">
+        <namePart>Patterson, C. P. (Carlile Pollock), 1816-1881</namePart>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n87846462">
+        <namePart>Hilgard, J. E. (Julius Erasmus), 1825-1891</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">edt</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">editor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n85188731">
+        <namePart>Donn, J. W. (John W.), 1835-1905</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n85149621">
+        <namePart>Enthoffer, J. (Joseph), 1818-1901</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/egr">egr</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/egr">engraver</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="marcgt" authorityURI="http://www.loc.gov/standards/valuelist/marcgt.html">Map</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026418.html">Nautical charts</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026199">Digital maps</genre>
+      <originInfo>
+        <place>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+          <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+        </place>
+        <publisher>United States Coast Survey</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf">1875-09</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
+        <extent>1 map : 44 x 37 cm, on sheet 52 x 40 cm</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <internetMediaType>image/jpeg</internetMediaType>
+      </physicalDescription>
+      <note type="statementOfResponsibility" displayLabel="Statement of responsibility">Topography surveyed by J.W. Donn Assistant between 1871 and 1874. Issued October 1875 C.P. Patterson Superintendent. Verification by J.E. Hilgard Assistant in charge of Office ; Outlines and topography engraved by J. Enthoffer ; Lettering by E. A. Maedel</note>
+      <note>Relief shown by hachures and shading.</note>
+      <note>Compass rose.</note>
+      <note>Bar scale on map given in "Statute Miles."</note>
+      <note>Tables include information on lighthouses, heights, and summer water levels.</note>
+      <note>Shows waterways, islands, shoals, lighthouses, roads, buildings.</note>
+      <note>Seal: United States Coast Survey.</note>
+      <note>"No. 103 (2) Price 20 cents."</note>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85087746">Mount Desert Island (Me.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>1:80,000</scale>
+          <coordinates>W 68&#xB0;26'11"--W 68&#xB0;10'24"/N 44&#xB0;26'43"--N 44&#xB0;13'12"</coordinates>
+        </cartographics>
+      </subject>
+      <relatedItem type="host" displayLabel="From">
+        <titleInfo>
+          <title>Charts of the Coast Survey</title>
+        </titleInfo>
+        <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+          <namePart>United States Coast Survey</namePart>
+          <role>
+            <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+            <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+          </place>
+          <publisher>United States Coast Survey</publisher>
+          <dateCreated>1881</dateCreated>
+        </originInfo>
+        <location>
+          <url>https://purl.stanford.edu/fs947tw3404</url>
+        </location>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>human prepared</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="fs947tw3404_013">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>General chart of Delaware and Chesapeake Bays and the seacoast from Cape May to Cape Henry</title>
+      </titleInfo>
+      <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+        <namePart>United States. Office of Coast Survey</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79133776">
+        <namePart>Hassler, F. R. (Ferdinand Rudolph), 1770-1843</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n83030387">
+        <namePart>Bache, A. D. (Alexander Dallas), 1806-1867</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n83227747">
+        <namePart>Boschke, A.</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n86084927">
+        <namePart>Throop, John Peter Van Ness, 1794-approximately 1861</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/egr">egr</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/egr">engraver</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="marcgt" authorityURI="http://www.loc.gov/standards/valuelist/marcgt.html">Map</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026418.html">Nautical charts</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026199">Digital maps</genre>
+      <originInfo>
+        <place>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+          <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+        </place>
+        <publisher>United States Coast Survey</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf">1855</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
+        <extent>1 map : 77 x 64 cm, on sheet 84 x 75 cm</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <internetMediaType>image/jpeg</internetMediaType>
+      </physicalDescription>
+      <note type="statementOfResponsibility" displayLabel="Statement of responsibility">From a Trigonometrical Survey under the direction of F.R. Hassler and A.D. Bache Superindenents of the Survey of the Coast of the United States ; Published in 1855 A.D. Bache Superintendent ; Redd. Drng. by A. Boschke ; Engd. by J.V.N. Throop J.C. Kondrup &amp; W. Ogilvie</note>
+      <note>Depths shown by bathymetric soundings.</note>
+      <note>Latitudinal and longitudinal lines along margins.</note>
+      <note>Compass roses.</note>
+      <note>3 bar scales on map, given in "Kilometers," "Statute Miles," and "Nautical Miles."</note>
+      <note>Tables include information on sea coast lights, tides, and abbreviations.</note>
+      <note>Shows coastlines, depths, drainage, shoals, lighthouses.</note>
+      <note>Descriptive text includes information on Sailing Directions.</note>
+      <note>"Aids to navigation corrected to 1880."</note>
+      <note>Seal: United States Coast Survey.</note>
+      <note>"No. 376 Price 50 cents."</note>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79041720">Delaware</geographic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85036545">Delaware Bay</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79029831">Maryland</geographic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85023111">Chesapeake Bay</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85036545">Delaware Bay (Del. and N.J.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85023111">Chesapeake Bay (Md. and Va.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85036590">Delmarva Peninsula</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>1:400,000</scale>
+          <coordinates>W 77&#xB0;20'00"--W 74&#xB0;40'00"/N 39&#xB0;34'00"--N 36&#xB0;50'00"</coordinates>
+        </cartographics>
+      </subject>
+      <relatedItem type="host" displayLabel="From">
+        <titleInfo>
+          <title>Charts of the Coast Survey</title>
+        </titleInfo>
+        <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+          <namePart>United States Coast Survey</namePart>
+          <role>
+            <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+            <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+          </place>
+          <publisher>United States Coast Survey</publisher>
+          <dateCreated>1881</dateCreated>
+        </originInfo>
+        <location>
+          <url>https://purl.stanford.edu/fs947tw3404</url>
+        </location>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>human prepared</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="fs947tw3404_014">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Hampton Roads and Elizabeth River</title>
+        <subTitle>Virginia</subTitle>
+      </titleInfo>
+      <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+        <namePart>United States. Office of Coast Survey</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88080356">
+        <namePart>Patterson, C. P. (Carlile Pollock), 1816-1881</namePart>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n87846462">
+        <namePart>Hilgard, J. E. (Julius Erasmus), 1825-1891</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">edt</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">editor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n83030387">
+        <namePart>Bache, A. D. (Alexander Dallas), 1806-1867</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n92045812">
+        <namePart>Blunt, Edmund, 1799-1866</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="marcgt" authorityURI="http://www.loc.gov/standards/valuelist/marcgt.html">Map</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026418.html">Nautical charts</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026199">Digital maps</genre>
+      <originInfo>
+        <place>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+          <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+        </place>
+        <publisher>United States Coast Survey</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf">1864</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
+        <extent>1 map : 55 x 39 cm, on sheet 60 x 45 cm</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <internetMediaType>image/jpeg</internetMediaType>
+      </physicalDescription>
+      <note type="statementOfResponsibility" displayLabel="Statement of responsibility">C.P. Patterson Superintendent ; verified, J.E. Hilgard ; From a Trigonometrical Survey under the direction of A.D.Bache Superintendent of the Survey of the Coast of the United States triangulation by E. Blunt Assistant Topography by John Seib Asst. Hydrography by the Party under the command of Lieut. Comdg. John J.Almy U.S.N.Assist. [...]</note>
+      <note>Depths shown by bathymetric soundings.</note>
+      <note>Latitudinal and longitudinal lines along margins.</note>
+      <note>Compass rose.</note>
+      <note>4 bar scales on map, given in "Statute Miles," "Yards," "Nautical Miles," and "Kilometers".</note>
+      <note>Tables include information on lighthouses, tides, buoys, and abbreviations.</note>
+      <note>Shows coastlines, shoals, drainage, lighthouses.</note>
+      <note>Descriptive text includes information on longitude, ranges, soundings, and sailing directions.</note>
+      <note>"Aids to Navigation corrected 1881."</note>
+      <note>Seal: United States Coast Survey.</note>
+      <note>"No. 403 price 20 cents."</note>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79022909">Virginia</geographic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85058598">Hampton Roads (Va. : Harbor)</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79022909">Virginia</geographic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh86001980">Elizabeth River</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85058598">Hampton Roads (Va. : Harbor)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh86001980">Elizabeth River (Va.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>1:40,000</scale>
+          <coordinates>W 76&#xB0;25'57"--W 76&#xB0;15'05"/N 37&#xB0;01'15"--N 36&#xB0;47'54"</coordinates>
+        </cartographics>
+      </subject>
+      <relatedItem type="host" displayLabel="From">
+        <titleInfo>
+          <title>Charts of the Coast Survey</title>
+        </titleInfo>
+        <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+          <namePart>United States Coast Survey</namePart>
+          <role>
+            <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+            <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+          </place>
+          <publisher>United States Coast Survey</publisher>
+          <dateCreated>1881</dateCreated>
+        </originInfo>
+        <location>
+          <url>https://purl.stanford.edu/fs947tw3404</url>
+        </location>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>human prepared</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="fs947tw3404_015">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Washington Sound and approaches</title>
+        <subTitle>Washington Territory</subTitle>
+      </titleInfo>
+      <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+        <namePart>United States. Office of Coast Survey</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n88080356">
+        <namePart>Patterson, C. P. (Carlile Pollock), 1816-1881</namePart>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n87846462">
+        <namePart>Hilgard, J. E. (Julius Erasmus), 1825-1891</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">edt</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/edt">editor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n83030387">
+        <namePart>Bache, A. D. (Alexander Dallas), 1806-1867</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/nr98037318">
+        <namePart>Alden, James, 1810-1877</namePart>
+        <role>
+          <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">srv</roleTerm>
+          <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/srv">surveyor</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>cartographic</typeOfResource>
+      <genre authority="marcgt" authorityURI="http://www.loc.gov/standards/valuelist/marcgt.html">Map</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026418.html">Nautical charts</genre>
+      <genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2011026199">Digital maps</genre>
+      <originInfo>
+        <place>
+          <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+          <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+        </place>
+        <publisher>U.S. Coast and Geodetic Survey</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf">1866</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="code">eng</languageTerm>
+        <languageTerm authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng" type="text">English</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="rdacontent" authorityURI="http://www.loc.gov/standards/valuelist/rdacontent.html" valueURI="http://id.loc.gov/vocabulary/contentTypes/cri">cartographic image</form>
+        <extent>1 map : electrotype copy ; 68 x 65 cm, on sheet 80 x 75 cm</extent>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <internetMediaType>image/jpeg</internetMediaType>
+      </physicalDescription>
+      <note type="statementOfResponsibility" displayLabel="Statement of responsibility">C.P. Patterson Superintendent ; verified J.E. Hilgard ; A.D. Bache Superintendent ; in addition to the reconnoissances and surveys by Commander James Alden and Lieut. R.M. Cuyler U.S.N. George Davidson and J.S. Lawson...charts of the British Admiralty by Capts. G.H. Richards and Henry Kellet R.N. ; Map of the Northwestern Boundary, Archibald Campbell ; U.S. Land Office surveys ; charts of the U.S. Exploring Expedition under command of Capt. Charles Wilkes U.S.N. ; astronomical and magnetic observations were made by Assistant George Davidson... ; Electrotype copy No. 1 by G. Mathiot</note>
+      <note>Depths shown by bathymetric soundings and isolines; relief by hachures and spot heights.</note>
+      <note>Latitudinal and longitudinal lines along margins.</note>
+      <note>Compass roses.</note>
+      <note>3 bar scales on map, given in "Statute Miles," "Nautical Miles," and "Kilometers".</note>
+      <note>Tables include information on lighthouses, tides, and abbreviations.</note>
+      <note>Shows coastlines, shoals, drainage, lighthouses.</note>
+      <note>Descriptive text includes information on tides and soundings.</note>
+      <note>"Aids to Navigation corrected 1880."</note>
+      <note>Seal: U. S. Coast and Geodetic Survey.</note>
+      <note>"No. 654 price 40 cents."</note>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <topic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85090331">Nautical charts</topic>
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n79027224">Washtington (State)</geographic>
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85108969">Puget Sound</geographic>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh85108969">Puget Sound (Wash.)</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects">
+        <geographic authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/n2002021916">Washington Territory</geographic>
+        <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh99001269">Maps</genre>
+        <temporal authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects" valueURI="http://id.loc.gov/authorities/subjects/sh2002012475">19th century</temporal>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>1:200,000</scale>
+          <coordinates>W 123&#xB0;53'00"--W 122&#xB0;12'00"/N 49&#xB0;12'00"--N 47&#xB0;58'00"</coordinates>
+        </cartographics>
+      </subject>
+      <relatedItem type="host" displayLabel="From">
+        <titleInfo>
+          <title>Charts of the Coast Survey</title>
+        </titleInfo>
+        <name type="corporate" authority="naf" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2004036429">
+          <namePart>United States Coast Survey</namePart>
+          <role>
+            <roleTerm type="code" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">ctg</roleTerm>
+            <roleTerm type="text" authority="marcrelator" authorityURI="http://id.loc.gov/vocabulary/relators" valueURI="http://id.loc.gov/vocabulary/relators/ctg">cartographer</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">dcu</placeTerm>
+            <placeTerm type="text" authority="marccountry" authorityURI="http://id.loc.gov/vocabulary/countries" valueURI="http://id.loc.gov/vocabulary/countries/dcu">District of Columbia</placeTerm>
+          </place>
+          <publisher>U.S. Coast and Geodetic Survey</publisher>
+          <dateCreated>1881</dateCreated>
+        </originInfo>
+        <location>
+          <url>https://purl.stanford.edu/fs947tw3404</url>
+        </location>
+      </relatedItem>
+      <recordInfo>
+        <languageOfCataloging>
+          <languageTerm type="code" authority="iso639-2b" authorityURI="http://id.loc.gov/vocabulary/iso639-2" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+        </languageOfCataloging>
+        <recordOrigin>human prepared</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+</xmlDocs>

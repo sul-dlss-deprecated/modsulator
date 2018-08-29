@@ -1,0 +1,458 @@
+<?xml version="1.0"?>
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2018-04-18 02:42:25PM" sourceFile="filled_template_20160711.xlsx">
+  <xmlDoc id="descMetadata" objectId="123">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo authority="ti1:authority" authorityURI="ti1:authorityURI" valueURI="ti1:valueURI" nameTitleGroup="ti1:nameTitleGroup" lang="ti1:language" script="ti1:script" transliteration="ti1:transliteration" altRepGroup="ti1:altRepGroup">
+        <nonSort>ti1:nonSort</nonSort>
+        <title>ti1:title</title>
+        <subTitle>ti1:subTitle</subTitle>
+        <partNumber>ti1:partNumber</partNumber>
+        <partName>ti1:partName</partName>
+      </titleInfo>
+      <titleInfo type="abbreviated" displayLabel="ti2:displayLabel" authority="ti2:authority" authorityURI="ti2:authorityURI" valueURI="ti2:valueURI" nameTitleGroup="ti2:nameTitleGroup" lang="ti2:language" script="ti2:script" transliteration="ti2:transliteration" altRepGroup="ti2:altRepGroup">
+        <nonSort>ti2:nonSort</nonSort>
+        <title>ti2:title</title>
+        <subTitle>ti2:subTitle</subTitle>
+        <partNumber>ti2:partNumber</partNumber>
+        <partName>ti2:partName</partName>
+      </titleInfo>
+      <titleInfo type="abbreviated" displayLabel="ti3:displayLabel" authority="ti3:authority" authorityURI="ti3:authorityURI" valueURI="ti3:valueURI" nameTitleGroup="ti3:nameTitleGroup" lang="ti3:language" script="ti3:script" transliteration="ti3:transliteration" altRepGroup="ti3:altRepGroup">
+        <nonSort>ti3:nonSort</nonSort>
+        <title>ti3:title</title>
+        <subTitle>ti3:subTitle</subTitle>
+        <partNumber>ti3:partNumber</partNumber>
+        <partName>ti3:partName</partName>
+      </titleInfo>
+      <name type="personal" usage="primary" authority="na1:authority" authorityURI="na1:authorityURI" valueURI="na1:valueURI" nameTitleGroup="na1:nameTitleGroup" lang="na1:language" script="na1:script" transliteration="na1:transliteration" altRepGroup="na1:altRepGroup">
+        <namePart>na1:namePart</namePart>
+        <role>
+          <roleTerm type="code" authority="ro1:authority" authorityURI="ro1:authorityURI" valueURI="ro1:valueURI">ro1:roleCode</roleTerm>
+          <roleTerm type="text" authority="ro1:authority" authorityURI="ro1:authorityURI" valueURI="ro1:valueURI">ro1:roleText</roleTerm>
+        </role>
+        <role>
+          <roleTerm type="code" authority="ro1:authority2" authorityURI="ro1:authorityURI2" valueURI="ro1:valueURI2">ro1:roleCode2</roleTerm>
+          <roleTerm type="text" authority="ro1:authority2" authorityURI="ro1:authorityURI2" valueURI="ro1:valueURI2">ro1:roleText2</roleTerm>
+        </role>
+        <role>
+          <roleTerm type="code" authority="ro1:authority3" authorityURI="ro1:authorityURI3" valueURI="ro1:valueURI3">ro1:roleCode3</roleTerm>
+          <roleTerm type="text" authority="ro1:authority3" authorityURI="ro1:authorityURI3" valueURI="ro1:valueURI3">ro1:roleText3</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="na2:authority" authorityURI="na2:authorityURI" valueURI="na2:valueURI" nameTitleGroup="na2:nameTitleGroup" lang="na2:language" script="na2:script" transliteration="na2:transliteration" altRepGroup="na2:altRepGroup">
+        <namePart>na2:namePart</namePart>
+        <role>
+          <roleTerm type="code" authority="ro2:authority" authorityURI="ro2:authorityURI" valueURI="ro2:valueURI">ro2:roleCode</roleTerm>
+          <roleTerm type="text" authority="ro2:authority" authorityURI="ro2:authorityURI" valueURI="ro2:valueURI">ro2:roleText</roleTerm>
+        </role>
+        <role>
+          <roleTerm type="code" authority="ro2:authority2" authorityURI="ro2:authorityURI2" valueURI="ro2:valueURI2">ro2:roleCode2</roleTerm>
+          <roleTerm type="text" authority="ro2:authority2" authorityURI="ro2:authorityURI2" valueURI="ro2:valueURI2">ro2:roleText2</roleTerm>
+        </role>
+        <role>
+          <roleTerm type="code" authority="ro2:authority3" authorityURI="ro2:authorityURI3" valueURI="ro2:valueURI3">ro2:roleCode3</roleTerm>
+          <roleTerm type="text" authority="ro2:authority3" authorityURI="ro2:authorityURI3" valueURI="ro2:valueURI3">ro2:roleText3</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="na3:authority" authorityURI="na3:authorityURI" valueURI="na3:valueURI" nameTitleGroup="na3:nameTitleGroup" lang="na3:language" script="na3:script" transliteration="na3:transliteration" altRepGroup="na3:altRepGroup">
+        <namePart>na3:namePart</namePart>
+        <role>
+          <roleTerm type="code" authority="ro3:authority" authorityURI="ro3:authorityURI" valueURI="ro3:valueURI">ro3:roleCode</roleTerm>
+          <roleTerm type="text" authority="ro3:authority" authorityURI="ro3:authorityURI" valueURI="ro3:valueURI">ro3:roleText</roleTerm>
+        </role>
+        <role>
+          <roleTerm type="code" authority="ro3:authority2" authorityURI="ro3:authorityURI2" valueURI="ro3:valueURI2">ro3:roleCode2</roleTerm>
+          <roleTerm type="text" authority="ro3:authority2" authorityURI="ro3:authorityURI2" valueURI="ro3:valueURI2">ro3:roleText2</roleTerm>
+        </role>
+        <role>
+          <roleTerm type="code" authority="ro3:authority3" authorityURI="ro3:authorityURI3" valueURI="ro3:valueURI3">ro3:roleCode3</roleTerm>
+          <roleTerm type="text" authority="ro3:authority3" authorityURI="ro3:authorityURI3" valueURI="ro3:valueURI3">ro3:roleText3</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="na4:authority" authorityURI="na4:authorityURI" valueURI="na4:valueURI" nameTitleGroup="na4:nameTitleGroup" lang="na4:language" script="na4:script" transliteration="na4:transliteration" altRepGroup="na4:altRepGroup">
+        <namePart>na4:namePart</namePart>
+        <role>
+          <roleTerm type="code" authority="ro4:authority" authorityURI="ro4:authorityURI" valueURI="ro4:valueURI">ro4:roleCode</roleTerm>
+          <roleTerm type="text" authority="ro4:authority" authorityURI="ro4:authorityURI" valueURI="ro4:valueURI">ro4:roleText</roleTerm>
+        </role>
+        <role>
+          <roleTerm type="code" authority="ro4:authority2" authorityURI="ro4:authorityURI2" valueURI="ro4:valueURI2">ro4:roleCode2</roleTerm>
+          <roleTerm type="text" authority="ro4:authority2" authorityURI="ro4:authorityURI2" valueURI="ro4:valueURI2">ro4:roleText2</roleTerm>
+        </role>
+        <role>
+          <roleTerm type="code" authority="ro4:authority3" authorityURI="ro4:authorityURI3" valueURI="ro4:valueURI3">ro4:roleCode3</roleTerm>
+          <roleTerm type="text" authority="ro4:authority3" authorityURI="ro4:authorityURI3" valueURI="ro4:valueURI3">ro4:roleText3</roleTerm>
+        </role>
+      </name>
+      <name type="personal" authority="na5:authority" authorityURI="na5:authorityURI" valueURI="na5:valueURI" nameTitleGroup="na5:nameTitleGroup" lang="na5:language" script="na5:script" transliteration="na5:transliteration" altRepGroup="na5:altRepGroup">
+        <namePart>na5:namePart</namePart>
+        <role>
+          <roleTerm type="code" authority="ro5:authority" authorityURI="ro5:authorityURI" valueURI="ro5:valueURI">ro5:roleCode</roleTerm>
+          <roleTerm type="text" authority="ro5:authority" authorityURI="ro5:authorityURI" valueURI="ro5:valueURI">ro5:roleText</roleTerm>
+        </role>
+        <role>
+          <roleTerm type="code" authority="ro5:authority2" authorityURI="ro5:authorityURI2" valueURI="ro5:valueURI2">ro5:roleCode2</roleTerm>
+          <roleTerm type="text" authority="ro5:authority2" authorityURI="ro5:authorityURI2" valueURI="ro5:valueURI2">ro5:roleText2</roleTerm>
+        </role>
+        <role>
+          <roleTerm type="code" authority="ro5:authority3" authorityURI="ro5:authorityURI3" valueURI="ro5:valueURI3">ro5:roleCode3</roleTerm>
+          <roleTerm type="text" authority="ro5:authority3" authorityURI="ro5:authorityURI3" valueURI="ro5:valueURI3">ro5:roleText3</roleTerm>
+        </role>
+      </name>
+      <typeOfResource manuscript="yes">text</typeOfResource>
+      <typeOfResource>text</typeOfResource>
+      <typeOfResource>text</typeOfResource>
+      <genre type="ge1:type" authority="ge1:authority" authorityURI="ge1:authorityURI" valueURI="ge1:valueURI">ge1:genre</genre>
+      <genre type="ge2:type" authority="ge2:authority" authorityURI="ge2:authorityURI" valueURI="ge2:valueURI">ge2:genre</genre>
+      <genre type="ge3:type" authority="ge3:authority" authorityURI="ge3:authorityURI" valueURI="ge3:valueURI">ge3:genre</genre>
+      <originInfo displayLabel="or:displayLabel" eventType="or:eventType" altRepGroup="or:altRepGroup">
+        <place>
+          <placeTerm type="code" authority="marcgac" authorityURI="pl:authorityURI" valueURI="pl:valueURI">pl:placeCode</placeTerm>
+          <placeTerm type="text" authority="marcgac" authorityURI="pl:authorityURI" valueURI="pl:valueURI">pl:placeText</placeTerm>
+        </place>
+        <publisher lang="or:publisherLanguage" script="or:publisherScript" transliteration="or:publisherTransliteration">or:publisher</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">dt:dateCreated</dateCreated>
+        <dateCreated encoding="w3cdtf" qualifier="approximate" point="start">dt:dateCreated2</dateCreated>
+        <dateIssued keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">dt:dateIssued</dateIssued>
+        <dateIssued encoding="w3cdtf" qualifier="approximate" point="start">dt:dateIssued2</dateIssued>
+        <dateCaptured keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">dt:dateCaptured</dateCaptured>
+        <dateCaptured encoding="w3cdtf" qualifier="approximate" point="start">dt:dateCaptured2</dateCaptured>
+        <copyrightDate keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">dt:copyrightDate</copyrightDate>
+        <copyrightDate encoding="w3cdtf" qualifier="approximate" point="start">dt:copyrightDate2</copyrightDate>
+        <dateOther keyDate="yes" type="dt:dateOtherType" encoding="w3cdtf" qualifier="approximate" point="start" script="dt:dateOtherScript" transliteration="dt:dateOtherTransliteration">dt:dateOther</dateOther>
+        <dateOther type="dt:dateOtherType" encoding="w3cdtf" qualifier="approximate" point="start" script="dt:dateOtherScript" transliteration="dt:dateOtherTransliteration">dt:dateOther2</dateOther>
+        <edition>or:edition</edition>
+        <issuance>continuing</issuance>
+      </originInfo>
+      <originInfo displayLabel="or2:displayLabel" eventType="or2:eventType" altRepGroup="or2:altRepGroup">
+        <place>
+          <placeTerm type="code" authority="marcgac" authorityURI="or2:pl:authorityURI" valueURI="or2:pl:valueURI">or2:pl:placeCode</placeTerm>
+          <placeTerm type="text" authority="marcgac" authorityURI="or2:pl:authorityURI" valueURI="or2:pl:valueURI">or2:pl:placeText</placeTerm>
+        </place>
+        <publisher lang="or2:publisherLanguage" script="or2:publisherScript" transliteration="or2:publisherTransliteration">or2:publisher</publisher>
+        <dateCreated keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:dateCreated</dateCreated>
+        <dateCreated encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:dateCreated2</dateCreated>
+        <dateIssued keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:dateIssued</dateIssued>
+        <dateIssued encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:dateIssued2</dateIssued>
+        <dateCaptured keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:dateCaptured</dateCaptured>
+        <dateCaptured encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:dateCaptured2</dateCaptured>
+        <copyrightDate keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:copyrightDate</copyrightDate>
+        <copyrightDate encoding="w3cdtf" qualifier="approximate" point="start">or2:dt:copyrightDate2</copyrightDate>
+        <dateOther keyDate="yes" type="or2:dt:dateOtherType" encoding="w3cdtf" qualifier="approximate" point="start" script="or2:dt:dateOtherScript" transliteration="or2:dt:dateOtherTransliteration">or2:dt:dateOther</dateOther>
+        <dateOther type="or2:dt:dateOtherType" encoding="w3cdtf" qualifier="approximate" point="start" script="or2:dt:dateOtherScript" transliteration="or2:dt:dateOtherTransliteration">or2:dt:dateOther2</dateOther>
+        <edition>or2:edition</edition>
+        <issuance>continuing</issuance>
+      </originInfo>
+      <language>
+        <languageTerm authority="rfc3066" authorityURI="la1:authorityURI" valueURI="la1:valueURI" type="code">la1:code</languageTerm>
+        <languageTerm authority="rfc3066" authorityURI="la1:authorityURI" valueURI="la1:valueURI" type="text">la1:text</languageTerm>
+      </language>
+      <language>
+        <languageTerm authority="rfc3066" authorityURI="la2:authorityURI" valueURI="la2:valueURI" type="code">la2:code</languageTerm>
+        <languageTerm authority="rfc3066" authorityURI="la2:authorityURI" valueURI="la2:valueURI" type="text">la2:text</languageTerm>
+      </language>
+      <language>
+        <languageTerm authority="rfc3066" authorityURI="la3:authorityURI" valueURI="la3:valueURI" type="code">la3:code</languageTerm>
+        <languageTerm authority="rfc3066" authorityURI="la3:authorityURI" valueURI="la3:valueURI" type="text">la3:text</languageTerm>
+      </language>
+      <physicalDescription>
+        <form authority="ph1:formAuthority" authorityURI="ph1:formAuthorityURI" valueURI="ph1:formValueURI">ph1:form</form>
+        <extent>ph1:extent</extent>
+        <reformattingQuality>access</reformattingQuality>
+        <digitalOrigin>born digital</digitalOrigin>
+        <internetMediaType>ph1:internetMediaType</internetMediaType>
+        <internetMediaType>ph1:internetMediaType2</internetMediaType>
+        <internetMediaType>ph1:internetMediaType3</internetMediaType>
+        <internetMediaType>ph1:internetMediaType4</internetMediaType>
+        <internetMediaType>ph1:internetMediaType5</internetMediaType>
+        <note displayLabel="ph1:displayLabel1" lang="ph1:language1" script="ph1:script1" transliteration="ph1:transliteration1">ph1:note1</note>
+        <note displayLabel="ph1:displayLabel2" lang="ph1:language2" script="ph1:script2" transliteration="ph1:transliteration2">ph1:note2</note>
+        <note displayLabel="ph1:displayLabel3" lang="ph1:language3" script="ph1:script3" transliteration="ph1:transliteration3">ph1:note3</note>
+        <note displayLabel="ph1:displayLabel4" lang="ph1:language4" script="ph1:script4" transliteration="ph1:transliteration4">ph1:note4</note>
+        <note displayLabel="ph1:displayLabel5" lang="ph1:language5" script="ph1:script5" transliteration="ph1:transliteration5">ph1:note5</note>
+        <note displayLabel="ph1:displayLabel6" lang="ph1:language6" script="ph1:script6" transliteration="ph1:transliteration6">ph1:note6</note>
+        <note displayLabel="ph1:displayLabel7" lang="ph1:language7" script="ph1:script7" transliteration="ph1:transliteration7">ph1:note7</note>
+        <note displayLabel="ph1:displayLabel8" lang="ph1:language8" script="ph1:script8" transliteration="ph1:transliteration8">ph1:note8</note>
+        <note displayLabel="ph1:displayLabel9" lang="ph1:language9" script="ph1:script9" transliteration="ph1:transliteration9">ph1:note9</note>
+      </physicalDescription>
+      <physicalDescription>
+        <form authority="ph2:formAuthority" authorityURI="ph2:formAuthorityURI" valueURI="ph2:formValueURI">ph2:form</form>
+        <extent>ph2:extent</extent>
+        <reformattingQuality>access</reformattingQuality>
+        <digitalOrigin>born digital</digitalOrigin>
+        <note displayLabel="ph2:displayLabel1" lang="ph2:language1" script="ph2:script1" transliteration="ph2:transliteration1">ph2:note1</note>
+      </physicalDescription>
+      <physicalDescription>
+        <form authority="ph3:formAuthority" authorityURI="ph3:formAuthorityURI" valueURI="ph3:formValueURI">ph3:form</form>
+        <extent>ph3:extent</extent>
+        <reformattingQuality>access</reformattingQuality>
+        <digitalOrigin>born digital</digitalOrigin>
+        <note displayLabel="ph3:displayLabel1" lang="ph3:language1" script="ph3:script1" transliteration="ph3:transliteration1">ph3:note1</note>
+      </physicalDescription>
+      <abstract displayLabel="ab:displayLabel" lang="ab:language" script="ab:script" transliteration="ab:transliteration">ab:abstract</abstract>
+      <tableOfContents displayLabel="tc:displayLabel" lang="tc:language" script="tc:script" transliteration="tc:transliteration">tc:tableOfContents</tableOfContents>
+      <note type="no1:type" displayLabel="no1:displayLabel" lang="no1:language" script="no1:script" transliteration="no1:transliteration" altRepGroup="no1:altRepGroup">no1:note</note>
+      <note type="no2:type" displayLabel="no2:displayLabel" lang="no2:language" script="no2:script" transliteration="no2:transliteration" altRepGroup="no2:altRepGroup">no2:note</note>
+      <note type="no3:type" displayLabel="no3:displayLabel" lang="no3:language" script="no3:script" transliteration="no3:transliteration" altRepGroup="no3:altRepGroup">no3:note</note>
+      <note type="no4:type" displayLabel="no4:displayLabel" lang="no4:language" script="no4:script" transliteration="no4:transliteration" altRepGroup="no4:altRepGroup">no4:note</note>
+      <note type="no5:type" displayLabel="no5:displayLabel" lang="no5:language" script="no5:script" transliteration="no5:transliteration" altRepGroup="no5:altRepGroup">no5:note</note>
+      <subject authority="sn1:authority" authorityURI="sn1:authorityURI" valueURI="sn1:valueURI" altRepGroup="sn1:altRepGroup">
+        <name type="personal" authority="sn1:p1:nm:authority" authorityURI="sn1:p1:nm:authorityURI" valueURI="sn1:p1:nm:valueURI" lang="sn1:p1:nm:language" script="sn1:p1:nm:script" transliteration="sn1:p1:nm:transliteration">
+          <namePart>sn1:p1:name</namePart>
+        </name>
+        <titleInfo type="abbreviated" authority="sn1:p1:ti:authority" authorityURI="sn1:p1:ti:authorityURI" valueURI="sn1:p1:ti:valueURI" lang="sn1:p1:ti:language" script="sn1:p1:ti:script" transliteration="sn1:p1:ti:transliteration">
+          <title>sn1:p1:title</title>
+          <subTitle>sn1:p1:subTitle</subTitle>
+          <partNumber>sn1:p1:partNumber</partNumber>
+          <partName>sn1:p1:partName</partName>
+        </titleInfo>
+        <topic authority="sn1:p2:authority" authorityURI="sn1:p2:authorityURI" valueURI="sn1:p2:valueURI">sn1:p2:value</topic>
+        <topic authority="sn1:p3:authority" authorityURI="sn1:p3:authorityURI" valueURI="sn1:p3:valueURI">sn1:p3:value</topic>
+        <topic authority="sn1:p4:authority" authorityURI="sn1:p4:authorityURI" valueURI="sn1:p4:valueURI">sn1:p4:value</topic>
+        <topic authority="sn1:p5:authority" authorityURI="sn1:p5:authorityURI" valueURI="sn1:p5:valueURI">sn1:p5:value</topic>
+      </subject>
+      <subject authority="sn2:authority" authorityURI="sn2:authorityURI" valueURI="sn2:valueURI" altRepGroup="sn2:altRepGroup">
+        <name type="personal" authority="sn2:p1:nm:authority" authorityURI="sn2:p1:nm:authorityURI" valueURI="sn2:p1:nm:valueURI" lang="sn2:p1:nm:language" script="sn2:p1:nm:script" transliteration="sn2:p1:nm:transliteration">
+          <namePart>sn2:p1:name</namePart>
+        </name>
+        <titleInfo type="abbreviated" authority="sn2:p1:ti:authority" authorityURI="sn2:p1:ti:authorityURI" valueURI="sn2:p1:ti:valueURI" lang="sn2:p1:ti:language" script="sn2:p1:ti:script" transliteration="sn2:p1:ti:transliteration">
+          <title>sn2:p1:title</title>
+          <subTitle>sn2:p1:subTitle</subTitle>
+          <partNumber>sn2:p1:partNumber</partNumber>
+          <partName>sn2:p1:partName</partName>
+        </titleInfo>
+        <topic authority="sn2:p2:authority" authorityURI="sn2:p2:authorityURI" valueURI="sn2:p2:valueURI">sn2:p2:value</topic>
+        <topic authority="sn2:p3:authority" authorityURI="sn2:p3:authorityURI" valueURI="sn2:p3:valueURI">sn2:p3:value</topic>
+        <topic authority="sn2:p4:authority" authorityURI="sn2:p4:authorityURI" valueURI="sn2:p4:valueURI">sn2:p4:value</topic>
+        <topic authority="sn2:p5:authority" authorityURI="sn2:p5:authorityURI" valueURI="sn2:p5:valueURI">sn2:p5:value</topic>
+      </subject>
+      <subject authority="sn3:authority" authorityURI="sn3:authorityURI" valueURI="sn3:valueURI" altRepGroup="sn3:altRepGroup">
+        <name type="personal" authority="sn3:p1:nm:authority" authorityURI="sn3:p1:nm:authorityURI" valueURI="sn3:p1:nm:valueURI" lang="sn3:p1:nm:language" script="sn3:p1:nm:script" transliteration="sn3:p1:nm:transliteration">
+          <namePart>sn3:p1:name</namePart>
+        </name>
+        <titleInfo type="abbreviated" authority="sn3:p1:ti:authority" authorityURI="sn3:p1:ti:authorityURI" valueURI="sn3:p1:ti:valueURI" lang="sn3:p1:ti:language" script="sn3:p1:ti:script" transliteration="sn3:p1:ti:transliteration">
+          <title>sn3:p1:title</title>
+          <subTitle>sn3:p1:subTitle</subTitle>
+          <partNumber>sn3:p1:partNumber</partNumber>
+          <partName>sn3:p1:partName</partName>
+        </titleInfo>
+        <topic authority="sn3:p2:authority" authorityURI="sn3:p2:authorityURI" valueURI="sn3:p2:valueURI">sn3:p2:value</topic>
+        <topic authority="sn3:p3:authority" authorityURI="sn3:p3:authorityURI" valueURI="sn3:p3:valueURI">sn3:p3:value</topic>
+        <topic authority="sn3:p4:authority" authorityURI="sn3:p4:authorityURI" valueURI="sn3:p4:valueURI">sn3:p4:value</topic>
+        <topic authority="sn3:p5:authority" authorityURI="sn3:p5:authorityURI" valueURI="sn3:p5:valueURI">sn3:p5:value</topic>
+      </subject>
+      <subject authority="sn4:authority" authorityURI="sn4:authorityURI" valueURI="sn4:valueURI" altRepGroup="sn4:altRepGroup">
+        <name type="personal" authority="sn4:p1:nm:authority" authorityURI="sn4:p1:nm:authorityURI" valueURI="sn4:p1:nm:valueURI" lang="sn4:p1:nm:language" script="sn4:p1:nm:script" transliteration="sn4:p1:nm:transliteration">
+          <namePart>sn4:p1:name</namePart>
+        </name>
+        <titleInfo type="abbreviated" authority="sn4:p1:ti:authority" authorityURI="sn4:p1:ti:authorityURI" valueURI="sn4:p1:ti:valueURI" lang="sn4:p1:ti:language" script="sn4:p1:ti:script" transliteration="sn4:p1:ti:transliteration">
+          <title>sn4:p1:title</title>
+          <subTitle>sn4:p1:subTitle</subTitle>
+          <partNumber>sn4:p1:partNumber</partNumber>
+          <partName>sn4:p1:partName</partName>
+        </titleInfo>
+        <topic authority="sn4:p2:authority" authorityURI="sn4:p2:authorityURI" valueURI="sn4:p2:valueURI">sn4:p2:value</topic>
+        <topic authority="sn4:p3:authority" authorityURI="sn4:p3:authorityURI" valueURI="sn4:p3:valueURI">sn4:p3:value</topic>
+        <topic authority="sn4:p4:authority" authorityURI="sn4:p4:authorityURI" valueURI="sn4:p4:valueURI">sn4:p4:value</topic>
+        <topic authority="sn4:p5:authority" authorityURI="sn4:p5:authorityURI" valueURI="sn4:p5:valueURI">sn4:p5:value</topic>
+      </subject>
+      <subject authority="sn5:authority" authorityURI="sn5:authorityURI" valueURI="sn5:valueURI" altRepGroup="sn5:altRepGroup">
+        <name type="personal" authority="sn5:p1:nm:authority" authorityURI="sn5:p1:nm:authorityURI" valueURI="sn5:p1:nm:valueURI" lang="sn5:p1:nm:language" script="sn5:p1:nm:script" transliteration="sn5:p1:nm:transliteration">
+          <namePart>sn5:p1:name</namePart>
+        </name>
+        <titleInfo type="abbreviated" authority="sn5:p1:ti:authority" authorityURI="sn5:p1:ti:authorityURI" valueURI="sn5:p1:ti:valueURI" lang="sn5:p1:ti:language" script="sn5:p1:ti:script" transliteration="sn5:p1:ti:transliteration">
+          <title>sn5:p1:title</title>
+          <subTitle>sn5:p1:subTitle</subTitle>
+          <partNumber>sn5:p1:partNumber</partNumber>
+          <partName>sn5:p1:partName</partName>
+        </titleInfo>
+        <topic authority="sn5:p2:authority" authorityURI="sn5:p2:authorityURI" valueURI="sn5:p2:valueURI">sn5:p2:value</topic>
+        <topic authority="sn5:p3:authority" authorityURI="sn5:p3:authorityURI" valueURI="sn5:p3:valueURI">sn5:p3:value</topic>
+        <topic authority="sn5:p4:authority" authorityURI="sn5:p4:authorityURI" valueURI="sn5:p4:valueURI">sn5:p4:value</topic>
+        <topic authority="sn5:p5:authority" authorityURI="sn5:p5:authorityURI" valueURI="sn5:p5:valueURI">sn5:p5:value</topic>
+      </subject>
+      <subject authority="su1:authority" authorityURI="su1:authorityURI" valueURI="su1:valueURI" lang="su1:language" script="su1:script" transliteration="su1:transliteration" altRepGroup="su1:altRepGroup">
+        <topic authority="su1:p1:authority" authorityURI="su1:p1:authorityURI" valueURI="su1:p1:valueURI">su1:p1:value</topic>
+        <topic authority="su1:p2:authority" authorityURI="su1:p2:authorityURI" valueURI="su1:p2:valueURI">su1:p2:value</topic>
+        <topic authority="su1:p3:authority" authorityURI="su1:p3:authorityURI" valueURI="su1:p3:valueURI">su1:p3:value</topic>
+        <topic authority="su1:p4:authority" authorityURI="su1:p4:authorityURI" valueURI="su1:p4:valueURI">su1:p4:value</topic>
+        <topic authority="su1:p5:authority" authorityURI="su1:p5:authorityURI" valueURI="su1:p5:valueURI">su1:p5:value</topic>
+      </subject>
+      <subject authority="su2:authority" authorityURI="su2:authorityURI" valueURI="su2:valueURI" lang="su2:language" script="su2:script" transliteration="su2:transliteration" altRepGroup="su2:altRepGroup">
+        <topic authority="su2:p1:authority" authorityURI="su2:p1:authorityURI" valueURI="su2:p1:valueURI">su2:p1:value</topic>
+        <topic authority="su2:p2:authority" authorityURI="su2:p2:authorityURI" valueURI="su2:p2:valueURI">su2:p2:value</topic>
+        <topic authority="su2:p3:authority" authorityURI="su2:p3:authorityURI" valueURI="su2:p3:valueURI">su2:p3:value</topic>
+        <topic authority="su2:p4:authority" authorityURI="su2:p4:authorityURI" valueURI="su2:p4:valueURI">su2:p4:value</topic>
+        <topic authority="su2:p5:authority" authorityURI="su2:p5:authorityURI" valueURI="su2:p5:valueURI">su2:p5:value</topic>
+      </subject>
+      <subject authority="su3:authority" authorityURI="su3:authorityURI" valueURI="su3:valueURI" lang="su3:language" script="su3:script" transliteration="su3:transliteration" altRepGroup="su3:altRepGroup">
+        <topic authority="su3:p1:authority" authorityURI="su3:p1:authorityURI" valueURI="su3:p1:valueURI">su3:p1:value</topic>
+        <topic authority="su3:p2:authority" authorityURI="su3:p2:authorityURI" valueURI="su3:p2:valueURI">su3:p2:value</topic>
+        <topic authority="su3:p3:authority" authorityURI="su3:p3:authorityURI" valueURI="su3:p3:valueURI">su3:p3:value</topic>
+        <topic authority="su3:p4:authority" authorityURI="su3:p4:authorityURI" valueURI="su3:p4:valueURI">su3:p4:value</topic>
+        <topic authority="su3:p5:authority" authorityURI="su3:p5:authorityURI" valueURI="su3:p5:valueURI">su3:p5:value</topic>
+      </subject>
+      <subject authority="su4:authority" authorityURI="su4:authorityURI" valueURI="su4:valueURI" lang="su4:language" script="su4:script" transliteration="su4:transliteration" altRepGroup="su4:altRepGroup">
+        <topic authority="su4:p1:authority" authorityURI="su4:p1:authorityURI" valueURI="su4:p1:valueURI">su4:p1:value</topic>
+        <topic authority="su4:p2:authority" authorityURI="su4:p2:authorityURI" valueURI="su4:p2:valueURI">su4:p2:value</topic>
+        <topic authority="su4:p3:authority" authorityURI="su4:p3:authorityURI" valueURI="su4:p3:valueURI">su4:p3:value</topic>
+        <topic authority="su4:p4:authority" authorityURI="su4:p4:authorityURI" valueURI="su4:p4:valueURI">su4:p4:value</topic>
+        <topic authority="su4:p5:authority" authorityURI="su4:p5:authorityURI" valueURI="su4:p5:valueURI">su4:p5:value</topic>
+      </subject>
+      <subject authority="su5:authority" authorityURI="su5:authorityURI" valueURI="su5:valueURI" lang="su5:language" script="su5:script" transliteration="su5:transliteration" altRepGroup="su5:altRepGroup">
+        <topic authority="su5:p1:authority" authorityURI="su5:p1:authorityURI" valueURI="su5:p1:valueURI">su5:p1:value</topic>
+        <topic authority="su5:p2:authority" authorityURI="su5:p2:authorityURI" valueURI="su5:p2:valueURI">su5:p2:value</topic>
+        <topic authority="su5:p3:authority" authorityURI="su5:p3:authorityURI" valueURI="su5:p3:valueURI">su5:p3:value</topic>
+        <topic authority="su5:p4:authority" authorityURI="su5:p4:authorityURI" valueURI="su5:p4:valueURI">su5:p4:value</topic>
+        <topic authority="su5:p5:authority" authorityURI="su5:p5:authorityURI" valueURI="su5:p5:valueURI">su5:p5:value</topic>
+      </subject>
+      <subject>
+        <cartographics>
+          <scale>sc1:scale</scale>
+          <projection>sc1:projection</projection>
+          <coordinates>sc1:coordinates</coordinates>
+        </cartographics>
+      </subject>
+      <identifier type="id1:type" displayLabel="id1:displayLabel">id1:identifier</identifier>
+      <identifier type="id2:type" displayLabel="id2:displayLabel">id2:identifier</identifier>
+      <identifier type="id3:type" displayLabel="id3:displayLabel">id3:identifier</identifier>
+      <identifier type="id4:type" displayLabel="id4:displayLabel">id4:identifier</identifier>
+      <identifier type="id5:type" displayLabel="id5:displayLabel">id5:identifier</identifier>
+      <location>
+        <physicalLocation type="repository" authority="lo:authority" valueURI="lo:valueURI" lang="lo:language" script="lo:script" transliteration="lo:transliteration">lo:repository</physicalLocation>
+        <physicalLocation type="discovery">lo:physicalLocation</physicalLocation>
+        <shelfLocator>lo:callNumber</shelfLocator>
+        <url usage="primary display">lo:purl</url>
+      </location>
+      <relatedItem type="preceding" displayLabel="ri1:displayLabel">
+        <titleInfo>
+          <title>ri1:title</title>
+        </titleInfo>
+        <name type="personal" authority="ri1:na1:authority" authorityURI="ri1:na1:authorityURI" valueURI="ri1:na1:valueURI">
+          <namePart>ri1:na1:namePart</namePart>
+          <role>
+            <roleTerm type="code" authority="ri1:ro1:authority" authorityURI="ri1:ro1:authorityURI" valueURI="ri1:ro1:valueURI">ri1:ro1:roleCode</roleTerm>
+            <roleTerm type="text" authority="ri1:ro1:authority" authorityURI="ri1:ro1:authorityURI" valueURI="ri1:ro1:valueURI">ri1:ro1:roleText</roleTerm>
+          </role>
+          <role>
+            <roleTerm type="code" authority="ri1:ro1:authority2" authorityURI="ri1:ro1:authorityURI2" valueURI="ri1:ro1:valueURI2">ri1:ro1:roleCode2</roleTerm>
+            <roleTerm type="text" authority="ri1:ro1:authority2" authorityURI="ri1:ro1:authorityURI2" valueURI="ri1:ro1:valueURI2">ri1:ro1:roleText2</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marcgac" authorityURI="ri1:pl:authorityURI" valueURI="ri1:pl:valueURI">ri1:pl:placeCode</placeTerm>
+            <placeTerm type="text" authority="marcgac" authorityURI="ri1:pl:authorityURI" valueURI="ri1:pl:valueURI">ri1:pl:placeText</placeTerm>
+          </place>
+          <publisher>ri1:or:publisher</publisher>
+          <dateCreated keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">ri1:dt:dateCreated</dateCreated>
+          <dateCreated encoding="w3cdtf" qualifier="approximate" point="start">ri1:dt:dateCreated2</dateCreated>
+          <dateIssued keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">ri1:dt:dateIssued</dateIssued>
+          <dateIssued encoding="w3cdtf" qualifier="approximate" point="start">ri1:dt:dateIssued2</dateIssued>
+        </originInfo>
+        <identifier type="ri1:id1:type" displayLabel="ri1:id1:displayLabel">ri1:id1:identifier</identifier>
+        <identifier type="ri1:id2:type" displayLabel="ri1:id2:displayLabel">ri1:id2:identifier</identifier>
+        <identifier type="ri1:id3:type" displayLabel="ri1:id3:displayLabel">ri1:id3:identifier</identifier>
+        <location>
+          <url>ri1:url</url>
+        </location>
+      </relatedItem>
+      <relatedItem type="preceding" displayLabel="ri2:displayLabel">
+        <titleInfo>
+          <title>ri2:title</title>
+        </titleInfo>
+        <name type="personal" authority="ri2:na1:authority" authorityURI="ri2:na1:authorityURI" valueURI="ri2:na1:valueURI">
+          <namePart>ri2:na1:namePart</namePart>
+          <role>
+            <roleTerm type="code" authority="ri2:ro1:authority" authorityURI="ri2:ro1:authorityURI" valueURI="ri2:ro1:valueURI">ri2:ro1:roleCode</roleTerm>
+            <roleTerm type="text" authority="ri2:ro1:authority" authorityURI="ri2:ro1:authorityURI" valueURI="ri2:ro1:valueURI">ri2:ro1:roleText</roleTerm>
+          </role>
+          <role>
+            <roleTerm type="code" authority="ri2:ro1:authority2" authorityURI="ri2:ro1:authorityURI2" valueURI="ri2:ro1:valueURI2">ri2:ro1:roleCode2</roleTerm>
+            <roleTerm type="text" authority="ri2:ro1:authority2" authorityURI="ri2:ro1:authorityURI2" valueURI="ri2:ro1:valueURI2">ri2:ro1:roleText2</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marcgac" authorityURI="ri2:pl:authorityURI" valueURI="ri2:pl:valueURI">ri2:pl:placeCode</placeTerm>
+            <placeTerm type="text" authority="marcgac" authorityURI="ri2:pl:authorityURI" valueURI="ri2:pl:valueURI">ri2:pl:placeText</placeTerm>
+          </place>
+          <publisher>ri2:or:publisher</publisher>
+          <dateCreated keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">ri2:dt:dateCreated</dateCreated>
+          <dateCreated encoding="w3cdtf" qualifier="approximate" point="start">ri2:dt:dateCreated2</dateCreated>
+          <dateIssued keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">ri2:dt:dateIssued</dateIssued>
+          <dateIssued encoding="w3cdtf" qualifier="approximate" point="start">ri2:dt:dateIssued2</dateIssued>
+        </originInfo>
+        <identifier type="ri2:id1:type" displayLabel="ri2:id1:displayLabel">ri2:id1:identifier</identifier>
+        <identifier type="ri2:id2:type" displayLabel="ri2:id2:displayLabel">ri2:id2:identifier</identifier>
+        <identifier type="ri2:id3:type" displayLabel="ri2:id3:displayLabel">ri2:id3:identifier</identifier>
+        <location>
+          <url>ri2:url</url>
+        </location>
+      </relatedItem>
+      <relatedItem type="preceding" displayLabel="ri3:displayLabel">
+        <titleInfo>
+          <title>ri3:title</title>
+        </titleInfo>
+        <name type="personal" authority="ri3:na1:authority" authorityURI="ri3:na1:authorityURI" valueURI="ri3:na1:valueURI">
+          <namePart>ri3:na1:namePart</namePart>
+          <role>
+            <roleTerm type="code" authority="ri3:ro1:authority" authorityURI="ri3:ro1:authorityURI" valueURI="ri3:ro1:valueURI">ri3:ro1:roleCode</roleTerm>
+            <roleTerm type="text" authority="ri3:ro1:authority" authorityURI="ri3:ro1:authorityURI" valueURI="ri3:ro1:valueURI">ri3:ro1:roleText</roleTerm>
+          </role>
+          <role>
+            <roleTerm type="code" authority="ri3:ro1:authority2" authorityURI="ri3:ro1:authorityURI2" valueURI="ri3:ro1:valueURI2">ri3:ro1:roleCode2</roleTerm>
+            <roleTerm type="text" authority="ri3:ro1:authority2" authorityURI="ri3:ro1:authorityURI2" valueURI="ri3:ro1:valueURI2">ri3:ro1:roleText2</roleTerm>
+          </role>
+        </name>
+        <originInfo>
+          <place>
+            <placeTerm type="code" authority="marcgac" authorityURI="ri3:pl:authorityURI" valueURI="ri3:pl:valueURI">ri3:pl:placeCode</placeTerm>
+            <placeTerm type="text" authority="marcgac" authorityURI="ri3:pl:authorityURI" valueURI="ri3:pl:valueURI">ri3:pl:placeText</placeTerm>
+          </place>
+          <publisher>ri3:or:publisher</publisher>
+          <dateCreated keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">ri3:dt:dateCreated</dateCreated>
+          <dateCreated encoding="w3cdtf" qualifier="approximate" point="start">ri3:dt:dateCreated2</dateCreated>
+          <dateIssued keyDate="yes" encoding="w3cdtf" qualifier="approximate" point="start">ri3:dt:dateIssued</dateIssued>
+          <dateIssued encoding="w3cdtf" qualifier="approximate" point="start">ri3:dt:dateIssued2</dateIssued>
+        </originInfo>
+        <identifier type="ri3:id1:type" displayLabel="ri3:id1:displayLabel">ri3:id1:identifier</identifier>
+        <identifier type="ri3:id2:type" displayLabel="ri3:id2:displayLabel">ri3:id2:identifier</identifier>
+        <identifier type="ri3:id3:type" displayLabel="ri3:id3:displayLabel">ri3:id3:identifier</identifier>
+        <location>
+          <url>ri3:url</url>
+        </location>
+      </relatedItem>
+      <extension displayLabel="geo">
+        <rdf:RDF xmlns:gml="http://www.opengis.net/gml/3.2/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gmd="http://www.isotc211.org/2005/gmd">
+          <rdf:Description rdf:about="ext:purl">
+            <dc:format>ext:dc:format</dc:format>
+            <dc:type>ext:dc:type</dc:type>
+            <gml:boundedBy>
+              <gml:Envelope>
+                <gml:lowerCorner>ext:west_bc ext:south_bc</gml:lowerCorner>
+                <gml:upperCorner>ext:east_bc ext:north_bc</gml:upperCorner>
+              </gml:Envelope>
+            </gml:boundedBy>
+          </rdf:Description>
+        </rdf:RDF>
+      </extension>
+      <recordInfo>
+        <languageOfCataloging usage="primary">
+          <languageTerm type="text" authority="rfc3066" authorityURI="rc:langAuthorityURI" valueURI="rc:langValueURI">rc:languageOfCatalogingTerm</languageTerm>
+          <languageTerm type="code" authority="rfc3066" authorityURI="rc:langAuthorityURI" valueURI="rc:langValueURI">rc:languageOfCataloging</languageTerm>
+          <scriptTerm type="text" authority="rc:scriptAuthority" authorityURI="rc:scriptAuthorityURI" valueURI="rc:scriptValueURI">rc:scriptOfCatalogingTerm</scriptTerm>
+          <scriptTerm type="code" authority="rc:scriptAuthority" authorityURI="rc:scriptAuthorityURI" valueURI="rc:scriptValueURI">rc:scriptOfCatalogingCode</scriptTerm>
+        </languageOfCataloging>
+        <languageOfCataloging>
+          <languageTerm type="text" authority="rfc3066" authorityURI="rc:lang2AuthorityURI" valueURI="rc:lang2ValueURI">rc:languageOfCataloging2Term</languageTerm>
+          <languageTerm type="code" authority="rfc3066" authorityURI="rc:lang2AuthorityURI" valueURI="rc:lang2ValueURI">rc:languageOfCataloging2</languageTerm>
+          <scriptTerm type="text" authority="rc:script2Authority" authorityURI="rc:script2AuthorityURI" valueURI="rc:script2ValueURI">rc:scriptOfCataloging2Term</scriptTerm>
+          <scriptTerm type="code" authority="rc:script2Authority" authorityURI="rc:script2AuthorityURI" valueURI="rc:script2ValueURI">rc:scriptOfCataloging2Code</scriptTerm>
+        </languageOfCataloging>
+        <recordContentSource authority="rc:contentSourceAuthority" authorityURI="rc:contentSourceAuthorityURI" valueURI="rc:contentSourceValueURI">rc:contentSource</recordContentSource>
+        <descriptionStandard authority="rc:descStandardAuthority" authorityURI="rc:descStandardAuthorityURI" valueURI="rc:descStandardValueURI">rc:descStandard</descriptionStandard>
+        <recordOrigin>rc:recordOrigin</recordOrigin>
+      </recordInfo>
+    </mods>
+  </xmlDoc>
+</xmlDocs>

@@ -1,0 +1,2373 @@
+<?xml version="1.0"?>
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2016-02-05 03:55:00PM" sourceFile="M1463_AV_manifest.xlsx">
+  <xmlDoc id="descMetadata" objectId="0008">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Q Action and FLIQ presents . . . Men in Towels</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>[Q Broadcast?] (VHS)</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0009">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Spirit in the Flesh</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1999 Dec</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>Sony MQST 120; Master (VHS)</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0010">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Generations</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1997 Aug</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>BASF VHS; Dub</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0011">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Jizz in Oz</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1998 Dec</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>BASF T-60 VHS; Dub</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0012">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>FLIQ presents . . . Beyond Big-Dicked Bottoms</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1997 Oct</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>[Q Broadcast?] VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0013">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>The Color of Love</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1996 May</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>Maxell T-120 HG VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0014">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Hijos del Silencio Final</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>[Q Professional?] VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0015">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>FLIQ Training and Castro I</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1997 Sep 6</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0016">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>PSA/Stop AIDS Whoopie Goldberg</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1991 May 14</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>U-matic</note>
+      <note>Ampex 187 KCA-05 3/4" Umatic</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0017">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Action AIDS Dining Out for Life 2002 National Version</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>2002 Feb 13</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Betacam SP</note>
+      <note>Fuji M321SP Betacam SP</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0018">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Caf&#xE9; Flore Sex Club FLIQ</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1998 Mar 1</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8; Original</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0019">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Brothers: Community: Edit Master</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0020">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Brother's Network: Talking Community</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8; Dub</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0021">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Sugar Kids/Club Daddies: FLIQ #1</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1997 May</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8; Master</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0022">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Retreat Dub</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0023">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>FLIQ: All Together Now</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1996 Feb</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8; Master</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0024">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>StopAIDS Forum: Protease and Safe Sex (1 of 2); also Special K footage: drugs and alcohol</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1996 Nov 15</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8; Original</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0025">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>StopAIDS Forum: Protease and Safe Sex (2 of 2)</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1996 Nov 15</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0026">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Fairy Drag Outreach</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8; Dub</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0027">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Fetish, Anyone</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>2000</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>S-VHS</note>
+      <note>TDK XP SuperPro ST-120 SVHS; Master</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0028">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>But I'm a Virgin</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>2002</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>S-VHS</note>
+      <note>Fuji H471S ST-60 SVHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0029">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>FLIQ "Trade"</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>[Q Broadcast?] VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0030">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Q-Action Safer Sex Video Outreach Part I, II out of III</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>[Fuji Super HG?] VHS; Dub</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0031">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Homo for the Holidays</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1997 Dec</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>BASF T-60 VHS; Dub</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0032">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Boyfriends/FLIQ</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1996 Oct 24</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8; Master</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0033">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>FLIQ Interview Skills Training with Hector</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1998 Jul 8</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8; Original</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0034">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Lyric -- Love and all that -- Edited Version</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8; Master</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0035">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>FLIQ: Love</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1995 Dec 13</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8; Master</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0036">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Castro Crawl: Sex Clubs</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1998 Feb 6</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8; Original</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0037">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Liquid Body FLIQ</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1998 Apr 27</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8; Original</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0038">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>The Future (Final Edit)</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8; Master</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0039">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Mike's Interview</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8; Original</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0040">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Good Old Days Forum</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony HMP 120 Hi8; Master</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0041">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Volunteer Orientation Video Footage</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>Hi8</note>
+      <note>Sony ProMP 60 Hi8; Original</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0042">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Jizz in Oz/Sex in SF Final (DVCam)</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>DVCAM</note>
+      <note>Sony 40 16K DVCam; Master</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0043">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Castro St. Fair</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1999 Oct 4</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>MiniDV</note>
+      <note>Panasonic 63ME Mini DV</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0044">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>John Patrick Interview</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>2000 Mar 18</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>MiniDV</note>
+      <note>Panasonic 63ME Mini DV</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0045">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>My Life with HIV: Dale Kawamura</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>2002</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>MiniDV</note>
+      <note>Sony MiniDV</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0046">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>and sometimes y; Paul Miller int.; The 1980's</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>2001 May 19</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>MiniDV</note>
+      <note>Panasonic 30ME Mini DV</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0047">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>My Family</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>2000 May</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>MiniDV</note>
+      <note>TDK 60/90ME Mini DV</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0048">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Masculinity FLIQ Robert T. Interview</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>2000 Sep 19</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>MiniDV</note>
+      <note>Panasonic 63ME Mini DV</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0049">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Two Sitdown Intvws.</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1999</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>MiniDV</note>
+      <note>Panasonic 63ME Mini DV</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0050">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Castro w/Drag Team</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>2000 Sep 1</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>MiniDV</note>
+      <note>Panasonic 63ME Mini DV</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0051">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Hijos del Silencio/Sons of Silence video (final)</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>2001 Mar 22</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>MiniDV</note>
+      <note>Panasonic 60ME Mini DV</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0052">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>But I'm a Virgin</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>MiniDV</note>
+      <note>Sony DVM60 Mini DV</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0053">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Stop AIDS PSA Tape #1</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>MiniDV</note>
+      <note>TDK 60/90ME Mini DV</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0054">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>My Life With HIV: Dale Kawamura, 2002</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>2002</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0055">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Generation Gap</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1997 May 8</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>TDK T120 EHG VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0056">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Future Forward</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1997 Apr</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>TDK T120 HF VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0057">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Being a Boy</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1996 Mar</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>TDK T120 HS VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0058">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>The Love Bug</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1999 Mar</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>S-VHS</note>
+      <note>TDK ST-120 XPSPRO SVHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0059">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Sex in the Moment</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1996 Sep 5</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>TDK T120 HS VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0060">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Etienne Kallos</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>Sony TS60 VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0061">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Takin' It Like a Man</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>2000 Oct</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>S-VHS</note>
+      <note>Maxell XR-S Black ST-180 SVHS; Master</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0062">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>PSA: Stop AIDS Project Off-Line Master</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>Sony T60HG VHS; Master</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0063">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Mirror, Mirror</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1998 Jul</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>BASF T-30 VHS; Dub</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0064">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Members Only</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1998 Sep</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>BASF VHS; Dub</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0065">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>What's Your Flava?</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>Maxell T-120 GX VHS; Dub</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0066">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Cliffhanger</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1996 Jun</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>Maxell T-120H[?] VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0067">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>"Trade"</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1999 Apr</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>S-VHS</note>
+      <note>Maxell XR-S Black ST-120 SVHS; Master</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0068">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Call Me Geezer: Successful Strategies for Community Organizing among Mature GBT Men</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>3M T-30 VHS; Commercial [?]</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0069">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Short Stop AIDS Promo</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0070">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Short Stop AIDS Project Promo</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0071">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Short Stop AIDS Promo</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0072">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>"Hijos del Silencio" Clip for 25th ILGF Festival</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>Maxell T-120 GX VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0073">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>The Moment</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>moving image</typeOfResource>
+      <genre>Video recordings</genre>
+      <originInfo>
+        <dateCreated>1996 Sep</dateCreated>
+      </originInfo>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>VHS</note>
+      <note>Maxell T-120HG VHS</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0074">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>PLUS Seminar NATC Therapies Panel</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>sound recording-nonmusical</typeOfResource>
+      <genre>Sound recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>audiocassette</note>
+      <note>Maxell UR 60 audiocassette</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="0075">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>PLUS Interview Tape</title>
+      </titleInfo>
+      <titleInfo type="alternative">
+        <title>STOP AIDS Project records, 1985-2011 (M1463)</title>
+      </titleInfo>
+      <name>
+        <namePart>STOP AIDS Project</namePart>
+        <role>
+          <roleTerm type="text">creator</roleTerm>
+        </role>
+      </name>
+      <typeOfResource>sound recording-nonmusical</typeOfResource>
+      <genre>Sound recordings</genre>
+      <language>
+        <languageTerm type="code">en</languageTerm>
+      </language>
+      <physicalDescription>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+      </physicalDescription>
+      <note>audiocassette</note>
+      <note>Maxell UR 120 audiocassette</note>
+      <note>Reformatting Quality: Access</note>
+      <subject>
+        <topic>AIDS (Disease) -- Prevention</topic>
+      </subject>
+      <location>
+        <physicalLocation type="repository">Stanford University. Libraries &amp; Academic Information Resources. Dept. of Special Collections &amp; University Archives</physicalLocation>
+      </location>
+    </mods>
+  </xmlDoc>
+</xmlDocs>

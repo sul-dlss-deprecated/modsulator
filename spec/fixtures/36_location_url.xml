@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2016-12-01 08:40:10AM" sourceFile="location_url.xlsx">
+  <xmlDoc id="descMetadata" objectId="aa000aa0000">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>Location URL test</title>
+      </titleInfo>
+      <location>
+        <url usage="primary display">http://purl.stanford.edu/aa000aa0000</url>
+        <url displayLabel="Web archive">http://swap.stanford.edu</url>
+      </location>
+    </mods>
+  </xmlDoc>
+</xmlDocs>

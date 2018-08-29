@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2016-06-23 11:52:40AM" sourceFile="edition_physLoc_intmediatype.xlsx">
+  <xmlDoc id="descMetadata" objectId="test1">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <originInfo>
+        <edition>1st ed</edition>
+      </originInfo>
+      <physicalDescription>
+        <internetMediaType>text/html</internetMediaType>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <internetMediaType>image/tiff</internetMediaType>
+        <internetMediaType>audio/mp3</internetMediaType>
+        <internetMediaType>video/mp4</internetMediaType>
+      </physicalDescription>
+      <location>
+        <physicalLocation type="repository">Stanford</physicalLocation>
+        <physicalLocation type="discovery">Series 1, Box 1, Folder 1</physicalLocation>
+        <shelfLocator>AB 123</shelfLocator>
+        <url usage="primary display">http://purl.stanford.edu/test1</url>
+      </location>
+    </mods>
+  </xmlDoc>
+  <xmlDoc id="descMetadata" objectId="test2">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <originInfo>
+        <edition>Revised ed</edition>
+      </originInfo>
+      <physicalDescription>
+        <internetMediaType>html/text</internetMediaType>
+        <internetMediaType>jpeg/image</internetMediaType>
+        <internetMediaType>tiff/image</internetMediaType>
+      </physicalDescription>
+      <location>
+        <physicalLocation type="repository">Spec Coll</physicalLocation>
+        <physicalLocation type="discovery">Series A | Box A | Folder A</physicalLocation>
+        <shelfLocator>CD 456</shelfLocator>
+        <url usage="primary display">http://purl.stanford.edu/test2</url>
+      </location>
+    </mods>
+  </xmlDoc>
+</xmlDocs>
