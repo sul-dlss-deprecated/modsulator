@@ -727,6 +727,8 @@
   </language>
   <physicalDescription>
     <form authority="[[ph1:formAuthority]]" authorityURI="[[ph1:formAuthorityURI]]" valueURI="[[ph1:formValueURI]]">[[ph1:form]]</form>
+    <form authority="[[ph1:formAuthority2]]" authorityURI="[[ph1:formAuthorityURI2]]" valueURI="[[ph1:formValueURI2]]">[[ph1:form2]]</form>
+    <form authority="[[ph1:formAuthority3]]" authorityURI="[[ph1:formAuthorityURI3]]" valueURI="[[ph1:formValueURI3]]">[[ph1:form3]]</form>
     <extent>[[ph1:extent]]</extent>
     <reformattingQuality>[[ph1:reformattingQuality]]</reformattingQuality>
     <digitalOrigin>[[ph1:digitalOrigin]]</digitalOrigin>
