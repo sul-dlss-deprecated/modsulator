@@ -1586,7 +1586,7 @@
   <subject authority="[[shg1:authority]]" authorityURI="[[shg1:authorityURI]]" valueURI="[[shg1:valueURI]]">
     <hierarchicalGeographic>
       <continent level="[[shg1:continent:level]]" authority="[[shg1:continent:authority]]" authorityURI="[[shg1:continent:authorityURI]]" valueURI="[[shg1:continent:valueURI]]">[[shg1:continent:value]]</continent>
-      <country level="[[shg1:country:level]]" authority="[[shg1:country:authority]]" authorityURI="[[shg1:country:authorityURI]]" valueURI="[[shg1:country:valueURI]]">[[shg1:country]]</country>
+      <country level="[[shg1:country:level]]" authority="[[shg1:country:authority]]" authorityURI="[[shg1:country:authorityURI]]" valueURI="[[shg1:country:valueURI]]">[[shg1:country:value]]</country>
       <region regionType="[[shg1:region:regionType]]" level="[[shg1:region:level]]" authority="[[shg1:region:authority]]" authorityURI="[[shg1:region:authorityURI]]" valueURI="[[shg1:region:valueURI]]">[[shg1:region:value]]</region>
       <state level="[[shg1:state:level]]" authority="[[shg1:state:authority]]" authorityURI="[[shg1:state:authorityURI]]" valueURI="[[shg1:state:valueURI]]">[[shg1:state:value]]</state>
       <territory level="[[shg1:territory:level]]" authority="[[shg1:territory:authority]]" authorityURI="[[shg1:territory:authorityURI]]" valueURI="[[shg1:territory:valueURI]]">[[shg1:territory:value]]</territory>
