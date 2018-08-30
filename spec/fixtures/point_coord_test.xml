@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<xmlDocs xmlns="http://library.stanford.edu/xmlDocs" datetime="2018-04-18 02:31:53PM" sourceFile="point_coord_test.xlsx">
+  <xmlDoc id="descMetadata" objectId="aa22aaa2222">
+    <mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.loc.gov/mods/v3" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+      <titleInfo>
+        <title>data with long lat</title>
+      </titleInfo>
+      <extension displayLabel="geo">
+        <rdf:RDF xmlns:gml="http://www.opengis.net/gml/3.2/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gmd="http://www.isotc211.org/2005/gmd">
+          <rdf:Description>
+            <dc:format>image/jpeg</dc:format>
+            <dc:type>Image</dc:type>
+            <gmd:centerPoint>
+              <gml:Point gml:id="ID">
+                <gml:pos>111 222</gml:pos>
+              </gml:Point>
+            </gmd:centerPoint>
+          </rdf:Description>
+        </rdf:RDF>
+      </extension>
+    </mods>
+  </xmlDoc>
+</xmlDocs>
