@@ -24,6 +24,7 @@ RSpec.describe Modsulator do
       'location_url.xlsx' => 'location_url.xml',
       'point_coord_test.xlsx' => 'point_coord_test.xml'
     }.each do |testfile, results_file|
+      puts '.'
       generated_xml_string = Modsulator.new(File.join(FIXTURES_DIR, testfile), testfile).convert_rows()
       it "converts #{testfile} to valid XML" do
         error_list = Validator.new(File.expand_path("lib/modsulator/modsulator.xsd")).validate_xml_string(generated_xml_string)
