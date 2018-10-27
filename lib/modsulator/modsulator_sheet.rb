@@ -26,9 +26,8 @@ class ModsulatorSheet
   #                            the spreadsheet headers.
   def rows
     # Parse the spreadsheet, automatically finding the header row by looking for "druid" and "sourceId" and leave the
-    # header row itself out of the resulting array. Everything preceding the header row is discarded. Would like to use
-    # clean: true here, but the latest release of Roo 1.13.2 crashes. 2.0.0beta1 seems to work though.
-    @rows ||= spreadsheet.parse(header_search: ['druid', 'sourceId'])
+    # header row itself out of the resulting array. Everything preceding the header row is discarded.
+    @rows ||= spreadsheet.parse(header_search: ['druid', 'sourceId'], clean: true)
   end
 
 
